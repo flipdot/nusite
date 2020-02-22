@@ -1,6 +1,6 @@
 +++
 title = "Logos von Hackerspaces"
-date = 2016-03-29T06:13:46
+date = 2016-03-29T06:13:46Z
 author = "typ_o"
 +++
 Einen schönen Eindruck von Hackerspace - Logos gibt es auf

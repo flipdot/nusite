@@ -1,6 +1,6 @@
 +++
 title = "Raspberry Pi Gehäuse aus altem TFT Monitor"
-date = 2016-04-13T07:43:00
+date = 2016-04-13T07:43:00Z
 author = "typ_o"
 +++
 In Monitoren findet man oft ca. [6 mm starke

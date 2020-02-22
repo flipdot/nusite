@@ -1,6 +1,6 @@
 +++
 title = "Besuch beim Hackcenter Treffen in \"The Hub\" Islington, London"
-date = 2009-08-07T17:27:00
+date = 2009-08-07T17:27:00Z
 author = "typ_o"
 +++
 ![](https://flipdot.org/blog/uploads/thehub.jpg)  

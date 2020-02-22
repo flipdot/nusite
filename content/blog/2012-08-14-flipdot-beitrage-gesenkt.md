@@ -1,6 +1,6 @@
 +++
 title = "Flipdot-Beiträge gesenkt"
-date = 2012-08-14T14:49:00
+date = 2012-08-14T14:49:00Z
 author = "ruben"
 +++
 Schon vor dem Sommerloch beschlossen, nun werbewirksam auch im Blog

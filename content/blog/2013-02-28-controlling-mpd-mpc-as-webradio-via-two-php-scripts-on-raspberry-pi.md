@@ -1,6 +1,6 @@
 +++
 title = "Controlling mpd/mpc as webradio via two php scripts on Raspberry Pi"
-date = 2013-02-28T13:07:35
+date = 2013-02-28T13:07:35Z
 author = "typ_o"
 +++
 Simple approach to control your webradio stations on your Raspberry Pi.

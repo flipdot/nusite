@@ -1,6 +1,6 @@
 +++
 title = "RFID-Schloss - Schaltinterface"
-date = 2011-11-01T16:24:02
+date = 2011-11-01T16:24:02Z
 author = "typ_o"
 +++
 Gerade letzte Lackschicht aufgetragen, morgen Optokoppler, MOSFETs und

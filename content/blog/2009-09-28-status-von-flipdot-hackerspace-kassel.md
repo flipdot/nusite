@@ -1,6 +1,6 @@
 +++
 title = "Status von flipdot - hackerspace kassel"
-date = 2009-09-28T12:37:00
+date = 2009-09-28T12:37:00Z
 author = "typ_o"
 +++
 flipdot ist [frühes

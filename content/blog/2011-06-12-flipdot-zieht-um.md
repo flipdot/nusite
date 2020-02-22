@@ -1,6 +1,6 @@
 +++
 title = "flipdot zieht um"
-date = 2011-06-12T13:56:33
+date = 2011-06-12T13:56:33Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/Bazille.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/Bazille.jpg)Zum

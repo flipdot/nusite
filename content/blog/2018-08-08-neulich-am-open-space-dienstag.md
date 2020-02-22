@@ -1,6 +1,6 @@
 +++
 title = "Neulich am Open-Space-Dienstag"
-date = 2018-08-08T21:16:38
+date = 2018-08-08T21:16:38Z
 author = "typ_o"
 +++
 Schnurrgenerator für synthetische Katze zum um-den-Hals-hängen:  

@@ -1,6 +1,6 @@
 +++
 title = "Screw those screws!"
-date = 2013-03-07T15:48:00
+date = 2013-03-07T15:48:00Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/void_warranties.jpg)](http://cacher.dozuki.net/static/images/manifesto/ifixit_manifesto_1650x2550.jpg)  

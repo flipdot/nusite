@@ -1,6 +1,6 @@
 +++
 title = "Amateurfunk in a nutshell"
-date = 2018-10-01T15:44:42
+date = 2018-10-01T15:44:42Z
 author = "typ_o"
 +++
 **2018-10-02 20:00 Uhr** kleiner Talk zum Thema **Amateurfunk**  

@@ -1,6 +1,6 @@
 +++
 title = "Fachblatt für Datenreisende, die Datenschleuder"
-date = 2020-01-05T17:09:07
+date = 2020-01-05T17:09:07Z
 author = "flipdot member"
 +++
 Ausgabe 101 bei uns im Space erhältlich.  

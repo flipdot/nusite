@@ -1,6 +1,6 @@
 +++
 title = "Ikonografie der Hackspaces"
-date = 2016-03-31T15:01:45
+date = 2016-03-31T15:01:45Z
 author = "typ_o"
 +++
 Passend zum letzten Eintrag "[Logos von

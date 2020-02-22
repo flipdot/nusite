@@ -1,6 +1,6 @@
 +++
 title = "Deaktivierung von NFC in Bankkarten"
-date = 2018-12-20T23:08:05
+date = 2018-12-20T23:08:05Z
 author = "Baustel"
 +++
 Wir haben über die Lokalzeitung HNA die allgemeine Bevölkerung darauf

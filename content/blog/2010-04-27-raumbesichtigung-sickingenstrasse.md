@@ -1,6 +1,6 @@
 +++
 title = "Raumbesichtigung Sickingenstraße"
-date = 2010-04-27T09:06:31
+date = 2010-04-27T09:06:31Z
 author = "typ_o"
 +++
 **Achtung - Edit Zeit und Ort:** Am Montag, den 3. Mai um 17:45 Uhr

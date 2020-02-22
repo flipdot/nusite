@@ -1,6 +1,6 @@
 +++
 title = "Leiterplatten geätzt & gefräst"
-date = 2017-07-18T01:44:01
+date = 2017-07-18T01:44:01Z
 author = "typ_o"
 +++
 Film: Laserdruck auf transparentem Zeichenpapier von Brunnen, besprüht

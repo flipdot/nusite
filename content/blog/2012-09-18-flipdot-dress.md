@@ -1,6 +1,6 @@
 +++
 title = "FlipDot Dress"
-date = 2012-09-18T19:46:38
+date = 2012-09-18T19:46:38Z
 author = "typ_o"
 +++
 Coole Idee, in Zusammenarbeit der Künstlerin mit dem MetaLab entstanden:

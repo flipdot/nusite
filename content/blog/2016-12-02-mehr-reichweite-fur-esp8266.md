@@ -1,6 +1,6 @@
 +++
 title = "Mehr Reichweite für ESP8266"
-date = 2016-12-02T10:15:40
+date = 2016-12-02T10:15:40Z
 author = "typ_o"
 +++
 Auf dem verwendeten ESP8266-12F sitzt eine

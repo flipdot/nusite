@@ -1,6 +1,6 @@
 +++
 title = "HackWat! Fahrplan Version 0.91b \"Tartar\" ist online"
-date = 2018-05-28T10:52:13
+date = 2018-05-28T10:52:13Z
 author = "typ_o"
 +++
 Sei orange\! Sei flexibel\! Hab spitze Zähne\!  

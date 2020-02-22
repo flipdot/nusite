@@ -1,6 +1,6 @@
 +++
 title = "Drucker-Elektronik läuft"
-date = 2011-01-03T17:26:08
+date = 2011-01-03T17:26:08Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/IMG_8698.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/IMG_8698.jpg)Motor-

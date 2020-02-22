@@ -1,6 +1,6 @@
 +++
 title = "Die Mühen der Ebene"
-date = 2009-11-09T20:25:44
+date = 2009-11-09T20:25:44Z
 author = "typ_o"
 +++
 Jetzt entsteht die Satzung für den Verein flipdot e.V. Verein? Muss das

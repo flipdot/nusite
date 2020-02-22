@@ -1,6 +1,6 @@
 +++
 title = "Repair Café in Kassel"
-date = 2014-11-01T11:09:22
+date = 2014-11-01T11:09:22Z
 author = "typ_o"
 +++
 Die nächsten Repair Café-Veranstaltungen finden am 28.11., 23.01.,

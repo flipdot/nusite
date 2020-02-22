@@ -1,6 +1,6 @@
 +++
 title = "Pimp my Arduino & Co."
-date = 2014-01-25T14:48:22
+date = 2014-01-25T14:48:22Z
 author = "Aleks"
 +++
 Ich musste in letzter Zeit ziemlich oft unterschiedliche Sensoren und

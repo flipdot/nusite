@@ -1,6 +1,6 @@
 +++
 title = "Getränkeberichte, schön"
-date = 2019-12-31T17:44:00
+date = 2019-12-31T17:44:00Z
 author = "typ_o"
 +++
 Unser Getränkescanner kann per E-Mail Berichte über die zueletzt

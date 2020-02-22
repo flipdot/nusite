@@ -1,6 +1,6 @@
 +++
 title = "SDR online"
-date = 2013-09-20T20:28:36
+date = 2013-09-20T20:28:36Z
 author = "typ_o"
 +++
 [Software Defined

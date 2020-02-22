@@ -1,6 +1,6 @@
 +++
 title = "Pizzaprogrammiernacht 25. - 27. November"
-date = 2016-10-26T14:35:33
+date = 2016-10-26T14:35:33Z
 author = "typ_o"
 +++
 Wir hacken nicht nur, wir backen auch. In unserem neuen

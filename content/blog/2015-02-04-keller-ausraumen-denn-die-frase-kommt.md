@@ -1,6 +1,6 @@
 +++
 title = "Keller ausräumen - denn die Fräse kommt!"
-date = 2015-02-04T07:51:32
+date = 2015-02-04T07:51:32Z
 author = "typ_o"
 +++
 Am Samstag, [2015-02-07](http://xkcd.com/1179/), 10:00, räumen wir

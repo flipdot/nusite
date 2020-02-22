@@ -1,6 +1,6 @@
 +++
 title = "Drop'n'pick"
-date = 2010-07-18T22:08:16
+date = 2010-07-18T22:08:16Z
 author = "typ_o"
 +++
 <https://flipdot.org/blog/uploads/dropnpick.jpg>  

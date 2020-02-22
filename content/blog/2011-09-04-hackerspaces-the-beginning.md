@@ -1,6 +1,6 @@
 +++
 title = "HackerSpaces: The Beginning!"
-date = 2011-09-04T10:00:26
+date = 2011-09-04T10:00:26Z
 author = "typ_o"
 +++
 Bre Pettis, Astera Schneeweisz, and Jens Ohlig wrote a book which

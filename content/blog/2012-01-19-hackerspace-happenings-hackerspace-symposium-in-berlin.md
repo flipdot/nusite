@@ -1,6 +1,6 @@
 +++
 title = "Hackerspace Happenings: Hackerspace Symposium in Berlin"
-date = 2012-01-19T05:07:34
+date = 2012-01-19T05:07:34Z
 author = "typ_o"
 +++
 The Hackerspaces.org blog announced a symposium at the c-base

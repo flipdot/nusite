@@ -1,6 +1,6 @@
 +++
 title = "Starttreffen"
-date = 2009-10-06T04:20:11
+date = 2009-10-06T04:20:11Z
 author = "typ_o"
 +++
 Sammlung zu den Themen heute Abend

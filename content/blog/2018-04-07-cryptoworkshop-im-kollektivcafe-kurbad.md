@@ -1,6 +1,6 @@
 +++
 title = "Cryptoworkshop im Kollektivcafé Kurbad"
-date = 2018-04-07T11:59:47
+date = 2018-04-07T11:59:47Z
 author = "wegenerd"
 +++
 Im Rahmen der Vortragsreihe „[Aluhut und

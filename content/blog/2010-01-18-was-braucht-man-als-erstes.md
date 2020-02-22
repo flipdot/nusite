@@ -1,6 +1,6 @@
 +++
 title = "Was braucht man als erstes?"
-date = 2010-01-18T19:54:00
+date = 2010-01-18T19:54:00Z
 author = "typ_o"
 +++
 Schwarze T - Shirts und Kaputzenshirts\!  

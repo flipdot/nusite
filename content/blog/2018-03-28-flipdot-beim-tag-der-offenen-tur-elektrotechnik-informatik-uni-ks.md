@@ -1,6 +1,6 @@
 +++
 title = "flipdot beim Tag der offenen Tür Elektrotechnik / Informatik Uni KS"
-date = 2018-03-28T09:27:15
+date = 2018-03-28T09:27:15Z
 author = "typ_o"
 +++
 Wir sind wieder mit einem Stand auf dem Tag der offenen Tür des

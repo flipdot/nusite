@@ -1,6 +1,6 @@
 +++
 title = "Wacken? Woodstock? Pah, CCCamp 2015!"
-date = 2015-07-30T15:43:52
+date = 2015-07-30T15:43:52Z
 author = "typ_o"
 +++
 ![](https://flipdot.org/blog/uploads/800px-Cccamp15-logo-small-black_RGB.serendipityThumb.png)  

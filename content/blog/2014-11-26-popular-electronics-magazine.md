@@ -1,6 +1,6 @@
 +++
 title = "Popular Electronics Magazine"
-date = 2014-11-26T20:38:04
+date = 2014-11-26T20:38:04Z
 author = "typ_o"
 +++
 [Alle

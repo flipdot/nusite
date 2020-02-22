@@ -1,6 +1,6 @@
 +++
 title = "Gründungstreffen"
-date = 2010-01-08T05:21:48
+date = 2010-01-08T05:21:48Z
 author = "typ_o"
 +++
 Am kommenden Dienstag, dem 12. Januar 2010, gründen wir im

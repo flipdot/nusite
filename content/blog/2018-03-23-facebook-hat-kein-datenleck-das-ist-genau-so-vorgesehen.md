@@ -1,6 +1,6 @@
 +++
 title = "facebook hat kein \"Datenleck\" - das ist genau so vorgesehen"
-date = 2018-03-23T12:45:00
+date = 2018-03-23T12:45:00Z
 author = "typ_o"
 +++
 Facebook hatte im engeren Sinne kein Datenleck. Stattdessen sind die

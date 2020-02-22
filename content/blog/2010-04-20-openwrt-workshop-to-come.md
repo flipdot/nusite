@@ -1,6 +1,6 @@
 +++
 title = "OpenWRT Workshop to come"
-date = 2010-04-20T08:46:27
+date = 2010-04-20T08:46:27Z
 author = "typ_o"
 +++
 Ich werd heute mal einige Router mitbringen auf denen OpenWRT läuft.  

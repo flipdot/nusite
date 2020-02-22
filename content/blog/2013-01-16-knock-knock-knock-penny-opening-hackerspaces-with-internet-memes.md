@@ -1,6 +1,6 @@
 +++
 title = "Knock-knock-knock-Penny (Opening hackerspaces with internet memes)"
-date = 2013-01-16T03:30:08
+date = 2013-01-16T03:30:08Z
 author = "typ_o"
 +++
   

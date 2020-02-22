@@ -1,6 +1,6 @@
 +++
 title = "Smart Meter Auslesekopf"
-date = 2013-12-19T21:41:00
+date = 2013-12-19T21:41:00Z
 author = "typ_o"
 +++
 Kommt auch mit zum 30C3, der

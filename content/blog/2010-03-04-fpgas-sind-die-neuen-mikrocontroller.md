@@ -1,6 +1,6 @@
 +++
 title = "FPGAs sind die neuen Mikrocontroller?"
-date = 2010-03-04T18:09:00
+date = 2010-03-04T18:09:00Z
 author = "typ_o"
 +++
 Heute auf der [Messe](http://www.embedded-world.de/de/default.ashx) auf

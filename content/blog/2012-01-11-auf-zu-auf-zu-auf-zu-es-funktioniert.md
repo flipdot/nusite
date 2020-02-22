@@ -1,6 +1,6 @@
 +++
 title = "Auf-Zu-Auf-Zu-Auf-Zu - es funktioniert!"
-date = 2012-01-11T06:37:31
+date = 2012-01-11T06:37:31Z
 author = "typ_o"
 +++
 Gestern Erfolg mit unserem Türschloß, das jetzt statt via RFID über eine

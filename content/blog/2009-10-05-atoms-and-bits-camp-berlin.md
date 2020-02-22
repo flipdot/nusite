@@ -1,6 +1,6 @@
 +++
 title = "atoms and bits - Camp Berlin"
-date = 2009-10-05T12:01:38
+date = 2009-10-05T12:01:38Z
 author = "typ_o"
 +++
 Beim atoms\&bits-Camp in Berlin trafen sich Baustler, Aktivisten und

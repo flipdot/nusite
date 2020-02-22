@@ -1,6 +1,6 @@
 +++
 title = "flipdot @ CCCKS"
-date = 2011-02-08T07:06:00
+date = 2011-02-08T07:06:00Z
 author = "typ_o"
 +++
 Wir treffen uns heute um 19:00 [in den Räumen des CCC

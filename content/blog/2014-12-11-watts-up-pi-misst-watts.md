@@ -1,6 +1,6 @@
 +++
 title = "Watts-up-Pi misst Watts"
-date = 2014-12-11T19:53:04
+date = 2014-12-11T19:53:04Z
 author = "typ_o"
 +++
 Der [Pi ist schon lange

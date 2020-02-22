@@ -1,6 +1,6 @@
 +++
 title = "flipdot Phone Wallpaper"
-date = 2010-04-30T14:21:38
+date = 2010-04-30T14:21:38Z
 author = "typ_o"
 +++
 <div class="serendipity_imageComment_left">

@@ -1,6 +1,6 @@
 +++
 title = "6 minutes left"
-date = 2014-04-30T16:41:26
+date = 2014-04-30T16:41:26Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/timetables.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/timetables.jpg)  

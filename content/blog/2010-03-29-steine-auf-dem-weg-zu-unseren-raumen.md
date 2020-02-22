@@ -1,6 +1,6 @@
 +++
 title = "Steine auf dem Weg zu unseren Räumen"
-date = 2010-03-29T16:59:59
+date = 2010-03-29T16:59:59Z
 author = "typ_o"
 +++
 Letzte Woche noch waren die unterschriftsreifen Verträge fast auf dem

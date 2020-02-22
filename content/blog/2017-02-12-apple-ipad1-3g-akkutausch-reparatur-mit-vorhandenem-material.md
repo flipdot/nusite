@@ -1,6 +1,6 @@
 +++
 title = "Apple iPad1-3G Akkutausch (Reparatur mit vorhandenem Material)"
-date = 2017-02-12T07:09:48
+date = 2017-02-12T07:09:48Z
 author = "typ_o"
 +++
 Problem war folgendes: Freund von mir hat sein iPad1-3G vor einigen

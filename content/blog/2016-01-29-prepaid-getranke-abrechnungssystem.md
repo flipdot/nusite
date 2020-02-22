@@ -1,6 +1,6 @@
 +++
 title = "Prepaid Getränke-Abrechnungssystem"
-date = 2016-01-29T16:17:02
+date = 2016-01-29T16:17:02Z
 author = "typ_o"
 +++
 Pseudo- / Anonym, mit paper trail, extrem niedriger

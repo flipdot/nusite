@@ -1,6 +1,6 @@
 +++
 title = "Einladung zum Starttreffen am 6.10.09"
-date = 2009-09-13T18:21:00
+date = 2009-09-13T18:21:00Z
 author = "typ_o"
 +++
   

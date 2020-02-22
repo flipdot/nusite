@@ -1,6 +1,6 @@
 +++
 title = "Hard disk flashlight"
-date = 2015-09-01T15:03:56
+date = 2015-09-01T15:03:56Z
 author = "typ_o"
 +++
 Connect two LEDs in parallel (one reversed) to the actuator coil (aka

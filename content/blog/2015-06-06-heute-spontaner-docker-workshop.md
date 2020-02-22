@@ -1,6 +1,6 @@
 +++
 title = "Heute spontaner Docker-Workshop"
-date = 2015-06-06T16:51:54
+date = 2015-06-06T16:51:54Z
 author = "member"
 +++
 ![](http://flipdot.org/blog/uploads/dockerworkshop.png)  

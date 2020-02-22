@@ -1,6 +1,6 @@
 +++
 title = "Besuch von der Uni"
-date = 2010-10-20T05:00:00
+date = 2010-10-20T05:00:00Z
 author = "typ_o"
 +++
 Grade hatten wir Besuch vom Fachbereich Architektur, Stadt- und

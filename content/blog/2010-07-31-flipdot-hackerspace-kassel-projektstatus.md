@@ -1,6 +1,6 @@
 +++
 title = "flipdot hackerspace kassel Projektstatus"
-date = 2010-07-31T05:50:09
+date = 2010-07-31T05:50:09Z
 author = "typ_o"
 +++
 Unsere Räume haben wir chaostypisch dann doch ohne

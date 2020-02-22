@@ -1,6 +1,6 @@
 +++
 title = "Erstes Werkstück gefräst"
-date = 2015-06-03T04:57:33
+date = 2015-06-03T04:57:33Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/pizzaschieber.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/pizzaschieber.jpg)  

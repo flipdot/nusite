@@ -1,6 +1,6 @@
 +++
 title = "Workshop Messer schleifen"
-date = 2017-04-09T10:49:31
+date = 2017-04-09T10:49:31Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/messerschleifen.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/messerschleifen.jpg)  

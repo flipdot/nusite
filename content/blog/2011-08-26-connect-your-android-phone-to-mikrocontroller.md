@@ -1,6 +1,6 @@
 +++
 title = "Connect your Android phone to mikrocontroller"
-date = 2011-08-26T17:38:35
+date = 2011-08-26T17:38:35Z
 author = "typ_o"
 +++
 Just purchased QkCtrl Serial BT ([Android

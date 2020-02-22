@@ -1,6 +1,6 @@
 +++
 title = "Das Wichtigste ist da: Netz"
-date = 2010-06-09T04:20:35
+date = 2010-06-09T04:20:35Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/schalter.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/schalter.jpg)[![](https://flipdot.org/blog/uploads/net_io.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/net_io.jpg)[![](https://flipdot.org/blog/uploads/material.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/material.jpg)[![](https://flipdot.org/blog/uploads/lan.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/lan.jpg)Interfaces

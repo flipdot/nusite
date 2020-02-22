@@ -1,6 +1,6 @@
 +++
 title = "Einladung zum ersten Treffen in unseren eigenen Räumen!"
-date = 2010-05-30T17:38:30
+date = 2010-05-30T17:38:30Z
 author = "typ_o"
 +++
 Am Dienstag, dem 1. Juni treffen wir uns in unseren eigenen Räumen in

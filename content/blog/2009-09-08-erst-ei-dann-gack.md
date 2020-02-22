@@ -1,6 +1,6 @@
 +++
 title = "Erst Ei, dann Gack!"
-date = 2009-09-08T09:47:00
+date = 2009-09-08T09:47:00Z
 author = "typ_o"
 +++
 **Problem** You have a chicken-and-egg-problem: What should come ﬁrst?

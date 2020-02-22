@@ -1,6 +1,6 @@
 +++
 title = "Kleiner Arduino Roboter zum nachbauen."
-date = 2013-03-07T16:09:59
+date = 2013-03-07T16:09:59Z
 author = "Aleks"
 +++
   

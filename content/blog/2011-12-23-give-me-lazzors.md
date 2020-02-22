@@ -1,6 +1,6 @@
 +++
 title = "Give me Lazzors!"
-date = 2011-12-23T05:28:01
+date = 2011-12-23T05:28:01Z
 author = "typ_o"
 +++
 [Laser Open Source](http://www.laoslaser.org/) (LAOS) beschäftigt sich

@@ -1,6 +1,6 @@
 +++
 title = "Home Made Electronic Arts"
-date = 2009-10-08T10:44:35
+date = 2009-10-08T10:44:35Z
 author = "typ_o"
 +++
 [Philip Steffan](http://bausteln.de/kontakt/) twittert, er [fand

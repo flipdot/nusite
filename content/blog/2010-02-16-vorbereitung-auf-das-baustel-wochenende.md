@@ -1,6 +1,6 @@
 +++
 title = "Vorbereitung auf das Baustel-Wochenende"
-date = 2010-02-16T07:25:43
+date = 2010-02-16T07:25:43Z
 author = "typ_o"
 +++
 Heute Abend treffen wir uns wieder im Kunsttempel in Kassel um

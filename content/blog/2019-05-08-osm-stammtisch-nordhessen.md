@@ -1,6 +1,6 @@
 +++
 title = "OSM-Stammtisch Nordhessen"
-date = 2019-05-08T01:15:52
+date = 2019-05-08T01:15:52Z
 author = "Baustel"
 +++
 ![](https://flipdot.org/blog/uploads/osm-kassel.jpg)  

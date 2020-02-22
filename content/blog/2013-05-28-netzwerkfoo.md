@@ -1,6 +1,6 @@
 +++
 title = "Netzwerkfoo"
-date = 2013-05-28T19:33:00
+date = 2013-05-28T19:33:00Z
 author = "typ_o"
 +++
 Unseren Powerline-Adapter haben wir letzte Woche wohl kaputtgespielt,

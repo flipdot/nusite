@@ -1,6 +1,6 @@
 +++
 title = "Geile Kiste"
-date = 2013-06-26T08:42:39
+date = 2013-06-26T08:42:39Z
 author = "typ_o"
 +++
 Die Watterotts (das sind nette\!) kamen gestern persönlich vorbei, und

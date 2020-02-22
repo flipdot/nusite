@@ -1,6 +1,6 @@
 +++
 title = "Mechanisches \"Hello World\" am T-Shirt-Drucker"
-date = 2010-12-22T05:54:06
+date = 2010-12-22T05:54:06Z
 author = "typ_o"
 +++
 Erste mechanische Baustufe des T-Shirt-Druckers.  

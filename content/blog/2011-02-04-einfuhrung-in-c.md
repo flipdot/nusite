@@ -1,6 +1,6 @@
 +++
 title = "Einführung in C"
-date = 2011-02-04T19:28:04
+date = 2011-02-04T19:28:04Z
 author = "typ_o"
 +++
 Am 8.2.2011 ca. 20:00 gibt es den nächsten Vortrag im flipdot

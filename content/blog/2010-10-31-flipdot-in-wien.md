@@ -1,6 +1,6 @@
 +++
 title = "flipdot in Wien"
-date = 2010-10-31T05:54:05
+date = 2010-10-31T05:54:05Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/biennale_06.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/biennale_06.jpg)Relativ

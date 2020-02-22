@@ -1,6 +1,6 @@
 +++
 title = "Auch das ist ein Hack..."
-date = 2010-10-22T20:11:13
+date = 2010-10-22T20:11:13Z
 author = "Fabian"
 +++
 Um den Begriff des Hackens richtig zu definieren, bieten sich oft

@@ -1,6 +1,6 @@
 +++
 title = "flipdot hackerpace kassel scheduled downtime for maintanance"
-date = 2011-06-23T17:43:30
+date = 2011-06-23T17:43:30Z
 author = "typ_o"
 +++
 Today we took all our equipment and furniture out of our rooms which

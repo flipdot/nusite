@@ -1,6 +1,6 @@
 +++
 title = "Renovierung gestartet"
-date = 2011-10-15T18:57:34
+date = 2011-10-15T18:57:34Z
 author = "typ_o"
 +++
 Heute Schritt eins, sollte eigentlich Wände anmalen sein, aber:

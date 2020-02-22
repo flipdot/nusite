@@ -1,6 +1,6 @@
 +++
 title = "Task Forces at work"
-date = 2010-06-14T19:00:54
+date = 2010-06-14T19:00:54Z
 author = "typ_o"
 +++
 Morgen um 19:00

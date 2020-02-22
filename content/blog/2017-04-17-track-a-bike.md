@@ -1,6 +1,6 @@
 +++
 title = "Track a Bike"
-date = 2017-04-17T09:00:00
+date = 2017-04-17T09:00:00Z
 author = "wegenerd"
 +++
 Wir haben uns mit unserem lokalen Fahrradleihsystem

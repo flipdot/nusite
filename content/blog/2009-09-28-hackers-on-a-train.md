@@ -1,6 +1,6 @@
 +++
 title = "Hackers on a Train"
-date = 2009-09-28T11:40:00
+date = 2009-09-28T11:40:00Z
 author = "typ_o"
 +++
 Ich würde gerne in der Aufbauphase einige Hackerspaces in der "Umgebung"

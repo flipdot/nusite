@@ -1,6 +1,6 @@
 +++
 title = "Krümel löten"
-date = 2017-09-11T22:31:00
+date = 2017-09-11T22:31:00Z
 author = "typ_o"
 +++
 Letzten Sonntag haben wir zu sechst ein gutes dutzend MQTT Devices

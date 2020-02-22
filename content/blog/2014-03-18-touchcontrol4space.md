@@ -1,6 +1,6 @@
 +++
 title = "TouchControl4Space"
-date = 2014-03-18T22:00:00
+date = 2014-03-18T22:00:00Z
 author = "member"
 +++
 Unser RaspberryPi mit Touchscreen ist fast fertig, Touch-Treiber läuft,

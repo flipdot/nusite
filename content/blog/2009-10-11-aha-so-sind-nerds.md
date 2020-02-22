@@ -1,6 +1,6 @@
 +++
 title = "Aha, SO sind Nerds!"
-date = 2009-10-11T01:00:00
+date = 2009-10-11T01:00:00Z
 author = "typ_o"
 +++
 Der Elektrische Reporter [über

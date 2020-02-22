@@ -1,6 +1,6 @@
 +++
 title = "Jetzt gemeinsam!"
-date = 2015-09-05T10:24:03
+date = 2015-09-05T10:24:03Z
 author = "typ_o"
 +++
 Mehrere Artikel in der taz von heute zum Thema Sharing, Open Source,

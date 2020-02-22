@@ -1,6 +1,6 @@
 +++
 title = "\"Sie\" beobachen mich."
-date = 2013-04-30T10:05:00
+date = 2013-04-30T10:05:00Z
 author = "typ_o"
 +++
 Dass ich paranoid bin, heisst nicht, dass sie *nicht* hinter mir her

@@ -1,6 +1,6 @@
 +++
 title = "Echtes VGA  für den Raspberry Pi"
-date = 2014-11-21T13:00:01
+date = 2014-11-21T13:00:01Z
 author = "typ_o"
 +++
 Fand ich immer schade, dass der Pi nur HDMI liefert - [aber jetzt kann

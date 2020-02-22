@@ -1,6 +1,6 @@
 +++
 title = "Das neue ABX heißt jetzt ZNL"
-date = 2010-03-01T20:36:22
+date = 2010-03-01T20:36:22Z
 author = "typ_o"
 +++
 Unser zukünftiges Gebäude beherbergte früher "ABX-Logistics", und wie

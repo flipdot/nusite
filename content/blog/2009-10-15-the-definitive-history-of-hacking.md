@@ -1,6 +1,6 @@
 +++
 title = "The Definitive History of Hacking"
-date = 2009-10-15T01:00:00
+date = 2009-10-15T01:00:00Z
 author = "typ_o"
 +++
 Auf

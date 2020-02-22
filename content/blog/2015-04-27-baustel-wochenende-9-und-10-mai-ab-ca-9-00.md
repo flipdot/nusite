@@ -1,6 +1,6 @@
 +++
 title = "Baustel - Wochenende 9. und 10. Mai ab ca. 9:00"
-date = 2015-04-27T19:28:45
+date = 2015-04-27T19:28:45Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/baustelwochenendepreview.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/baustelwochenendepreview.jpg)  

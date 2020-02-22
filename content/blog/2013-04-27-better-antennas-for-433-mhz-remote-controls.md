@@ -1,6 +1,6 @@
 +++
 title = "Better antennas for 433 MHz remote controls"
-date = 2013-04-27T09:07:00
+date = 2013-04-27T09:07:00Z
 author = "typ_o"
 +++
 You can control those cheapo hardware store remote controllable power

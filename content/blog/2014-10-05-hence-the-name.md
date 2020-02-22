@@ -1,6 +1,6 @@
 +++
 title = "Hence the name"
-date = 2014-10-05T20:07:07
+date = 2014-10-05T20:07:07Z
 author = "typ_o"
 +++
 apparently flip-dot displays are [pretty

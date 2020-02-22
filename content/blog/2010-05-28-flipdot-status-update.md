@@ -1,6 +1,6 @@
 +++
 title = "flipdot status update"
-date = 2010-05-28T16:30:40
+date = 2010-05-28T16:30:40Z
 author = "typ_o"
 +++
 **Wir haben (jetzt wirklich) Räume\!** Die Mietverträge liegen hier vor

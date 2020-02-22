@@ -1,6 +1,6 @@
 +++
 title = "Nächstes Treffen: heute, Di., 20.10.09"
-date = 2009-10-19T16:43:09
+date = 2009-10-19T16:43:09Z
 author = "typ_o"
 +++
 Dann treffen wir uns heute also im neuen Raum, in dem wir jeden Dienstag

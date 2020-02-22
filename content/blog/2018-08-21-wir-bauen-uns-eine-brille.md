@@ -1,6 +1,6 @@
 +++
 title = "Wir bauen uns eine Brille"
-date = 2018-08-21T22:22:55
+date = 2018-08-21T22:22:55Z
 author = "Baustel"
 +++
 [![](https://flipdot.org/blog/uploads/IMG_20180821_230946.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/IMG_20180821_230946.jpg)  

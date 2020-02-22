@@ -1,6 +1,6 @@
 +++
 title = "Eine Stunde lockeres Gespräch über unser Projekt"
-date = 2010-08-30T11:13:51
+date = 2010-08-30T11:13:51Z
 author = "typ_o"
 +++
 Hier der Mitschnitt von der Sendung im Freien Radio am gestrigen

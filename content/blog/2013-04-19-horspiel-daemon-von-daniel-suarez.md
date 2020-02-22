@@ -1,6 +1,6 @@
 +++
 title = "Hörspiel: Daemon von Daniel Suarez"
-date = 2013-04-19T04:07:02
+date = 2013-04-19T04:07:02Z
 author = "typ_o"
 +++
 Daniel Suarez, geboren 1964, war selbst Systemberater und

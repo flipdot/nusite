@@ -1,6 +1,6 @@
 +++
 title = "flipdot Status update"
-date = 2009-12-15T09:54:44
+date = 2009-12-15T09:54:44Z
 author = "typ_o"
 slug = "flipdot-statis-update-3"
 +++

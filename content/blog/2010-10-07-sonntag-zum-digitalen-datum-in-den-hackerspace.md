@@ -1,6 +1,6 @@
 +++
 title = "Sonntag: Zum digitalen Datum in den Hackerspace"
-date = 2010-10-07T21:01:47
+date = 2010-10-07T21:01:47Z
 author = "typ_o"
 +++
 Wer sich bisher noch nicht zum [öffentlichen

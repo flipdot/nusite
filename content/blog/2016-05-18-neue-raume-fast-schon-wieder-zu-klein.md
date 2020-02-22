@@ -1,6 +1,6 @@
 +++
 title = "Neue Räume - fast schon wieder zu klein!"
-date = 2016-05-18T10:15:27
+date = 2016-05-18T10:15:27Z
 author = "typ_o"
 +++
 Praktisch jeden Tag sind jetzt Mitglieder in den neuen Räumen zugange.

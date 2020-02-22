@@ -1,6 +1,6 @@
 +++
 title = "Bar up and running"
-date = 2010-08-17T20:36:49
+date = 2010-08-17T20:36:49Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/bar00.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/bar00.jpg)[![](https://flipdot.org/blog/uploads/bar01.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/bar01.jpg)Our

@@ -1,6 +1,6 @@
 +++
 title = "35. CCC Congress auch in Kassel, vom 27. - 30. Dez."
-date = 2018-12-16T13:23:53
+date = 2018-12-16T13:23:53Z
 author = "typ_o"
 +++
 Auch dieses Jahr findet wieder der [Chaos Communication

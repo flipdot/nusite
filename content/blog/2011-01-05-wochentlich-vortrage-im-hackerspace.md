@@ -1,6 +1,6 @@
 +++
 title = "Wöchentlich Vorträge im Hackerspace"
-date = 2011-01-05T18:00:47
+date = 2011-01-05T18:00:47Z
 author = "Sebastian Löser"
 +++
 Hi,  

@@ -1,6 +1,6 @@
 +++
 title = "Cryptoparty mit Amnesty-Jugend"
-date = 2018-12-02T13:40:50
+date = 2018-12-02T13:40:50Z
 author = "Baustel"
 +++
 ![](https://flipdot.org/blog/uploads/2018/Logo_Amnesty.serendipityThumb.png)  

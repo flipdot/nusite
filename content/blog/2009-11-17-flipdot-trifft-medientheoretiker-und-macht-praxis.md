@@ -1,6 +1,6 @@
 +++
 title = "flipdot trifft Medientheoretiker und macht Praxis"
-date = 2009-11-17T11:37:05
+date = 2009-11-17T11:37:05Z
 author = "typ_o"
 +++
 Ein Vorgeschmack, was Hackerspace in Kassel sein kann: flipdot-Members

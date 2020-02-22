@@ -1,6 +1,6 @@
 +++
 title = "Congress Everywhere"
-date = 2019-12-24T14:52:03
+date = 2019-12-24T14:52:03Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/98ac74ff4bab49f7d4f7ff742ec10627edd141fd.serendipityThumb.png)](https://flipdot.org/blog/uploads/98ac74ff4bab49f7d4f7ff742ec10627edd141fd.png)  

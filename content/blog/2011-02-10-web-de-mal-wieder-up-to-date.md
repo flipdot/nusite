@@ -1,6 +1,6 @@
 +++
 title = "Web.de mal wieder \"Up To Date\""
-date = 2011-02-10T12:47:24
+date = 2011-02-10T12:47:24Z
 author = "Sebastian Löser"
 +++
 Hi,  

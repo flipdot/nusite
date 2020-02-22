@@ -1,6 +1,6 @@
 +++
 title = "Wegnehmen kann jeder - Hinzufügen können wir (Additive Fertigung)"
-date = 2018-01-19T09:36:53
+date = 2018-01-19T09:36:53Z
 author = "Baustel"
 +++
 3-D Druck im flipdot  

@@ -1,6 +1,6 @@
 +++
 title = "Gehäuse? Hab ich schon!"
-date = 2014-06-03T22:25:08
+date = 2014-06-03T22:25:08Z
 author = "typ_o"
 +++
 Flipdot member \[dino\]s schicke Lösung für ein Gehäuse für das AVR EVA

@@ -1,6 +1,6 @@
 +++
 title = "Thermoelektrischer Generator"
-date = 2013-12-19T16:25:40
+date = 2013-12-19T16:25:40Z
 author = "typ_o"
 +++
 Wegen

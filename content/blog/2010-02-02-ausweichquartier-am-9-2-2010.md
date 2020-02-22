@@ -1,6 +1,6 @@
 +++
 title = "Ausweichquartier am 9.2.2010"
-date = 2010-02-02T09:55:50
+date = 2010-02-02T09:55:50Z
 author = "typ_o"
 +++
 Heute kann unser Treffen wegen einer raumgreifenden Ausstellung nicht im

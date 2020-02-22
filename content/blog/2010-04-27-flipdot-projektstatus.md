@@ -1,6 +1,6 @@
 +++
 title = "flipdot Projektstatus"
-date = 2010-04-27T08:42:25
+date = 2010-04-27T08:42:25Z
 author = "typ_o"
 +++
 Zum 1. April hatten wir Räume am

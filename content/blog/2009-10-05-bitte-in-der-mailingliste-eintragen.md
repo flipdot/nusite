@@ -1,6 +1,6 @@
 +++
 title = "Bitte in der Mailingliste eintragen"
-date = 2009-10-05T16:52:38
+date = 2009-10-05T16:52:38Z
 author = "typ_o"
 +++
 Die interne Mailingliste von flipdot (Low traffic) ist eingerichtet,

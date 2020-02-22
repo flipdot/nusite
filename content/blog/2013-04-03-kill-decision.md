@@ -1,6 +1,6 @@
 +++
 title = "Kill Decision"
-date = 2013-04-03T06:35:38
+date = 2013-04-03T06:35:38Z
 author = "typ_o"
 +++
 ![](https://flipdot.org/blog/uploads/bigdog.serendipityThumb.jpg)Daniel

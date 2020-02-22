@@ -1,6 +1,6 @@
 +++
 title = "Strom! Wir brauchen Strom! Und Netz! Und Licht!"
-date = 2010-06-30T05:56:44
+date = 2010-06-30T05:56:44Z
 author = "typ_o"
 +++
 ![](https://flipdot.org/blog/uploads/bergmann.jpg)  

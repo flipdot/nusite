@@ -1,6 +1,6 @@
 +++
 title = "Woher und wohin"
-date = 2009-09-11T13:20:00
+date = 2009-09-11T13:20:00Z
 author = "typ_o"
 +++
 Tim Pritlove (Moderation), Astera, Johannes Grenzfurthner vom Meta Lab

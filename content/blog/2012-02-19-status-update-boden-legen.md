@@ -1,6 +1,6 @@
 +++
 title = "Status Update: Boden legen"
-date = 2012-02-19T17:00:07
+date = 2012-02-19T17:00:07Z
 author = "typ_o"
 +++
 Die Räume sind jetzt bezugsfertig, ein paar Streicharbeiten fehlen noch.

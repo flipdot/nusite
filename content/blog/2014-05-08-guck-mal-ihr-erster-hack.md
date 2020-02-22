@@ -1,6 +1,6 @@
 +++
 title = "Guck mal, ihr erster Hack!"
-date = 2014-05-08T16:28:32
+date = 2014-05-08T16:28:32Z
 author = "typ_o"
 +++
 [Jugend hackt 2014](http://jugendhackt.de/): 12.-14. September 2014,

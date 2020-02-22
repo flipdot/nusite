@@ -1,6 +1,6 @@
 +++
 title = "Das Auge schließt mit!"
-date = 2016-06-02T09:38:04
+date = 2016-06-02T09:38:04Z
 author = "typ_o"
 +++
 Neue Schlossmechanik für unseren Hackerspace.  

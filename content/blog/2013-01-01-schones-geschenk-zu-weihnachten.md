@@ -1,6 +1,6 @@
 +++
 title = "Schönes Geschenk zu Weihnachten!"
-date = 2013-01-01T10:59:50
+date = 2013-01-01T10:59:50Z
 author = "typ_o"
 +++
 ![](https://flipdot.org/blog/uploads/Weihnachtsfrau1.jpeg)  

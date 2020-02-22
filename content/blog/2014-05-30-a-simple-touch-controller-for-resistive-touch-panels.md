@@ -1,6 +1,6 @@
 +++
 title = "A simple Touch Controller for resistive touch panels"
-date = 2014-05-30T09:30:01
+date = 2014-05-30T09:30:01Z
 author = "typ_o"
 +++
 ([Hier gehts zur deutschen

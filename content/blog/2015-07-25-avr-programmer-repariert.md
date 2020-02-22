@@ -1,6 +1,6 @@
 +++
 title = "AVR Programmer repariert"
-date = 2015-07-25T20:27:55
+date = 2015-07-25T20:27:55Z
 author = "al"
 +++
 ![](https://flipdot.org/blog/uploads/AVR_ISP_MKII_Programmer_Reparieren_8.serendipityThumb.jpg)  

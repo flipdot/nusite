@@ -1,6 +1,6 @@
 +++
 title = "\"Dauerinstallation\""
-date = 2013-04-21T13:25:13
+date = 2013-04-21T13:25:13Z
 author = "typ_o"
 +++
 ![](https://flipdot.org/blog/uploads/raspi-dauer.jpg)  

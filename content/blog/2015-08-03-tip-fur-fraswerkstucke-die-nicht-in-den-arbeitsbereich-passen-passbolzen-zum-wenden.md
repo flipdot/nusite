@@ -1,6 +1,6 @@
 +++
 title = "Tip für Fräswerkstücke, die nicht in den Arbeitsbereich passen (Passbolzen zum Wenden)"
-date = 2015-08-03T15:32:00
+date = 2015-08-03T15:32:00Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/20150727_145638.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/20150727_145638.jpg)  

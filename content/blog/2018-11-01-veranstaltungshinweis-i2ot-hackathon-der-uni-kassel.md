@@ -1,6 +1,6 @@
 +++
 title = "Veranstaltungshinweis: I²oT Hackathon der Uni Kassel"
-date = 2018-11-01T17:20:00
+date = 2018-11-01T17:20:00Z
 author = "Baustel"
 +++
 Der

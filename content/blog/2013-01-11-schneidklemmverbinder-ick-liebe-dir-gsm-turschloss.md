@@ -1,6 +1,6 @@
 +++
 title = "Schneidklemmverbinder, ick liebe dir! (GSM Türschloss)"
-date = 2013-01-11T16:21:07
+date = 2013-01-11T16:21:07Z
 author = "typ_o"
 +++
 ![](https://flipdot.org/blog/uploads/schneidklemm.jpg)  

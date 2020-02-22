@@ -1,6 +1,6 @@
 +++
 title = "Frickel - Punk"
-date = 2009-10-12T01:00:00
+date = 2009-10-12T01:00:00Z
 author = "typ_o"
 +++
 Diese durchgeknallten Bastler sind einfach nur Punker. Das war kein

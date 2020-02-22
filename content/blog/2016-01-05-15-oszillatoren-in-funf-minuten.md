@@ -1,6 +1,6 @@
 +++
 title = "15 Oszillatoren in fünf Minuten"
-date = 2016-01-05T18:44:30
+date = 2016-01-05T18:44:30Z
 author = "typ_o"
 +++
 Eine Hand voll Blink-LED  

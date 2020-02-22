@@ -1,6 +1,6 @@
 +++
 title = "Unser Assembly auf dem 31C3"
-date = 2014-12-25T22:50:16
+date = 2014-12-25T22:50:16Z
 author = "typ_o"
 +++
 Wir haben uns einen ruhigen Platz gewünscht, und sind jetzt [im 1.

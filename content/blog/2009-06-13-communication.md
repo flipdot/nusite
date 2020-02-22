@@ -1,6 +1,6 @@
 +++
 title = "Communication"
-date = 2009-06-13T07:10:00
+date = 2009-06-13T07:10:00Z
 author = "typ_o"
 +++
 **Blog**  

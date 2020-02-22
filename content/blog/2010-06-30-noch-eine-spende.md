@@ -1,6 +1,6 @@
 +++
 title = "Noch eine Spende"
-date = 2010-06-30T13:07:21
+date = 2010-06-30T13:07:21Z
 author = "typ_o"
 +++
 [Conrad Elektronik](http://www.conrad.de/ce/) hat ein Päckchen

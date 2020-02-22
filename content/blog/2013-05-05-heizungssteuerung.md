@@ -1,6 +1,6 @@
 +++
 title = "Heizungssteuerung"
-date = 2013-05-05T11:17:40
+date = 2013-05-05T11:17:40Z
 author = "typ_o"
 +++
 [Linkssammlung](http://flipdot.org/wiki/index.php?title=Spaceprojekte/Heizungssteuerung)

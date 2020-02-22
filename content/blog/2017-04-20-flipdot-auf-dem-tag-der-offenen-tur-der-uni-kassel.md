@@ -1,6 +1,6 @@
 +++
 title = "flipdot auf dem Tag der offenen Tür der Uni Kassel"
-date = 2017-04-20T22:55:00
+date = 2017-04-20T22:55:00Z
 author = "typ_o"
 +++
 ![](https://flipdot.org/blog/uploads/tdot.serendipityThumb.jpg)  

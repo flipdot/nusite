@@ -1,6 +1,6 @@
 +++
 title = "Whazzup? Aktuelle Aktivitäten im Space"
-date = 2017-02-06T06:54:33
+date = 2017-02-06T06:54:33Z
 author = "typ_o"
 +++
 Die Küche ist jetzt in einem gut benutzbaren Zustand, wenn auch

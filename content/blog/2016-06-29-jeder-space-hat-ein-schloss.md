@@ -1,6 +1,6 @@
 +++
 title = "Jeder Space hat ein Schloss"
-date = 2016-06-29T20:47:07
+date = 2016-06-29T20:47:07Z
 author = "typ_o"
 +++
 Irgendein Schloss? Natürlich nicht\! Elektronisch, sicher, Schlüssel

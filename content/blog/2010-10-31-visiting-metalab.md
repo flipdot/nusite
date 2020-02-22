@@ -1,6 +1,6 @@
 +++
 title = "Visiting metalab"
-date = 2010-10-31T06:24:27
+date = 2010-10-31T06:24:27Z
 author = "typ_o"
 +++
 Gestern Abend waren wir denn auch im [metalab](http://metalab.at/).

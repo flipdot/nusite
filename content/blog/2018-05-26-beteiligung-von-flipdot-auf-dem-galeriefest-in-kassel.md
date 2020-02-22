@@ -1,6 +1,6 @@
 +++
 title = "Beteiligung von flipdot auf dem Galeriefest in Kassel"
-date = 2018-05-26T11:28:29
+date = 2018-05-26T11:28:29Z
 author = "typ_o"
 +++
 Mehrere flipdot Member haben an zwei Installationen auf dem [Galeriefest

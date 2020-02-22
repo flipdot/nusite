@@ -1,6 +1,6 @@
 +++
 title = "Raspberry telefoniert nach draussen"
-date = 2013-02-02T00:48:20
+date = 2013-02-02T00:48:20Z
 author = "typ_o"
 +++
 ![](https://flipdot.org/blog/uploads/raspi-small.jpg)  

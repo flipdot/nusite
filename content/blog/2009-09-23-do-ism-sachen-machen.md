@@ -1,6 +1,6 @@
 +++
 title = "Do-Ism (Sachen machen)"
-date = 2009-09-23T20:08:00
+date = 2009-09-23T20:08:00Z
 author = "typ_o"
 +++
 flipdot (so lautet zumindest der beta-Name) ist nun auch bei

@@ -1,6 +1,6 @@
 +++
 title = "flipdot @ CCCKS"
-date = 2011-08-23T06:50:41
+date = 2011-08-23T06:50:41Z
 author = "typ_o"
 slug = "flipdot-cccks-2"
 +++

@@ -1,6 +1,6 @@
 +++
 title = "Oft gehört, aber ..."
-date = 2009-10-10T01:00:00
+date = 2009-10-10T01:00:00Z
 author = "typ_o"
 +++
 "[looks like somebody has too much time on their

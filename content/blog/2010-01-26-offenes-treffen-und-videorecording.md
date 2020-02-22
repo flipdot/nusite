@@ -1,6 +1,6 @@
 +++
 title = "Offenes Treffen und Videorecording"
-date = 2010-01-26T05:30:25
+date = 2010-01-26T05:30:25Z
 author = "typ_o"
 +++
 Heute wieder 19:00 im

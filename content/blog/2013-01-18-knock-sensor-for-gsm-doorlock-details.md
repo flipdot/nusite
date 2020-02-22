@@ -1,6 +1,6 @@
 +++
 title = "Knock-sensor for GSM doorlock, details"
-date = 2013-01-18T06:42:52
+date = 2013-01-18T06:42:52Z
 author = "typ_o"
 +++
 ![](https://flipdot.org/blog/uploads/amp_kl.jpg)  

@@ -1,6 +1,6 @@
 +++
 title = "Durchsuchungen in Hackspaces"
-date = 2018-07-05T21:01:17
+date = 2018-07-05T21:01:17Z
 author = "typ_o"
 +++
 Die Polizei in Bayern hat kürzlich Wohnungen und Geschäftsräume von

@@ -1,6 +1,6 @@
 +++
 title = "Ausprobieren mit Pygame, RasPi und Pollin LCD"
-date = 2014-11-10T15:01:44
+date = 2014-11-10T15:01:44Z
 author = "typ_o"
 +++
 Hier so ein paar Vorübungen zu einer GUI auf dem Pi.  

@@ -1,6 +1,6 @@
 +++
 title = "Das war das Baustelwochenende im Februar"
-date = 2010-02-22T19:16:14
+date = 2010-02-22T19:16:14Z
 author = "typ_o"
 +++
   

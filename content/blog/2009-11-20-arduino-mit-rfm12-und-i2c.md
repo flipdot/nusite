@@ -1,6 +1,6 @@
 +++
 title = "Arduino mit RFM12 und I2C"
-date = 2009-11-20T13:25:07
+date = 2009-11-20T13:25:07Z
 author = "typ_o"
 +++
 [Hier](http://news.jeelabs.org/projects/) hat jemand ein Projekt, bei

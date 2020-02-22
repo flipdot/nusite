@@ -1,6 +1,6 @@
 +++
 title = "Public DEBATING des Starlink-3 Launch"
-date = 2020-01-27T14:00:00
+date = 2020-01-27T14:00:00Z
 author = "Baustel"
 +++
 ![Hispasat 30W-6 Mission by SpaceX on

@@ -1,6 +1,6 @@
 +++
 title = "Dashboard mit Spacedaten"
-date = 2015-02-06T22:21:15
+date = 2015-02-06T22:21:15Z
 author = "wegenerd"
 +++
 Letztens ging unser neues Flipdot Dashboard an den Start. Auf unserem

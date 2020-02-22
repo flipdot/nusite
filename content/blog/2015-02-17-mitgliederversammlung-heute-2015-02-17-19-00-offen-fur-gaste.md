@@ -1,6 +1,6 @@
 +++
 title = "Mitgliederversammlung heute, 2015-02-17, 19:00. Offen für Gäste"
-date = 2015-02-17T12:08:49
+date = 2015-02-17T12:08:49Z
 author = "typ_o"
 +++
 19:00 Uhr im Restaurant Arkadas direkt bei den flipdot - Räumen in der

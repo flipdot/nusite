@@ -1,6 +1,6 @@
 +++
 title = "Jaaa, noch mehr Spenden!"
-date = 2010-08-04T05:11:31
+date = 2010-08-04T05:11:31Z
 author = "typ_o"
 +++
 Die Firma [Watterott Elektronic](http://www.watterott.com/), manchen als

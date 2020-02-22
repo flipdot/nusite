@@ -1,6 +1,6 @@
 +++
 title = "Design Patterns übersetzt"
-date = 2009-10-14T01:00:00
+date = 2009-10-14T01:00:00Z
 author = "typ_o"
 +++
 Die bereits

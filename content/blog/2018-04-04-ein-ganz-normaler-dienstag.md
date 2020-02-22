@@ -1,6 +1,6 @@
 +++
 title = "Ein ganz normaler Dienstag"
-date = 2018-04-04T06:01:11
+date = 2018-04-04T06:01:11Z
 author = "typ_o"
 +++
 Beim Rundgang durch den Space sah man gestern: Den Bau eines Gehäuses

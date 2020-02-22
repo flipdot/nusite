@@ -1,6 +1,6 @@
 +++
 title = "Versorgung für Kohlenstoffeinheiten"
-date = 2010-08-08T14:05:28
+date = 2010-08-08T14:05:28Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/bar.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/bar.jpg)Küche

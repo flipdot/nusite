@@ -1,6 +1,6 @@
 +++
 title = "Wen erreicht man, wenn man zu einem „Hackathon” einlädt?"
-date = 2016-01-28T08:10:05
+date = 2016-01-28T08:10:05Z
 author = "typ_o"
 +++
 Der Veranstaltungsname „Hackathon”, „Codefest” oder „Geekend” scheint

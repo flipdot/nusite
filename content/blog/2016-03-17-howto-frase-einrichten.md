@@ -1,6 +1,6 @@
 +++
 title = "HowTo: Fräse einrichten"
-date = 2016-03-17T11:57:21
+date = 2016-03-17T11:57:21Z
 author = "typ_o"
 +++
 Eine kleine Anleitung, wie in unserer Werkstatt die Fräse eingerichtet

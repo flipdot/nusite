@@ -1,6 +1,6 @@
 +++
 title = "2018-04-20 Übertragung des Big Brother Awards im flipdot"
-date = 2018-04-13T16:39:21
+date = 2018-04-13T16:39:21Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/BBA2018.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/BBA2018.jpg)  

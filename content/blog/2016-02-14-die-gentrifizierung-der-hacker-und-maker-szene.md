@@ -1,6 +1,6 @@
 +++
 title = "Die Gentrifizierung der Hacker und Maker Szene"
-date = 2016-02-14T04:47:31
+date = 2016-02-14T04:47:31Z
 author = "typ_o"
 +++
 Der Hessische Rundfunk - eine der millionenschweren

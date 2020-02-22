@@ -1,6 +1,6 @@
 +++
 title = "Demo gegen Zensur-Infrastruktur Kassel am  9.3.ab 13:00"
-date = 2019-03-06T20:48:18
+date = 2019-03-06T20:48:18Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/D0_FesZWkAEi1NT.serendipityThumb.png)](https://flipdot.org/blog/uploads/D0_FesZWkAEi1NT.png)  

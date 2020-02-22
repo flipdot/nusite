@@ -1,6 +1,6 @@
 +++
 title = "Ab jetzt immer Dienstags"
-date = 2009-10-26T11:12:00
+date = 2009-10-26T11:12:00Z
 author = "typ_o"
 +++
 flipdot - Treffen im Kunsttempel Kassel. **19:00h**. Interessiert?

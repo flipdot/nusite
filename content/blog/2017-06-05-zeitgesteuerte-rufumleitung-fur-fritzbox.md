@@ -1,6 +1,6 @@
 +++
 title = "Zeitgesteuerte Rufumleitung für Fritzbox"
-date = 2017-06-05T20:33:36
+date = 2017-06-05T20:33:36Z
 author = "typ_o"
 +++
 Rufumleitung muss manuell gesetzt und gelöscht werden. Kleine schnelle

@@ -1,6 +1,6 @@
 +++
 title = "Wie man einen Blackout verursacht"
-date = 2016-01-05T14:46:42
+date = 2016-01-05T14:46:42Z
 author = "typ_o"
 +++
 Sehr schöner Talk von 32C3: "[Wie man einen Blackout verursacht - und

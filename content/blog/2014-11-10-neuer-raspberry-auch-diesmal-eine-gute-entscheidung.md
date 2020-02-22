@@ -1,6 +1,6 @@
 +++
 title = "Neuer Raspberry - auch diesmal eine gute Entscheidung"
-date = 2014-11-10T09:27:49
+date = 2014-11-10T09:27:49Z
 author = "typ_o"
 +++
 Es gibt einen weiteren [Pi mit abgespecktem Hardwareumfang, den

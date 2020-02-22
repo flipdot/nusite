@@ -1,6 +1,6 @@
 +++
 title = "Dualuhr Update mit NTP-Server (Zeitserver) - Abfrage"
-date = 2016-12-02T09:17:39
+date = 2016-12-02T09:17:39Z
 author = "typ_o"
 +++
 Die Dual-Uhr in der Lounge ist ein altes Projekt mit einem AVR und

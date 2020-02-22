@@ -1,6 +1,6 @@
 +++
 title = "CCC Kongress lokal genießen / Congress everywhere auch in Kassel"
-date = 2017-12-21T16:30:40
+date = 2017-12-21T16:30:40Z
 author = "typ_o"
 +++
 Bereits zum 34ten mal öffnet der Chaos Computer Club zwischen den

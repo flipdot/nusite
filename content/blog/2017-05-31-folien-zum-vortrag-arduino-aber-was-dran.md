@@ -1,6 +1,6 @@
 +++
 title = "Folien zum Vortrag: Arduino - aber was dran?"
-date = 2017-05-31T09:29:19
+date = 2017-05-31T09:29:19Z
 author = "typ_o"
 +++
 Hier noch von unserer letzten Veranstaltung "Was Sie schon immer über

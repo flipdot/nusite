@@ -1,6 +1,6 @@
 +++
 title = "Chaosdorf - Lichtsteuerung mit RasPi"
-date = 2013-04-25T09:32:00
+date = 2013-04-25T09:32:00Z
 author = "typ_o"
 +++
 Noch ein RasPi mit Lichtsteuerungs-Aufgaben - Beim CCC Düsseldorf\!

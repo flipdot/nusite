@@ -1,6 +1,6 @@
 +++
 title = "Heute 18:55 Treffen zur Raumbesichtigung"
-date = 2011-02-18T07:33:48
+date = 2011-02-18T07:33:48Z
 author = "typ_o"
 +++
 Mit dem derzeitigen Mitgliederstand sind uns unsere aktuellen Räume zu

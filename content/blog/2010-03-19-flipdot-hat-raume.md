@@ -1,6 +1,6 @@
 +++
 title = "Flipdot hat Räume!"
-date = 2010-03-19T12:48:36
+date = 2010-03-19T12:48:36Z
 author = "typ_o"
 +++
 ![](https://flipdot.org/blog/uploads/Gueterabefrtigung_EG_Ausschnitt.serendipityThumb.jpg)Vergangenen

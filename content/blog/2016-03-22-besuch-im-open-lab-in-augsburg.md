@@ -1,6 +1,6 @@
 +++
 title = "Besuch im Open Lab in Augsburg"
-date = 2016-03-22T21:50:35
+date = 2016-03-22T21:50:35Z
 author = "typ_o"
 +++
   

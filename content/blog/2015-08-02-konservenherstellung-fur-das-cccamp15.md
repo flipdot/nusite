@@ -1,6 +1,6 @@
 +++
 title = "Konservenherstellung für das CCCamp15"
-date = 2015-08-02T10:41:01
+date = 2015-08-02T10:41:01Z
 author = "typ_o"
 +++
 Auf dem Camp gibt es "nur" 1,9 MW Dieselgeneratoren, deswegen sollen

@@ -1,6 +1,6 @@
 +++
 title = "Was Sie schon immer über Technik wissen wollten..."
-date = 2017-05-14T11:10:04
+date = 2017-05-14T11:10:04Z
 author = "typ_o"
 +++
 …aber nie zu fragen wagten\!  

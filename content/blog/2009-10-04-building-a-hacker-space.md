@@ -1,6 +1,6 @@
 +++
 title = "Building a Hacker Space"
-date = 2009-10-04T18:29:20
+date = 2009-10-04T18:29:20Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/ohlig.jpg)](http://chaosradio.ccc.de/24c3_m4v_2133.html)  

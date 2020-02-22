@@ -1,6 +1,6 @@
 +++
 title = "flipdot transmits on \"Freies Radio Kassel\""
-date = 2010-08-29T14:56:13
+date = 2010-08-29T14:56:13Z
 author = "typ_o"
 +++
 Radio = synchrones Medium = irgendwie letztes Jahrtausend,

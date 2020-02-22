@@ -1,6 +1,6 @@
 +++
 title = "Automatische Pflanzenbewässerungsanlage… das kann ich nicht, oder doch?!"
-date = 2017-05-31T11:23:00
+date = 2017-05-31T11:23:00Z
 author = "Baustel"
 +++
 Ich stand vor dem Problem, dass ich gerne meinen eigenen Kleinstgarten

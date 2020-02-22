@@ -1,6 +1,6 @@
 +++
 title = "Smartphone Stativ-Halterung / Tripod Mount aus Foldback Clip"
-date = 2016-02-01T09:11:42
+date = 2016-02-01T09:11:42Z
 author = "typ_o"
 +++
 ![](https://flipdot.org/blog/uploads/cam-stativ.jpg)  

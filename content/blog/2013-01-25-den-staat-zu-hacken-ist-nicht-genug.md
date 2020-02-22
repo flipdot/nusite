@@ -1,6 +1,6 @@
 +++
 title = "Den Staat zu hacken ist nicht genug"
-date = 2013-01-25T08:10:25
+date = 2013-01-25T08:10:25Z
 author = "typ_o"
 +++
 Michael Seemann in der Zeit: [Staatstrojaner zu hacken, genügt nicht,

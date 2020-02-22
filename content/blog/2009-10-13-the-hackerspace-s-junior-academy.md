@@ -1,6 +1,6 @@
 +++
 title = "The Hackerspace's Junior Academy"
-date = 2009-10-13T01:00:00
+date = 2009-10-13T01:00:00Z
 author = "typ_o"
 +++
 U23 Köln - Workshops für junge Leute in Hackerspaces organisieren.

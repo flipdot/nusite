@@ -1,6 +1,6 @@
 +++
 title = "Docker-Swarm Workshop heute ab 14:00 Uhr"
-date = 2015-07-12T10:05:12
+date = 2015-07-12T10:05:12Z
 author = "member"
 +++
 Im Anschluss an unseren ersten [Docker

@@ -1,6 +1,6 @@
 +++
 title = "Unser CAM Workflow"
-date = 2015-06-26T17:04:04
+date = 2015-06-26T17:04:04Z
 author = "flipdot member"
 +++
 Das Fräsen-Setup ist jetzt erstmal stabil, mit viel Platz für

@@ -1,6 +1,6 @@
 +++
 title = "Schlösser von Hackern für Hacker"
-date = 2009-10-05T05:38:00
+date = 2009-10-05T05:38:00Z
 author = "typ_o"
 +++
 Einen Schlüssel? Blah\! RFID-Chips? Gnah\! Richtige Hacker öffnen ihre

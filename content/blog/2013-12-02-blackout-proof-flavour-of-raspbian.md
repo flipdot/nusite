@@ -1,6 +1,6 @@
 +++
 title = "Blackout-proof flavour of Raspbian"
-date = 2013-12-02T14:36:22
+date = 2013-12-02T14:36:22Z
 author = "typ_o"
 +++
 Eine Debian Distribution für den Raspberry, welche die SD Card nur

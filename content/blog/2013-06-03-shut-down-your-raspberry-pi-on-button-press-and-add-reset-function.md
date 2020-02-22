@@ -1,6 +1,6 @@
 +++
 title = "Shut down your Raspberry Pi on button press and add reset function"
-date = 2013-06-03T12:08:55
+date = 2013-06-03T12:08:55Z
 author = "typ_o"
 +++
 Connect a shutdown-pushbutton to

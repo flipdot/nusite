@@ -1,6 +1,6 @@
 +++
 title = "flipdot goes 26C3"
-date = 2009-12-19T10:06:55
+date = 2009-12-19T10:06:55Z
 author = "typ_o"
 +++
 Eine doch größere Teilmenge der flipdots fähr nach Berlin zum

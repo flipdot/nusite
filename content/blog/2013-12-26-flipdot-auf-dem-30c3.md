@@ -1,6 +1,6 @@
 +++
 title = "flipdot auf dem 30C3"
-date = 2013-12-26T20:53:37
+date = 2013-12-26T20:53:37Z
 author = "typ_o"
 slug = "flipdot-auf-dem-30c3-2"
 +++

@@ -1,6 +1,6 @@
 +++
 title = "Pizzaofen-Teardown-Party!"
-date = 2018-08-28T11:49:55
+date = 2018-08-28T11:49:55Z
 author = "typ_o"
 +++
 Am 1.9.2018 ab 19:00 - unser Ofen muss raus aus der Küche, deswegen wird

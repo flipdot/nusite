@@ -1,6 +1,6 @@
 +++
 title = "Leben mit Strom und strubbeligen Haaren"
-date = 2013-04-16T10:00:00
+date = 2013-04-16T10:00:00Z
 author = "typ_o"
 +++
 Heute gucken wir [Buster Keaton: The Electric

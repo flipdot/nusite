@@ -1,6 +1,6 @@
 +++
 title = "Hilfe vom Fricklerkommando"
-date = 2014-05-07T19:01:47
+date = 2014-05-07T19:01:47Z
 author = "typ_o"
 +++
 Ein Gast brachte Teile eines Automaten mit in den Space, so ein

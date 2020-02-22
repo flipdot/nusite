@@ -1,6 +1,6 @@
 +++
 title = "Frickel - Links"
-date = 2009-11-02T05:13:39
+date = 2009-11-02T05:13:39Z
 author = "typ_o"
 +++
 Twitter kriegt jetzt wegen Google Wave kalte Füße, darum wohl schnell

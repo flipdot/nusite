@@ -1,6 +1,6 @@
 +++
 title = "Gute Tools sind wichtig!"
-date = 2016-07-25T10:12:12
+date = 2016-07-25T10:12:12Z
 author = "flipdot member"
 +++
 Grad geschenkt bekommen:  

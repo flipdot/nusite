@@ -1,6 +1,6 @@
 +++
 title = "Flipdot zieht um! Mehr, besser, Glitzer, und alles!"
-date = 2016-04-04T16:06:00
+date = 2016-04-04T16:06:00Z
 author = "typ_o"
 +++
 Wir verlassen die 25 m² in der Chassalla Fabrik in der Sickingenstraße,

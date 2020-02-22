@@ -1,6 +1,6 @@
 +++
 title = "Reminder: Raumbesichtigung morgen 17:45"
-date = 2010-05-02T13:49:59
+date = 2010-05-02T13:49:59Z
 author = "typ_o"
 +++
 Am Montag, den 3. Mai um 17:45 Uhr treffen wir uns kurz vorher im [Döner

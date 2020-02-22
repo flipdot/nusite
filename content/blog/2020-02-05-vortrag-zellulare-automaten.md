@@ -1,6 +1,6 @@
 +++
 title = "Vortrag - Zelluläre Automaten"
-date = 2020-02-05T01:06:01
+date = 2020-02-05T01:06:01Z
 author = "Baustel"
 +++
 2020-02-11 um 20:00 Uhr im Space **Zelluläre Automaten**  

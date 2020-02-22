@@ -1,6 +1,6 @@
 +++
 title = "Heute Jahresplenum im Hackerspace"
-date = 2011-01-11T09:58:57
+date = 2011-01-11T09:58:57Z
 author = "typ_o"
 +++
 Heute 19:00 treffen wir uns im

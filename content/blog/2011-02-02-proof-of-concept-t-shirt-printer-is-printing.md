@@ -1,6 +1,6 @@
 +++
 title = "Proof of concept: T-Shirt Printer is printing"
-date = 2011-02-02T05:16:12
+date = 2011-02-02T05:16:12Z
 author = "typ_o"
 +++
   

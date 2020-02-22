@@ -1,6 +1,6 @@
 +++
 title = "Raspberry zeigt an, ob der Space offen oder geschlossen ist"
-date = 2013-04-04T18:58:10
+date = 2013-04-04T18:58:10Z
 author = "typ_o"
 +++
 ![](https://flipdot.org/blog/uploads/spaceopen1.jpg)  

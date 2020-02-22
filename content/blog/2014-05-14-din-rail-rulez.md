@@ -1,6 +1,6 @@
 +++
 title = "DIN rail rulez"
-date = 2014-05-14T04:46:49
+date = 2014-05-14T04:46:49Z
 author = "typ_o"
 +++
 ![](https://flipdot.org/blog/uploads/IMG_20140513_184947.jpg)  

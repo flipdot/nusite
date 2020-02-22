@@ -1,6 +1,6 @@
 +++
 title = "Converting a Flip-dot display"
-date = 2013-08-13T04:24:10
+date = 2013-08-13T04:24:10Z
 author = "typ_o"
 +++
 .. to [work like Core

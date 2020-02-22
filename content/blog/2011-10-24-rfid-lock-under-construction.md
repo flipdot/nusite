@@ -1,6 +1,6 @@
 +++
 title = "RFID-Lock under construction"
-date = 2011-10-24T16:33:13
+date = 2011-10-24T16:33:13Z
 author = "typ_o"
 +++
 [![RFID-Lock under

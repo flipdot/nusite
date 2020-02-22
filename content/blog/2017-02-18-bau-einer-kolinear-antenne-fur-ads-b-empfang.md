@@ -1,6 +1,6 @@
 +++
 title = "Bau einer kolinear-Antenne für ADS-B-Empfang"
-date = 2017-02-18T05:43:00
+date = 2017-02-18T05:43:00Z
 author = "typ_o"
 +++
 Zivile Flugzeuge senden ein Signal: [Automatic Dependent Surveillance

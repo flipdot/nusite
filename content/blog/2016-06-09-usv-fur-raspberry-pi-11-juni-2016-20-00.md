@@ -1,6 +1,6 @@
 +++
 title = "USV für raspberry Pi - 11. Juni 2016, 20:00"
-date = 2016-06-09T18:15:00
+date = 2016-06-09T18:15:00Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/usv.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/usv.jpg)  

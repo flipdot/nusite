@@ -1,6 +1,6 @@
 +++
 title = "We make things awesome - we make awesome things. Baustelwochenende!"
-date = 2010-10-20T05:32:01
+date = 2010-10-20T05:32:01Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/0230.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/0230.jpg)[![](https://flipdot.org/blog/uploads/0255.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/0255.jpg)[![](https://flipdot.org/blog/uploads/0020.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/0020.jpg)flipdot

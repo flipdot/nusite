@@ -1,6 +1,6 @@
 +++
 title = "Hackerspace - WTF?"
-date = 2009-09-06T12:52:00
+date = 2009-09-06T12:52:00Z
 author = "typ_o"
 +++
 Ein Hackerspace (von Hacker und Space, engl. für Raum) ist ein realer,

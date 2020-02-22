@@ -1,6 +1,6 @@
 +++
 title = "Besuch beim Hackerspace \"Labor\" in Bochum"
-date = 2010-04-03T14:56:31
+date = 2010-04-03T14:56:31Z
 author = "typ_o"
 +++
   

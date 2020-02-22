@@ -1,6 +1,6 @@
 +++
 title = "Heute Raum angucken"
-date = 2011-08-30T14:16:59
+date = 2011-08-30T14:16:59Z
 author = "typ_o"
 +++
 **Heute, am Dienstag, 30.08. um 19:00** Uhr schauen wir uns die Räume in

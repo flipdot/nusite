@@ -1,6 +1,6 @@
 +++
 title = "Ein Jahr flipdot hackerspace kassel in den neuen Räumen"
-date = 2017-04-27T13:26:55
+date = 2017-04-27T13:26:55Z
 author = "typ_o"
 +++
   

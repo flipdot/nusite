@@ -1,6 +1,6 @@
 +++
 title = "flipdot Projekt: XXL-Drucker"
-date = 2009-10-12T11:31:00
+date = 2009-10-12T11:31:00Z
 author = "typ_o"
 +++
 Mein Besuch bei flipdot Member Arne brachte uns neben angeregtem

@@ -1,6 +1,6 @@
 +++
 title = "Rundgang Sickingenstraße"
-date = 2010-05-03T21:52:04
+date = 2010-05-03T21:52:04Z
 author = "typ_o"
 +++
 Hier die Bilder der gemeinsamen Besichtigung in den Räumen in der

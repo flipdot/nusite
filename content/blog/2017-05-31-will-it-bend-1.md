@@ -1,6 +1,6 @@
 +++
 title = "Will it bend? [1]"
-date = 2017-05-31T09:38:36
+date = 2017-05-31T09:38:36Z
 author = "typ_o"
 +++
 Kleiner Test mit kunststoffbeschichtetem Multiplex-Plattenmaterial

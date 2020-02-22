@@ -1,6 +1,6 @@
 +++
 title = "Open Street Map Treffen in Kassel"
-date = 2016-09-02T18:28:37
+date = 2016-09-02T18:28:37Z
 author = "typ_o"
 +++
 Am kommenden Dienstag, dem 6. September 2016 gibt es um 20:00 bei uns im

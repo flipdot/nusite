@@ -1,6 +1,6 @@
 +++
 title = "Das relativiert den Eintrittspreis beim Camp aber mächtig!"
-date = 2015-07-10T14:55:45
+date = 2015-07-10T14:55:45Z
 author = "typ_o"
 +++
 Dass es zu Easterheggs oder irgend welchen Camps zu den Eintrittskarten

@@ -1,6 +1,6 @@
 +++
 title = "Podcast: Hacker- und Makerspaces"
-date = 2016-05-06T10:30:38
+date = 2016-05-06T10:30:38Z
 author = "typ_o"
 +++
 Seit geraumer Zeit existieren in fast allen größeren Städten sogenannte

@@ -1,6 +1,6 @@
 +++
 title = "All Creatures Welcome"
-date = 2019-01-04T15:11:20
+date = 2019-01-04T15:11:20Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/acw_poster_ki_regenbogen_digital.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/acw_poster_ki_regenbogen_digital.jpg)  

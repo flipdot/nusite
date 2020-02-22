@@ -1,6 +1,6 @@
 +++
 title = "Stelltrafo erneuert"
-date = 2011-02-02T05:19:45
+date = 2011-02-02T05:19:45Z
 author = "typ_o"
 +++
 ![](https://flipdot.org/blog/uploads/IMAG0700.jpg)  

@@ -1,6 +1,6 @@
 +++
 title = "IP via audio for Raspberry Pi"
-date = 2013-06-29T18:23:18
+date = 2013-06-29T18:23:18Z
 author = "typ_o"
 +++
   

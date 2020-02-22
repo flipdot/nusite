@@ -1,6 +1,6 @@
 +++
 title = "Sicherheit für Fahrradfahrer in Kassel"
-date = 2018-11-21T02:02:59
+date = 2018-11-21T02:02:59Z
 author = "Baustel"
 +++
 Treffen am Sonntag, den 25.11.2018, 16 Uhr.  

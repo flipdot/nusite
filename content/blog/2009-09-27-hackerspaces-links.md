@@ -1,6 +1,6 @@
 +++
 title = "Hackerspaces Links"
-date = 2009-09-27T16:25:00
+date = 2009-09-27T16:25:00Z
 author = "typ_o"
 +++
 Eine Soup verschiedener [Hackerspaces

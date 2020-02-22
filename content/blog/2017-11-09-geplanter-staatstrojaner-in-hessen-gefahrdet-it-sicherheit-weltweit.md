@@ -1,6 +1,6 @@
 +++
 title = "Geplanter Staatstrojaner in Hessen gefährdet IT-Sicherheit weltweit"
-date = 2017-11-09T09:16:50
+date = 2017-11-09T09:16:50Z
 author = "typ_o"
 +++
 Im Bundesland Hessen soll ein Gesetz die geheimdienstliche Ausweitung

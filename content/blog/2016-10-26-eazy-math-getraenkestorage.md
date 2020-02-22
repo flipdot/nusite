@@ -1,6 +1,6 @@
 +++
 title = "Eazy math / Getraenkestorage"
-date = 2016-10-26T14:23:34
+date = 2016-10-26T14:23:34Z
 author = "typ_o"
 +++
 Ein Haufen Kisten in der Ecke, halb voll, halb leer? Das geht besser,

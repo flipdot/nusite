@@ -1,6 +1,6 @@
 +++
 title = "Sendung im Freien Radio Kassel"
-date = 2016-11-12T23:12:49
+date = 2016-11-12T23:12:49Z
 author = "typ_o"
 +++
 Flipdot war heute im

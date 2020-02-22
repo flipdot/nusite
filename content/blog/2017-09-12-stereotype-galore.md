@@ -1,6 +1,6 @@
 +++
 title = "Stereotype galore"
-date = 2017-09-12T20:51:03
+date = 2017-09-12T20:51:03Z
 author = "flipdot member"
 +++
 [![Stereotype

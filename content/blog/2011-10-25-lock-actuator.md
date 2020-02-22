@@ -1,6 +1,6 @@
 +++
 title = "Lock actuator"
-date = 2011-10-25T18:36:02
+date = 2011-10-25T18:36:02Z
 author = "typ_o"
 +++
 [![Lock

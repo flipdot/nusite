@@ -1,6 +1,6 @@
 +++
 title = "Was war hier los?"
-date = 2015-07-25T09:18:02
+date = 2015-07-25T09:18:02Z
 author = "flipdot member"
 +++
 Diese Konstruktion habe ich beim öffnen des (ordentlich verschlossenen)

@@ -1,6 +1,6 @@
 +++
 title = "eQ-3 Model K Thermostat Hack"
-date = 2015-02-22T11:49:56
+date = 2015-02-22T11:49:56Z
 author = "typ_o"
 +++
 [Thermostat eQ-3 Model K Hack](https://vimeo.com/120285842) from

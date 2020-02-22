@@ -1,6 +1,6 @@
 +++
 title = "Strom macht strubbelige Haare"
-date = 2017-08-13T19:45:03
+date = 2017-08-13T19:45:03Z
 author = "flipdot member"
 +++
 [![Strom macht strubbelige

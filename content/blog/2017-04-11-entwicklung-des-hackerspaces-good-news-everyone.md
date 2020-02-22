@@ -1,6 +1,6 @@
 +++
 title = "Entwicklung des Hackerspaces - Good News Everyone!"
-date = 2017-04-11T07:44:17
+date = 2017-04-11T07:44:17Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/Bildschirmfotovom2017-04-11083417.serendipityThumb.png)](https://flipdot.org/blog/uploads/Bildschirmfotovom2017-04-11083417.png)  

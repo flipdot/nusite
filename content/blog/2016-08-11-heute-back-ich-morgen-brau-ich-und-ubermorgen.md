@@ -1,6 +1,6 @@
 +++
 title = "Heute back' ich, morgen brau' ich, und übermorgen ..."
-date = 2016-08-11T16:33:36
+date = 2016-08-11T16:33:36Z
 author = "typ_o"
 +++
 Pizzaworkshop war schon - jetzt gibt's eine Einführung in das Brauen von

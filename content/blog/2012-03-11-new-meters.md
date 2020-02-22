@@ -1,6 +1,6 @@
 +++
 title = "New meters"
-date = 2012-03-11T13:12:14
+date = 2012-03-11T13:12:14Z
 author = "typ_o"
 +++
 [![](https://flipdot.org/blog/uploads/flu.jpg)](http://www.tequipment.net/FlukeDigital111Multimeter.html)  

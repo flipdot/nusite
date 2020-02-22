@@ -1,6 +1,6 @@
 +++
 title = "Pegelwandler mit automatischer (!) Richtungserkennung"
-date = 2013-04-16T05:38:18
+date = 2013-04-16T05:38:18Z
 author = "typ_o"
 +++
 [TXB0108](http://www.ti.com/product/txb0108) ist ein schlauer Baustein

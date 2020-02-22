@@ -1,6 +1,6 @@
 +++
 title = "Flipdot auf dem 30C3"
-date = 2013-12-06T13:15:33
+date = 2013-12-06T13:15:33Z
 author = "typ_o"
 +++
 Wir haben einen Tisch im [assembly -
