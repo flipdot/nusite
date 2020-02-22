@@ -2,6 +2,7 @@
 title = "flipdot auf dem 30C3"
 date = 2013-12-26T20:53:37
 author = "typ_o"
+slug = "flipdot-auf-dem-30c3-2"
 +++
 fuer alle die zum 30c3 kommen und nicht so lange die Flipdot assembly  
 suchen wollen. Wir haben einen Tisch im Hackcenter (Erdgeschoss)

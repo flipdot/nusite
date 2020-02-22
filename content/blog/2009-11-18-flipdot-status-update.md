@@ -2,6 +2,7 @@
 title = "flipdot Status update"
 date = 2009-11-18T05:05:05
 author = "typ_o"
+slug = "flipdot-statis-update-2"
 +++
 Bis auf die Vereinsziele (wirkt auf Gemeinnützigkeit) steht die Satzung
 jetzt. Dennis und Helmut gehen am Freitag zum Finanzamt, um im Gespräch
