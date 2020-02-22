@@ -3,11 +3,14 @@
 {% block content %}
 
 <h1>Blog</h1>
-{% for page in section.pages %}
+{% for page in paginator.pages %}
 <article>
     {% include "includes/post_header.html" %}
     {{ page.content | safe }}
 </article>
 {% endfor %}
+
+{% if paginator.previous %}<a href="{{ paginator.previous }}">Previous</a>{% endif %}
+{% if paginator.next %}<a href="{{ paginator.next }}">Next</a>{% endif %}
 
 {% endblock content %}
