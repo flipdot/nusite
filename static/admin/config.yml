@@ -1,0 +1,39 @@
+backend:
+  name: gitlab
+  repo: flipdot/nusite
+  auth_type: implicit
+  app_id: ea3a559f58edf41907ad17c7e9f89273d8ff6aacaf6084d24f440ae2592f3575
+
+# Uncomment below to enable drafts
+# publish_mode: editorial_workflow
+
+site_url: https://nusite.flipdot.org
+# logo_url: https://nusite.flipdot.org/img/favicon.svg
+
+media_folder: "static/media" # Media files will be stored in the repo under images/uploads
+public_folder: "/media"
+
+collections:
+  # Our blog posts
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "content/blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Summary", name: "summary", widget: "text" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+      - { label: "Body", name: "body", widget: "markdown" }
+  # Our pages e.g. About
+  - name: "pages"
+    label: "Pages"
+    folder: "content/pages"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Permalink", name: "permalink", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }

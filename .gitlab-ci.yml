@@ -1,0 +1,28 @@
+image: debian:buster-slim
+
+variables:
+  ZOLA_TAG: v0.10.0
+
+before_script:
+  - apt update && apt -y install wget
+  - wget "https://github.com/getzola/zola/releases/download/$ZOLA_TAG/zola-$ZOLA_TAG-x86_64-unknown-linux-gnu.tar.gz"
+  - tar xf "zola-$ZOLA_TAG-x86_64-unknown-linux-gnu.tar.gz"
+  - rm -rf "zola-$ZOLA_TAG-x86_64-unknown-linux-gnu.tar.gz"
+  - mv zola /usr/bin/
+
+check:
+  stage: test
+  script:
+    - zola check
+  only:
+    - merge_request
+
+pages:
+  stage: deploy
+  script:
+    - zola build
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
