@@ -1,7 +1,7 @@
 {% set iso_date = page.date | date(format = '%Y-%m-%d') %}
 <header class="post-header">
     <h1 class="post-title">
-        <a href="{{ page.title }}">{{ page.title }}</a>
+        <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
         <time datetime="{{ iso_date }}">{{ iso_date }}</time>
     </h1>
 </header>

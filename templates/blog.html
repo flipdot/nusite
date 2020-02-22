@@ -6,10 +6,6 @@
 {% for page in section.pages %}
 <article>
     {% include "includes/post_header.html" %}
-    <h2 class="post-entry">
-        <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
-        <time datetime="{{ iso_date }}">· {{ iso_date }}</time>
-    </h2>
     {{ page.content | safe }}
 </article>
 {% endfor %}
