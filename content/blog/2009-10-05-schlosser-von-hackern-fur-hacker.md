@@ -1,0 +1,9 @@
++++
+title = "Schlösser von Hackern für Hacker"
+date = 2009-10-05T05:38:00
+author = "typ_o"
++++
+Einen Schlüssel? Blah\! RFID-Chips? Gnah\! Richtige Hacker öffnen ihre
+Räume [via login per ssh mit
+rsa-key](https://wiki.muc.ccc.de/luftschleuse), username 'open' -\>
+oeffnen, username 'close' -\> schliessen. So geht das\!

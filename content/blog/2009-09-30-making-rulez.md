@@ -1,0 +1,14 @@
++++
+title = "Making rulez!"
+date = 2009-09-30T16:52:57
+author = "typ_o"
++++
+Auf der SigInt hielt Philip Steffan von
+[Bausteln.de](http://bausteln.de/) einen flotten Vortrag unter dem
+Titel: "[Es gibt keinen Löffel? Dann druck doch einen Neuen
+aus\!](http://sigint.ccc.de/sigint/2009/Fahrplan/events/3197.en.html)".
+Er beschreibt sehr schön, wie das Selbermachen jetzt gerade von der Welt
+der Bits in die Welt der Atome übergeht. Natürlich wurde auch bisher
+schon mit Atomen gebaustelt, aber jetzt gibt es "Adapter" zwischen den
+Bits und den Atomen: Fräsen, 3D-Drucker etc. Video im direkten Download
+[hier](ftp://ftp.ccc.de/events/sigint09/video/SIGINT09_3197_de_es_gibt_keinen_loeffel_dann_druck_doch_einen_neuen_aus.mp4).
