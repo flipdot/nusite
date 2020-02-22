@@ -1,0 +1,9 @@
+<footer>
+    <ul class="footer-nav" role="menu">
+        {% for link in config.extra.footer_nav %}
+        <li role="menuitem">
+            <a href="{{ link.href }}">{{ link.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</footer>

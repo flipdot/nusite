@@ -1,0 +1,6 @@
+{% extends "skel.html" %}
+{% block html_title %}flipdot.org{% endblock html_title %}
+{% block content %}
+<h1 class="page-title">{{title}}</h1>
+{{ page.content | safe }}
+{% endblock content %}

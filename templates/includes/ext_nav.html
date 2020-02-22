@@ -1,0 +1,29 @@
+<ul class="ext-nav">
+    {% for link in config.extra.ext_nav %}
+    <li>
+        <a href="{{ link.href }}" title="{{ link.title }}">
+            <i class="fa-fw {{ link.icon_classes }}" aria-hidden="true"></i>
+            <span class="ext-nav-label">{{ link.title }}</span>
+        </a>
+    </li>
+    {% endfor %}
+    <div class="header-dropdown-separator"></div>
+    <input type="checkbox" id="space-status-checkbox" checked>
+    <li class="space-status">
+        <!-- TODO: noscript iframe fallback -->
+        <label for="space-status-checkbox" title="Space-Status">
+            <i id="space-status-icon" class="fas fa-fw fa-door-open" aria-hidden="true"></i>
+            <span class="ext-nav-label">
+                Space-Status: <span id="space-status-mobile-text"></span>
+            </span>
+        </label>
+        <div id="space-status-tooltip">
+            <div class="space-status-tooltip-inner">
+                <div class="content"></div>
+                <label for="space-status-checkbox" class="close-button" aria-hidden="true">
+                    <i class="fas fa-times"></i>
+                </label>
+            </div>
+        </div>
+    </li>
+</ul>

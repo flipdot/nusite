@@ -1,0 +1,240 @@
+.site-header {
+    height: 4rem;
+    margin: 0 auto;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+
+    width: 100%;
+    max-width: var(--max-content-width);
+}
+
+.site-header .title {
+    height: 4rem;
+    padding: .5rem 1.5rem .5rem 1rem;
+}
+
+.site-header .title a {
+    display: block;
+}
+
+.site-header .logo {
+    height: 3rem;
+    vertical-align: top;
+}
+
+.site-header-separator {
+    height: 4px;
+    background-color: var(--flipdot-yellow);
+    box-shadow: 0px 2px 3px 0 rgba(0, 0, 0, 0.1);
+}
+
+#header-dropdown-checkbox,
+.header-dropdown-button,
+#space-status-checkbox {
+    display: none;
+}
+
+.header-dropdown-contents {
+    display: flex;
+    flex-grow: 1;
+}
+
+.header-dropdown-separator {
+    margin: 4px 0;
+    height: 1px;
+    background: linear-gradient(
+        to right,
+        rgba(0, 0, 0, 0),
+        rgba(0, 0, 0, 0) 2.5%,
+        rgba(0, 0, 0, 0.1) 17.5%,
+        rgba(0, 0, 0, 0.1) 82.5%,
+        rgba(0, 0, 0, 0) 97.5%,
+        rgba(0, 0, 0, 0)
+    );
+}
+
+.page-overlay {
+    display: none;
+}
+
+.site-nav,
+.ext-nav {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.site-nav a,
+.ext-nav a,
+.space-status label {
+    display: block;
+    padding: .4em .6em;
+    text-decoration: none;
+}
+
+.ext-nav {
+    flex-grow: 1;
+    justify-content: flex-end;
+}
+
+#space-status-mobile-text {
+    color: var(--text-grey);
+}
+
+#space-status-tooltip {
+    position: absolute;
+    left: 0;
+    right: 0;
+
+    background: var(--flipdot-yellow);
+    z-index: 5;
+    box-shadow: 0px 2px 3px 0 rgba(0, 0, 0, 0.1);
+}
+
+.space-status-tooltip-inner {
+    max-width: var(--max-content-width);
+    margin: 0 auto;
+    padding: 0 1rem;
+    position: relative;
+}
+
+#space-status-tooltip .header {
+    margin: 0;
+    padding: .1rem .3rem;
+    font-family: 'OpenSans';
+}
+
+#space-status-tooltip .content {
+    padding: .3rem 0;
+    font-size: 80%;
+}
+
+#space-status-tooltip .close-button {
+    display: block;
+    position: absolute;
+    top: .4em;
+    right: 1.5rem;
+    padding: 0;
+    font-size: 80%;
+}
+
+#space-status-tooltip .close-button:hover {
+    color: var(--text-grey);
+}
+
+@media screen and (max-width: 767px) {
+    .site-header {
+        height: 3.5rem;
+    }
+
+    .site-header .title {
+        height: 3.5rem;
+    }
+
+    .site-header .logo {
+        height: 2.5rem;
+    }
+
+    .header-dropdown-button {
+        display: block;
+        margin: .5rem;
+        padding: 0 .8rem;
+        font-size: 2rem;
+        line-height: 2.5rem;
+        cursor: pointer;
+    }
+
+    #header-dropdown-checkbox:not(:checked) ~ .header-dropdown-contents {
+        display: none;
+    }
+
+    /* My greatest CSS hack to date:
+       Grey out the main page while the dropdown is open. Also close the
+       dropdown when the user clicks the greyed out page (but not when they
+       click the dropdown, or the header). */
+    #header-dropdown-checkbox:checked ~ .page-overlay {
+        display: block;
+        z-index: 10;
+
+        position: absolute;
+        top: calc(3.5rem + 4px);
+        right: 0;
+        bottom: 0;
+        left: 0;
+
+        background-color: rgba(0, 0, 0, 0.2);
+    }
+
+    .header-dropdown-contents {
+        flex-direction: column;
+        position: absolute;
+        top: calc(3.5rem + 4px);
+        left: 0;
+        right: 0;
+
+        z-index: 20;
+        background-color: #fff;
+        border-bottom: 4px solid var(--flipdot-yellow);
+        box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+    }
+
+    .site-nav,
+    .ext-nav {
+        flex-direction: column;
+    }
+
+    #space-status-tooltip {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .site-nav,
+    .ext-nav {
+        align-items: flex-end;
+    }
+
+    .site-nav a:hover,
+    .ext-nav a:hover,
+    .space-status > label:hover {
+        color: var(--flipdot-black);
+        background-color: var(--lighter-yellow);
+    }
+
+    .site-nav i.fas {
+        display: none;
+    }
+
+    .ext-nav {
+        margin-right: 1rem;
+    }
+
+    .ext-nav a,
+    .space-status > label {
+        padding: .4em .4em .3em;
+    }
+
+    .ext-nav i.fas,
+    .ext-nav i.fab {
+        font-size: 125%;
+    }
+
+    .ext-nav-label {
+        display: none;
+    }
+
+    .space-status label {
+        cursor: pointer;
+    }
+
+    #space-status-checkbox:checked ~ .space-status {
+        background: var(--light-yellow);
+    }
+
+    #space-status-checkbox:not(:checked) ~ .space-status #space-status-tooltip {
+        display: none;
+    }
+}

@@ -1,0 +1,10 @@
+{% extends "skel.html" %}
+{% block html_title %}flipdot.org{% endblock html_title %}
+{% block content %}
+
+<article>
+    {% include "includes/post_header.html" %}
+    {{ page.content | safe }}
+</article>
+
+{% endblock content %}

@@ -1,0 +1,11 @@
+<ul class="site-nav" role="menu">
+    {% for link in config.extra.site_nav %}
+    {# add class="active" for active page #}
+    <li role="menuitem">
+        <a href="{{ link.href }}">
+            <i class="fas fa-fw fa-angle-double-right" aria-hidden="true"></i>
+            {{ link.title }}
+        </a>
+    </li>
+    {% endfor %}
+</ul>

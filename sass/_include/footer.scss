@@ -1,0 +1,31 @@
+footer {
+    margin-top: auto;
+}
+
+.footer-nav {
+    margin: 0 auto;
+    padding: .5rem 1rem 1.5rem;
+    max-width: var(--max-content-width);
+
+    display: flex;
+    list-style: none;
+    font-size: 90%;
+    justify-content: center;
+}
+
+.footer-nav li:not(:first-child) {
+    margin-left: .8em;
+}
+
+.footer-nav li:not(:last-child) {
+    margin-right: .8em;
+}
+
+.footer-nav a {
+    color: var(--text-grey);
+    text-decoration: none;
+}
+
+.footer-nav a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,71 @@
+# The URL the site will be built for
+base_url = "https://flipdot.org"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+highlight_theme = "visual-studio-dark"
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+
+[[extra.site_nav]]
+title = "Blog"
+href = "/blog/"
+
+[[extra.site_nav]]
+title = "Projekte"
+href = "/projekte/"
+
+[[extra.site_nav]]
+title = "Kontakt"
+href = "/kontakt/"
+
+
+[[extra.footer_nav]]
+title = "Login"
+href = "/admin/"
+
+[[extra.footer_nav]]
+title = "Impressum"
+href = "/impressum/"
+
+[[extra.footer_nav]]
+title = "Datenschutz"
+href = "/datenschutz/"
+
+
+[[extra.ext_nav]]
+title = "RSS feed"
+href = "/rss/"
+icon_classes = "fas fa-rss"
+
+[[extra.ext_nav]]
+title = "Unser Chat-Raum"
+href = "https://matrix.to/#/#flipdot:matrix.org"
+icon_classes = "fas fa-hashtag"
+
+[[extra.ext_nav]]
+title = "flipdot bei Twitter"
+href = "https://twitter.com/FlipDot_KS"
+icon_classes = "fab fa-twitter"
+
+[[extra.ext_nav]]
+title = "flipdot bei GitHub"
+href = "https://github.com/flipdot"
+icon_classes = "fab fa-github"
+
+[[extra.ext_nav]]
+title = "flipdot bei GitLab"
+href = "https://gitlab.com/flipdot"
+icon_classes = "fab fa-gitlab"
+
+[[extra.ext_nav]]
+title = "flipdot bei Vimeo"
+href = "https://vimeo.com/flipdot"
+icon_classes = "fab fa-vimeo-v"
+
