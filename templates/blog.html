@@ -9,18 +9,6 @@
 </article>
 {% endfor %}
 
-<nav class="pagination">
-    <div class="prev">
-        {% if paginator.previous %}
-        <a href="{{ paginator.previous }}"><span aria-hidden="true">&larr;</span> Newer Posts</a>
-        {% endif %}
-    </div>
-    <span class="page-number">{{ paginator.current_index }} / {{ paginator.number_pagers }}</span>
-    <div class="next">
-        {% if paginator.next %}
-        <a href="{{ paginator.next }}">Older Posts <span aria-hidden="true">&rarr;</span></a>
-        {% endif %}
-    </div>
-</nav>
+{% include "includes/pagination.html" %}
 
 {% endblock content %}
