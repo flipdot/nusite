@@ -11,21 +11,21 @@ footer {
     list-style: none;
     font-size: 90%;
     justify-content: center;
-}
 
-.footer-nav li:not(:first-child) {
-    margin-left: .8em;
-}
+    li:not(:first-child) {
+        margin-left: .8em;
+    }
 
-.footer-nav li:not(:last-child) {
-    margin-right: .8em;
-}
+    li:not(:last-child) {
+        margin-right: .8em;
+    }
 
-.footer-nav a {
-    color: var(--text-grey);
-    text-decoration: none;
-}
+    a {
+        color: var(--text-grey);
+        text-decoration: none;
+    }
 
-.footer-nav a:hover {
-    text-decoration: underline;
+    a:hover {
+        text-decoration: underline;
+    }
 }

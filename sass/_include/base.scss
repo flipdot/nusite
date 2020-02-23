@@ -134,17 +134,17 @@ ul, ol {
 
 .pagination {
     margin: .5em auto;
-}
 
-.pagination a {
-    padding: .4em .7em;
-    text-decoration: none;
-    background-color: var(--lighter-yellow);
-}
+    a {
+        padding: .4em .7em;
+        text-decoration: none;
+        background-color: var(--lighter-yellow);
+    }
 
-.pagination a:hover {
-    color: inherit;
-    background-color: var(--light-yellow);
+    a:hover {
+        color: inherit;
+        background-color: var(--light-yellow);
+    }
 }
 
 .page-number {

@@ -8,20 +8,20 @@
 
     width: 100%;
     max-width: var(--max-content-width);
-}
 
-.site-header .title {
-    height: 4rem;
-    padding: .5rem 1.5rem .5rem 1rem;
-}
+    .title {
+        height: 4rem;
+        padding: .5rem 1.5rem .5rem 1rem;
+    }
 
-.site-header .title a {
-    display: block;
-}
+    .title a {
+        display: block;
+    }
 
-.site-header .logo {
-    height: 3rem;
-    vertical-align: top;
+    .logo {
+        height: 3rem;
+        vertical-align: top;
+    }
 }
 
 .site-header-separator {

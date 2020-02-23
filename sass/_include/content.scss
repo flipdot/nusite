@@ -1,43 +1,49 @@
-.site-content {
-    margin: 0 auto;
-    padding: 1rem;
-    width: 100%;
-    max-width: var(--max-content-width);
-}
-
 main {
     display: flex;
     flex-direction: column;
 }
 
-.site-content h1 {
-    display: flex;
-    flex-wrap: wrap;
+.site-content {
+    margin: 0 auto;
+    padding: 1rem;
+    width: 100%;
+    max-width: var(--max-content-width);
 
-    border-bottom: 2px solid var(--flipdot-yellow);
-}
+    h1 {
+        display: flex;
+        flex-wrap: wrap;
 
-.site-content img {
-    max-width: 100%;
-}
+        border-bottom: 2px solid var(--flipdot-yellow);
+    }
 
-.site-content pre {
-    padding: .4em .6em;
-    overflow-x: auto;
-}
+    img {
+        max-width: 100%;
+    }
 
-.site-content :not(pre) > code {
-    display: inline-block;
-    margin: .2em 0;
-    padding: .1em .3em;
-}
+    pre {
+        padding: .4em .6em;
+        overflow-x: auto;
+    }
 
-.site-content pre,
-.site-content :not(pre) > code {
-    background-color: var(--bg-grey);
-    border-radius: .3em;
-    /* TODO: keep this? */
-    border-bottom: 1px solid #aaa;
+    :not(pre) > code {
+        display: inline-block;
+        margin: .2em 0;
+        padding: .1em .3em;
+    }
+
+    pre, :not(pre) > code {
+        background-color: var(--bg-grey);
+        border-radius: .3em;
+        /* TODO: keep this? */
+        border-bottom: 1px solid #aaa;
+    }
+
+    iframe {
+        border: 0;
+        width: 100%;
+        height: 420px; /* ~ 0.55 * max-content-width */
+        max-height: 55vw;
+    }
 }
 
 .post-header time {
@@ -49,11 +55,4 @@ main {
     align-self: flex-end;
     padding-left: .75em;
     padding-bottom: .5rem;
-}
-
-iframe {
-    border: 0;
-    width: 100%;
-    height: 420px; /* ~ 0.55 * max-content-width */
-    max-height: 55vw;
 }
