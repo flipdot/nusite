@@ -93,22 +93,3 @@ ul, ol {
     // Default indentation is quite large, reduce it.
     padding-left: 1.8em;
 }
-
-.pagination {
-    margin: .5em auto;
-
-    a {
-        padding: .4em .7em;
-        text-decoration: none;
-        background-color: var(--lighter-yellow);
-    }
-
-    a:hover {
-        color: inherit;
-        background-color: var(--light-yellow);
-    }
-}
-
-.page-number {
-    margin: 0 .6em;
-}

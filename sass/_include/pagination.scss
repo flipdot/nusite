@@ -1,0 +1,29 @@
+.pagination {
+    margin: .5em;
+    display: flex;
+    align-items: center;
+
+    a {
+        padding: .4em .7em;
+        text-decoration: none;
+        background-color: var(--lighter-yellow);
+    }
+
+    a:hover {
+        color: inherit;
+        background-color: var(--light-yellow);
+    }
+
+    & > div {
+        flex: 1;
+    }
+
+    .prev {
+        display: flex;
+        justify-content: flex-end;
+    }
+}
+
+.page-number {
+    margin: 0 .6em;
+}
