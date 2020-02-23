@@ -12,8 +12,11 @@ Die Türklingeln funk-tionieren leider nicht immer. Falls unten die Tür zu sein
 
 * Mail: com {kringeldings} flipdot {punkt} org (Kann von allen Mitgliedern gelesen werden und wird archiviert!)
 * Telefon: +49 561 47395848
-* IRC: irc.freenode.net/flipdot, Details und Hilfe für Smartphone-Benutzer hier  
+* IRC: [irc.freenode.net/flipdot][irc], Details und Hilfe für Smartphone-Benutzer [hier][irc-details]  
   <i class="fas fa-exclamation-triangle"></i> Um Störungen durch Spammer im IRC zu verhindern, musst du einige Minuten warten, bevor du reden kannst.
+
+[irc]: irc://irc.freenode.net/flipdot
+[irc-details]: https://flipdot.org/wiki/IRC
 
 ## Anfahrt
 
