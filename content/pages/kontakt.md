@@ -6,7 +6,7 @@ Komym am besten an einem Dienstag ab 19 Uhr vorbei. Das ist unser *offener Tag*,
 
 Wenn du vorher mit uns Kontakt aufnehmen willst, melde dich einfach per Mail.
 
-Die Türklingeln funk-tionieren leider nicht immer. Falls unten die Tür zu sein sollte und nach mehrmaligem {!} Klingeln keiner öffnet, kannst du uns eine Mail senden, im IRC schreiben oder das Spacetelefon anrufen.
+Die Türklingeln funktionieren leider nicht immer. Falls unten die Tür zu sein sollte und nach mehrmaligem {!} Klingeln keiner öffnet, kannst du uns eine Mail senden, im IRC schreiben oder das Spacetelefon anrufen.
 
 ## Details
 
