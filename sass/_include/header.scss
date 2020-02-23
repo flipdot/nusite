@@ -151,10 +151,10 @@
         display: none;
     }
 
-    /* My greatest CSS hack to date:
-       Grey out the main page while the dropdown is open. Also close the
-       dropdown when the user clicks the greyed out page (but not when they
-       click the dropdown, or the header). */
+    // My greatest CSS hack to date:
+    // Grey out the main page while the dropdown is open. Also close the
+    // dropdown when the user clicks the greyed out page (but not when they
+    // click the dropdown, or the header).
     #header-dropdown-checkbox:checked ~ .page-overlay {
         display: block;
         z-index: 10;

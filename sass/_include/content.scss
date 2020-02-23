@@ -34,14 +34,14 @@ main {
     pre, :not(pre) > code {
         background-color: var(--bg-grey);
         border-radius: .3em;
-        /* TODO: keep this? */
+        // TODO: keep this?
         border-bottom: 1px solid #aaa;
     }
 
     iframe {
         border: 0;
         width: 100%;
-        height: 420px; /* ~ 0.55 * max-content-width */
+        height: 420px; // ~ 0.55 * max-content-width
         max-height: 55vw;
     }
 }

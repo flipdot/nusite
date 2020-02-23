@@ -1,23 +1,23 @@
 :root {
-    /* Yellow from flipdot logo */
+    // Yellow from flipdot logo
     --flipdot-yellow: #f5c600;
 
-    /* Black from flipdot logo */
+    // Black from flipdot logo
     --flipdot-black: #231f20;
 
-    /* A dark grey tone */
+    // A dark grey tone
     --dark-grey: #463e41;
 
-    /* A grey tone for de-emphasized text */
+    // A grey tone for de-emphasized text
     --text-grey: #74676a;
 
-    /* A grey tone for contrast with the otherwise white background */
+    // A grey tone for contrast with the otherwise white background
     --bg-grey: #eaeaea;
 
-    /* Lighter yellow than --flipdot-yellow */
+    // Lighter yellow than --flipdot-yellow
     --light-yellow: #ffd835;
 
-    /* Lighter yellow than --light-yellow */
+    // Lighter yellow than --light-yellow
     --lighter-yellow: #ffe060;
 
     --max-content-width: 768px;
@@ -61,8 +61,8 @@
     font-display: swap;
 }
 
-/* Change CSS' stupid default box sizing model
-   See https://css-tricks.com/box-sizing/ */
+// Change CSS' stupid default box sizing model
+// See https://css-tricks.com/box-sizing/
 html {
     box-sizing: border-box;
 }
@@ -76,8 +76,8 @@ html {
 }
 
 body {
-    /* Make absolute elements with no other positioned parent relative to the
-       full body, rather than the initial viewport. */
+    // Make absolute elements with no other positioned parent relative to the
+    // full body, rather than the initial viewport.
     position: relative;
 
     display: flex;
@@ -91,7 +91,7 @@ body {
 }
 
 strong {
-    /* Bold sucks, semi-bold is large enough */
+    // Bold sucks, semi-bold is large enough
     font-weight: 600;
 }
 
@@ -101,9 +101,9 @@ h1, h2, h3, h4, h5, h6 {
 
     line-height: 1.2;
 
-    /* ISOCPEUR glyphs have whitespace below, but not above. Work around this by
-       moving the whole tag down a little. TODO: Change the font instead of
-       working around its brokenness in CSS. */
+    // ISOCPEUR glyphs have whitespace below, but not above. Work around this by
+    // moving the whole tag down a little. TODO: Change the font instead of
+    // working around its brokenness in CSS.
     position: relative;
     top: .1em;
 }
@@ -113,10 +113,10 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 a {
-    /* Get rid of default link colorization */
+    // Get rid of default link colorization
     color: inherit;
 
-    /* Yellow underline */
+    // Yellow underline
     text-decoration-color: var(--flipdot-yellow);
 
     transition-property: background-color, color;
@@ -128,7 +128,7 @@ a:hover {
 }
 
 ul, ol {
-    /* Default indentation is quite large, reduce it. */
+    // Default indentation is quite large, reduce it.
     padding-left: 1.8em;
 }
 
