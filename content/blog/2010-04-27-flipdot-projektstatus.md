@@ -10,8 +10,8 @@ Kassel in Aussicht. Die Deutsche Bahn - ohnehin kein Vertragspartner um
 den man sich reißen würde - zog wenige Tage vorher zurück, um einem
 Investor\[TM\] alle Freiheiten zu lassen und ihm keine weiteren Mieter
 zuzumuten. Eine Änderung dieser Blockade ist kurzfristig nicht in
-Sicht.  
-  
+Sicht.
+
 Unsere neuerliche Raumsuche führte uns an den
 [Messeplatz](http://flipdot.org/wiki/index.php?title=Raumsuche/Messeplatz),
 in die
@@ -19,11 +19,11 @@ in die
 und in die
 [Gießbergstraße](http://flipdot.org/wiki/index.php?title=Raumsuche/Gie%C3%9Fbergstra%C3%9Fe).
 Jetzt werden wir wieder abwägen zwischen Fläche, Kosten, Zustand und
-soft factors wie Ambiente und Nachbarn.  
-  
+soft factors wie Ambiente und Nachbarn.
+
 Wir sind 13 zahlende Mitglieder, und wenn wir die Beiträge komplett
-verwenden, dann reicht es gerade für 400-500 EUR Miete.  
-  
+verwenden, dann reicht es gerade für 400-500 EUR Miete.
+
 Bis wir denn ein eigenes Dach haben, werden wir uns weiterhin im
 [Kunsttempel](http://flipdot.org/blog/index.php?/archives/47-Ab-jetzt-immer-Dienstags.html)
 treffen (Di., 19:00, komm dazu\!)  

@@ -12,8 +12,8 @@ In der Ingenieur-Schule Kassel - Via Bahnanbindung einfach mit der 1
 oder 3 Richtung Bahnhof Willhelmshöhe aus der Innenstadt. Haltestelle
 Murhardstraße. Unser Raum befindet sich im Keller, Nr. -1307. (Tipp:
 Eingang B, rechts direkt runter bis in den Keller, dann rechts in den
-Gang).  
-  
+Gang).
+
 Wenn du Probleme hast, den Raum zu finden: Mail an com {kringeldings}
 flipdot {punkt} org
 

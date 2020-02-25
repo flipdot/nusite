@@ -13,14 +13,14 @@ Quelle von allerlei Werkzeug, Messern und Schleifsteinen:
   
 Zum Schutz vor Rost bei nicht rostfreien Messern in diesem Shop nach
 Sinensis Kamelienöl suchen. Das ist geschmacksneutral und
-lebensmittelecht.  
-  
+lebensmittelecht.
+
 Zum gerade machen von den Steinen einen Rutscherstein nehmen (auf Größe
 beim Kauf achten). Damit der besser greift Siliziumkarbid in Pulverform
-drauf streuen (gibts auch bei Dictum).  
-  
-Der grüne, grobe Stein war ein Naniwa Sharpening Stone 400.  
-  
+drauf streuen (gibts auch bei Dictum).
+
+Der grüne, grobe Stein war ein Naniwa Sharpening Stone 400.
+
 Mir ist aufgefallen, dass eure orangenen Steine nicht so viel Material
 abgegeben haben und somit nicht so empfindlich auf "auf der stelle
 kratzen" sind. Es gab eine deutliche Kuhle im grünen Stein - da ist mir

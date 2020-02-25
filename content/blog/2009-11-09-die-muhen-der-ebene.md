@@ -11,8 +11,8 @@ vor allem die Anerkennung beim Finanzamt. Parallel machen wir uns
 Gedanken zu Ausstattung und Organisationsform, denn der Verein ist nur
 eine juristische Hülse. Die Gründungsversammlung wird lautstark
 angekündigt werden, dazu muss aber die Satzung aus dem Beta-Stadium
-raus sein.  
-  
+raus sein.
+
 Alle Gespräche mit Firmen, Stadt und anderen möglichen Unterstützern
 sind bisher sehr positiv verlaufen. Weiter gehts Dienstag abend
 [hier](http://flipdot.org/blog/index.php?/archives/47-Ab-jetzt-immer-Dienstags.html).

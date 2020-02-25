@@ -27,8 +27,8 @@ mir dazu so durch den Kopf ging: Wenn blinkende Fassaden, dann ist ja
 [Blinkenlights](http://blinkenlights.net/) erstmal die amtliche Adresse.
 Das Projekt war natürlich auch dabei. Alle anderen Häuser haben dann den
 Bogen völlig überspannt, und Pixelanzahl und Farbtiefe erhöht, bis man
-einfach das Gefühl hat, vor einem großen Fernseher zu stehen.  
-  
+einfach das Gefühl hat, vor einem großen Fernseher zu stehen.
+
 Vermutlich kann man das grafisch darstellen, mit wieviel Pixeln und
 wieviel Farben das Spiel noch cool rüberkommt. 4 Pixel ist zu wenig,
 400.000 zu viel. Vermutlich sind die 144 Pixel von Blinkenlights nahe am

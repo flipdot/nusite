@@ -9,8 +9,8 @@ Gastro-Pizzaofen: Große Mengen Pizza, bis jeder satt ist. Währenddessen
 kannst du coden, löten, fräsen, Git und Github kennen lernen, dich mit
 Kotlin und Golang beschäftigen, und dich im Hackerspace umschauen. Start
 am Freitag um ca 20:00, Ende am Sonntag.  
-Unkostenbeitrag für das Essen sind 5 EUR pro Person.  
-  
+Unkostenbeitrag für das Essen sind 5 EUR pro Person.
+
 Aktuelle Infos: telnet ppn.flipdot.org 2323  
   
 **Anmeldung nötig: com //aet// flipdot.org**  

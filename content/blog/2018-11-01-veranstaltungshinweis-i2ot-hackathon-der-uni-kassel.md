@@ -12,10 +12,10 @@ Wochenende sollen in der Mensa 73 kleinere Projekte aus dem Bereich
 Intelligent Internet of Things umgesetzt werden. Zur Verfügung stehen
 Kaffee, Mate, Essen, Lötbauteile, Raspberry Pis, 3D-Brillen,
 Sensorstühle, Touchbildschirme, Kinnects, Kameras, und noch mehr
-Sensorik.  
-  
+Sensorik.
+
 Einige Mitglieder vom flipdot werden ebenfalls teilnehmen und sich dort
-austoben.  
-  
+austoben.
+
 Mehr Informationen und Anmeldung unter
 [https://www.ies.uni-kassel.de/p/i²othack/](https://www.ies.uni-kassel.de/p/i²othack/ "https://www.ies.uni-kassel.de/p/i²othack/")

@@ -6,8 +6,8 @@ path = "/blog/2010/03/29/steine-auf-dem-weg-zu-unseren-raumen"
 +++
 Letzte Woche noch waren die unterschriftsreifen Verträge fast auf dem
 Tisch, mittlerweile steht die Vermietung seitens der Deutschen Bahn
-plötzlich in Frage.  
-  
+plötzlich in Frage.
+
 Wie beurteilen wir die Lage am Hbf? Wie wollen wir weiter vorgehen?
 Tragen es alle mit, die Beiträge auf die Hohe Kante zu legen? Wie
 könnten Alternative aussehen? Welche Deadlines wollen wir uns setzen?  

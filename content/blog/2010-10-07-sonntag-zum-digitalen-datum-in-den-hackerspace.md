@@ -16,8 +16,8 @@ Antwort zum Leben, dem Universum und dem ganzen Rest erklären zu lassen.
 Es gibt einen Workshop zur Herstellung des wichtigsten Nahrungsmittels
 für Nerds und Musique live aus der Konserve. Ab ca. 15:00 in der
 [Sickingenstraße 10](http://flipdot.org/wiki/index.php?title=Anfahrt) in
-Kassel.  
-  
+Kassel.
+
 Edit: Und ja, man kann Pizza selbst machen, allerdings hat der Teig- und
 Backprozess doch so einige Kontrollparameter...  
   

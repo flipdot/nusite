@@ -11,6 +11,6 @@ Ich habe mich für ein Seminar in der Uni in den letzten Wochen mit dem
 chinesischen Sozialkreditsystem beschäftigt, und dort einen Vortrag
 gehalten - da das Thema ganz interessant ist, und gerade im Bereich Big
 Data / Machine Learning bzw. Soziologie und Politik auch sehr aktuell,
-halte ich den gern nochmal im Flipdot.  
-  
+halte ich den gern nochmal im Flipdot.
+
 Gäste und Interessiert willkommen, Eintritt frei.

@@ -17,8 +17,8 @@ Angebot für die renovierten Räume, jetzt auch mit Fenster zum
 rausgucken. Am 23.6. packen wir unsere Sachen aus den aktuellen Räumen
 in ein Zwischenlager, für den Übergang haben wir von einer anderen
 Mieterin im Haus einen der hellgrünen Räume im Plan angeboten bekommen -
-da können wir während des Umbaus sein...  
-  
+da können wir während des Umbaus sein...
+
 Zum einen schade, weil wir viel Arbeit investiert haben, zum anderen gut
 - wir werden Geld sparen, bleiben auf dem Gelände und bekommen eine
 amtliche hackerspace - location unter der Erde ;)  

@@ -37,13 +37,13 @@ Typische Aktivitäten in einem Hackerspace sind
 
 Der Hackerspace stellt hier die Infrastruktur bereit. Das ist meist
 Strom, ein Internetzugang, Netzwerkverbindungen, Räume, Werkzeug und
-Getränke.  
-  
+Getränke.
+
 Meist ist beim Eintritt keine Gebühr zu entrichten. Da die
 Bereitstellung der Infrastruktur aber Geld kostet, wird meist um eine
 Mitgliedschaft gebeten. Oft werden die Räumlichkeiten auch anderen
-Gruppen aus demselben Themenbereich zur Verfügung gestellt.  
-  
+Gruppen aus demselben Themenbereich zur Verfügung gestellt.
+
 Bekannte Hackerspaces sind beispielsweise C4 in Köln, c-base in Berlin,
 Das Labor in Bochum, Metalab und Happylab in Wien, HackerbotLabs in
 Seattle, HacDC in Washington DC, NYC Resistor \[1\] in New York City und

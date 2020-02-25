@@ -11,8 +11,8 @@ weiss angemalten Schaufenster des ehemaligen Ladens, und prüfen die
 Räume, ob sie für uns taugen. Man findet den Eingang, wenn man von der
 Straßenbahnhaltstelle "Weinberg" aus in Richtung Westen die von oben
 kommende Frankfurter Straße leicht lebensmüde überquert, und dann die
-Rampe zum Philosphenweg hinuntergeht. Nach 10m ist links die Tür.  
-  
+Rampe zum Philosphenweg hinuntergeht. Nach 10m ist links die Tür.
+
 Danach haben wir im [San
 Marino](http://www.kassel-essentrinken.de/kunden/gastro/KS/st/sanmarino/vk.html)
 (Beste Pizzeria Kassles) 12 Plätze reserviert. Interessierte

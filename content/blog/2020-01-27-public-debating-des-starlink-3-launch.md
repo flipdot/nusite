@@ -26,8 +26,8 @@ einladen gemeinsam mit uns den Livestream zu verfolgen.
 Falls ihr Lust und Zeit habt komm doch vorbei und wir schauen uns an wie
 eine Falcon 9 Trägerrakete startet und landet. Anschliessend wird dann
 laut Flugplan eine Stunde später die Payload in circa 300 km Höhe
-ausgeworfen.  
-  
+ausgeworfen.
+
 Falls das Wetter mitspielt, können wir im Anschluss gegen 18 Uhr den 60
 Satelliten der letzten Batch, Starlink-2, zuschauen wie sie sich mit
 einem leuchtendem Hall-Effekt-Antrieb selbstständig in die Arbeitshöhe

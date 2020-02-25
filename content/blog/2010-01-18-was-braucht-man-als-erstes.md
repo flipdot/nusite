@@ -42,7 +42,7 @@ Detail
 Habe eben Spreadshirt und einen Anbieter aus Kassel verglichen, sehr
 ähnlich, und vor Ort kann man das Shirt auch mal anfassen. ([CorelDraw
 Datei in
-Pfaden](https://flipdot.org/blog/uploads/fuerreinengelbdruck.cdr "fuerreinengelbdruck.cdr")).  
-  
+Pfaden](https://flipdot.org/blog/uploads/fuerreinengelbdruck.cdr "fuerreinengelbdruck.cdr")).
+
 Edit: Ganz auf die Schnelle kann man sofort [hier im Shop
 bestellen](http://flipdot.spreadshirt.de/).

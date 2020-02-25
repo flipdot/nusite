@@ -16,7 +16,7 @@ Congress Everywhere an:
 [Congress-Stream](https://streaming.media.ccc.de/ "stream") gucken,
 bausteln, Pizza Essen im kleinen Rahmen in unseren gerade neu bezogenen
 Räumen ([gleicher Ort](https://flipdot.org/wiki/Kontakt "Anfahrt"), ein
-Stockwerk tiefer).  
-  
+Stockwerk tiefer).
+
 Ab dem Nachmittag bis in den Abend - guckt auf unserem Blog rechts oben,
 ob der Space auf ist, oder ruft einfach an: +49 561 47395848

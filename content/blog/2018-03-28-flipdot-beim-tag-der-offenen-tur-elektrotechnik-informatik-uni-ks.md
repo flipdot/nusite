@@ -5,8 +5,8 @@ author = "typ_o"
 path = "/blog/2018/03/28/flipdot-beim-tag-der-offenen-tur-elektrotechnik-informatik-uni-ks"
 +++
 Wir sind wieder mit einem Stand auf dem Tag der offenen Tür des
-Fachbereichs Elektrotechnik / Informatik der Uni Kassel vertreten.  
-  
+Fachbereichs Elektrotechnik / Informatik der Uni Kassel vertreten.
+
 Wann: 12.04.2018 ab 14:30 Uhr  
 Wo: Wilhelmshöher Allee 71-73, 34121 Kassel
 

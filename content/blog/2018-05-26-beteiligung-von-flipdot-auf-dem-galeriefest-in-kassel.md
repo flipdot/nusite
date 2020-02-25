@@ -5,8 +5,8 @@ author = "typ_o"
 path = "/blog/2018/05/26/beteiligung-von-flipdot-auf-dem-galeriefest-in-kassel"
 +++
 Mehrere flipdot Member haben an zwei Installationen auf dem [Galeriefest
-Kassel 2018](http://galerien-kassel.de/) gearbeitet.  
-  
+Kassel 2018](http://galerien-kassel.de/) gearbeitet.
+
 Der Realitätstranslator läßt dich in ein Paralleluniversum reisen, wo du
 den Platz mit deinem Doppelgänger tauscht und du dich über all die
 merkwürdigen Menschen dort wundern kannst - allesamt Doppelgänger\!  

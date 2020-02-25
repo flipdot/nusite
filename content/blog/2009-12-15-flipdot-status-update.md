@@ -8,8 +8,8 @@ Die Satzung ist jetzt pre-release. Wir haben die Änderungswünsche des
 Amtsgerichts eingearbeitet und die Satzung nochmal vorgelegt. Jetzt
 warten wir auf ein verbindliches OK von Finanzamt und Gericht, dann wird
 flipdot e.V. gegründet. Dies wird nicht mehr dieses Jahr klappen, dafür
-aber direkt im Januar.  
-  
+aber direkt im Januar.
+
 Das heutige Treffen findet wegen einer raumgreifenden Ausstellung
 **nicht im Kunsttempel** statt, sondern wie immer um 19:00 wieder im
 Ausweichquartier in der Pizzeria Da Toni, www.pizza-datoni.de,

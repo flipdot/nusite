@@ -12,7 +12,7 @@ Wir machen gemeinsam unsere Räder fit für die Saison:
 \- Flicken  
 \- Reparieren
 
-Werkzeug und Material ist vorhanden.  
-  
+Werkzeug und Material ist vorhanden.
+
 Sonntag, 14. April 15:00 Uhr vor dem
 [Space](https://flipdot.org/wiki/Kontakt "asdf").

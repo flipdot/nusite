@@ -5,8 +5,8 @@ author = "typ_o"
 path = "/blog/2010/02/16/vorbereitung-auf-das-baustel-wochenende"
 +++
 Heute Abend treffen wir uns wieder im Kunsttempel in Kassel um
-**19:00h**. Interessiert? Einfach dazukommen.  
-  
+**19:00h**. Interessiert? Einfach dazukommen.
+
 Hauptsächlich wird es um die Vorbereitung des Baustel-Wochenendes gehen,
 das wir vom 19.2. bis zum 21.2.2010 ausrichten: "Wir wollen ans Gelbe
 vom Ei\!" - Mikrocontroller von basics bis advanced.  

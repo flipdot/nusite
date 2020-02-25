@@ -15,8 +15,8 @@ Material:
 Den Clip mit zwei Flachzangen soweit überbiegen, dass der Anpressdruck
 für das Fon nicht zu groß ist. Ein Loch für die Stativschraube mit
 einem konischen Schleifer hineindremeln (Bohren ist wegen des gehärteten
-Federstahls schwierig).  
-  
+Federstahls schwierig).
+
 Das Holzklötzchen fräsen.
 [smartphone-halter00.dxf](https://flipdot.org/blog/uploads/smartphone-halter00.dxf "smartphone-halter00.dxf").
 Der G-Code ist für einen 3 mm Fräser:
@@ -25,8 +25,8 @@ Und hier noch das [Estlcam](http://www.estlcam.com/) - File dazu:
 [smartphone-halter00.e25](https://flipdot.org/blog/uploads/smartphone-halter00.e25 "smartphone-halter00.e25").
 Das Klötzchen etwas abschrägen, damit es gut in den Clip paßt. Die
 Mutter (Habe ich aus einer Webcam aus dem Kaffeeladen geerntet) in das
-Klötzchen kleben (Zweikomponentenkleber).  
-  
+Klötzchen kleben (Zweikomponentenkleber).
+
 Griffe aus dem Clip nehmen, Schrumpfschlauch über die Backen des Clips.
 Mit einem Seitenschneider Löcher fur die Griffdrähte in den
 Schrumpfschlauch knipsen, und die Griffe wieder einsetzen.

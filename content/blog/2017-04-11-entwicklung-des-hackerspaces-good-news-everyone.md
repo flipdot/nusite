@@ -20,14 +20,14 @@ Space durch ihren Beitrag am Leben halten, fast verdoppelt. Die Beiträge
 pro Member sinken etwas, weil gerade viel Schüler und Studenten dazu
 kommen - und das ist positiv\! (Wir haben eine sehr individuelle
 Beitragspolitik - und finden für jeden, der wenig Geld hat, eine
-Lösung\!).  
-  
+Lösung\!).
+
 Wir sind jetzt genau ein Jahr in den neuen Räumen im Kulturbahnhof - der
 Umzug war dringend nötig und hat sich absolut gelohnt. Viel bessere
 Möglichkeiten, Platz für alle Aktivitäten, eine [heftig genutzte
 Küche](https://flipdot.org/blog/archives/364-Food-Pr0n.html), und nette
-Nachbarn.  
-  
+Nachbarn.
+
 Seit dem Gründungstreffen am 6.10.2009 ist der Space kontinuierlich
 gewachsen und hat auch einige Krisen überstanden (Wir haben gelernt,
 nicht p0wned zu werden ;)

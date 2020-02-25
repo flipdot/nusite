@@ -16,8 +16,8 @@ Eindruck, was den Space so ausmacht: Viele Mitglieder, darunter sehr
 ambitionierte - Anschaffungen wie ein Lasercutter, der preislich wohl
 das teuerste Einzelstück gewesen sein dürfte, wurden von kleineren
 Gruppen bewältigt, die das Geld zusammengelegt haben und dann
-verbilligte Nutzungsminuten an der Maschine kriegen.  
-  
+verbilligte Nutzungsminuten an der Maschine kriegen.
+
 Organisationslevel hat sich über die fünf Jahre, die es den space gibt,
 weit entwickelt - einige
 [Prozeduren](http://metalab.at/wiki/Kategorie:Prozeduren), die man sich
@@ -29,8 +29,8 @@ Gängige Probleme haben wir auch mal angesprochen - die Ähnlichkeiten
 sind unverkennbar ;)  
 Lustig fand ich die Installatin, dass irgendwann um zehn rum das
 Deckenlicht rot blinkt - Start einer 10-minütigen Aufräumphase für alle,
-übernommen vom [NYC Resistor](http://www.nycresistor.com/).  
-  
+übernommen vom [NYC Resistor](http://www.nycresistor.com/).
+
 Am Schluss noch ein längeres Gespräch mit Flo, der Blinkenwall gebaut
 hat und ähnliche Module wie Wolle bei uns entwickelt, und gerade eine
 Fertigung in großer Stückzahl plant - ggf. Zusammenarbeit Wien - Kassel?

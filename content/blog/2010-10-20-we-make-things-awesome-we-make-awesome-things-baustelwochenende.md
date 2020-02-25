@@ -11,8 +11,8 @@ path = "/blog/2010/10/20/we-make-things-awesome-we-make-awesome-things-baustelwo
 Draußen wird es kalt und ungemütlich, drinnen verbreitet das Oszilloskop
 und die Kontroll-LED vom Evaluation-Board ein gemütliches Licht, das
 Flußmittel bewirkt weihnachtliche Gerüche, und der Nerd-made Pizzateig
-geht auf.  
-  
+geht auf.
+
 Bring dein Projekt mit, löte, schraube, code und hab Spaß am Gerät.
 [Hier die Einladung
 (pdf)](http://flipdot.org/wiki/images/6/64/2010_10_22_Bausteln2.pdf).

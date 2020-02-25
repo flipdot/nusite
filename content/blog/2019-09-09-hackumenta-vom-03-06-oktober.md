@@ -24,8 +24,8 @@ Wir laden Dich ein, uns zu unserer Veranstaltung Hackumenta – 10 Years
 in Space zu besuchen. Hier kannst du unseren Space besichtigen,
 Workshops und Vorträge besuchen, leckere Sachen essen, zu live gemixter
 Musik tanzen, und [realisierte und entstehende
-Projekte](https://flipdot.org/wiki/Projekte) besichtigen.  
-  
+Projekte](https://flipdot.org/wiki/Projekte) besichtigen.
+
 Mehr Informationen unter [0xa.flipdot.org](http://0xa.flipdot.org/)  
   
 Übrigens: Wenn dir der Flyer nicht gefällt, [generier' dir halt 'nen

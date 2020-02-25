@@ -9,8 +9,8 @@ plugs via your Raspberry Pi:
 [rcswitch-pi](http://github.com/r10r/rcswitch-pi). Maybe you like to
 switch off some unneccessary lights in your neighborhood. In this case
 you only need to iterate all the "house codes" of that simple protocol.
-But for a better operating range you want a better antenna.  
-  
+But for a better operating range you want a better antenna.
+
 Hier die Ergebnisse meiner Versuche, einem [einfachen Sender für die 433
 MHz](http://www.watterott.com/de/RF-Link-Sender-434MHz) ISM Frequenz am
 Raspberry Pi zu einer etwas besseren Reichweite zu verhelfen. Ich habe
@@ -20,11 +20,11 @@ Neben einem Viertelwellenstrahler (164mm Draht am Antennenanschluss),
 einem Dipol (Zwei solcher Viertelwellenstrahler an Antenne und Masse)
 hatte dich die besten Ergebnisse mit einer
 [Groundplane](http://de.wikipedia.org/wiki/Groundplane_\(Antenne\)) -
-Antenne und einer Sperrtopfantenne.  
-  
+Antenne und einer Sperrtopfantenne.
+
 Die Reichweite habe ich mit einem Scanner-Empfänger und einer
-batterieversorgten Funksteckdose ausprobiert.  
-  
+batterieversorgten Funksteckdose ausprobiert.
+
 Für die Groundplane - Antenne braucht man 4 Drahtstücke mit je 164 mm
 Länge. Eines kommt an den Antennenanschluss des Sendemoduls senkrecht
 nach oben, die anderen drei an den Masseanschluss im Winkel von 45 °

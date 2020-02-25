@@ -9,8 +9,8 @@ path = "/blog/2015/08/03/tip-fur-fraswerkstucke-die-nicht-in-den-arbeitsbereich-
 Mindestens zwei Bohrungen so anlegen, dass sie auch bei 180 Drehung die
 Position behalten (spiegelsymmetrisch). Dann bei der ersten
 Werkstückhälfte ganz durch das Werkstück und fast ganz durch die
-Opferplatte bohren.  
-  
+Opferplatte bohren.
+
 Nach dem Wenden lässt sich das Werkstück dann z.B. mit zwei Bohrern als
 Bolzen vor dem Spannen ausrichten. Wenn man 6 mm Bohrungen brauchen
 kann, dann eignen sich die Bolzen von Ikea-Ivar-Regalen ganz

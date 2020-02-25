@@ -16,8 +16,8 @@ werden das Wochenende in Form einer
 [Unkonferenz](http://de.wikipedia.org/wiki/BarCamp) durchführen: Auf
 einer Tafel listen wir Zeitabschnitte und Räume auf, und jeder der mag,
 trägt sich als Workshoptrainer oder als Redner eines Vortrags ein - also
-alles sehr locker und hämdsärmelig.  
-  
+alles sehr locker und hämdsärmelig.
+
 Inhaltlich geht es vom Aufbau einfacher Bausätze (Du hast einen
 Lötkolben? Bring ihn mit\!) über die Grundlagen der
 Mikrocontrollertechnik (Wie schließe ich eine Leuchtdiode und einen
@@ -25,8 +25,8 @@ Taster an) bis zu einer Übersicht über die gängigen Programmiergeräte
 und Entwicklungssysteme (naturlich wird der beliebte Arduino nicht
 fehlen). Am Ende des Spektrums stehen dann schon eher esoterische Themen
 wie "Arduino in Eclipse/CDT programmieren" oder "Arduino & Host
-Integration: Processing & Firmata" auf der Tafel.  
-  
+Integration: Processing & Firmata" auf der Tafel.
+
 Auf jeden Fall bietet das Wochenende Gelegenheit, die Mitglieder von
 flipdot - hackerspace kassel kennen zu lernen, oder gleich selber
 Mitglied zu werden. Und ganz bestimmt werden wir jede Menge über
@@ -36,6 +36,6 @@ Elektronik, Software, Netzwerke, Servos und vieles, vieles mehr plaudern
 Im kunsTTempel vom Freitag, 19.2.2010 18:00 (Aufbau) bis Sonntag Abend
 21.2.2010. Samstag und Sonntag gehts um ca. 10:00 los, Ende nach Bedarf
 ;) Allervorläufigstes Programm
-[hier](http://flipdot.org/wiki/index.php?title=Ideen/WorkshopAngebote).  
-  
+[hier](http://flipdot.org/wiki/index.php?title=Ideen/WorkshopAngebote).
+
 Ach so: Kostet nichts, Spende willkommen\!

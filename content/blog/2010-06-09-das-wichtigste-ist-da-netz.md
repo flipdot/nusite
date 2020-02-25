@@ -14,8 +14,8 @@ nebenan angeschlossen (Wlan geht sogar im Arkadas\!), dreckige Möbel
 geputzt, die Spülmaschine ist angeschlossen und spült, unser flipdot
 Logo ist auf den orangenen Würfel am Eingang geklebt (Klebefolie von
 Pfannkuch & Laserdrucker). Die Deckenlampen sind jetzt per Lan zu
-betätigen (Test).  
-  
+betätigen (Test).
+
 Wir haben jetzt 4 komplette Schlüsselsätze, arazer denkt über eine
 "Space offen" Meldung auf der Website nach. (kann man bis da hin ja
 manuell im Wiki bzw in Twitter machen)

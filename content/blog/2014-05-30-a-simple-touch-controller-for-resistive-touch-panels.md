@@ -34,8 +34,8 @@ need a level shifter.
   
 ![](https://flipdot.org/blog/uploads/touch_final.jpg)  
   
-Final touch controller on perfboard.  
-  
+Final touch controller on perfboard.
+
 The controller in the first step connects the X-resistor-plane to VCC
 and GND using port b3 and b1 and then measures the voltage at one
 terminal of the Y-plane. This A/D-input also is connected to VCC via an

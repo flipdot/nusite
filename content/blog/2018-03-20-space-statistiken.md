@@ -6,8 +6,8 @@ path = "/blog/2018/03/20/space-statistiken"
 +++
 Nach und nach wächst die Anzahl der visualisierten Messwerte aus dem
 Space. Die öffentlichen Werte sind
-[hier](https://stats.flipdot.org/dashboard/db/home?orgId=1) zu sehen.  
-  
+[hier](https://stats.flipdot.org/dashboard/db/home?orgId=1) zu sehen.
+
 Die CO2 Belastung:  
   
 [![](https://flipdot.org/blog/uploads/CO2-Bildschirmfotovom2018-03-20091238.serendipityThumb.png)](https://flipdot.org/blog/uploads/CO2-Bildschirmfotovom2018-03-20091238.png)  

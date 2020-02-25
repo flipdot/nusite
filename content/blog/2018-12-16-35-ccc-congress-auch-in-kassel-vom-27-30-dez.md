@@ -13,8 +13,8 @@ Wir schauen bei uns im [Hackerspace](https://flipdot.org/wiki/Kontakt)
 ausgewählte Vorträge aus dem
 [Programm](https://fahrplan.events.ccc.de/congress/2018/Fahrplan/) live
 an, unterhalten uns darüber, bausteln an unseren Projekten weiter und
-kochen was leckeres.  
-  
+kochen was leckeres.
+
 So ca. ab Mittag sind unsere Türen geöffnet. Ihr seht rechts oben auf
 dieser Seite sobald geöffnet ist. Seid willkommen\! Eintritt frei.  
   

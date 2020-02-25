@@ -29,8 +29,8 @@ Spitze gestalten? Na, und die Schlauchpumpe sieht so aus:
 Großer Nachteil für diesen Zweck: Die Förderrate ist nicht konstant,
 sondern schwankt regelmäßig, wenn die Rollen den Schlauch erfassen bzw.
 freigeben. Das Teil dürfte dann eher im Bar-Bot zur Förderung von Gin
-Verwendung finden.  
-  
+Verwendung finden.
+
 Farbe zum Testen ist auch schon da (Braun und schwarz, \*seufz\*), aber
 für umsonst:  
   

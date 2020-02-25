@@ -13,15 +13,15 @@ In unseren vorherigen Räumen hatten wir ein
 dessen Knebel auf der Innenseite mit einem Motor betätigt wurde.
 Aufschließen konnte man elektrisch, und von außen mit dem Schlüssel.  
   
-<https://flipdot.org/blog/uploads/IMAG1549.jpg>.  
-  
+<https://flipdot.org/blog/uploads/IMAG1549.jpg>.
+
 Das lief lange Zeit auch gut, bis der Motor einen Endschalter überfahren
 hat, und das Schloß in Stellung "Zu" stehen blieb - der Knebel nicht in
 waagerechter Lage, sondern am mechanischen Anschlag.  
 Wirkung: Der Space war zu, aber auch von außen nicht zu öffnen, da der
 Schlüssel nur schließt, wenn der Knebel innen waagerecht steht. Wir sind
-dann durchs Fenster in den Space eingebrochen und haben aufgemacht.  
-  
+dann durchs Fenster in den Space eingebrochen und haben aufgemacht.
+
 Um diese Situation nicht wieder zu haben, und auch einem Strom- oder
 Rechnerausfall vorzubeugen, haben wir die Lösung erweitert. Der Riegel
 von dem Aufsatzschloß hat jetzt kein festes Gegenstück mehr, sondern

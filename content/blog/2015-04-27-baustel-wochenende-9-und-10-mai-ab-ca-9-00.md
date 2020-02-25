@@ -9,8 +9,8 @@ path = "/blog/2015/04/27/baustel-wochenende-9-und-10-mai-ab-ca-9-00"
 Eine gemeinsame Aktion von
 [BauKunstErfinden](http://www.baukunsterfinden.org/de/) und Flipdot.
 [HIER](https://www.google.de/maps/place/51%C2%B019'18.3%22N+9%C2%B030'11.8%22E/@51.3217671,9.5033555,16z)
-gehts rein.  
-  
+gehts rein.
+
 Was ist ein Baustelwochenende?  
   
 Jeder der Lust hat, bringt was mit und arbeitet daran - und dann:

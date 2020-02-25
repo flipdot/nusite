@@ -21,8 +21,8 @@ schon entfernt werden).
   
 Der Innenleiter der neuen Antenne wird an die Speiseleitung angelötet,
 die zwischen den beiden Masseflächen mit den vielen Durchkontaktierungen
-herauskommt. Der Schirm kommt an die Masse.  
-  
+herauskommt. Der Schirm kommt an die Masse.
+
 Danach ist die Reichweite besser. Wie groß der Gewinn ist, kann ich
 mangels Messmitteln nur raten - auf jeden Fall geht's jetzt auch bis in
 den Keller. In der Literatur wird Inverted-F und

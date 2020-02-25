@@ -7,8 +7,8 @@ path = "/blog/2013/06/29/ip-via-audio-for-raspberry-pi"
   
   
 A simple Python script uses some mp3 files to tell you the IP address of
-your Raspberry without stuff like nmap or peeking into your router.  
-  
+your Raspberry without stuff like nmap or peeking into your router.
+
 Audio aktivieren:  
 sudo apt-get install alsa-utils  
 sudo apt-get install mpg321

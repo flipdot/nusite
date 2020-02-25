@@ -44,12 +44,12 @@ Fertige, selbst hergestellte Platine
 
 Es wird dabei die grundsätzliche Bedienung des Schaltplan- und
 Layouteditors vermittelt sowie die Kleinigkeiten auf die zu achten ist,
-falls eine Platine geätzt werden soll.  
-  
+falls eine Platine geätzt werden soll.
+
 In der kommenden Woche folgt ein kurzes Hands On, wie mit einfachen
 Mitteln aus dem Layout dann eine fertige Platine fertigen kann. Referent
-ist [Wolle](http://blog.elektrowolle.de/).  
-  
+ist [Wolle](http://blog.elektrowolle.de/).
+
 Edit: Spannender Vortrag - jede Menge Praxistipps - und mit ca 3h auch
 lang genug für Nerds :)  
   

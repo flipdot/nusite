@@ -10,8 +10,8 @@ Raspberry Pi einfach im Betrieb auszuschalten ist keine gute Idee - die
 Foren sind voller Berichte über zerschossene SDCARDs. Wir wollen eine
 Unterbrechungsfreie Stromversorgung für den Pi bauen (incl. PCB), die
 den PI so lange versorgen kann, bis er ordentlich heruntergefahren ist
-oder der Strom wieder da ist.  
-  
+oder der Strom wieder da ist.
+
 Schaltungsvorschlag:  
   
 [![](https://flipdot.org/blog/uploads/usv-supply.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/usv-supply.jpg)  

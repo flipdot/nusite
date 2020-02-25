@@ -11,8 +11,8 @@ GSR erstellte eine App, mit der Facebook-Nutzer einen
 Persönlichkeitstest machen konnten. Die Schnüffel-App griff dann
 planmäßig über eine Programmierschnittstelle von Facebook nicht nur
 auf die Daten derjenigen, die die App benutzten, sondern auch auf die
-ihrer Freunde zu.  
-  
+ihrer Freunde zu.
+
 Facebook hat also das System, in dem die Daten von Millionen Menschen
 ohne ihre Einwilligung bei anderen Firmen landen, selbst geschaffen.
 Dementsprechend [schloss Mark Zuckerberg \[..\] auch nicht

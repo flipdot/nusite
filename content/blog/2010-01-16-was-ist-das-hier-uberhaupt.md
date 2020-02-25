@@ -85,8 +85,8 @@ Blinkende Dinge
 Derzeit ist einer der Favoriten der Raumsuche das ehemalige Zollamt am
 Hauptbahnhof, die Gruppe trifft sich morgen um 13:50 vor dem Burger King
 im Bahnhofsfoyer, um das Gebäude gemeinsam zu besichtigen, dabei sind
-Interessierte willkommen.  
-  
+Interessierte willkommen.
+
 Bis ein Raum gefunden ist, wird es weitere gemeinsame und offene
 Aktionen wie den Workshop auf der Interfiction geben, Ankündigungen dazu
 im [Blog](http://flipdot.org/blog/) der Initiative. Die wöchentlichen

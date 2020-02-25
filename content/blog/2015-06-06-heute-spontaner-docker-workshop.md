@@ -8,7 +8,7 @@ path = "/blog/2015/06/06/heute-spontaner-docker-workshop"
   
 Wir haben uns heute spontan entschlossen einen Docker-Workshop
 durchzuführen. Jeder der ebenfalls Lust hat vorbei zu schauen ist
-herzlich eingeladen.  
-  
+herzlich eingeladen.
+
 Die offizielle Webseite von Docker findest du hier
 <https://www.docker.com/>

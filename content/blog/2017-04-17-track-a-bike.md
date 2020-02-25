@@ -9,13 +9,13 @@ Wir haben uns mit unserem lokalen Fahrradleihsystem
 die App etwas näher angeschaut. Mithilfe von
 [mitmproxy](https://mitmproxy.org/) konnten wir die Funktionsweise der
 API nachvollziehen und sammeln so seit einigen Wochen die Daten darüber,
-wann welches Fahrrad an welcher Station steht.  
-  
+wann welches Fahrrad an welcher Station steht.
+
 Die Rohdaten liegen als XML Dateien vor. Zur besseren Verarbeitung
 konvertieren wir diese zunächst zu CSV Dateien, welche sich leicht in
 Datenbanksysteme importieren lassen. Bisher haben wir die Graphdatenbank
-[Neo4J](https://neo4j.com/) verwendet.  
-  
+[Neo4J](https://neo4j.com/) verwendet.
+
 Zunächst haben wir einzelne Tagesausschnitte visualisiert. Hier sieht
 man etwa alle Fahrten, welche am 29.03. zwischen 07:00 und 08:00 Uhr
 angetreten wurden:  
@@ -29,8 +29,8 @@ Fahrradtransporter, welchen die DB Rent einsetzt, um die Fahrräder
 gleichmäßig in der Stadt zu verteilen. Auch sind uns Fahrräder
 aufgefallen, welche im Zuge eines Fahrradtransportes erst einige Tage
 später wieder eingesetzt wurden - vermutlich wurden diese zur Wartung
-in eine Werkstatt gebracht und später wieder eingesetzt.  
-  
+in eine Werkstatt gebracht und später wieder eingesetzt.
+
 Um zu sehen, welche Stationen mehr mit Transportern versorgt werden
 müssen als andere, haben wir die folgende Grafik erstellt:  
   
@@ -42,8 +42,8 @@ Kunden darstellen. Zu sehen ist, dass 4,3% aller Transportfahrten
 zwischen den Stationen "Uni-Kassel / Menzelstr." und "ICE Bahnhof /
 Willy-Brandt-Platz" stattfinden. Nur die 8 häufigsten Transporte und
 Fahrten zwischen zwei Stationen sind aus Übersichtlichkeitsgründen
-dargestellt.  
-  
+dargestellt.
+
 Man sieht hier schnell bestätigt, was man vielleicht bereits im Gefühl
 hatte: Vom ICE Bahnhof aus schnappt man sich schnell ein Rad und fährt
 bergab zum Kirchweg oder zur Menzelstraße, während kaum einer Lust hat,
@@ -57,17 +57,17 @@ verfügbar sind. Auch hier sieht man einigen Stationen an, ob sie auf
 Bergen oder in Tälern liegen. Die Station "Ihringshäuser Str. / KVG"
 etwa hat eine konstante Abnahme der Fahrradzahl, bis sie wieder
 schlagartig ansteigt. Kein Wunder, dass kaum jemand dort hinauf radeln
-möchte.  
-  
-Übrigens: Insgesamt konnten wir 491 Fahrräder und 58 Stationen finden.
+möchte$1
+
+$2brigens: Insgesamt konnten wir 491 Fahrräder und 58 Stationen finden.
 Das sind zwei Stationen mehr, aber 9 Fahrräder weniger als auf der
-Konrad Website angegeben.  
-  
+Konrad Website angegeben.
+
 Eine Fragestellung von uns war, herauszufinden, ob und wie man die
 Transportfahrten optimieren / minimieren kann, jedoch fehlen uns hier
-noch gute Ansätze.  
-  
-Über weitere Ideen zur Auswertung der Daten / Informationsgewinnung /
+noch gute Ansätze$1
+
+$2ber weitere Ideen zur Auswertung der Daten / Informationsgewinnung /
 Ansätze für maschinelle Lernverfahren freuen wir uns\!  
   
 Alle hier gezeigten Grafiken wurden mit der Datenbasis vom 25.03. -

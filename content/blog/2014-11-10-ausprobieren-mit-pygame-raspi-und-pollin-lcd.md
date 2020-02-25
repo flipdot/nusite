@@ -12,7 +12,7 @@ Man weiss ja immer nicht so richtig, welche Schriften und Farben man
 nehmen soll. Weil die Pygame-Lib Truetype unterstützt, ist z.B.
 [dafont.com](http://www.dafont.com/) eine gute Adresse,
 [diese](http://www.dafont.com/white-rabbit.font) Schrift geht gut als
-Monospaced.  
-  
+Monospaced.
+
 Bei der Suche nach angenehmen Farbpaletten hilft [Adobe Color
 CC](https://color.adobe.com/de/explore/most-popular/?time=all).

@@ -11,8 +11,8 @@ Während den vier Tagen gibt es auf dem Leipziger Messegelände
 zahlreiche Talks und Workshops zu verschiedensten Themen aus IT,
 Security, Kultur, Bildung, Raumfahrt, uvm.. Eine Liste aller Vorträge
 findet sich
-[hier](https://events.ccc.de/congress/2017/Fahrplan/index.html).  
-  
+[hier](https://events.ccc.de/congress/2017/Fahrplan/index.html).
+
 Für alle die kein Ticket ergattern konnten oder wollten, öffnen wir vom
 27. bis 30.12. jeweils ab ca. Mittag unseren Hackspace
 ([Anfahrt](https://flipdot.org/wiki/Kontakt)) und laden ein zum
@@ -21,8 +21,8 @@ Blinkenlights. Voraussichtlich bauen wir unter Anderem auch an unserem
 automatischen Getränke-Bestellsystem mit MQTT-vernetzten Waagen weiter,
 und an unseren Fenster- und Türsensoren-Projekt. Zwischendurch kochen
 wir und backen wir Pizza. Wir freuen uns auf die gemeinsame Gespräche
-und Diskussionen rund um die Vorträge oder mitgebrachte Themen.  
-  
+und Diskussionen rund um die Vorträge oder mitgebrachte Themen.
+
 Außerdem ist das ein guter Zeitpunkt sich mal den Hackspace anzuschauen.
 Elektro- und Mechanik-Werkstatträume, 3D-Drucker, CNC Fräse, Mikroskop,
 allerlei Meßgeräte und viele andere Dinge können gemeinsam erforscht und

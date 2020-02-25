@@ -14,7 +14,7 @@ Programmierung von AVR's mit C"
   
 Es sei jeder aufgerufen zu den entsprechenden Terminen zu erscheinen um
 dem jeweiligen Vortrag zu lauschen und sich mit einem beliebigen Thema
-für weitere Termine anzumelden.  
-  
+für weitere Termine anzumelden.
+
 Beste Grüße,  
 Dino0815
