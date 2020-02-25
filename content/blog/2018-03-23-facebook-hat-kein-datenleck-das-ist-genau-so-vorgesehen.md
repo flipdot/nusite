@@ -23,7 +23,6 @@ könnten.
 [Quelle](https://netzpolitik.org/2018/facebook-endlich-die-bunten-apps-rausschmeissen-eine-anleitung/).
 Dort ist auch beschrieben, wie man die Schnüffel-App von facebook
 entfernt, und seine Datenschutzeinstellung schärfer einstellt.  
-  
 
 > Wir empfehlen jedoch: facebook komplett verlassen und vorher alles
 > löschen, soweit möglich. (Natürlich keine Garantie, dass die Daten

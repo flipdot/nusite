@@ -11,6 +11,5 @@ zum schalten.
 
 [![](https://flipdot.org/blog/uploads/20180815_153946.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/20180815_153946.jpg)
 
-  
 ["Beheiztes Mauspad" vollständig
 lesen](https://flipdot.org/blog/archives/412-Beheiztes-Mauspad.html#extended)

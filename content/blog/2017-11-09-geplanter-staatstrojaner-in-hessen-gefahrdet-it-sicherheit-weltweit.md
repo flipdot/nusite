@@ -8,9 +8,6 @@ Im Bundesland Hessen soll ein Gesetz die geheimdienstliche Ausweitung
 der Nutzung von  
 Staatstrojanern erlauben. Wir fordern: Kein Staatstrojaner für Hessen\!
 
-  
-  
-
 Der von den Fraktionen der CDU und Bündnis90/Die Grünen im Hessischen
 Landtag vorgelegte „[Gesetzesentwurf zur Neuausrichtung des
 Verfassungsschutzes in
@@ -23,9 +20,6 @@ Online-Durchsuchung. Mit der Informationsseite
 hessischen Chaos Computer Clubs über die Funktionsweise und Gefahren von
 Staatstrojanern informieren.
 
-  
-  
-
 „Eine solche Regelung gefährdet die Sicherheit Millionen vernetzter
 Geräte weltweit. Der Einsatz von Staatstrojaner setzt verwundbare
 Software in Smartphones oder Laptops voraus“, erklärt Markus Drenger vom
@@ -37,9 +31,6 @@ Hintertüren nicht zu schließen, um diese später selbst nutzen zu
 können. Wissen über Lücken vor Herstellern geheimzuhalten, um
 Sicherheitsupdates zu verhindern, schadet der IT-Sicherheit.“
 
-  
-  
-
 Sicherheitslücken, wie sie für Staatstrojaner und andere Schadsoftware
 notwendig sind, werden aufgrund ihrer enormen Tragweite für teilweise
 sechs- bis siebenstellige Eurobeträge gehandelt. Da solche Lücken oft in
@@ -50,9 +41,6 @@ Windparks oder Atomkraftwerke betroffen“, betont Magnus Frühling vom CCC
 Frankfurt. „Die Vergangenheit hat leider gezeigt, dass sogar finanziell
 und personell gut ausgestattete Behörden wie die NSA nicht in der Lage
 sind, die Geheimhaltung dieser Lücken sicherzustellen.“
-
-  
-  
 
 Im Mai diesen Jahres erregte ein [von Kriminellen verbreiteter
 Erpressungs-Trojaner](http://faktenfinder.tagesschau.de/wanna-cry-cyberangriff-101.html)
@@ -81,13 +69,8 @@ IT-Sicherheitsleitfadens](https://wirtschaft.hessen.de/sites/default/files/media
 der gemeinsam mit dem Fraunhofer-Institut für Sichere
 Informationstechnologie (SIT) in Darmstadt erarbeitet wurde.
 
-  
-  
-
 Wir fordern die Abgeordneten im Hessischen Landtag vor diesem
 Hintergrund auf, dem Gesetzentwurf in der derzeitigen Form nicht
 zuzustimmen.
 
-  
-  
 flipdot hackerspace kassel, ERFA Kassel des Chaos Computer Clubs

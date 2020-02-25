@@ -8,8 +8,6 @@ Ein Vorgeschmack, was Hackerspace in Kassel sein kann: flipdot-Members
 zu Gast auf der
 [interfiction](http://www.interfiction.org/abstracts-cv/helmut-fligge/).
 
-  
-  
 Viele "Aha"-Augenblicke und Spaß am Gerät.
 
 [![](https://flipdot.org/blog/uploads/VidTerm.serendipityThumb.GIF)](https://flipdot.org/blog/uploads/VidTerm.GIF)EIDT:

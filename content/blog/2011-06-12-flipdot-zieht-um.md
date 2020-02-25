@@ -22,7 +22,6 @@ da können wir während des Umbaus sein...
 Zum einen schade, weil wir viel Arbeit investiert haben, zum anderen gut
 - wir werden Geld sparen, bleiben auf dem Gelände und bekommen eine
 amtliche hackerspace - location unter der Erde ;)  
-  
 
 > **Edit:** wir haben uns gegen den Raum entschieden, weil das letzte
 > Angebot dann doch gut 400 EUR monatliche Kosten bedeutet hätte - und

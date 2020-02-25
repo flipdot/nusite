@@ -16,6 +16,5 @@ Manchmal brennt es richtig durch, sodass man ein Brandloch sehen kann
 und manchmal sieht es optisch völlig in Ordnung aus, ist im Inneren
 dennoch defekt.
 
-  
 ["AVR Programmer repariert" vollständig
 lesen](https://flipdot.org/blog/archives/315-AVR-Programmer-repariert.html#extended)

@@ -13,7 +13,6 @@ anmelden). Erfreulicher Weise ist der Space auch an allen anderen Tagen
 sehr gleichmäßig besucht (Dienstag ist eher so Party Mode, und eine gute
 Gelegenheit zum Socializing).
 
-  
 [![](https://flipdot.org/blog/uploads/members.serendipityThumb.png)](https://flipdot.org/blog/uploads/members.png)  
 In den letzten fünf Quartalen hat sich die Zahl der Menschen, die den
 Space durch ihren Beitrag am Leben halten, fast verdoppelt. Die Beiträge

@@ -4,8 +4,6 @@ date = 2013-04-09T15:43:39Z
 author = "typ_o"
 path = "/blog/2013/04/09/more-ledeko-for-our-space"
 +++
-  
-  
 An old Roentgen film viewer combied with a handful of [WS2801 IC with
 three RGB LED
 each](http://shop.led-studien.de/de/elektronik-bausatze/led-pixel).

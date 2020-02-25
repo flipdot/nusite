@@ -18,10 +18,7 @@ begrenzten Zeit jedoch nur GPG eingerichtet. Für verschlüsselte
 Kommunikation mit dem Smartphone haben wir [Signal](https://signal.org/)
 empfohlen und kurz vorgestellt.
 
-  
-  
 ![](https://flipdot.org/blog/uploads/2018-04-07_kryptocafe.serendipityThumb.jpg)  
-  
 
 Knapp zusammengefasst besteht die Einrichtung von GPG aus den folgenden
 Schritten:
@@ -39,18 +36,13 @@ Schritten:
   - Mit seinem Kommunikationspartner eine Mail austauschen, um sich die
     Schlüssel zu senden und die Fingerabdrücke zu vergleichen
 
-  
 Eine ausführliche Anleitung findet sich Beispielsweise [im c't
 Magazin.](https://www.heise.de/ct/artikel/Einfach-erklaert-E-Mail-Verschluesselung-mit-PGP-4006652.html)
-
-  
 
 Vielen Dank an der Stelle nochmal an die interessierten Teilnehmer sowie
 an das [Kollektivcafé Kurbad](http://www.kurbad-jungborn.de/cafe.htm)
 für die Ausrichtung der Veranstaltungsreihe und Bereitstellung der
 Räumlichkeiten\!
-
-  
 
 Großes Interesse bestand auch am Thema Festplattenverschlüsselung. Wie
 das geht, werden wir im Rahmen unserer Veranstaltung

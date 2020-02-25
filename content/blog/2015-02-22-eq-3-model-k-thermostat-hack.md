@@ -8,8 +8,6 @@ path = "/blog/2015/02/22/eq-3-model-k-thermostat-hack"
 [flipdot: hackerspace kassel](https://vimeo.com/flipdot) on
 [Vimeo](https://vimeo.com).
 
-  
-  
 Der elektronische Heizkörperthermostat eQ-3 Model K (Ähnlich:
 [Reichelt](http://www.reichelt.de/Regler-Thermostate/EHT-CLASSIC-PRO/3/index.html?ACTION=3&GROUPID=4388&ARTICLE=102691&SEARCH=eQ-3%20Model%20K&OFFSET=16&WKID=0&))
 lässt sich in ein paar Minuten auf elektronische Betätigung umrüsten, um

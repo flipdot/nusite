@@ -9,7 +9,6 @@ oft offener Raum, in dem sich technisch-kreative Menschen treffen und
 austauschen. Oft werden Themen rund um (aber nicht beschränkt auf)
 Wissenschaft, Computer, Internet, Netzwerke, Elektronik und
 Programmierung behandelt.  
-  
 
 <div id="mediaspace">
 
@@ -17,18 +16,6 @@ This text will be replaced
 
 </div>
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 Typische Aktivitäten in einem Hackerspace sind
 
 \- Lernen und Wissen teilen  

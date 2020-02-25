@@ -4,7 +4,6 @@ date = 2016-03-22T21:50:35Z
 author = "typ_o"
 path = "/blog/2016/03/22/besuch-im-open-lab-in-augsburg"
 +++
-  
 Bei den Mönchen soll es so gewesen sein: Wenn die von Kloster zu Kloster
 reisten, fühlten sie sich sofort wieder wie zu Hause, weil bei ihren
 Ordensbrüdern am fremden Ort alles bekannt und vertraut war.

@@ -9,7 +9,5 @@ path = "/blog/2019/03/06/demo-gegen-zensur-infrastruktur-kassel-am-9-3-ab-13-00"
 Die Demo richtet sich unter Anderem gegen Uploadfilter. Warum diese ein
 Problem werden können, erklärt dieses Video:
 
-  
-  
 Info vom Chaos Computer Club
 [hier](https://www.ccc.de/de/updates/2019/article13).

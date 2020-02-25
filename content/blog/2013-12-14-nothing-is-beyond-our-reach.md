@@ -18,7 +18,6 @@ Documents", The Supreme Council, Washington.
 
 [![](https://flipdot.org/blog/uploads/nrol-39-mission-patch.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/nrol-39-mission-patch.jpg)[![](https://flipdot.org/blog/uploads/tumblr_lu0gq2iYy21qaxtrf1.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/tumblr_lu0gq2iYy21qaxtrf1.jpg)
 
-  
 Die anderen Mission patches sind auch nicht ohne, please be sure to wear
 your tinfoil hat\!
 

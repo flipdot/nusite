@@ -4,8 +4,6 @@ date = 2013-06-29T18:23:18Z
 author = "typ_o"
 path = "/blog/2013/06/29/ip-via-audio-for-raspberry-pi"
 +++
-  
-  
 A simple Python script uses some mp3 files to tell you the IP address of
 your Raspberry without stuff like nmap or peeking into your router.
 

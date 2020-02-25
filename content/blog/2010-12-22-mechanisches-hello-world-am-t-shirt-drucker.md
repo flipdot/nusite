@@ -6,8 +6,6 @@ path = "/blog/2010/12/22/mechanisches-hello-world-am-t-shirt-drucker"
 +++
 Erste mechanische Baustufe des T-Shirt-Druckers.
 
-  
-  
 Jetzt brauche ich nur noch eine funktionierende Lösung, wie ich die eher
 dickflüssige Farbe auf den Stoff bringe. Irgendwas mit einem Stempel?
 Leerer Edding mit Stoffarbe gefüllt? Ein Röhrchen, das durch

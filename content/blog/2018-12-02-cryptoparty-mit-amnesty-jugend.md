@@ -16,14 +16,11 @@ Transportverschlüsselung vs. Ende-zu-Ende-Verschlüsselung), die
 Funktionsweise von [Tor](https://www.torproject.org/) erklärt und wie
 sich damit staatliche Zensur aushebeln lässt, sowie auf die
 Möglichkeiten für Festplattenverschlüsselung hingewiesen.  
-  
 
 |                                                                                                                                                                      |                                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [![](https://flipdot.org/blog/uploads/2018/amnesty_cryptoworkshop_2018.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/2018/amnesty_cryptoworkshop_2018.jpg) | [![](https://flipdot.org/blog/uploads/2018/amnesty_cryptoworkshop_2018_2.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/2018/amnesty_cryptoworkshop_2018_2.jpg) |
 
-  
-  
 Im anschließenden Praxisteil haben wir gemeinsam in kleinen Gruppen auf
 den mitgebrachten Geräten der Teilnehmer die gewünschte Software
 eingerichtet. Bei den tollen Gesprächen konnten wir auch viel über

@@ -9,6 +9,5 @@ Helsinki](http://cessu.blogspot.com/2008/09/have-you-listened-to-your-program-to
 hat sich gedacht, "wie das wohl klingt, wenn ich meine CPU nur mit
 3,5kHz takte und den Accu-Inhalt in einen Synthesizer füttere?". So:
 
-  
 Download:
 [nerdmusic.mp3](https://flipdot.org/blog/uploads/nerdmusic.mp3 "nerdmusic.mp3")

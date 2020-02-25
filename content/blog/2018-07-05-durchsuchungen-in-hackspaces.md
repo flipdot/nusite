@@ -12,8 +12,6 @@ offen gegen Positionen der AfD stellte, nutzte die E-Mail-Services eines
 alternativen Mail-Providers [RiseUp](https://riseup.net/), für den die
 Zwiebelfreunde aktiv geworben und spenden gesammelt haben.
 
-  
-
 Möglich machte [diese
 Durchsuchung](https://netzpolitik.org/2018/zwiebelfreunde-durchsuchungen-wenn-zeugen-wie-straftaeter-behandelt-werden/)
 offenbar das [Polizeiaufgabengesetz in
@@ -27,8 +25,6 @@ erhebliche Grundrechtseingriffe zur Folge haben werden. [Deswegen
 demonstriert mit uns am 7.7. in Düsseldorf gegen diese neuen
 Gesetze.](https://www.no-polizeigesetz-nrw.de/demo-7-7/)
 
-  
-
 Am Abend des 4. Juli rückte die Polizei, genauer: die Zentral- und
 Anlaufstelle Cybercrime NRW in den „Langen August“ in Dortmund ein und
 durchsuchte neben dem alternativen Hoster [FREE\!](http://www.free.de/)
@@ -41,8 +37,6 @@ geleakt](https://www1.wdr.de/nachrichten/ruhrgebiet/cybercrime-razzia-dortmund-n
 haben. Hier ging es wohl auch darum, den Quellenschutz auf
 technisch-taktische Weise zu unterlaufen.
 
-  
-
 Auch die Gesetzesänderungen im letzten Jahr trugen ihren Teil dazu bei.
 Die offensichtlichsten Neueinführungen, wie beispielsweise die
 Online-Durchsuchung, kaschierten relativ gut die Änderungen an der
@@ -52,8 +46,6 @@ im vorigen Jahr schon [ein paar
 Zeilen](https://www.lawblog.de/index.php/archives/2017/06/23/schoene-neue-zeugenwelt/)
 geschrieben.
 
-  
-
 Lasst uns wachsam bleiben und aufeinander acht geben. Je mehr wir Hack-
 und Makerspaces unseren sozialen Stellenwert in unseren Städten und
 Quartieren herausstellen und verdeutlichen, desto besser sind wir in
@@ -61,7 +53,6 @@ Zukunft geschützt vor unwidersprochener Willkür.
 
 ([Quelle](https://www.devtal.de/blog/2018/07/05/pag-firstfallout/))
 
-  
 **Reporter ohne Grenzen** schreibt:
 
 „Das Vorgehen der Strafverfolgungsbehörden ist absolut unverhältnismäßig
@@ -73,7 +64,6 @@ beschlagnahmten Geräte und Dokumente sofort zurückgeben und die
 Hintergründe ihres Vorgehens erklären.“
 ([Quelle](https://www.reporter-ohne-grenzen.de/deutschland/alle-meldungen/meldung/solidaritaet-mit-netzaktivisten/))
 
-  
 Weitere Quellen zu den Durchsuchungen:
 
 [CCC](https://www.ccc.de/de/updates/2018/hausdurchsuchungen-bei-vereinsvorstanden-der-zwiebelfreunde-und-im-openlab-augsburg)  

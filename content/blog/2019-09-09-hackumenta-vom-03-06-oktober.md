@@ -4,14 +4,9 @@ date = 2019-09-09T21:41:41Z
 author = "Baustel"
 path = "/blog/2019/09/09/hackumenta-vom-03-06-oktober"
 +++
-  
-
-  
 ![Hackumenta
 Flyer](https://flipdot.org/blog/uploads/hackumenta_2019_flyer_small.png)
 
-  
-  
 **flipdot ist seit 2009 der Kasseler Hackerspace und seit 2016 lokaler
 Chaos Computer Club Erfahrungsaustauschkreis.**
 

@@ -9,7 +9,6 @@ path = "/blog/2018/04/13/2018-04-20-ubertragung-des-big-brother-awards-im-flipdo
 18:00 Uhr, im flipdot ([Anfahrt](https://flipdot.org/wiki/Kontakt))
 übertragen wir die Verleihung des [Big Brother
 Awards](https://bigbrotherawards.de/). (Keine Kosten)  
-  
 
 > Die Big Brother Awards (BBA) sind Negativpreise, die jährlich in
 > mehreren Ländern an Behörden, Unternehmen, Organisationen und Personen
@@ -19,8 +18,6 @@ Awards](https://bigbrotherawards.de/). (Keine Kosten)
 > haben oder
 > machen.([Q](https://de.wikipedia.org/wiki/Big_Brother_Awards))
 
-  
-  
 Falls darüber hinaus noch was stattfindet (Grillen oder so) steht das
 dann rechtzeitig hier.  
 Wer das Sofa nicht verlassen will, kann den [Stream selber

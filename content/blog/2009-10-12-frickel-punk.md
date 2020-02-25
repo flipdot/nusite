@@ -12,16 +12,12 @@ Fernzündung betätigt, die bewirkt, daß sich die zwischen den Elektroden
 befindliche M10-Schraube in einem 1,5 Kilovolt-Funkenregen auflöst -
 dann knallt das nich nur so ein bisschen. Wirklich nicht.
 
-  
-  
 Wenn man in den Abgasstrom des Motors einer Kettensäge einen wie eine
 Trompete geformten Schallkanal statt eines Schalldämpfers anbringt, wenn
 man diesen nicht wie normal in einen Auspuff münden läßt, sondern
 stattdessen einen Schalltrichter wie bei einem Megafon anbringt - dann
 "knattert" das nicht. Nein, Wirklich nicht.
 
-  
-  
 Und wenn man den Antennendraht für den neben dem schon aktiven
 UKW-Rundfunksender außerdem geplanten Kurzwellensender in den Baum
 bringen will - dann macht man das nicht mit einer Zwille, sondern mit

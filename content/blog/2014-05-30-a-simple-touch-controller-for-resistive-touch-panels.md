@@ -18,8 +18,6 @@ usecase I decided to do my own stuff.
 
 Original touch controller with USB to be replaced.
 
-  
-  
 ![](https://flipdot.org/blog/uploads/touch_sch.jpg)
 
 Here you have

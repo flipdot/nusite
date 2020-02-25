@@ -13,20 +13,15 @@ ein.
 
 **All Creatures Welcome** - der Film über das Mindset der Menschen im
 und um den Chaos Computer Club.  
-  
 
 <div style="padding: 56.25% 0 0 0;">
 
 </div>
 
-  
-
 [ALL CREATURES WELCOME - Official Trailer](https://vimeo.com/196339260)
 from [Sandra Trostel](https://vimeo.com/sandratrostel) on
 [Vimeo](https://vimeo.com).
 
-  
-  
 Mit dem Aufruf „use hacking as a mindset“ tauchen wir zusammen mit der
 Filmemacherin in eine Art dokumentarisches Adventure Game ein und
 erforschen die Welt der „Komputerfrieks“, wie sie sich beim
