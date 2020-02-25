@@ -29,8 +29,8 @@ This text will be replaced
   
   
   
-Typische Aktivitäten in einem Hackerspace sind  
-  
+Typische Aktivitäten in einem Hackerspace sind
+
 \- Lernen und Wissen teilen  
 \- Präsentationen und Vorführungen  
 \- Soziale Aktivitäten, Partys, Spiele

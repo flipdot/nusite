@@ -28,10 +28,10 @@ Elektro- und Mechanik-Werkstatträume, 3D-Drucker, CNC Fräse, Mikroskop,
 allerlei Meßgeräte und viele andere Dinge können gemeinsam erforscht und
 benutzt werden. Wenn wir dein Interesse wecken konnten, du aber dennoch
 Fragen hast, melde dich einfach via
-[Kontakt](https://flipdot.org/wiki/Kontakt).  
-  
-[![](https://flipdot.org/blog/uploads/Bildschirmfotovom2017-12-21174213.serendipityThumb.png)](https://flipdot.org/blog/uploads/Bildschirmfotovom2017-12-21174213.png)  
-  
+[Kontakt](https://flipdot.org/wiki/Kontakt).
+
+[![](https://flipdot.org/blog/uploads/Bildschirmfotovom2017-12-21174213.serendipityThumb.png)](https://flipdot.org/blog/uploads/Bildschirmfotovom2017-12-21174213.png)
+
 Die
 [Fairydust](https://www.heise.de/newsticker/meldung/34C3-Der-Chaos-Communication-Congress-geht-nach-Leipzig-3713516.html),
 das Maskotchen der CCC Veranstaltungen.

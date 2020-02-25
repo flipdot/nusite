@@ -59,11 +59,11 @@ und Makerspaces unseren sozialen Stellenwert in unseren Städten und
 Quartieren herausstellen und verdeutlichen, desto besser sind wir in
 Zukunft geschützt vor unwidersprochener Willkür.
 
-([Quelle](https://www.devtal.de/blog/2018/07/05/pag-firstfallout/))  
+([Quelle](https://www.devtal.de/blog/2018/07/05/pag-firstfallout/))
+
   
-  
-**Reporter ohne Grenzen** schreibt:  
-  
+**Reporter ohne Grenzen** schreibt:
+
 „Das Vorgehen der Strafverfolgungsbehörden ist absolut unverhältnismäßig
 und auch als Angriff gegen Anonymität im Internet anzusehen“, sagte
 ROG-Geschäftsführer Christian Mihr. „Das Vorgehen schüchtert
@@ -71,11 +71,11 @@ Netzaktivisten, aber auch Journalisten ein, die sich für sichere
 Kommunikation im Internet einsetzen. Die Behörden müssen alle
 beschlagnahmten Geräte und Dokumente sofort zurückgeben und die
 Hintergründe ihres Vorgehens erklären.“
-([Quelle](https://www.reporter-ohne-grenzen.de/deutschland/alle-meldungen/meldung/solidaritaet-mit-netzaktivisten/))  
+([Quelle](https://www.reporter-ohne-grenzen.de/deutschland/alle-meldungen/meldung/solidaritaet-mit-netzaktivisten/))
+
   
-  
-Weitere Quellen zu den Durchsuchungen:  
-  
+Weitere Quellen zu den Durchsuchungen:
+
 [CCC](https://www.ccc.de/de/updates/2018/hausdurchsuchungen-bei-vereinsvorstanden-der-zwiebelfreunde-und-im-openlab-augsburg)  
 [Spiegel
 Online](http://www.spiegel.de/netzwelt/web/hausdurchsuchungen-bei-netzaktivisten-chaos-computer-club-kritisiert-polizeivorgehen-a-1216463.html)  

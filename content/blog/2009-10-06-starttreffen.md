@@ -6,8 +6,8 @@ path = "/blog/2009/10/06/starttreffen"
 +++
 Sammlung zu den Themen heute Abend
 [hier](http://flipdot.org/wiki/index.php?title=Flipdot_Treffen/2009-10-06),
-pse contribute.  
-  
+pse contribute.
+
 **Edit:**  
 Das erste Treffen war (für mich) eine große Überraschung: 28 Teilnehmer
 mit *so* vielen Zielen und Ideen, daß man sich fragt: "Warum erst

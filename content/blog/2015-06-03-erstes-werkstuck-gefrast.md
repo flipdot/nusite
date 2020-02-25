@@ -8,10 +8,10 @@ path = "/blog/2015/06/03/erstes-werkstuck-gefrast"
 Ein Pizzaschieber. Sperrholz - das erste Werkstück muss ja nicht gleich
 aus Metall sein. Das ertse Lehrgeld bereits bezahlt: Zu wenig Vorschub
 und zu hohe Drehzahl - Fräser angelaufen (zu heiss und deswegen
-verfärbt, was die Härte des Fräsers vermindert)  
-  
+verfärbt, was die Härte des Fräsers vermindert)
+
 Ach zum Backen: Ich will hier noch für das hervorragende
 [Plötzblog](https://www.ploetzblog.de/) werben, nach einem Rezept aus
-dem Blog habe ich zuletzt ganz hervorragendes Baguette gemacht:  
-  
+dem Blog habe ich zuletzt ganz hervorragendes Baguette gemacht:
+
 [![](https://flipdot.org/blog/uploads/baguette.serendipityThumb.JPG)](https://flipdot.org/blog/uploads/baguette.JPG)

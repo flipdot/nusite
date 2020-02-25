@@ -6,6 +6,6 @@ path = "/blog/2014/12/11/watts-up-pi-misst-watts"
 +++
 Der [Pi ist schon lange
 montiert](http://flipdot.org/blog/archives/254-Watts-up.html) (Danke
-Burkard\!), jetzt loggt er auch die Leistung:  
-  
+Burkard\!), jetzt loggt er auch die Leistung:
+
 [![](https://flipdot.org/blog/uploads/watts-up-pi-power.serendipityThumb.png)](https://flipdot.org/blog/uploads/watts-up-pi-power.png)

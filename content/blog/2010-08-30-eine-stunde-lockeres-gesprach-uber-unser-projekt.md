@@ -10,8 +10,8 @@ unterhalten. Technische Tiefe angepaßt an die Radiohörer - also bei
 weitem nicht CRE-Level :)  
 Worum gings: Was ist ein Hackerspace, was machen wir da, wie viele sind
 wir, wo sind die Frauen, wir bauen uns ein Paradies (Salm), 3D-Drucken,
-Projekte, Finanzierung.  
-  
+Projekte, Finanzierung.
+
   
   
 Download:

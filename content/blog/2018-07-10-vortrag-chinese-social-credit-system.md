@@ -5,8 +5,8 @@ author = "Baustel"
 path = "/blog/2018/07/10/vortrag-chinese-social-credit-system"
 +++
 2018-07-10 um 20:30 Uhr im Space **Das chinesische gesellschaftliche
-Bonitätssystem**  
-  
+Bonitätssystem**
+
 Ich habe mich für ein Seminar in der Uni in den letzten Wochen mit dem
 chinesischen Sozialkreditsystem beschäftigt, und dort einen Vortrag
 gehalten - da das Thema ganz interessant ist, und gerade im Bereich Big

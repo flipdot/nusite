@@ -12,12 +12,12 @@ den ich im [Museum für
 Kommunikationsgeschichte](http://www.teo.lt/node/1066) in Kaunas
 fotografiert habe. (In
 [diesem](http://www.teo.lt/gallery/flash/Telekomun.swf) Flashpanorama
-findet man das Gerät sogar in einer Ecke).  
-  
-[![](https://flipdot.org/blog/uploads/seebeck_kaunas_2.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/seebeck_kaunas_2.jpg)  
-  
-[![](https://flipdot.org/blog/uploads/seebeck_kaunas_1.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/seebeck_kaunas_1.jpg)  
-  
+findet man das Gerät sogar in einer Ecke).
+
+[![](https://flipdot.org/blog/uploads/seebeck_kaunas_2.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/seebeck_kaunas_2.jpg)
+
+[![](https://flipdot.org/blog/uploads/seebeck_kaunas_1.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/seebeck_kaunas_1.jpg)
+
 Augenscheinlich treibt der Generator ein Röhrenradio, allerdings nicht
 direkt, sondern vermutlich über einen Akku als Zwischenspeicher
 (Zeichnung rechts unten). (Das selbe in neu gibts wohl

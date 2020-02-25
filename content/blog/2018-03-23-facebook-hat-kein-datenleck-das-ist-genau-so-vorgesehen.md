@@ -18,8 +18,8 @@ ohne ihre Einwilligung bei anderen Firmen landen, selbst geschaffen.
 Dementsprechend [schloss Mark Zuckerberg \[..\] auch nicht
 aus](https://www.facebook.com/zuck/posts/10104712037900071), dass andere
 Unternehmen mit ähnlichen Apps auch viele Daten gesammelt haben
-könnten.  
-  
+könnten.
+
 [Quelle](https://netzpolitik.org/2018/facebook-endlich-die-bunten-apps-rausschmeissen-eine-anleitung/).
 Dort ist auch beschrieben, wie man die Schnüffel-App von facebook
 entfernt, und seine Datenschutzeinstellung schärfer einstellt.  

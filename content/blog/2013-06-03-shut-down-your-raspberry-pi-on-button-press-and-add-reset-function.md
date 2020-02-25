@@ -11,11 +11,11 @@ and 8) and a reset button to
 and 2). Copy
 [shutdown.py](http://flipdot.org/blog/uploads/shutdown.py.txt) to your
 /home/pi folder, and add line in crontab with crontab -e: "@reboot sudo
-python /home/pi/shutdown.py" (without the quotes). Done.  
-  
-![](https://flipdot.org/blog/uploads/raspi_shutdown.jpg)  
-  
-![](https://flipdot.org/blog/uploads/raspi_reset.jpg)  
-  
+python /home/pi/shutdown.py" (without the quotes). Done.
+
+![](https://flipdot.org/blog/uploads/raspi_shutdown.jpg)
+
+![](https://flipdot.org/blog/uploads/raspi_reset.jpg)
+
 Das Script legt eine Interruptroutine an, die bei einer fallenden Flanke
 am GPIO pin 31 angesprungen wird.

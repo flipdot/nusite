@@ -4,8 +4,8 @@ date = 2016-12-02T10:35:30Z
 author = "typ_o"
 path = "/blog/2016/12/02/review-ppn"
 +++
-Pizzaprogrammiernacht \\o/  
-  
+Pizzaprogrammiernacht \\o/
+
 \- Raum 4 hat gut funktioniert, fast durchgehend belegt  
 \- Schöne Netzwerkspielzeuge (Drucker, Flipdots, Blinkenlights)  
 \- Pizza war gut  
@@ -14,8 +14,8 @@ Pizzaprogrammiernacht \\o/
 gab.  
 \- Nette Leute, gute Atmosphäre
 
-Infrastructure Review  
-  
+Infrastructure Review
+
 \- Pizzaproduktions - Evaluation 147 Stück, 28 kg Mehl =\> 43,5 kg
 Teig  
 \- Dickstrom-Verbrauch (annähernd) 23 kWh  

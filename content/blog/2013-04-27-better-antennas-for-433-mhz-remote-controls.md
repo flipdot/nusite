@@ -28,10 +28,10 @@ batterieversorgten Funksteckdose ausprobiert.
 Für die Groundplane - Antenne braucht man 4 Drahtstücke mit je 164 mm
 Länge. Eines kommt an den Antennenanschluss des Sendemoduls senkrecht
 nach oben, die anderen drei an den Masseanschluss im Winkel von 45 °
-nach unten.  
-  
-![](https://flipdot.org/blog/uploads/gp.jpg)  
-  
+nach unten.
+
+![](https://flipdot.org/blog/uploads/gp.jpg)
+
 Die Sperrtopfantenne braucht weniger Platz und ist ähnlich einfach
 herzustellen: An den Innenleiter eines Koaxialkabels lötet man den 164
 mm langen Strahler, an den Schirm den 114 mm langen "Sperrtopf" -
@@ -39,11 +39,11 @@ einfach ein Stück Messingrohr, durch das das Kabel durchpasst. (Der
 Sperrtopf ist kürzer als der Strahler, weil wegen der größeren Kapazität
 ein anderer
 [Verkürzungsfaktor](http://de.wikipedia.org/wiki/Verk%C3%BCrzungsfaktor)
-gilt, 0,66)  
-  
-![](https://flipdot.org/blog/uploads/sperrtopf3.jpg)  
-  
+gilt, 0,66)
+
+![](https://flipdot.org/blog/uploads/sperrtopf3.jpg)
+
 Der Schirm vom anderen Ende des Kabels kommt an GND vom Sender, der
-Innenleiter an den Antennenanschluss.  
-  
+Innenleiter an den Antennenanschluss.
+
 ![](https://flipdot.org/blog/uploads/sperrtopf4.jpg)

@@ -18,7 +18,7 @@ Die mp3s habe ich hiermit: <http://ctrlq.org/listen/> erzeugt und mit
 Soundfiles und Script aus diesem
 [zip](https://flipdot.org/blog/uploads/Raspberry_sagt_IP.zip "Raspberry_sagt_IP.zip")
 auspacken und in ein Verzeichnis deiner Wahl legen, und mit crontab das
-script beim booten aufrufen:  
-  
+script beim booten aufrufen:
+
 crontab -e  
 @reboot python say\_ip\_on\_boot.py

@@ -21,10 +21,10 @@ Deutschen Bundestag.
 
 Hier ist akribisch bis in psychologische Abschätzungen ausgebreitet, was
 bei einem längeren Blackout passieren dürfte. Das ist die Studie, die in
-dem Video erwähnt wurde.  
-  
-[![](https://flipdot.org/blog/uploads/IMG_1814.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/IMG_1814.jpg)  
-  
+dem Video erwähnt wurde.
+
+[![](https://flipdot.org/blog/uploads/IMG_1814.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/IMG_1814.jpg)
+
 Das Bild ist von [american preppers
 network](http://americanpreppersnetwork.com/). Dort: "Is Your Bunker
 Ready For The Apocalypse? Starting construction on your family’s

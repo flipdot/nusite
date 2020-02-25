@@ -4,13 +4,13 @@ date = 2017-04-09T10:49:31Z
 author = "typ_o"
 path = "/blog/2017/04/09/workshop-messer-schleifen"
 +++
-[![](https://flipdot.org/blog/uploads/messerschleifen.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/messerschleifen.jpg)  
-  
-Vielen Dank an **Mikola** für den Workshop\!  
-  
+[![](https://flipdot.org/blog/uploads/messerschleifen.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/messerschleifen.jpg)
+
+Vielen Dank an **Mikola** für den Workshop\!
+
 Quelle von allerlei Werkzeug, Messern und Schleifsteinen:
-[Dictum](https://www.dictum.com/de/)  
-  
+[Dictum](https://www.dictum.com/de/)
+
 Zum Schutz vor Rost bei nicht rostfreien Messern in diesem Shop nach
 Sinensis Kamelienöl suchen. Das ist geschmacksneutral und
 lebensmittelecht.

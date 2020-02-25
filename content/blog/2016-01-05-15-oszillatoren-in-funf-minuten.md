@@ -6,8 +6,8 @@ path = "/blog/2016/01/05/15-oszillatoren-in-funf-minuten"
 +++
 Eine Hand voll Blink-LED
 
-Viel interessanter ist das Geräusch beim Abschalten:  
-  
+Viel interessanter ist das Geräusch beim Abschalten:
+
 Die Geräusche erinnern sehr stark an
 [Spherics](https://de.wikipedia.org/wiki/Sferics), die Freaks, die in
 dem Bereich lauschen, nennen sie auch

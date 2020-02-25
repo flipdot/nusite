@@ -13,8 +13,8 @@ Hier:
 \- kleinste Leiterbahnbreite 0,6 mm, bei genauer Einstellung geht es
 noch feiner.
 
-Schritte + mehr Bilder: ...  
-  
+Schritte + mehr Bilder: ...
+
   
 [".. hat ein Platinenfräsgerät." vollständig
 lesen](https://flipdot.org/blog/archives/386-..-hat-ein-Platinenfraesgeraet..html#extended)

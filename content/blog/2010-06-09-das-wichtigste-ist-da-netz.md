@@ -6,8 +6,8 @@ path = "/blog/2010/06/09/das-wichtigste-ist-da-netz"
 +++
 [![](https://flipdot.org/blog/uploads/schalter.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/schalter.jpg)[![](https://flipdot.org/blog/uploads/net_io.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/net_io.jpg)[![](https://flipdot.org/blog/uploads/material.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/material.jpg)[![](https://flipdot.org/blog/uploads/lan.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/lan.jpg)Interfaces
 zu den Lichtschaltern, Interfaces zu den Interfaces, Baustel-Material,
-das Netz  
-  
+das Netz
+
 [![](https://flipdot.org/blog/uploads/schild.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/schild.jpg)Gestern
 haben wir den geborgten Router an das vorhandene Netz der Werkstätten
 nebenan angeschlossen (Wlan geht sogar im Arkadas\!), dreckige Möbel

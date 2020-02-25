@@ -15,8 +15,8 @@ Hier eine Aufnahme des Senders E06 vom 20.9.2013 um 08:18 h von mir, mit
 der oben erwähnten Seite:
 [Zahlensender\_14830\_khz\_Kennung\_E06\_websdr-recording.mp3](https://flipdot.org/blog/uploads/Zahlensender_14830_khz_Kennung_E06_websdr-recording.mp3 "Zahlensender_14830_khz_Kennung_E06_websdr-recording.mp3").
 Jede Menge Material, auch zu diesem Sender
-[hier](http://www.simonmason.karoo.net/page30.html).  
-  
+[hier](http://www.simonmason.karoo.net/page30.html).
+
 "[Achtung: Fünnef, zwo, null, null,
 Trennung...](http://www.swldxer.co.uk/dlf.wma)", Feature vom
 Deutschlandfunk dazu.

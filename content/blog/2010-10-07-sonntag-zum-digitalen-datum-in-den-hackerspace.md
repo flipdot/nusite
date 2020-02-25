@@ -19,6 +19,6 @@ für Nerds und Musique live aus der Konserve. Ab ca. 15:00 in der
 Kassel.
 
 Edit: Und ja, man kann Pizza selbst machen, allerdings hat der Teig- und
-Backprozess doch so einige Kontrollparameter...  
-  
+Backprozess doch so einige Kontrollparameter...
+
 ![](https://flipdot.org/blog/uploads/0teig.serendipityThumb.jpg)![](https://flipdot.org/blog/uploads/1teig.serendipityThumb.jpg)![](https://flipdot.org/blog/uploads/2teig.serendipityThumb.jpg)![](https://flipdot.org/blog/uploads/3dose.serendipityThumb.jpg)![](https://flipdot.org/blog/uploads/4herd.serendipityThumb.jpg)![](https://flipdot.org/blog/uploads/5pizza.serendipityThumb.jpg)![](https://flipdot.org/blog/uploads/6essen.serendipityThumb.jpg)

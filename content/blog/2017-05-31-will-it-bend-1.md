@@ -35,7 +35,7 @@ eingetaucht, dass gerade noch die Außenlage unangetastet blieb.
 
 Der Widerstand beim Biegen war merklich, auch kräftige Federwirkung. Die
 Beschichtung ist in diesem Fall äußerst vorteilhaft und verhindert
-splittern. Der Biegeradius war 43 mm.  
-  
+splittern. Der Biegeradius war 43 mm.
+
 \[1\] Natürlich
 [dies](https://www.youtube.com/results?search_query=will+it+blend) ;)

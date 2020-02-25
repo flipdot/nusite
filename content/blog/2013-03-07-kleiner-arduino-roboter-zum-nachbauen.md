@@ -10,7 +10,7 @@ path = "/blog/2013/03/07/kleiner-arduino-roboter-zum-nachbauen"
   
 Keine Kenntnisse in Programmierung, Elektronik und Mechanik aber schon
 immer davon geträumt einen eigenen kleinen Roboter zu bauen?  
-Kein Problem\!\!\! :)  
-  
+Kein Problem\!\!\! :)
+
 [Anleitung hier
 :)](http://5volt-junkie.net/arduino-roboter-selber-bauen/ "http://5volt-junkie.net/arduino-roboter-selber-bauen/")

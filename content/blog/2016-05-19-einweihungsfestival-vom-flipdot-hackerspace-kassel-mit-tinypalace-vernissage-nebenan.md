@@ -13,7 +13,7 @@ Stadt\! Tanzt zur Austellung der schönsten futurologischen
 Errungenschaften aus dem Blinkenlights-Experimentalfeld. Bringt eure
 Kinder mit am Nachmittag und lerne haxxen: "Der Computer ist eine
 subversive Maschine: Ein Freund des Volkes und  
-ein Feind der Tyrannen."  
-  
+ein Feind der Tyrannen."
+
 lg Euer  
 drei-cpeo

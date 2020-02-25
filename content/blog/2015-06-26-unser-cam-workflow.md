@@ -5,19 +5,19 @@ author = "flipdot member"
 path = "/blog/2015/06/26/unser-cam-workflow"
 +++
 Das Fräsen-Setup ist jetzt erstmal stabil, mit viel Platz für
-Verbesserungen  
-  
+Verbesserungen
+
 \#1 CAD - Zeichnen  
-z.B. Librecad, Rhino oder CorelDraw, dann Export als dxf  
-  
+z.B. Librecad, Rhino oder CorelDraw, dann Export als dxf
+
 \#2 CAM - Fräsbahnberechnung und GCODE-Erzeugung  
-Rhinocam oder ESTLCAM, schreiben GCODE  
-  
+Rhinocam oder ESTLCAM, schreiben GCODE
+
 \#3 GCODE-Versand  
-Universal Gcode Downloader (Java)  
-  
+Universal Gcode Downloader (Java)
+
 \#4 GCODE nach Schrittimpulse  
-GRBL 0.9g auf einem Arduino  
-  
+GRBL 0.9g auf einem Arduino
+
 \#5 Motoransteuerung  
 Triple Beast von Sorotec

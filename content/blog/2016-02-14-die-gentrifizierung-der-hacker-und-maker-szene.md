@@ -18,8 +18,8 @@ in die Fablabs und auch in Startup-Inkubatoren wie das
 [Betahaus](http://www.betahaus.com/berlin/).
 
 Wieso nur hat diese Kommerzialisierung einen so unappetitlichen
-Beigeschmack?  
-  
+Beigeschmack?
+
 Die umgedeutete Definition des StartUp Unternehmers im
 Technologiebereich zu einem "Hacker" ist Teil eines entstehenden Systems
 eines Silicon-Valley
@@ -54,6 +54,6 @@ Es liegt an uns. Ist es unser System? **Hacking, then, looks like a
 practice with very deep roots – as primally and originally human as
 disobedience itself. Which makes it all the more disturbing that hacking
 itself appears to have been hacked.**
-([Scott](https://aeon.co/essays/how-yuppies-hacked-the-original-hacker-ethos))  
-  
+([Scott](https://aeon.co/essays/how-yuppies-hacked-the-original-hacker-ethos))
+
 ![](https://flipdot.org/blog/uploads/18c3-logo-tastatur-stern.jpg)

@@ -48,7 +48,7 @@ Tür](http://flipdot.org/blog/uploads/slideshows/offtuer2010-06/) war
 gut besucht, inzwischen sind wir fast 20 Member, die stabil zum Projekt
 beitragen, nicht alle mit dem vollen Beitragssatz, manche vor allem mit
 persönlichem Einsatz. Damit die Miete drin ist, fehlen jetzt nur noch
-ca. fünf weitere Member - und das schaffen wir auf jeden Fall\!  
-  
+ca. fünf weitere Member - und das schaffen wir auf jeden Fall\!
+
 Wenn du einfach mal reinschauen willst - jeden Dienstag ab 19:00 ist
 Gelegenheit dazu\!

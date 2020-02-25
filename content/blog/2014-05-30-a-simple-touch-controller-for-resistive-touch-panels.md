@@ -12,16 +12,16 @@ displays for Raspberry Pi coming with a resistive touch panel like
 from german cheapo - supplier Pollin. I don't wanted to waste a USB
 connector for the touch input and also I'm planning to use the display
 with Python in text mode. Because I couldn't find a driver for this
-usecase I decided to do my own stuff.  
+usecase I decided to do my own stuff.
+
+![](https://flipdot.org/blog/uploads/touch_USB.jpg)
+
+Original touch controller with USB to be replaced.
+
   
-![](https://flipdot.org/blog/uploads/touch_USB.jpg)  
   
-Original touch controller with USB to be replaced.  
-  
-  
-  
-![](https://flipdot.org/blog/uploads/touch_sch.jpg)  
-  
+![](https://flipdot.org/blog/uploads/touch_sch.jpg)
+
 Here you have
 [touch.zip](https://flipdot.org/blog/uploads/touch.zip "touch.zip"),
 containing the
@@ -30,10 +30,10 @@ source for the Attiny85, corresponding HEX file, quick and dirty Python
 test program and lcd.py module containing some VT100 shortcuts. The
 Attiny is set to 8 Mhz internal RC clock and brownout detection for 2,7
 V. It runs nicely with the 3V3 supply of the Pi and therefore doesn't
-need a level shifter.  
-  
-![](https://flipdot.org/blog/uploads/touch_final.jpg)  
-  
+need a level shifter.
+
+![](https://flipdot.org/blog/uploads/touch_final.jpg)
+
 Final touch controller on perfboard.
 
 The controller in the first step connects the X-resistor-plane to VCC

@@ -4,8 +4,8 @@ date = 2013-01-18T06:42:52Z
 author = "typ_o"
 path = "/blog/2013/01/18/knock-sensor-for-gsm-doorlock-details"
 +++
-![](https://flipdot.org/blog/uploads/amp_kl.jpg)  
-  
+![](https://flipdot.org/blog/uploads/amp_kl.jpg)
+
 Amplifier for piezo to detect structure-borne sound if member knocks on
 the door from outside. Complete GSM doorlock see
 [wiki](http://flipdot.org/wiki/index.php?title=Zugangssystem).

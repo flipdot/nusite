@@ -14,8 +14,8 @@ Lange Strasse 24
 und über [weitere
 Kontaktmöglichkeiten](http://flipdot.org/blog/index.php?/archives/13-Communication.html).
 
-Die Vereinsräume sind hier:  
-  
+Die Vereinsräume sind hier:
+
 flipdot. e.V.  
 Sickingenstraße 10  
 34117 Kassel

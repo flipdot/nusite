@@ -13,8 +13,8 @@ Die ersten kommen morgen ab 17:30, es geht um Renovierung der
 Küchenecke, Planung des Tags der offenen Tür, der Linux -
 Installationsparty, um die Elektroinstallation, ein Paper zur Ansprache
 von Sponsoren, Inbetriebnahme der geschenkten Rechner, Weiterentwicklung
-der Web-Steuerung für die Beleuchtung, und vieles mehr.  
-  
+der Web-Steuerung für die Beleuchtung, und vieles mehr.
+
 **Wenn du Interesse am Hackerspace hast komm dazu, guck die die Räume an
 und was wir dort machen\!** Wenn ihr Sachen habt, die ihr loswerden
 wollt, Materialwunschliste anbei, Spendenquittung möglich\!  

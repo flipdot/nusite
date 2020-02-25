@@ -14,8 +14,8 @@ reparieren.In vielen Fällen verabschiedet sich der [MAX4712
 Switches](http://datasheets.maximintegrated.com/en/ds/MAX4711-MAX4713.pdf)).
 Manchmal brennt es richtig durch, sodass man ein Brandloch sehen kann
 und manchmal sieht es optisch völlig in Ordnung aus, ist im Inneren
-dennoch defekt.  
-  
+dennoch defekt.
+
   
 ["AVR Programmer repariert" vollständig
 lesen](https://flipdot.org/blog/archives/315-AVR-Programmer-repariert.html#extended)

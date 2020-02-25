@@ -6,10 +6,10 @@ path = "/blog/2016/01/29/prepaid-getranke-abrechnungssystem"
 +++
 Pseudo- / Anonym, mit paper trail, extrem niedriger
 Standby-Stromverbrauch, niedrige Systemkosten, geringer Schulungsaufwand
-für die User, einfache Administrierbarkeit.  
-  
-![](https://flipdot.org/blog/uploads/prepaidblatt.jpg)  
-  
+für die User, einfache Administrierbarkeit.
+
+![](https://flipdot.org/blog/uploads/prepaidblatt.jpg)
+
 [prepaid.pdf](https://flipdot.org/blog/uploads/prepaid.pdf "prepaid.pdf"),
 /
 [prepaid.ods](https://flipdot.org/blog/uploads/prepaid.ods "prepaid.ods")

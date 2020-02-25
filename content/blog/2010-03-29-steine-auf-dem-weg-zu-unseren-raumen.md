@@ -10,7 +10,7 @@ plötzlich in Frage.
 
 Wie beurteilen wir die Lage am Hbf? Wie wollen wir weiter vorgehen?
 Tragen es alle mit, die Beiträge auf die Hohe Kante zu legen? Wie
-könnten Alternative aussehen? Welche Deadlines wollen wir uns setzen?  
-  
+könnten Alternative aussehen? Welche Deadlines wollen wir uns setzen?
+
 Das und mehr Dienstag 19:00 im
 [Kunsttempel](http://flipdot.org/blog/index.php?/archives/47-Ab-jetzt-immer-Dienstags.html).

@@ -11,8 +11,8 @@ medienbezogener und nerdkompatibler Content. Unter anderem die [Media
 Architecture
 Biennale 2010](http://www.mediaarchitecture.org/biennale2010/), also
 alles zum Thema "blinkende Häuser". (Sehr viel multimedialer und
-interaktiver ist hier noch nichts, ausser blinkende LED).  
-  
+interaktiver ist hier noch nichts, ausser blinkende LED).
+
 [![](https://flipdot.org/blog/uploads/biennale_05.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/biennale_05.jpg)Im
 Künstlerhaus am Karlsplatz in Wien gibt es eine Ausstellung dazu. Ganz
 ambitioniert gemacht: Jeder Besucher kriegt ein Ipad in die Hand, auf
@@ -20,8 +20,8 @@ dem er Details zu den Ausstellungsstücken abrufen kann, im Wesentlichen
 den [Content der Übersichtsseite im Web zur
 Ausstellung](http://www.mediaarchitecture.org/biennale-2010-exhibition/).
 Ging auch meistens, ab und zu hing der Server, und man konnte im Display
-gucken, ob man noch frisch aussieht.  
-  
+gucken, ob man noch frisch aussieht.
+
 [![](https://flipdot.org/blog/uploads/biennale_04.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/biennale_04.jpg)Was
 mir dazu so durch den Kopf ging: Wenn blinkende Fassaden, dann ist ja
 [Blinkenlights](http://blinkenlights.net/) erstmal die amtliche Adresse.
@@ -33,8 +33,8 @@ Vermutlich kann man das grafisch darstellen, mit wieviel Pixeln und
 wieviel Farben das Spiel noch cool rüberkommt. 4 Pixel ist zu wenig,
 400.000 zu viel. Vermutlich sind die 144 Pixel von Blinkenlights nahe am
 Optimum - noch schön abstrakt, und schon so gut aufgelöst, dass man
-Inhalt rüberbringen kann.  
-  
+Inhalt rüberbringen kann.
+
 [![](https://flipdot.org/blog/uploads/biennale_01.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/biennale_01.jpg)[![](https://flipdot.org/blog/uploads/biennale_02.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/biennale_02.jpg)Für
 flipdot hat mir ein Projekt gut gefallen, in dem einfach weisse
 Transportkisten kopfunter gestapelt wurden. ([Hier im

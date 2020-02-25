@@ -4,13 +4,13 @@ date = 2019-01-04T15:11:20Z
 author = "typ_o"
 path = "/blog/2019/01/04/all-creatures-welcome"
 +++
-[![](https://flipdot.org/blog/uploads/acw_poster_ki_regenbogen_digital.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/acw_poster_ki_regenbogen_digital.jpg)  
-  
+[![](https://flipdot.org/blog/uploads/acw_poster_ki_regenbogen_digital.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/acw_poster_ki_regenbogen_digital.jpg)
+
 In Zusammenarbeit mit den Balikinos in Kassel laden wir zur [Matinee am
 13. Januar 2019 um
 12:00](http://www.balikinos.de/index.php?id=-1&uid=4549 "Balikinos")
-ein.  
-  
+ein.
+
 **All Creatures Welcome** - der Film über das Mindset der Menschen im
 und um den Chaos Computer Club.  
   

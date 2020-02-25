@@ -6,8 +6,8 @@ path = "/blog/2010/10/20/we-make-things-awesome-we-make-awesome-things-baustelwo
 +++
 [![](https://flipdot.org/blog/uploads/0230.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/0230.jpg)[![](https://flipdot.org/blog/uploads/0255.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/0255.jpg)[![](https://flipdot.org/blog/uploads/0020.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/0020.jpg)flipdot
 - der hackerspace kassel - veranstaltet ein **Baustelwochenende vom
-22.-24.10.**  
-  
+22.-24.10.**
+
 Draußen wird es kalt und ungemütlich, drinnen verbreitet das Oszilloskop
 und die Kontroll-LED vom Evaluation-Board ein gemütliches Licht, das
 Flußmittel bewirkt weihnachtliche Gerüche, und der Nerd-made Pizzateig

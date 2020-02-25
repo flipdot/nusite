@@ -20,8 +20,8 @@ ifixit-Bilderbuch gefühlt die Hälfte der Halteclips abbrechen und das
 Gehäuse zerkratzen. Stellt sich raus, dass 'nen großer Metallspachtel
 doch nicht so gut zum iPad-Öffnen gedacht ist.
 
-Fehler war schnell gefunden: Akku bloaty...  
-  
+Fehler war schnell gefunden: Akku bloaty...
+
 [![](https://flipdot.org/blog/uploads/ipad-bloaty1.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/ipad-bloaty1.jpg)  
 ["Apple iPad1-3G Akkutausch (Reparatur mit vorhandenem Material)"
 vollständig

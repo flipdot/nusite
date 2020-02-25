@@ -8,17 +8,17 @@ Auf dem verwendeten ESP8266-12F sitzt eine
 [Inverted-F](http://www.antenna-theory.com/antennas/aperture/ifa.php)
 Leiterplattenantenne. Für mehr Reichweite habe ich eine [Antenne aus
 einem alten Router](https://flipdot.org/blog/uploads/antenne.JPG)
-angeschlossen.  
-  
-[![](https://flipdot.org/blog/uploads/modification.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/modification.jpg)  
-  
+angeschlossen.
+
+[![](https://flipdot.org/blog/uploads/modification.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/modification.jpg)
+
 Dazu an den beiden mit dem roten X gekennzeichneten Stellen die
 Leiterbahnen auf der Oberseite auftrennen (nicht nur ein Schnitt, sonst
 bleibt eine zu große Koppelkapazität, ein Millimeter darf das Kupfer
-schon entfernt werden).  
-  
-[![](https://flipdot.org/blog/uploads/anloet.serendipityThumb.JPG)](https://flipdot.org/blog/uploads/anloet.JPG)  
-  
+schon entfernt werden).
+
+[![](https://flipdot.org/blog/uploads/anloet.serendipityThumb.JPG)](https://flipdot.org/blog/uploads/anloet.JPG)
+
 Der Innenleiter der neuen Antenne wird an die Speiseleitung angelötet,
 die zwischen den beiden Masseflächen mit den vielen Durchkontaktierungen
 herauskommt. Der Schirm kommt an die Masse.

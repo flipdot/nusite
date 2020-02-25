@@ -51,6 +51,6 @@ Mitteln aus dem Layout dann eine fertige Platine fertigen kann. Referent
 ist [Wolle](http://blog.elektrowolle.de/).
 
 Edit: Spannender Vortrag - jede Menge Praxistipps - und mit ca 3h auch
-lang genug für Nerds :)  
-  
+lang genug für Nerds :)
+
 ![](https://flipdot.org/blog/uploads/eagle.jpg)

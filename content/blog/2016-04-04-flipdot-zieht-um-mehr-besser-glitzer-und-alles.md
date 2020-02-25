@@ -5,12 +5,12 @@ author = "typ_o"
 path = "/blog/2016/04/04/flipdot-zieht-um-mehr-besser-glitzer-und-alles"
 +++
 Wir verlassen die 25 m² in der Chassalla Fabrik in der Sickingenstraße,
-und haben jetzt neue Räume im "Kulturbahnhof", Franz-Ulrich-Straße 18.  
-  
-[![](https://flipdot.org/blog/uploads/anfahrt.serendipityThumb.png)](https://flipdot.org/blog/uploads/anfahrt.png)  
-  
-Die letzte Meile: Vom Bahnhofsvorplatz zum Space.  
-  
+und haben jetzt neue Räume im "Kulturbahnhof", Franz-Ulrich-Straße 18.
+
+[![](https://flipdot.org/blog/uploads/anfahrt.serendipityThumb.png)](https://flipdot.org/blog/uploads/anfahrt.png)
+
+Die letzte Meile: Vom Bahnhofsvorplatz zum Space.
+
   
   
 [Details zu den neuen Räumen](http://flipdot.org/wiki/Neuland).

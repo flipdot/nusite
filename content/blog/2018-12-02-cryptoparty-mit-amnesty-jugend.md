@@ -27,8 +27,8 @@ Möglichkeiten für Festplattenverschlüsselung hingewiesen.
 Im anschließenden Praxisteil haben wir gemeinsam in kleinen Gruppen auf
 den mitgebrachten Geräten der Teilnehmer die gewünschte Software
 eingerichtet. Bei den tollen Gesprächen konnten wir auch viel über
-Amnesty International lernen, vielen Dank dafür\!  
-  
+Amnesty International lernen, vielen Dank dafür\!
+
 Unsere Folien sind leider nicht selbsterklärend, trotzdem haben wir sie
 für Interessierte
 [veröffentlicht](https://github.com/flipdot/cryptoparty/raw/master/cryptoparty.odp).

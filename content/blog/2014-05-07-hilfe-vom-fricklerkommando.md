@@ -10,12 +10,12 @@ Drahtspiralen](http://image.channeladvisor.de/128021/8874d09f54c8f9aca8eba758928
 Die Platinen mit den Motoren für die Spiralen und dem Endschalter, der
 eine vollständige Spiralenumdrehung detektiert, sind nur zweipolig
 angeschlossen. Wie geht aber die Auswertung des Schalters, wenn man nur
-zwei Pole hat?  
-  
-[![](https://flipdot.org/blog/uploads/automat02.serendipityThumb.jpeg)](https://flipdot.org/blog/uploads/automat02.jpeg)  
-  
-[![](https://flipdot.org/blog/uploads/automat01.serendipityThumb.jpeg)](https://flipdot.org/blog/uploads/automat01.jpeg)  
-  
+zwei Pole hat?
+
+[![](https://flipdot.org/blog/uploads/automat02.serendipityThumb.jpeg)](https://flipdot.org/blog/uploads/automat02.jpeg)
+
+[![](https://flipdot.org/blog/uploads/automat01.serendipityThumb.jpeg)](https://flipdot.org/blog/uploads/automat01.jpeg)
+
 Eine
 [Anfrage](http://www.fingers-welt.de/phpBB/viewtopic.php?f=14&t=1881) im
 prima Forum von Fingers elektrischer Welt (Ja, das sind

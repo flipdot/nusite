@@ -26,8 +26,8 @@ verwenden, dann reicht es gerade für 400-500 EUR Miete.
 
 Bis wir denn ein eigenes Dach haben, werden wir uns weiterhin im
 [Kunsttempel](http://flipdot.org/blog/index.php?/archives/47-Ab-jetzt-immer-Dienstags.html)
-treffen (Di., 19:00, komm dazu\!)  
-  
+treffen (Di., 19:00, komm dazu\!)
+
 Parallel sammeln wir schon Material und Einrichtung - Ein Stapel Möbel
 steht bereit, ein paar Rechner sind auch schon beschafft. Irgendwas
 über? Möbel, Material, Meßgeräte, Lampen, Audio?: Infos über Spenden

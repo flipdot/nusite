@@ -9,11 +9,11 @@ Kassel 2018](http://galerien-kassel.de/) gearbeitet.
 
 Der Realitätstranslator läßt dich in ein Paralleluniversum reisen, wo du
 den Platz mit deinem Doppelgänger tauscht und du dich über all die
-merkwürdigen Menschen dort wundern kannst - allesamt Doppelgänger\!  
-  
-![](https://flipdot.org/blog/uploads/translator1.serendipityThumb.jpg)  
-  
+merkwürdigen Menschen dort wundern kannst - allesamt Doppelgänger\!
+
+![](https://flipdot.org/blog/uploads/translator1.serendipityThumb.jpg)
+
 Die Shepard-Ton-Installation erzeugt einen örtlich wandernden Akkord,
-der unentwegt an Tonhöhe zunimmt.  
-  
+der unentwegt an Tonhöhe zunimmt.
+
 ![](https://flipdot.org/blog/uploads/shepard.serendipityThumb.jpg)
