@@ -8,26 +8,11 @@ Kleiner Test mit kunststoffbeschichtetem Multiplex-Plattenmaterial
 (Quelle: Ein netter Casebauer ([so
 was](https://www.musik-produktiv.de/pic-010053087_01l/dap-audio-rigging-flightcase_01l.jpg)),
 der uns ab und zu seine Reste durchwühlen läßt)  
-  
-
-<div class="serendipity_imageComment_center" style="width: 675px;">
-
-<div class="serendipity_imageComment_img">
 
 [![](https://flipdot.org/blog/uploads/bend2.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/bend2.jpg)
 
-</div>
-
-<div class="serendipity_imageComment_txt">
-
 Rot: Faserrichtung der äußersten Lage unter dem Kunststoff
 
-</div>
-
-</div>
-
-  
-  
 Beim Gitarrenbau ist die Faserrichtung wie hier rot eingezeichnet,
 deswegen habe ich das auch mal so versucht. Schlitze mit 3 mm Fräser, 3
 mm Material dazwischen stehen gelassen, und so tief in Z-Richtung

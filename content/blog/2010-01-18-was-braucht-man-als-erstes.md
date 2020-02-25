@@ -5,39 +5,14 @@ author = "typ_o"
 path = "/blog/2010/01/18/was-braucht-man-als-erstes"
 +++
 Schwarze T - Shirts und Kaputzenshirts\!  
-  
-
-<div class="serendipity_imageComment_left">
-
-<div class="serendipity_imageComment_img">
 
 [![](https://flipdot.org/blog/uploads/sw_mit_logo.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/sw_mit_logo.jpg)
 
-</div>
-
-<div class="serendipity_imageComment_txt">
-
 Preview
-
-</div>
-
-</div>
-
-<div class="serendipity_imageComment_left">
-
-<div class="serendipity_imageComment_img">
 
 [![](https://flipdot.org/blog/uploads/fuer-reinen-gelbdruck_520.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/fuer-reinen-gelbdruck_520.jpg)
 
-</div>
-
-<div class="serendipity_imageComment_txt">
-
 Detail
-
-</div>
-
-</div>
 
 Habe eben Spreadshirt und einen Anbieter aus Kassel verglichen, sehr
 ähnlich, und vor Ort kann man das Shirt auch mal anfassen. ([CorelDraw
