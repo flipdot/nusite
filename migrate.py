@@ -12,15 +12,18 @@ import os
 feed = feedparser.parse("https://flipdot.org/blog/rss.php?version=2.0&all=1")
 
 for item in feed['items']:
+  slug = slugify(item.title)
+  date_path = time.strftime('%Y/%m/%d', item.published_parsed)
+
   frontmatter = {
     'title': item.title,
     'date': datetime.fromtimestamp(mktime(item.published_parsed)),
     'author': item.authors[0].name,
+    'path': f'/blog/{date_path}/{slug}'
   }
 
   body = ''.join([content.value for content in item.content])
 
-  slug = slugify(item.title)
   date_string = time.strftime('%Y-%m-%d', item.published_parsed)
 
   filename = f'{date_string}-{slug}'
