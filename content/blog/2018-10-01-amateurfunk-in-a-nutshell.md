@@ -8,6 +8,6 @@ path = "/blog/2018/10/01/amateurfunk-in-a-nutshell"
   
 Es geht um Sender, Antennen, Modulationsarten, Empfängertechnik,
 Frequenzbereiche, Lizenz, Aktivitäten, Amateurfunk in Krisensituationen,
-TETRA  
-  
+TETRA
+
 Eintritt frei

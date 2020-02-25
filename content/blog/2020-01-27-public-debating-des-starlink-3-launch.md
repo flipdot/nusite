@@ -32,7 +32,7 @@ Falls das Wetter mitspielt, können wir im Anschluss gegen 18 Uhr den 60
 Satelliten der letzten Batch, Starlink-2, zuschauen wie sie sich mit
 einem leuchtendem Hall-Effekt-Antrieb selbstständig in die Arbeitshöhe
 von etwa 500 km drücken und dabei etwa fünf Minuten über unsere Köpfe
-ziehen.ue  
-  
+ziehen.
+
 Ausserdem erwarten dich wie jeden Dienstag interresante und
 interresierte Menschen, sowie kalte Getränke. Wir freuen uns auf dich\!

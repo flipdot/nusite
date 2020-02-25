@@ -10,8 +10,8 @@ Material:
 \- Foldback Clip 32 mm x 15 mm  
 \- Multiplex 9,5 mm (Siebdruckplatte o.ä.)  
 \- 1/4 Zoll Mutter  
-\- Schrumpfschlauch  
-  
+\- Schrumpfschlauch
+
 Den Clip mit zwei Flachzangen soweit überbiegen, dass der Anpressdruck
 für das Fon nicht zu groß ist. Ein Loch für die Stativschraube mit
 einem konischen Schleifer hineindremeln (Bohren ist wegen des gehärteten

@@ -13,7 +13,7 @@ eigenen Routern rumspielen.
 Hardware](http://wiki.openwrt.org/toh/start). Ich kann den WL-500g
 Premium v1 entfehlen. Den bring ich mit. Linksys WRT54GL bring ich mit,
 gibt's aber nichtmehr. WRTSL54GS oder WRT54G3GV2-VF könnte das neue
-"top" Model sein. Also bis morgen dann, Emzy  
-  
+"top" Model sein. Also bis morgen dann, Emzy
+
 Das und mehr (neue potentielle Räume) heute, Dienstag 19:00 im
 [Kunsttempel](http://flipdot.org/blog/index.php?/archives/47-Ab-jetzt-immer-Dienstags.html).

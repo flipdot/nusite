@@ -28,8 +28,8 @@ Bis jetzt gibt es:
 \- Roboter  
 \- 3D-Druck  
 \- Raspberry Pi Web-Radio  
-\- ESP8266 mit Lua  
-  
+\- ESP8266 mit Lua
+
 Mehr Infos [hier](http://flipdot.org/wiki/Baustelwochenende).  
 Und ein
 [Plakat](https://flipdot.org/blog/uploads/Baustel_Plakat_kl.jpg).

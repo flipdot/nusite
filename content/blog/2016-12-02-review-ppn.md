@@ -12,8 +12,8 @@ Pizzaprogrammiernacht \\o/
 \- Viel Besuch von Ausserhalb  
 \- Lasertag Kooperation war gut, günstier Preis, gut dass es Bewegung
 gab.  
-\- Nette Leute, gute Atmosphäre  
-  
+\- Nette Leute, gute Atmosphäre
+
 Infrastructure Review  
   
 \- Pizzaproduktions - Evaluation 147 Stück, 28 kg Mehl =\> 43,5 kg

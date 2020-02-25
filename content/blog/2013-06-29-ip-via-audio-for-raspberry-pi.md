@@ -11,8 +11,8 @@ your Raspberry without stuff like nmap or peeking into your router.
   
 Audio aktivieren:  
 sudo apt-get install alsa-utils  
-sudo apt-get install mpg321  
-  
+sudo apt-get install mpg321
+
 Die mp3s habe ich hiermit: <http://ctrlq.org/listen/> erzeugt und mit
 [audacity](http://audacity.sourceforge.net/?lang=de) zerschnibbelt.
 Soundfiles und Script aus diesem

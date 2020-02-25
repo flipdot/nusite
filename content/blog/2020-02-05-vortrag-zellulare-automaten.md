@@ -13,8 +13,8 @@ path = "/blog/2020/02/05/vortrag-zellulare-automaten"
 \- 2D Zelluläre Automaten  
 \- Entdeckung neuer Regeln  
 \- Interaktive Software  
-\- Technik kann Kunst und Schönheit schaffen  
-  
+\- Technik kann Kunst und Schönheit schaffen
+
 Gäste und Interessierte sind herzlich willkommen, Eintritt ist frei.  
   
 [Folien

@@ -20,7 +20,7 @@ Dings,
 Projekte)  
 \- Infos zu Software-Projekten und Space Infrastruktur  
 \- Mitglieder treffen und kennen lernen  
-\- Hackerkompatible Verpflegung  
-  
+\- Hackerkompatible Verpflegung
+
 Die stabile Version des Fahrplans steht frühestens ab 20. Mai an [dieser
 Stelle](https://flipdot.org/wiki/HackWat).

@@ -10,8 +10,8 @@ Wir machen gemeinsam unsere Räder fit für die Saison:
   
 \- Putzen  
 \- Flicken  
-\- Reparieren  
-  
+\- Reparieren
+
 Werkzeug und Material ist vorhanden.  
   
 Sonntag, 14. April 15:00 Uhr vor dem

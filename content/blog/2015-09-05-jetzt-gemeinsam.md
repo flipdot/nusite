@@ -5,8 +5,8 @@ author = "typ_o"
 path = "/blog/2015/09/05/jetzt-gemeinsam"
 +++
 Mehrere Artikel in der taz von heute zum Thema Sharing, Open Source,
-Offene Wissensquellen  
-  
+Offene Wissensquellen
+
 Innovationscamp [Proof of Concept POC21](http://www.poc21.cc/) -
 umweltschonende Produkte  
   

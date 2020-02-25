@@ -15,8 +15,8 @@ Eingang B, rechts direkt runter bis in den Keller, dann rechts in den
 Gang).  
   
 Wenn du Probleme hast, den Raum zu finden: Mail an com {kringeldings}
-flipdot {punkt} org  
-  
+flipdot {punkt} org
+
 Edit: Diese meldung ist nicht mehr aktuell, da [neuer
 Raum](http://flipdot.org/wiki/index.php?title=Flipdot_Treffen)
 gefunden\!

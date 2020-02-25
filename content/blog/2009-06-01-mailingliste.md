@@ -5,6 +5,6 @@ author = "typ_o"
 path = "/blog/2009/06/01/mailingliste"
 +++
 Wenn du dich in die Mailingliste eintragen willst, dann sende bitte eine
-Mail an  
-  
+Mail an
+
 com {kringeldings} flipdot {punkt} org (Das macht dann ein Mensch)
