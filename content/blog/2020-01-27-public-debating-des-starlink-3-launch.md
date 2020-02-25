@@ -2,6 +2,7 @@
 title = "Public DEBATING des Starlink-3 Launch"
 date = 2020-01-27T14:00:00Z
 author = "Baustel"
+path = "/blog/2020/01/27/public-debating-des-starlink-3-launch"
 +++
 ![Hispasat 30W-6 Mission by SpaceX on
 flickr](https://live.staticflickr.com/4753/25790223907_9ea3e63180_w.jpg)  

@@ -2,6 +2,7 @@
 title = "5 Min - Hack: Ortlieb Tasche am Brompton - Lenker"
 date = 2013-06-09T17:37:48Z
 author = "typ_o"
+path = "/blog/2013/06/09/5-min-hack-ortlieb-tasche-am-brompton-lenker"
 +++
 Weil ich zu der [Raspberry Pi - Veranstaltung in
 Trier](http://www.piandmore.de/) natürlich per Bahn und

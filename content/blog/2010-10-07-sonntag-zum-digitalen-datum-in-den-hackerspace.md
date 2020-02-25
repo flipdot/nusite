@@ -2,6 +2,7 @@
 title = "Sonntag: Zum digitalen Datum in den Hackerspace"
 date = 2010-10-07T21:01:47Z
 author = "typ_o"
+path = "/blog/2010/10/07/sonntag-zum-digitalen-datum-in-den-hackerspace"
 +++
 Wer sich bisher noch nicht zum [öffentlichen
 Treffen](http://flipdot.org/wiki/index.php?title=Flipdot_Treffen) vom

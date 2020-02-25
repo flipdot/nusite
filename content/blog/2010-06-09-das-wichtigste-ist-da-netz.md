@@ -2,6 +2,7 @@
 title = "Das Wichtigste ist da: Netz"
 date = 2010-06-09T04:20:35Z
 author = "typ_o"
+path = "/blog/2010/06/09/das-wichtigste-ist-da-netz"
 +++
 [![](https://flipdot.org/blog/uploads/schalter.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/schalter.jpg)[![](https://flipdot.org/blog/uploads/net_io.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/net_io.jpg)[![](https://flipdot.org/blog/uploads/material.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/material.jpg)[![](https://flipdot.org/blog/uploads/lan.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/lan.jpg)Interfaces
 zu den Lichtschaltern, Interfaces zu den Interfaces, Baustel-Material,

@@ -2,6 +2,7 @@
 title = "Do-Ism (Sachen machen)"
 date = 2009-09-23T20:08:00Z
 author = "typ_o"
+path = "/blog/2009/09/23/do-ism-sachen-machen"
 +++
 flipdot (so lautet zumindest der beta-Name) ist nun auch bei
 [Hackerspaces.org als Hackerspace im

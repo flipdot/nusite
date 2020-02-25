@@ -2,6 +2,7 @@
 title = "flipdot status update"
 date = 2010-05-28T16:30:40Z
 author = "typ_o"
+path = "/blog/2010/05/28/flipdot-status-update"
 +++
 **Wir haben (jetzt wirklich) Räume\!** Die Mietverträge liegen hier vor
 mir auf dem Tisch. Wir werden ab 1. Juni in dem Hausprojekt

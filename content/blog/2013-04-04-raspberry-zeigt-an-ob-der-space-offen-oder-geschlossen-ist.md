@@ -2,6 +2,7 @@
 title = "Raspberry zeigt an, ob der Space offen oder geschlossen ist"
 date = 2013-04-04T18:58:10Z
 author = "typ_o"
+path = "/blog/2013/04/04/raspberry-zeigt-an-ob-der-space-offen-oder-geschlossen-ist"
 +++
 ![](https://flipdot.org/blog/uploads/spaceopen1.jpg)  
   

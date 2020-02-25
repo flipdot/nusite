@@ -2,6 +2,7 @@
 title = "Heute Raum angucken"
 date = 2011-08-30T14:16:59Z
 author = "typ_o"
+path = "/blog/2011/08/30/heute-raum-angucken"
 +++
 **Heute, am Dienstag, 30.08. um 19:00** Uhr schauen wir uns die Räume in
 der H.v.Fallerslebenstr. gemeinsam an [Treffpunkt direkt

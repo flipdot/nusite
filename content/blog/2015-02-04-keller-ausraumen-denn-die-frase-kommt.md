@@ -2,6 +2,7 @@
 title = "Keller ausräumen - denn die Fräse kommt!"
 date = 2015-02-04T07:51:32Z
 author = "typ_o"
+path = "/blog/2015/02/04/keller-ausraumen-denn-die-frase-kommt"
 +++
 Am Samstag, [2015-02-07](http://xkcd.com/1179/), 10:00, räumen wir
 unseren Keller aus - wer Dinge vor dem Schrott retten will, ist

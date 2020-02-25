@@ -2,6 +2,7 @@
 title = "Durchsuchungen in Hackspaces"
 date = 2018-07-05T21:01:17Z
 author = "typ_o"
+path = "/blog/2018/07/05/durchsuchungen-in-hackspaces"
 +++
 Die Polizei in Bayern hat kürzlich Wohnungen und Geschäftsräume von
 Mitgliedern, insbesondere den Vorständen des Vereins Zwiebelfreunde

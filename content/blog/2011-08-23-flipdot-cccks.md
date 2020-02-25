@@ -2,7 +2,7 @@
 title = "flipdot @ CCCKS"
 date = 2011-08-23T06:50:41Z
 author = "typ_o"
-slug = "flipdot-cccks-2"
+path = "/blog/2011/08/23/flipdot-cccks"
 +++
 ~~Wir treffen uns heute und bis auf weiteres jeden Dienstag um 19:00~~
 [in den Räumen des CCC

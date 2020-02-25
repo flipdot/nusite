@@ -2,6 +2,7 @@
 title = "\"Sie\" beobachen mich."
 date = 2013-04-30T10:05:00Z
 author = "typ_o"
+path = "/blog/2013/04/30/sie-beobachen-mich"
 +++
 Dass ich paranoid bin, heisst nicht, dass sie *nicht* hinter mir her
 sind. Details zu deiner ganz perönlichen Verfolgungstheorie im

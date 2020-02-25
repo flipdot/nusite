@@ -2,6 +2,7 @@
 title = "Besuch im Open Lab in Augsburg"
 date = 2016-03-22T21:50:35Z
 author = "typ_o"
+path = "/blog/2016/03/22/besuch-im-open-lab-in-augsburg"
 +++
   
 Bei den Mönchen soll es so gewesen sein: Wenn die von Kloster zu Kloster

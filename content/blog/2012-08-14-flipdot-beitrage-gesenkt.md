@@ -2,6 +2,7 @@
 title = "Flipdot-Beiträge gesenkt"
 date = 2012-08-14T14:49:00Z
 author = "ruben"
+path = "/blog/2012/08/14/flipdot-beitrage-gesenkt"
 +++
 Schon vor dem Sommerloch beschlossen, nun werbewirksam auch im Blog
 verkündet:  

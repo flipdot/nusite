@@ -2,6 +2,7 @@
 title = "Folien zum Vortrag: Arduino - aber was dran?"
 date = 2017-05-31T09:29:19Z
 author = "typ_o"
+path = "/blog/2017/05/31/folien-zum-vortrag-arduino-aber-was-dran"
 +++
 Hier noch von unserer letzten Veranstaltung "Was Sie schon immer über
 Technik wissen wollten..." die Vortragsfolien zu "Arduino - aber was
@@ -14,7 +15,7 @@ Mikrocontroller - Peripherie, natürlich nicht auf Arduino beschränkt.
 Von [5 Volt Junkie](http://5volt-junkie.net/). Super Talk, kthx\!  
   
 
-<div class="serendipity_imageComment_center" style="width: 675px">
+<div class="serendipity_imageComment_center" style="width: 675px;">
 
 <div class="serendipity_imageComment_img">
 

@@ -2,6 +2,7 @@
 title = "flipdot transmits on \"Freies Radio Kassel\""
 date = 2010-08-29T14:56:13Z
 author = "typ_o"
+path = "/blog/2010/08/29/flipdot-transmits-on-freies-radio-kassel"
 +++
 Radio = synchrones Medium = irgendwie letztes Jahrtausend,
 nichtsdesdotrotz unterhalten sich **heute um 18:00 Uhr** in der

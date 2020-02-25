@@ -2,6 +2,7 @@
 title = "Review PPN"
 date = 2016-12-02T10:35:30Z
 author = "typ_o"
+path = "/blog/2016/12/02/review-ppn"
 +++
 Pizzaprogrammiernacht \\o/  
   

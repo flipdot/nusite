@@ -2,6 +2,7 @@
 title = "flipdot zieht um"
 date = 2011-06-12T13:56:33Z
 author = "typ_o"
+path = "/blog/2011/06/12/flipdot-zieht-um"
 +++
 [![](https://flipdot.org/blog/uploads/Bazille.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/Bazille.jpg)Zum
 1.7. verlieren wir unsere Räume an eine Tangoschule. Naja, sowas muss es

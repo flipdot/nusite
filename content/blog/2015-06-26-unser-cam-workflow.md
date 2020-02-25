@@ -2,6 +2,7 @@
 title = "Unser CAM Workflow"
 date = 2015-06-26T17:04:04Z
 author = "flipdot member"
+path = "/blog/2015/06/26/unser-cam-workflow"
 +++
 Das Fräsen-Setup ist jetzt erstmal stabil, mit viel Platz für
 Verbesserungen  

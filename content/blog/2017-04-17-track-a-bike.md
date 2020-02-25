@@ -2,6 +2,7 @@
 title = "Track a Bike"
 date = 2017-04-17T09:00:00Z
 author = "wegenerd"
+path = "/blog/2017/04/17/track-a-bike"
 +++
 Wir haben uns mit unserem lokalen Fahrradleihsystem
 [Konrad](http://www.konrad-kassel.de) auseinandergesetzt und uns dabei

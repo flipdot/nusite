@@ -2,10 +2,10 @@
 title = "Mechanisches \"Hello World\" am T-Shirt-Drucker"
 date = 2010-12-22T05:54:06Z
 author = "typ_o"
+path = "/blog/2010/12/22/mechanisches-hello-world-am-t-shirt-drucker"
 +++
 Erste mechanische Baustufe des T-Shirt-Druckers.  
   
-
   
   
 Jetzt brauche ich nur noch eine funktionierende Lösung, wie ich die eher

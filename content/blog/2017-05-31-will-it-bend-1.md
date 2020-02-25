@@ -2,6 +2,7 @@
 title = "Will it bend? [1]"
 date = 2017-05-31T09:38:36Z
 author = "typ_o"
+path = "/blog/2017/05/31/will-it-bend-1"
 +++
 Kleiner Test mit kunststoffbeschichtetem Multiplex-Plattenmaterial
 (Quelle: Ein netter Casebauer ([so
@@ -9,7 +10,7 @@ was](https://www.musik-produktiv.de/pic-010053087_01l/dap-audio-rigging-flightca
 der uns ab und zu seine Reste durchwühlen läßt)  
   
 
-<div class="serendipity_imageComment_center" style="width: 675px">
+<div class="serendipity_imageComment_center" style="width: 675px;">
 
 <div class="serendipity_imageComment_img">
 

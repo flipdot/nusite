@@ -2,6 +2,7 @@
 title = ".. hat ein Platinenfräsgerät."
 date = 2017-07-29T06:34:39Z
 author = "Baustel"
+path = "/blog/2017/07/29/hat-ein-platinenfrasgerat"
 +++
 [![](https://flipdot.org/blog/uploads/cool.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/cool.jpg)  
 Im FlipDot.  

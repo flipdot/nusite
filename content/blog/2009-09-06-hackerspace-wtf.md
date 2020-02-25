@@ -2,13 +2,13 @@
 title = "Hackerspace - WTF?"
 date = 2009-09-06T12:52:00Z
 author = "typ_o"
+path = "/blog/2009/09/06/hackerspace-wtf"
 +++
 Ein Hackerspace (von Hacker und Space, engl. für Raum) ist ein realer,
 oft offener Raum, in dem sich technisch-kreative Menschen treffen und
 austauschen. Oft werden Themen rund um (aber nicht beschränkt auf)
 Wissenschaft, Computer, Internet, Netzwerke, Elektronik und
 Programmierung behandelt.  
-
   
 
 <div id="mediaspace">
@@ -18,7 +18,16 @@ This text will be replaced
 </div>
 
   
-
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
 Typische Aktivitäten in einem Hackerspace sind  
   

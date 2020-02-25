@@ -2,6 +2,7 @@
 title = "Neulich am Open-Space-Dienstag"
 date = 2018-08-08T21:16:38Z
 author = "typ_o"
+path = "/blog/2018/08/08/neulich-am-open-space-dienstag"
 +++
 Schnurrgenerator für synthetische Katze zum um-den-Hals-hängen:  
   

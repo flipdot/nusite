@@ -2,6 +2,7 @@
 title = "Konservenherstellung für das CCCamp15"
 date = 2015-08-02T10:41:01Z
 author = "typ_o"
+path = "/blog/2015/08/02/konservenherstellung-fur-das-cccamp15"
 +++
 Auf dem Camp gibt es "nur" 1,9 MW Dieselgeneratoren, deswegen sollen
 keine Kühlschränke mitgebracht werden. Trotzdem brauchen wir Fleisch\!

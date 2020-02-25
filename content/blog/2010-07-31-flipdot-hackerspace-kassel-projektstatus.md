@@ -2,6 +2,7 @@
 title = "flipdot hackerspace kassel Projektstatus"
 date = 2010-07-31T05:50:09Z
 author = "typ_o"
+path = "/blog/2010/07/31/flipdot-hackerspace-kassel-projektstatus"
 +++
 Unsere Räume haben wir chaostypisch dann doch ohne
 Innenarchitektur-Planung eingerichtet, so steht jetzt erstmal alles auf

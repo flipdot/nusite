@@ -2,6 +2,7 @@
 title = "Renovierung gestartet"
 date = 2011-10-15T18:57:34Z
 author = "typ_o"
+path = "/blog/2011/10/15/renovierung-gestartet"
 +++
 Heute Schritt eins, sollte eigentlich Wände anmalen sein, aber:
 Grauenhafte Entdeckung in der Wand: Strom war auf dem Standard von 1930

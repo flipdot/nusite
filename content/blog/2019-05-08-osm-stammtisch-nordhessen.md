@@ -2,6 +2,7 @@
 title = "OSM-Stammtisch Nordhessen"
 date = 2019-05-08T01:15:52Z
 author = "Baustel"
+path = "/blog/2019/05/08/osm-stammtisch-nordhessen"
 +++
 ![](https://flipdot.org/blog/uploads/osm-kassel.jpg)  
   

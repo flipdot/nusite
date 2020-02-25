@@ -2,6 +2,7 @@
 title = "Bree Pettis über NYCResistor"
 date = 2009-10-07T01:00:00Z
 author = "typ_o"
+path = "/blog/2009/10/07/bree-pettis-uber-nycresistor"
 +++
   
 Bre Pettis über NYCResistor, ein Hacker-Kollektiv in Brooklyn. NYCR

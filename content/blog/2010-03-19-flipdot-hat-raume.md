@@ -2,6 +2,7 @@
 title = "Flipdot hat Räume!"
 date = 2010-03-19T12:48:36Z
 author = "typ_o"
+path = "/blog/2010/03/19/flipdot-hat-raume"
 +++
 ![](https://flipdot.org/blog/uploads/Gueterabefrtigung_EG_Ausschnitt.serendipityThumb.jpg)Vergangenen
 Dienstag haben wir zusammen beschlossen, die [Räume in der "Zentralen

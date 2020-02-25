@@ -2,6 +2,7 @@
 title = "Auch das ist ein Hack..."
 date = 2010-10-22T20:11:13Z
 author = "Fabian"
+path = "/blog/2010/10/22/auch-das-ist-ein-hack"
 +++
 Um den Begriff des Hackens richtig zu definieren, bieten sich oft
 Beispiele fernab von elektronischen Geräten an.  

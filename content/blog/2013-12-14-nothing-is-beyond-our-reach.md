@@ -2,6 +2,7 @@
 title = "Nothing is beyond our reach"
 date = 2013-12-14T12:49:28Z
 author = "typ_o"
+path = "/blog/2013/12/14/nothing-is-beyond-our-reach"
 +++
 Das [National Reconnaissance
 Office](http://de.wikipedia.org/wiki/National_Reconnaissance_Office)

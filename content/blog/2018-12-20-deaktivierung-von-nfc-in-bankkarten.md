@@ -2,6 +2,7 @@
 title = "Deaktivierung von NFC in Bankkarten"
 date = 2018-12-20T23:08:05Z
 author = "Baustel"
+path = "/blog/2018/12/20/deaktivierung-von-nfc-in-bankkarten"
 +++
 Wir haben über die Lokalzeitung HNA die allgemeine Bevölkerung darauf
 hingewiesen, dass man die NFC-Funktion ausschalten kann, wenn man deren

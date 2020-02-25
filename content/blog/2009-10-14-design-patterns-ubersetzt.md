@@ -2,6 +2,7 @@
 title = "Design Patterns übersetzt"
 date = 2009-10-14T01:00:00Z
 author = "typ_o"
+path = "/blog/2009/10/14/design-patterns-ubersetzt"
 +++
 Die bereits
 [verlinkten](http://flipdot.org/blog/index.php?/archives/2-Erst-Ei,-dann-Gack!.html)

@@ -2,6 +2,7 @@
 title = "Was war hier los?"
 date = 2015-07-25T09:18:02Z
 author = "flipdot member"
+path = "/blog/2015/07/25/was-war-hier-los"
 +++
 Diese Konstruktion habe ich beim öffnen des (ordentlich verschlossenen)
 Spaces vorgefunden - die Schlüssel sind u.A.  

@@ -2,6 +2,7 @@
 title = "Teil 2: PCBs selbst gemacht, jetzt kommt die Chemie"
 date = 2011-03-14T20:13:34Z
 author = "typ_o"
+path = "/blog/2011/03/14/teil-2-pcbs-selbst-gemacht-jetzt-kommt-die-chemie"
 +++
 Am Dienstag, dem 15.03.2011 um 20:00 h veranstalten wir im flipdot -
 hackerspace kassel den zweiten Teil eines Einführungskurses in die

@@ -2,6 +2,7 @@
 title = "Raspberry Pi Gehäuse aus altem TFT Monitor"
 date = 2016-04-13T07:43:00Z
 author = "typ_o"
+path = "/blog/2016/04/13/raspberry-pi-gehause-aus-altem-tft-monitor"
 +++
 In Monitoren findet man oft ca. [6 mm starke
 Acrylglasscheiben](https://de.wikipedia.org/wiki/Datei:Tft_innenleben.jpg),

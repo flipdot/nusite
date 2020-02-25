@@ -2,6 +2,7 @@
 title = "Wegnehmen kann jeder - Hinzufügen können wir (Additive Fertigung)"
 date = 2018-01-19T09:36:53Z
 author = "Baustel"
+path = "/blog/2018/01/19/wegnehmen-kann-jeder-hinzufugen-konnen-wir-additive-fertigung"
 +++
 3-D Druck im flipdot  
   

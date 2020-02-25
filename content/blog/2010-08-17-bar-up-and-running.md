@@ -2,6 +2,7 @@
 title = "Bar up and running"
 date = 2010-08-17T20:36:49Z
 author = "typ_o"
+path = "/blog/2010/08/17/bar-up-and-running"
 +++
 [![](https://flipdot.org/blog/uploads/bar00.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/bar00.jpg)[![](https://flipdot.org/blog/uploads/bar01.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/bar01.jpg)Our
 bar corner is ready to use. It's based on a pile of metal lockers (90°

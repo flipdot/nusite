@@ -2,6 +2,7 @@
 title = "Echtes VGA  für den Raspberry Pi"
 date = 2014-11-21T13:00:01Z
 author = "typ_o"
+path = "/blog/2014/11/21/echtes-vga-fur-den-raspberry-pi"
 +++
 Fand ich immer schade, dass der Pi nur HDMI liefert - [aber jetzt kann
 er auch VGA](http://www.raspberrypi.org/gert-vga-adapter/), und all die

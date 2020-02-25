@@ -2,6 +2,7 @@
 title = "Workshop: Moderne Website-Layouts mit flexbox"
 date = 2017-09-09T13:30:34Z
 author = "typ_o"
+path = "/blog/2017/09/09/workshop-moderne-website-layouts-mit-flexbox"
 +++
 Offener Workshop am 2017-09-16 um 17:00 im
 [flipdot](https://flipdot.org/wiki/Kontakt). Die Veranstaltung ist für

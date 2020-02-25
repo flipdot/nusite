@@ -2,6 +2,7 @@
 title = "FPGAs sind die neuen Mikrocontroller?"
 date = 2010-03-04T18:09:00Z
 author = "typ_o"
+path = "/blog/2010/03/04/fpgas-sind-die-neuen-mikrocontroller"
 +++
 Heute auf der [Messe](http://www.embedded-world.de/de/default.ashx) auf
 der Suche nach

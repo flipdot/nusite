@@ -2,6 +2,7 @@
 title = "TouchControl4Space"
 date = 2014-03-18T22:00:00Z
 author = "member"
+path = "/blog/2014/03/18/touchcontrol4space"
 +++
 Unser RaspberryPi mit Touchscreen ist fast fertig, Touch-Treiber läuft,
 Auflösung wurde angepasst und Touchscreen kalibriert. Bald wird also

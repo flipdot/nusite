@@ -2,6 +2,7 @@
 title = "Ausprobieren mit Pygame, RasPi und Pollin LCD"
 date = 2014-11-10T15:01:44Z
 author = "typ_o"
+path = "/blog/2014/11/10/ausprobieren-mit-pygame-raspi-und-pollin-lcd"
 +++
 Hier so ein paar Vorübungen zu einer GUI auf dem Pi.  
   

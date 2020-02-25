@@ -2,6 +2,7 @@
 title = "eQ-3 Model K Thermostat Hack"
 date = 2015-02-22T11:49:56Z
 author = "typ_o"
+path = "/blog/2015/02/22/eq-3-model-k-thermostat-hack"
 +++
 [Thermostat eQ-3 Model K Hack](https://vimeo.com/120285842) from
 [flipdot: hackerspace kassel](https://vimeo.com/flipdot) on

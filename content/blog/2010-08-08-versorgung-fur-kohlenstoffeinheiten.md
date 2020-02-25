@@ -2,6 +2,7 @@
 title = "Versorgung für Kohlenstoffeinheiten"
 date = 2010-08-08T14:05:28Z
 author = "typ_o"
+path = "/blog/2010/08/08/versorgung-fur-kohlenstoffeinheiten"
 +++
 [![](https://flipdot.org/blog/uploads/bar.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/bar.jpg)Küche
 und Bar entstehen gerade, Platten sind zugeschnitten und ein erstes Mal

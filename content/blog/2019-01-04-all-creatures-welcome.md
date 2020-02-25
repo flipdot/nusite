@@ -2,6 +2,7 @@
 title = "All Creatures Welcome"
 date = 2019-01-04T15:11:20Z
 author = "typ_o"
+path = "/blog/2019/01/04/all-creatures-welcome"
 +++
 [![](https://flipdot.org/blog/uploads/acw_poster_ki_regenbogen_digital.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/acw_poster_ki_regenbogen_digital.jpg)  
   
@@ -14,7 +15,7 @@ ein.
 und um den Chaos Computer Club.  
   
 
-<div style="padding:56.25% 0 0 0;position:relative;">
+<div style="padding: 56.25% 0 0 0;">
 
 </div>
 

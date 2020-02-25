@@ -2,6 +2,7 @@
 title = "Lock actuator"
 date = 2011-10-25T18:36:02Z
 author = "typ_o"
+path = "/blog/2011/10/25/lock-actuator"
 +++
 [![Lock
 actuator](https://flipdot.org/blog/uploads/2011/10/IMAG1373.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/2011/10/IMAG1373.jpg)  

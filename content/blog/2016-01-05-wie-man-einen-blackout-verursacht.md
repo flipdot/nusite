@@ -2,6 +2,7 @@
 title = "Wie man einen Blackout verursacht"
 date = 2016-01-05T14:46:42Z
 author = "typ_o"
+path = "/blog/2016/01/05/wie-man-einen-blackout-verursacht"
 +++
 Sehr schöner Talk von 32C3: "[Wie man einen Blackout verursacht - und
 warum das gar nicht so einfach

@@ -2,6 +2,7 @@
 title = "Bausteln bis der Arzt kommt: 19.-21.2.2010"
 date = 2010-02-16T07:39:59Z
 author = "typ_o"
+path = "/blog/2010/02/16/bausteln-bis-der-arzt-kommt-19-21-2-2010"
 +++
 [![](https://flipdot.org/blog/uploads/00012_quadratisch.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/00012_quadratisch.jpg)[flipdot](http://flipdot.org/wiki/)
 hat ja noch immer keine Räume, trotzdem wollen wir unbedingt schon

@@ -2,6 +2,7 @@
 title = "ESC identifizieren"
 date = 2018-05-22T22:03:42Z
 author = "Baustel"
+path = "/blog/2018/05/22/esc-identifizieren"
 +++
 ![](https://flipdot.org/blog/uploads/ESC-584x438.jpg)  
   

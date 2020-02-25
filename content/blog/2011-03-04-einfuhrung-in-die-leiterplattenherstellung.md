@@ -2,6 +2,7 @@
 title = "Einführung in die Leiterplattenherstellung"
 date = 2011-03-04T03:34:57Z
 author = "typ_o"
+path = "/blog/2011/03/04/einfuhrung-in-die-leiterplattenherstellung"
 +++
 <div class="serendipity_imageComment_left">
 

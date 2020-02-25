@@ -2,6 +2,7 @@
 title = "Erstes Werkstück gefräst"
 date = 2015-06-03T04:57:33Z
 author = "typ_o"
+path = "/blog/2015/06/03/erstes-werkstuck-gefrast"
 +++
 [![](https://flipdot.org/blog/uploads/pizzaschieber.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/pizzaschieber.jpg)  
 Ein Pizzaschieber. Sperrholz - das erste Werkstück muss ja nicht gleich

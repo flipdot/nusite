@@ -2,6 +2,7 @@
 title = "Automatische Pflanzenbewässerungsanlage… das kann ich nicht, oder doch?!"
 date = 2017-05-31T11:23:00Z
 author = "Baustel"
+path = "/blog/2017/05/31/automatische-pflanzenbewasserungsanlage-das-kann-ich-nicht-oder-doch"
 +++
 Ich stand vor dem Problem, dass ich gerne meinen eigenen Kleinstgarten
 auf dem Balkon habe, aber andererseits auch in näherer Zukunft für rund
@@ -11,7 +12,7 @@ also handeln.
 Was tut man also? Im Internet nach Lösungen suchen.  
   
 
-<div class="serendipity_imageComment_center" style="width: 600px">
+<div class="serendipity_imageComment_center" style="width: 600px;">
 
 <div class="serendipity_imageComment_img">
 

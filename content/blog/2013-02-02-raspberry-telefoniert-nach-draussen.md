@@ -2,6 +2,7 @@
 title = "Raspberry telefoniert nach draussen"
 date = 2013-02-02T00:48:20Z
 author = "typ_o"
+path = "/blog/2013/02/02/raspberry-telefoniert-nach-draussen"
 +++
 ![](https://flipdot.org/blog/uploads/raspi-small.jpg)  
   

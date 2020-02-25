@@ -2,6 +2,7 @@
 title = "Ausweichquartier am 9.2.2010"
 date = 2010-02-02T09:55:50Z
 author = "typ_o"
+path = "/blog/2010/02/02/ausweichquartier-am-9-2-2010"
 +++
 Heute kann unser Treffen wegen einer raumgreifenden Ausstellung nicht im
 Kunsttempel stattfinden, deswegen Ausweichquartier in der Pizzeria Da

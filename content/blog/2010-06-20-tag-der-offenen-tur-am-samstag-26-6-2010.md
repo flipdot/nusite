@@ -2,6 +2,7 @@
 title = "Tag der offenen Tür am Samstag, 26.6.2010"
 date = 2010-06-20T21:57:39Z
 author = "typ_o"
+path = "/blog/2010/06/20/tag-der-offenen-tur-am-samstag-26-6-2010"
 +++
 [![](https://flipdot.org/blog/uploads/opendoor1.serendipityThumb.jpg)](http://flipdot.org/blog/uploads/opendoor1.pdf)Am
 kommenden Samstag ist in dem [Hausprojekt](http://haus-chasalla.de/) in

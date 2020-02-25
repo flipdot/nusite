@@ -2,6 +2,7 @@
 title = "Räume, wir kommen!"
 date = 2010-03-16T09:11:36Z
 author = "typ_o"
+path = "/blog/2010/03/16/raume-wir-kommen"
 +++
 Heute wieder 19:00 im
 [Kunsttempel](http://flipdot.org/blog/index.php?/archives/47-Ab-jetzt-immer-Dienstags.html).

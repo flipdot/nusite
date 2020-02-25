@@ -2,6 +2,7 @@
 title = "Task Forces at work"
 date = 2010-06-14T19:00:54Z
 author = "typ_o"
+path = "/blog/2010/06/14/task-forces-at-work"
 +++
 Morgen um 19:00
 [treffen](http://flipdot.org/wiki/index.php?title=Flipdot_Treffen) wir

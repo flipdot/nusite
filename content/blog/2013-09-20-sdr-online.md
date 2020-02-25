@@ -2,6 +2,7 @@
 title = "SDR online"
 date = 2013-09-20T20:28:36Z
 author = "typ_o"
+path = "/blog/2013/09/20/sdr-online"
 +++
 [Software Defined
 Radio](http://de.wikipedia.org/wiki/Software_Defined_Radio) online

@@ -2,6 +2,7 @@
 title = "Prepaid Getränke-Abrechnungssystem"
 date = 2016-01-29T16:17:02Z
 author = "typ_o"
+path = "/blog/2016/01/29/prepaid-getranke-abrechnungssystem"
 +++
 Pseudo- / Anonym, mit paper trail, extrem niedriger
 Standby-Stromverbrauch, niedrige Systemkosten, geringer Schulungsaufwand

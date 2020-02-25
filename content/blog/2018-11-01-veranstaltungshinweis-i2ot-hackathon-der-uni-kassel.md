@@ -2,6 +2,7 @@
 title = "Veranstaltungshinweis: I²oT Hackathon der Uni Kassel"
 date = 2018-11-01T17:20:00Z
 author = "Baustel"
+path = "/blog/2018/11/01/veranstaltungshinweis-i2ot-hackathon-der-uni-kassel"
 +++
 Der
 [I²oTHack](https://www.ies.uni-kassel.de/p/i%C2%B2othack/ "I²oTHack")

@@ -2,6 +2,7 @@
 title = "Spannpratzen"
 date = 2015-07-14T17:49:03Z
 author = "flipdot member"
+path = "/blog/2015/07/14/spannpratzen"
 +++
 [![](https://flipdot.org/blog/uploads/20150714_174334.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/20150714_174334.jpg)  
   

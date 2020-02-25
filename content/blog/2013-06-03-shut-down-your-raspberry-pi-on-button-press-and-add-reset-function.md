@@ -2,6 +2,7 @@
 title = "Shut down your Raspberry Pi on button press and add reset function"
 date = 2013-06-03T12:08:55Z
 author = "typ_o"
+path = "/blog/2013/06/03/shut-down-your-raspberry-pi-on-button-press-and-add-reset-function"
 +++
 Connect a shutdown-pushbutton to
 [header 5](http://elinux.org/RPi_Low-level_peripherals#P5_header) (pin 6

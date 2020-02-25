@@ -2,6 +2,7 @@
 title = "Das Auge schließt mit!"
 date = 2016-06-02T09:38:04Z
 author = "typ_o"
+path = "/blog/2016/06/02/das-auge-schliesst-mit"
 +++
 Neue Schlossmechanik für unseren Hackerspace.  
   

@@ -2,6 +2,7 @@
 title = "Gründungstreffen"
 date = 2010-01-08T05:21:48Z
 author = "typ_o"
+path = "/blog/2010/01/08/grundungstreffen"
 +++
 Am kommenden Dienstag, dem 12. Januar 2010, gründen wir im
 [Kunsttempel](http://flipdot.org/blog/index.php?/archives/47-Ab-jetzt-immer-Dienstags.html)

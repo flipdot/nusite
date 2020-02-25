@@ -2,6 +2,7 @@
 title = "Hackerspaces Links"
 date = 2009-09-27T16:25:00Z
 author = "typ_o"
+path = "/blog/2009/09/27/hackerspaces-links"
 +++
 Eine Soup verschiedener [Hackerspaces
 Blogs](http://hackerspaces.soup.io/), und der olle SPON zu [Hardware

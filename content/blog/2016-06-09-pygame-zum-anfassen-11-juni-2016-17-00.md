@@ -2,6 +2,7 @@
 title = "Pygame zum anfassen - 11. Juni 2016, 17:00"
 date = 2016-06-09T18:22:44Z
 author = "typ_o"
+path = "/blog/2016/06/09/pygame-zum-anfassen-11-juni-2016-17-00"
 +++
 ![](https://flipdot.org/blog/uploads/pygame.serendipityThumb.png)  
   

@@ -2,6 +2,7 @@
 title = "Auf-Zu-Auf-Zu-Auf-Zu - es funktioniert!"
 date = 2012-01-11T06:37:31Z
 author = "typ_o"
+path = "/blog/2012/01/11/auf-zu-auf-zu-auf-zu-es-funktioniert"
 +++
 Gestern Erfolg mit unserem Türschloß, das jetzt statt via RFID über eine
 Bluetoothverbindung aktiviert werden kann. In der Erprobung haben wir

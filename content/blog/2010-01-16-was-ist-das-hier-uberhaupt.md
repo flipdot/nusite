@@ -2,6 +2,7 @@
 title = "Was ist das hier überhaupt?"
 date = 2010-01-16T11:33:44Z
 author = "typ_o"
+path = "/blog/2010/01/16/was-ist-das-hier-uberhaupt"
 +++
 <div class="serendipity_imageComment_right">
 

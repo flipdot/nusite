@@ -2,6 +2,7 @@
 title = "flipdot auf der SigInt"
 date = 2012-05-26T19:19:21Z
 author = "typ_o"
+path = "/blog/2012/05/26/flipdot-auf-der-sigint"
 +++
   
   

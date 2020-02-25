@@ -2,6 +2,7 @@
 title = "flipdot Projekt: XXL-Drucker"
 date = 2009-10-12T11:31:00Z
 author = "typ_o"
+path = "/blog/2009/10/12/flipdot-projekt-xxl-drucker"
 +++
 Mein Besuch bei flipdot Member Arne brachte uns neben angeregtem
 Geplauder gleich dazu, einen Versuch für die Spritzdüsen meines

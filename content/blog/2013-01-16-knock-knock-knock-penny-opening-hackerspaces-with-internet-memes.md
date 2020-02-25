@@ -2,6 +2,7 @@
 title = "Knock-knock-knock-Penny (Opening hackerspaces with internet memes)"
 date = 2013-01-16T03:30:08Z
 author = "typ_o"
+path = "/blog/2013/01/16/knock-knock-knock-penny-opening-hackerspaces-with-internet-memes"
 +++
   
   

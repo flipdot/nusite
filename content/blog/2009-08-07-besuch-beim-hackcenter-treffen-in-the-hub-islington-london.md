@@ -2,6 +2,7 @@
 title = "Besuch beim Hackcenter Treffen in \"The Hub\" Islington, London"
 date = 2009-08-07T17:27:00Z
 author = "typ_o"
+path = "/blog/2009/08/07/besuch-beim-hackcenter-treffen-in-the-hub-islington-london"
 +++
 ![](https://flipdot.org/blog/uploads/thehub.jpg)  
   

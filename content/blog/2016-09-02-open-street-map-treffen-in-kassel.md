@@ -2,6 +2,7 @@
 title = "Open Street Map Treffen in Kassel"
 date = 2016-09-02T18:28:37Z
 author = "typ_o"
+path = "/blog/2016/09/02/open-street-map-treffen-in-kassel"
 +++
 Am kommenden Dienstag, dem 6. September 2016 gibt es um 20:00 bei uns im
 flipdot ein (erstes) Open Street Map Treffen. Es gibt schon einige

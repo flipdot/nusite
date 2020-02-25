@@ -2,6 +2,7 @@
 title = "Erst Ei, dann Gack!"
 date = 2009-09-08T09:47:00Z
 author = "typ_o"
+path = "/blog/2009/09/08/erst-ei-dann-gack"
 +++
 **Problem** You have a chicken-and-egg-problem: What should come ﬁrst?
 Infrastructure or projects?  

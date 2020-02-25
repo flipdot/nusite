@@ -2,6 +2,7 @@
 title = "May the (DIN rail) Force be with you"
 date = 2013-04-10T15:17:45Z
 author = "typ_o"
+path = "/blog/2013/04/10/may-the-din-rail-force-be-with-you"
 +++
 ![](https://flipdot.org/blog/uploads/force.jpg)  
   

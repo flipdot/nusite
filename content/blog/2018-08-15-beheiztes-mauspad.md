@@ -2,6 +2,7 @@
 title = "Beheiztes Mauspad"
 date = 2018-08-15T16:00:40Z
 author = "typ_o"
+path = "/blog/2018/08/15/beheiztes-mauspad"
 +++
 Jaaaaa, *heute* denkt keiner dran, aber der Winter kommt, und kalte
 Zockerhände\! Deswegen eine Heizfolie auf einer Aluplatte, und oben

@@ -2,6 +2,7 @@
 title = "A simple Touch Controller for resistive touch panels"
 date = 2014-05-30T09:30:01Z
 author = "typ_o"
+path = "/blog/2014/05/30/a-simple-touch-controller-for-resistive-touch-panels"
 +++
 ([Hier gehts zur deutschen
 Version](http://flipdot.org/blog/index.php?/archives/244-A-simple-Touch-Controller-for-resistive-touch-panels.html#extended))
@@ -17,7 +18,6 @@ usecase I decided to do my own stuff.
   
 Original touch controller with USB to be replaced.  
   
-
   
   
 ![](https://flipdot.org/blog/uploads/touch_sch.jpg)  

@@ -2,6 +2,7 @@
 title = "Kontakt / Impressum"
 date = 2009-06-13T07:12:00Z
 author = "typ_o"
+path = "/blog/2009/06/13/kontakt-impressum"
 +++
 Diese Seite ist das Blog des Vereins flipdot e.V.  
   

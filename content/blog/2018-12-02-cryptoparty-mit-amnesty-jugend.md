@@ -2,6 +2,7 @@
 title = "Cryptoparty mit Amnesty-Jugend"
 date = 2018-12-02T13:40:50Z
 author = "Baustel"
+path = "/blog/2018/12/02/cryptoparty-mit-amnesty-jugend"
 +++
 ![](https://flipdot.org/blog/uploads/2018/Logo_Amnesty.serendipityThumb.png)  
 Vom 23. bis 25.11. traf sich die Amnesty-Jugend im Rahmen der

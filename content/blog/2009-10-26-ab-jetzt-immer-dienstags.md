@@ -2,6 +2,7 @@
 title = "Ab jetzt immer Dienstags"
 date = 2009-10-26T11:12:00Z
 author = "typ_o"
+path = "/blog/2009/10/26/ab-jetzt-immer-dienstags"
 +++
 flipdot - Treffen im Kunsttempel Kassel. **19:00h**. Interessiert?
 Einfach dazukommen.  

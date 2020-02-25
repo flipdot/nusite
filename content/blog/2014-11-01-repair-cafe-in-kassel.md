@@ -2,6 +2,7 @@
 title = "Repair Café in Kassel"
 date = 2014-11-01T11:09:22Z
 author = "typ_o"
+path = "/blog/2014/11/01/repair-cafe-in-kassel"
 +++
 Die nächsten Repair Café-Veranstaltungen finden am 28.11., 23.01.,
 27.02., 27.03. und 24.04. jeweils ab 16 Uhr im Nachbarschaftstreff

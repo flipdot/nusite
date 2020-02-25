@@ -2,6 +2,7 @@
 title = "Offenes Treffen und Videorecording"
 date = 2010-01-26T05:30:25Z
 author = "typ_o"
+path = "/blog/2010/01/26/offenes-treffen-und-videorecording"
 +++
 Heute wieder 19:00 im
 [Kunsttempel](http://flipdot.org/blog/index.php?/archives/47-Ab-jetzt-immer-Dienstags.html).

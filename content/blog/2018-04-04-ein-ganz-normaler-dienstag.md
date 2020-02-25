@@ -2,6 +2,7 @@
 title = "Ein ganz normaler Dienstag"
 date = 2018-04-04T06:01:11Z
 author = "typ_o"
+path = "/blog/2018/04/04/ein-ganz-normaler-dienstag"
 +++
 Beim Rundgang durch den Space sah man gestern: Den Bau eines Gehäuses
 für einen RasPi-Radiowecker aus einem Stapel Multiplex-Platten, die

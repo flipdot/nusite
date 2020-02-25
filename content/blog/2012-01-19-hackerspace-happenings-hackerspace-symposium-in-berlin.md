@@ -2,6 +2,7 @@
 title = "Hackerspace Happenings: Hackerspace Symposium in Berlin"
 date = 2012-01-19T05:07:34Z
 author = "typ_o"
+path = "/blog/2012/01/19/hackerspace-happenings-hackerspace-symposium-in-berlin"
 +++
 The Hackerspaces.org blog announced a symposium at the c-base
 hackerspace called “[Hackerspaces: The story so far and the future

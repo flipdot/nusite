@@ -2,6 +2,7 @@
 title = "The Definitive History of Hacking"
 date = 2009-10-15T01:00:00Z
 author = "typ_o"
+path = "/blog/2009/10/15/the-definitive-history-of-hacking"
 +++
 Auf
 [WonderHowTo](http://www.wonderhowto.com/wonderment/the-definitive-history-of-hacking-0113408/).

@@ -2,6 +2,7 @@
 title = "Besuch im SubLab in Leipzig"
 date = 2009-10-25T19:31:23Z
 author = "typ_o"
+path = "/blog/2009/10/25/besuch-im-sublab-in-leipzig"
 +++
 Vorletzte Woche waren wir anläßlich des Konzerts von [Parov
 Stelar](http://www.parovstelar.com/) in Leipzig, dabei natürlich gleich

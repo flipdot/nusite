@@ -2,6 +2,7 @@
 title = "Vortrag - Chinese Social Credit System"
 date = 2018-07-10T13:29:22Z
 author = "Baustel"
+path = "/blog/2018/07/10/vortrag-chinese-social-credit-system"
 +++
 2018-07-10 um 20:30 Uhr im Space **Das chinesische gesellschaftliche
 Bonitätssystem**  

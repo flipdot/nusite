@@ -2,6 +2,7 @@
 title = "CCC Kongress lokal genießen / Congress everywhere auch in Kassel"
 date = 2017-12-21T16:30:40Z
 author = "typ_o"
+path = "/blog/2017/12/21/ccc-kongress-lokal-geniessen-congress-everywhere-auch-in-kassel"
 +++
 Bereits zum 34ten mal öffnet der Chaos Computer Club zwischen den
 Feiertagen die Pforten zum [Chaos Communication

@@ -2,12 +2,12 @@
 title = "flipdot trifft Medientheoretiker und macht Praxis"
 date = 2009-11-17T11:37:05Z
 author = "typ_o"
+path = "/blog/2009/11/17/flipdot-trifft-medientheoretiker-und-macht-praxis"
 +++
 Ein Vorgeschmack, was Hackerspace in Kassel sein kann: flipdot-Members
 zu Gast auf der
 [interfiction](http://www.interfiction.org/abstracts-cv/helmut-fligge/).  
   
-
   
   
 Viele "Aha"-Augenblicke und Spaß am Gerät.  

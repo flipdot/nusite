@@ -2,6 +2,7 @@
 title = "Kaufen ist lame,"
 date = 2009-10-04T06:38:46Z
 author = "typ_o"
+path = "/blog/2009/10/04/kaufen-ist-lame"
 +++
 aber an einem trüben Nachmittag mal durch diese Links zu gehen und zu
 überlegen, was dabei rauskäme, wenn man zum Einen oder Anderen ein

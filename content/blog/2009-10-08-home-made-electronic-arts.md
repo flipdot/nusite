@@ -2,6 +2,7 @@
 title = "Home Made Electronic Arts"
 date = 2009-10-08T10:44:35Z
 author = "typ_o"
+path = "/blog/2009/10/08/home-made-electronic-arts"
 +++
 [Philip Steffan](http://bausteln.de/kontakt/) twittert, er [fand
 grad](http://twitter.com/bausteln/statuses/4705261517) ein Buch, das ich

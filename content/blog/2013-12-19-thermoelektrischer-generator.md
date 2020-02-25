@@ -2,6 +2,7 @@
 title = "Thermoelektrischer Generator"
 date = 2013-12-19T16:25:40Z
 author = "typ_o"
+path = "/blog/2013/12/19/thermoelektrischer-generator"
 +++
 Wegen
 [dieses](http://clockworker.de/cw/2013/12/03/der-thermoelektrische-aetherwellen-empfaenger/)

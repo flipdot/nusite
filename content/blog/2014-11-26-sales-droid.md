@@ -2,6 +2,7 @@
 title = "Sales Droid"
 date = 2014-11-26T04:43:37Z
 author = "typ_o"
+path = "/blog/2014/11/26/sales-droid"
 +++
 Muss.Verkaufen.Marge.USP.Umsatz.Qualität der Kundenbeziehung.  
   

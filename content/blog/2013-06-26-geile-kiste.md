@@ -2,6 +2,7 @@
 title = "Geile Kiste"
 date = 2013-06-26T08:42:39Z
 author = "typ_o"
+path = "/blog/2013/06/26/geile-kiste"
 +++
 Die Watterotts (das sind nette\!) kamen gestern persönlich vorbei, und
 haben uns mit einer

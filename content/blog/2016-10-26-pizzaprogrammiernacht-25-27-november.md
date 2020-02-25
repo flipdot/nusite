@@ -2,6 +2,7 @@
 title = "Pizzaprogrammiernacht 25. - 27. November"
 date = 2016-10-26T14:35:33Z
 author = "typ_o"
+path = "/blog/2016/10/26/pizzaprogrammiernacht-25-27-november"
 +++
 Wir hacken nicht nur, wir backen auch. In unserem neuen
 Gastro-Pizzaofen: Große Mengen Pizza, bis jeder satt ist. Währenddessen

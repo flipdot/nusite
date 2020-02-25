@@ -2,6 +2,7 @@
 title = "Filzstift-Aufnahme für Fräse"
 date = 2016-06-22T11:14:29Z
 author = "typ_o"
+path = "/blog/2016/06/22/filzstift-aufnahme-fur-frase"
 +++
 [![](https://flipdot.org/blog/uploads/plotter1.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/plotter1.jpg)  
   

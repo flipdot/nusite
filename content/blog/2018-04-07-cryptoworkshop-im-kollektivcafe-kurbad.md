@@ -2,6 +2,7 @@
 title = "Cryptoworkshop im Kollektivcafé Kurbad"
 date = 2018-04-07T11:59:47Z
 author = "wegenerd"
+path = "/blog/2018/04/07/cryptoworkshop-im-kollektivcafe-kurbad"
 +++
 Im Rahmen der Vortragsreihe „[Aluhut und
 gut?](http://dorn.blogsport.de/2018/02/09/aluhut-und-gut-von-internetueberwachung-zu-digitaler-selbstverteidigung/)“

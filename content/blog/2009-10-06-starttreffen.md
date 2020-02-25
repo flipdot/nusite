@@ -2,6 +2,7 @@
 title = "Starttreffen"
 date = 2009-10-06T04:20:11Z
 author = "typ_o"
+path = "/blog/2009/10/06/starttreffen"
 +++
 Sammlung zu den Themen heute Abend
 [hier](http://flipdot.org/wiki/index.php?title=Flipdot_Treffen/2009-10-06),

@@ -2,6 +2,7 @@
 title = "Raumbesichtigung Sickingenstraße"
 date = 2010-04-27T09:06:31Z
 author = "typ_o"
+path = "/blog/2010/04/27/raumbesichtigung-sickingenstrasse"
 +++
 **Achtung - Edit Zeit und Ort:** Am Montag, den 3. Mai um 17:45 Uhr
 treffen wir uns kurz vorher im [Döner

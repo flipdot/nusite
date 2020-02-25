@@ -2,6 +2,7 @@
 title = "Neuer Raspberry - auch diesmal eine gute Entscheidung"
 date = 2014-11-10T09:27:49Z
 author = "typ_o"
+path = "/blog/2014/11/10/neuer-raspberry-auch-diesmal-eine-gute-entscheidung"
 +++
 Es gibt einen weiteren [Pi mit abgespecktem Hardwareumfang, den
 A+](http://www.raspberrypi.org/raspberry-pi-model-a-plus-on-sale/). Was

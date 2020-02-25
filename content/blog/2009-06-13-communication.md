@@ -2,6 +2,7 @@
 title = "Communication"
 date = 2009-06-13T07:10:00Z
 author = "typ_o"
+path = "/blog/2009/06/13/communication"
 +++
 **Blog**  
 <http://flipdot.org/blog> (du liest es gerade)  

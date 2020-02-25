@@ -2,6 +2,7 @@
 title = "Visiting metalab"
 date = 2010-10-31T06:24:27Z
 author = "typ_o"
+path = "/blog/2010/10/31/visiting-metalab"
 +++
 Gestern Abend waren wir denn auch im [metalab](http://metalab.at/).
 Allerfeinste Lage mitten im Zentrum, und die 200 m² gut gefüllt mit

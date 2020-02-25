@@ -2,6 +2,7 @@
 title = "Film meets Hacker - Dokfilmfest in Kassel"
 date = 2010-11-10T07:55:12Z
 author = "typ_o"
+path = "/blog/2010/11/10/film-meets-hacker-dokfilmfest-in-kassel"
 +++
 Das Kasseler Dokumentarfilm- und Videofest zeigt in Kooperation mit
 flipdot - hackerspace kassel drei Filme zu den Themen  

@@ -2,6 +2,7 @@
 title = "Steine auf dem Weg zu unseren Räumen"
 date = 2010-03-29T16:59:59Z
 author = "typ_o"
+path = "/blog/2010/03/29/steine-auf-dem-weg-zu-unseren-raumen"
 +++
 Letzte Woche noch waren die unterschriftsreifen Verträge fast auf dem
 Tisch, mittlerweile steht die Vermietung seitens der Deutschen Bahn

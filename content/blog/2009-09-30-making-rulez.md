@@ -2,6 +2,7 @@
 title = "Making rulez!"
 date = 2009-09-30T16:52:57Z
 author = "typ_o"
+path = "/blog/2009/09/30/making-rulez"
 +++
 Auf der SigInt hielt Philip Steffan von
 [Bausteln.de](http://bausteln.de/) einen flotten Vortrag unter dem

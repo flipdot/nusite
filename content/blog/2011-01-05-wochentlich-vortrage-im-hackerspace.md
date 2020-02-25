@@ -2,6 +2,7 @@
 title = "Wöchentlich Vorträge im Hackerspace"
 date = 2011-01-05T18:00:47Z
 author = "Sebastian Löser"
+path = "/blog/2011/01/05/wochentlich-vortrage-im-hackerspace"
 +++
 Hi,  
 wir fangen endlich an\! Ab dem 25.01.2011 wollen wir jeden Di um

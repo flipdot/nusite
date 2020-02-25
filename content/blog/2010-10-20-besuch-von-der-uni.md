@@ -2,6 +2,7 @@
 title = "Besuch von der Uni"
 date = 2010-10-20T05:00:00Z
 author = "typ_o"
+path = "/blog/2010/10/20/besuch-von-der-uni"
 +++
 Grade hatten wir Besuch vom Fachbereich Architektur, Stadt- und
 Landschaftsplanung: Florian Gwinner und Karen Winzer berichteten von

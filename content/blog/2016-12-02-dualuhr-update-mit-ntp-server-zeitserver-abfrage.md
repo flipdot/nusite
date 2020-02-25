@@ -2,6 +2,7 @@
 title = "Dualuhr Update mit NTP-Server (Zeitserver) - Abfrage"
 date = 2016-12-02T09:17:39Z
 author = "typ_o"
+path = "/blog/2016/12/02/dualuhr-update-mit-ntp-server-zeitserver-abfrage"
 +++
 Die Dual-Uhr in der Lounge ist ein altes Projekt mit einem AVR und
 [BASCOM](http://www.mcselec.com/?option=com_content&task=view&id=14&Itemid=41).

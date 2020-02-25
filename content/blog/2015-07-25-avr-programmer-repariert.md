@@ -2,6 +2,7 @@
 title = "AVR Programmer repariert"
 date = 2015-07-25T20:27:55Z
 author = "al"
+path = "/blog/2015/07/25/avr-programmer-repariert"
 +++
 ![](https://flipdot.org/blog/uploads/AVR_ISP_MKII_Programmer_Reparieren_8.serendipityThumb.jpg)  
 Die AVR ISP MKII Programmer von Atmel sind schon ziemlich robuste

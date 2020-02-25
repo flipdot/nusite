@@ -2,6 +2,7 @@
 title = "Jaaa, noch mehr Spenden!"
 date = 2010-08-04T05:11:31Z
 author = "typ_o"
+path = "/blog/2010/08/04/jaaa-noch-mehr-spenden"
 +++
 Die Firma [Watterott Elektronic](http://www.watterott.com/), manchen als
 Arduino und Adafruit Industries Distri bekannt, hat gespendet - und zwar

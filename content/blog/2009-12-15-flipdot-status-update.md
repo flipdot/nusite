@@ -2,7 +2,7 @@
 title = "flipdot Status update"
 date = 2009-12-15T09:54:44Z
 author = "typ_o"
-slug = "flipdot-statis-update-3"
+path = "/blog/2009/12/15/flipdot-status-update"
 +++
 Die Satzung ist jetzt pre-release. Wir haben die Änderungswünsche des
 Amtsgerichts eingearbeitet und die Satzung nochmal vorgelegt. Jetzt

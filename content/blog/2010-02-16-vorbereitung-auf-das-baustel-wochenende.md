@@ -2,6 +2,7 @@
 title = "Vorbereitung auf das Baustel-Wochenende"
 date = 2010-02-16T07:25:43Z
 author = "typ_o"
+path = "/blog/2010/02/16/vorbereitung-auf-das-baustel-wochenende"
 +++
 Heute Abend treffen wir uns wieder im Kunsttempel in Kassel um
 **19:00h**. Interessiert? Einfach dazukommen.  

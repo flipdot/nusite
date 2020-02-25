@@ -2,6 +2,7 @@
 title = "Frickel - Links"
 date = 2009-11-02T05:13:39Z
 author = "typ_o"
+path = "/blog/2009/11/02/frickel-links"
 +++
 Twitter kriegt jetzt wegen Google Wave kalte Füße, darum wohl schnell
 die Twitter-Listen released. Gibt schon erste gute:

@@ -2,6 +2,7 @@
 title = "Strom macht strubbelige Haare"
 date = 2017-08-13T19:45:03Z
 author = "flipdot member"
+path = "/blog/2017/08/13/strom-macht-strubbelige-haare"
 +++
 [![Strom macht strubbelige
 Haare](https://flipdot.org/blog/uploads/20170813_204108.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/20170813_204108.jpg)

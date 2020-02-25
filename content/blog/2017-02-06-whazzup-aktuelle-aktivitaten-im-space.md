@@ -2,6 +2,7 @@
 title = "Whazzup? Aktuelle Aktivitäten im Space"
 date = 2017-02-06T06:54:33Z
 author = "typ_o"
+path = "/blog/2017/02/06/whazzup-aktuelle-aktivitaten-im-space"
 +++
 Die Küche ist jetzt in einem gut benutzbaren Zustand, wenn auch
 Arbeitsplatz knapp ist, und die Spülen noch nicht optimal sind.  
