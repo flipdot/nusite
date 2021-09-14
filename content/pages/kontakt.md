@@ -2,21 +2,28 @@
 title = "Kontakt"
 path = "/kontakt/"
 +++
-Komym am besten an einem Dienstag ab 19 Uhr vorbei. Das ist unser *offener Tag*, an dem auch immer viele Member im Space sind. Wir freuen uns über jeden neuen Besuch, also keine falsche Scheu. Wenn du den Raum betrittst, passiert normalerweise: nichts. Wundere dich also nicht, sondern sprich jemanden an!
+
+## Coronavirus
+
+Aufgrund der aktuellen Situation findet unser üblicher offener Dienstag aktuell nicht statt, ebenso fallen bis auf weiteres auch alle öffentlichen Veranstaltungen flach. Interessierte können sich gerne bei uns via der unten aufgeführten Kontaktmöglichkeiten melden, wo wir uns aktuell, virtuell des öfteren treffen.
+
+<!-- Komm am besten an einem Dienstag ab 19 Uhr vorbei. Das ist unser *offener Tag*, an dem auch immer viele Member im Space sind. Wir freuen uns über jeden neuen Besuch, also keine falsche Scheu. Wenn du den Raum betrittst, passiert normalerweise: nichts. Wundere dich also nicht, sondern [sprich jemanden an](http://store-xkcd-com.myshopify.com/products/just-shy)!
 
 Wenn du vorher mit uns Kontakt aufnehmen willst, melde dich einfach per Mail.
 
-Die Türklingeln funktionieren leider nicht immer. Falls unten die Tür zu sein sollte und nach mehrmaligem {!} Klingeln keiner öffnet, kannst du uns eine Mail senden, im IRC schreiben oder das Spacetelefon anrufen.
+Die Türklingeln funktionieren leider nicht immer. Falls unten die Tür zu sein sollte und nach mehrmaligem {!} Klingeln keiner öffnet, kannst du uns eine Mail senden, im IRC schreiben oder das Spacetelefon anrufen. -->
 
 ## Details
 
-* Mail: com {kringeldings} flipdot {punkt} org (Kann von allen Mitgliedern gelesen werden und wird archiviert!)
+* Mail: com {kringeldings} flipdot {punkt} org (Wird von ausgewählten Mitgliedern gelesen und wird archiviert!)
 * Telefon: +49 561 47395848
-* IRC: [irc.freenode.net/flipdot][irc], Details und Hilfe für Smartphone-Benutzer [hier][irc-details]  
-  <i class="fas fa-exclamation-triangle"></i> Um Störungen durch Spammer im IRC zu verhindern, musst du einige Minuten warten, bevor du reden kannst.
+* Matrix: [#Sofaecke auf matrix.flipdot.org][matrix], Details und Hilfe [hier][matrix-details]
+* Mumble: `mumble.flipdot.org`, [Details hier][mumble-details]
+* Telegram Gruppe: siehe [hier][matrix-details]
 
-[irc]: irc://irc.freenode.net/flipdot
-[irc-details]: https://flipdot.org/wiki/IRC
+[matrix]: https://matrix.to/#/#general:flipdot.org?via=flipdot.org&via=matrix.org
+[matrix-details]: /matrix/
+[mumble-details]: /mumble/
 
 ## Anfahrt
 
