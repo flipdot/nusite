@@ -1,0 +1,15 @@
++++
+title = "flipdot bei Kulturnapf"
+date = 2020-03-03T22:01:22
+author = "Baustel"
+path = "/blog/2020/03/03/flipdot-bei-kulturnapf"
++++
+Wir haben beim Kulturnapf Kassel ein Interview über uns gegeben. Erfahrt
+mehr über uns im Podcast-Format!
+
+<a href="https://flipdot.org/blog/rss.php?version=2.0&amp;all=1" class="serendipity_image_center"><img src="https://flipdot.org/blog/uploads/2020/soundcloud_kulturnapf_cookies.png" width="675" height="166" /></a>
+[Interview auf
+Soundcloud](https://soundcloud.com/user-976695732-112743983/s2e1kulturnapf-interview-flipdot)
+
+Hört euch auch die anderen Folgen an: [Kulturnapf_Kassel auf
+Soundcloud](https://soundcloud.com/user-976695732-112743983)
