@@ -1,6 +1,6 @@
 +++
 title = "Smartphone USB-C Hack"
-date = 2020-10-23T21:08:01
+date = 2020-10-23T21:08:01Z
 author = "Baustel"
 path = "/blog/2020/10/23/smartphone-usb-c-hack"
 +++

@@ -1,6 +1,6 @@
 +++
 title = "flipdot lädt zum sicheren Besuch des Spaces ein – virtuell"
-date = 2020-03-15T21:45:27
+date = 2020-03-15T21:45:27Z
 author = "typ_o"
 path = "/blog/2020/03/15/flipdot-ladt-zum-sicheren-besuch-des-spaces-ein-virtuell"
 +++

@@ -1,6 +1,6 @@
 +++
 title = "Coronavirus: Space bleibt für alle geschlossen"
-date = 2020-03-14T14:23:31
+date = 2020-03-14T14:23:31Z
 author = "Baustel"
 path = "/blog/2020/03/14/coronavirus-space-bleibt-fur-alle-geschlossen"
 +++

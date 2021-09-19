@@ -1,6 +1,6 @@
 +++
 title = "#WirVsVirusHack: Unser Beitrag"
-date = 2020-03-22T19:03:23
+date = 2020-03-22T19:03:23Z
 author = "Baustel"
 path = "/blog/2020/03/22/wirvsvirushack-unser-beitrag"
 +++

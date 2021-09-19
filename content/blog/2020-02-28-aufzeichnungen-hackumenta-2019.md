@@ -1,6 +1,6 @@
 +++
 title = "Aufzeichnungen Hackumenta 2019"
-date = 2020-02-28T12:38:27
+date = 2020-02-28T12:38:27Z
 author = "Baustel"
 path = "/blog/2020/02/28/aufzeichnungen-hackumenta-2019"
 +++

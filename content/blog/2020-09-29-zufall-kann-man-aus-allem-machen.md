@@ -1,6 +1,6 @@
 +++
 title = "Zufall kann man aus allem machen"
-date = 2020-09-29T16:22:02
+date = 2020-09-29T16:22:02Z
 author = "flipdot member"
 path = "/blog/2020/09/29/zufall-kann-man-aus-allem-machen"
 +++

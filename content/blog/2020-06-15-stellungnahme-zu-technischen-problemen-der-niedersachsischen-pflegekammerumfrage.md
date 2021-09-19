@@ -1,6 +1,6 @@
 +++
 title = "Stellungnahme zu technischen Problemen der Niedersächsischen Pflegekammerumfrage"
-date = 2020-06-15T19:56:24
+date = 2020-06-15T19:56:24Z
 author = "Baustel"
 path = "/blog/2020/06/15/stellungnahme-zu-technischen-problemen-der-niedersachsischen-pflegekammerumfrage"
 +++

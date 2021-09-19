@@ -1,6 +1,6 @@
 +++
 title = "Illustration im Triebwerk 9"
-date = 2020-02-28T15:09:34
+date = 2020-02-28T15:09:34Z
 author = "Baustel"
 path = "/blog/2020/02/28/illustration-im-triebwerk-9"
 +++

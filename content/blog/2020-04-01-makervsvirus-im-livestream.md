@@ -1,6 +1,6 @@
 +++
 title = "#makervsvirus im Livestream"
-date = 2020-04-01T16:29:42
+date = 2020-04-01T16:29:42Z
 author = "Baustel"
 path = "/blog/2020/04/01/makervsvirus-im-livestream"
 +++

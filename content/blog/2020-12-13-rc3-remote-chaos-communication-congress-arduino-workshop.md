@@ -1,6 +1,6 @@
 +++
 title = "RC3 - Remote Chaos Communication Congress - Arduino Workshop"
-date = 2020-12-13T11:00:29
+date = 2020-12-13T11:00:29Z
 author = "Baustel"
 path = "/blog/2020/12/13/rc3-remote-chaos-communication-congress-arduino-workshop"
 +++
