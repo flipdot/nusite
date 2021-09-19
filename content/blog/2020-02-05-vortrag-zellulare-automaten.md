@@ -8,12 +8,12 @@ path = "/blog/2020/02/05/vortrag-zellulare-automaten"
 
 ![](https://flipdot.org/blog/uploads/anim.gif)
 
-\- **Kein Vorwissen benötigt**  
-\- Conway's Game of Life  
-\- 2D Zelluläre Automaten  
-\- Entdeckung neuer Regeln  
-\- Interaktive Software  
-\- Technik kann Kunst und Schönheit schaffen
+- **Kein Vorwissen benötigt**
+- Conway's Game of Life
+- 2D Zelluläre Automaten
+- Entdeckung neuer Regeln
+- Interaktive Software
+- Technik kann Kunst und Schönheit schaffen
 
 Gäste und Interessierte sind herzlich willkommen, Eintritt ist frei.
 
