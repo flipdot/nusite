@@ -34,10 +34,6 @@ href = "/admin/"
 title = "Impressum"
 href = "/impressum/"
 
-[[extra.footer_nav]]
-title = "Datenschutz"
-href = "/datenschutz/"
-
 
 [[extra.ext_nav]]
 title = "RSS feed"
