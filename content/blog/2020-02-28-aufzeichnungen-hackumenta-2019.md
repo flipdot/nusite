@@ -17,14 +17,14 @@ Hier eine kleiner Auszug:
 
 ### Chemie und Physik beim Kochen und Brot backen
 
-<iframe src="https://media.ccc.de/v/hackumenta-10-chemie-und-physik-beim-kochen-und-brot-backen/oembed" allowfullscreen="" width="1024" height="381" frameborder="0"></iframe>
+<iframe src="https://media.ccc.de/v/hackumenta-10-chemie-und-physik-beim-kochen-und-brot-backen/oembed" allow="gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### CUDA Basics
 
-<iframe src="https://media.ccc.de/v/hackumenta-8-cuda-basics/oembed" allowfullscreen="" width="1024" height="381" frameborder="0"></iframe>
+<iframe src="https://media.ccc.de/v/hackumenta-8-cuda-basics/oembed" allow="gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Esperanto: Wie funktioniert eine Plansprache?
 
-<iframe src="https://media.ccc.de/v/hackumenta-12-esperanto-wie-funktioniert-eine-plansprache-/oembed" allowfullscreen="" width="1024" height="381" frameborder="0"></iframe>
+<iframe src="https://media.ccc.de/v/hackumenta-12-esperanto-wie-funktioniert-eine-plansprache-/oembed" allow="gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Mehr ansehen: <https://media.ccc.de/b/conferences/hackumenta>

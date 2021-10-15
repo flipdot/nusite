@@ -12,7 +12,7 @@ einmal vom Verein gekauft und den Mitgliedern ausgeliehen wird. Schaut
 doch mal rein:
 
 <a href="#" onclick="flipdot.loadIframe(event, 'iframe_youtube_allerleih', 'https://www.youtube-nocookie.com/embed/B0zgpZm8Lj4')" class="serendipity_image_center"><img src="https://flipdot.org/blog/uploads/allerleih-youtube.png" width="675" height="315" /></a>
-<iframe id="iframe_youtube_allerleih" class="hidden" allow="autoplay; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315"></iframe>
+<iframe id="iframe_youtube_allerleih" class="hidden" allow="autoplay; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Ihr findet allerleih in der Stadtbibliothek Kassel. Weitere Infos gibt
 es auf der Webseite <https://www.dein-allerleih.de/>

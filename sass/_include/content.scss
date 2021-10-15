@@ -46,6 +46,10 @@ main {
         max-height: 55vw;
     }
 
+    iframe[src^='https://w.soundcloud.com/'] {
+        height: 160px;
+    }
+
     .hidden {
         display: none;
     }
