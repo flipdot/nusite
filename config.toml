@@ -34,6 +34,10 @@ href = "/admin/"
 title = "Impressum"
 href = "/impressum/"
 
+[[extra.footer_nav]]
+title = "Satzung"
+href = "/satzung/"
+
 
 [[extra.ext_nav]]
 title = "RSS feed"

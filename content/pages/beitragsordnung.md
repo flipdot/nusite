@@ -1,0 +1,4 @@
++++
+title = "Beitragsordnung"
+path = "/beitragsordnung/"
++++
