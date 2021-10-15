@@ -18,12 +18,12 @@ title = "Blog"
 href = "/blog/"
 
 [[extra.site_nav]]
-title = "Kontakt"
-href = "/kontakt/"
+title = "FAQ"
+href = "/faq/"
 
 [[extra.site_nav]]
-title = "Wiki"
-href = "/wiki/"
+title = "Kontakt"
+href = "/kontakt/"
 
 
 [[extra.footer_nav]]
