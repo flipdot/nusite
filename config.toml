@@ -46,7 +46,7 @@ icon_classes = "fas fa-rss"
 
 [[extra.ext_nav]]
 title = "Unser Chat-Raum"
-href = "https://matrix.to/#/#flipdot:matrix.org"
+href = "https://matrix.to/#/#general:flipdot.org"
 icon_classes = "fas fa-hashtag"
 
 [[extra.ext_nav]]

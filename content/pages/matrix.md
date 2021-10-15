@@ -3,11 +3,8 @@ title = "Matrix"
 path = "/matrix/"
 +++
 
-Wir nutzen zur Echtzeitkommunikation hauptsächlich Matrix. Verbinde dich gerne zu unseren digitalen Sofaecke um zu quatschen: 
-
-<https://matrix.flipdot.org/#/room/#Sofaecke:matrix.flipdot.org>
-
-Du kannst dich dazu über Software wie z.B. [Element](https://element.io/get-started) verbinden. Für eine weitere Übersicht für Clients lohnt sich <https://matrix.org/clients/>.
+Wir nutzen zur Echtzeitkommunikation hauptsächlich Matrix. Verbinde dich gerne zu unseren digitalen
+Sofaecke um zu quatschen: [#general:flipdot.org](https://matrix.to/#/#general:flipdot.org)
 
 Wenn du lieber redest als zu schreiben, schau doch mal in unserm [Mumble](/mumble/) vorbei.
 
