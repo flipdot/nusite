@@ -1,7 +1,7 @@
 image: debian:buster-slim
 
 variables:
-  ZOLA_TAG: v0.10.0
+  ZOLA_TAG: v0.14.1
 
 before_script:
   - apt update && apt -y install wget
