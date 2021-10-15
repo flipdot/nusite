@@ -13,7 +13,7 @@ absolute Laien an: Ein Einstieg in die Welt der Programmierung von
 Mikrocontrollern des
 [Arduino-Systems](https://de.wikipedia.org/wiki/Arduino_(Plattform)).
 
-<a href="https://flipdot.org/blog/uploads/arduino-rc3-2.JPG" class="serendipity_image_link"><img src="https://flipdot.org/blog/uploads/arduino-rc3-2.serendipityThumb.JPG" class="serendipity_image_center" width="675" height="394" /></a>
+<a href="https://flipdot.org/blog/uploads/arduino-rc3-2.JPG"><img src="https://flipdot.org/blog/uploads/arduino-rc3-2.serendipityThumb.JPG" width="675" height="394" /></a>
 
 - Keine Elektronik- oder Programmierkenntnisse nötig
 - Du brauchst einen Rechner mit USB Schnittstelle
