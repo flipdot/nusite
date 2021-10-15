@@ -3,6 +3,8 @@ title = "Satzung"
 path = "/satzung/"
 +++
 
+<div class="satzung">
+
 Beschlossen am 19.4.2020
 
 § 01 Name, Sitz, Rechtsfähigkeit, Geschäftsjahr
@@ -173,3 +175,5 @@ Die Mitgliederversammlung
 § 15 Inkrafttreten
 
 Die Satzung tritt mit Eintragung in das Vereinsregister in Kraft.
+
+</div>
