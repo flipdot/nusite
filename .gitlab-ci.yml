@@ -1,14 +1,7 @@
-image: debian:buster-slim
-
-variables:
-  ZOLA_TAG: v0.14.1
+image: alpine:latest
 
 before_script:
-  - apt update && apt -y install wget
-  - wget "https://github.com/getzola/zola/releases/download/$ZOLA_TAG/zola-$ZOLA_TAG-x86_64-unknown-linux-gnu.tar.gz"
-  - tar xf "zola-$ZOLA_TAG-x86_64-unknown-linux-gnu.tar.gz"
-  - rm -rf "zola-$ZOLA_TAG-x86_64-unknown-linux-gnu.tar.gz"
-  - mv zola /usr/bin/
+  - apk add --update-cache --repository http://dl-cdn.alpinelinux.org/alpine/edge/community/ zola
 
 check:
   stage: test
