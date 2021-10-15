@@ -44,6 +44,10 @@ main {
         height: 420px; // ~ 0.55 * max-content-width
         max-height: 55vw;
     }
+
+    .hidden {
+        display: none;
+    }
 }
 
 .post-header {
