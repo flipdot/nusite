@@ -10,9 +10,7 @@ main {
     max-width: var(--max-content-width);
 
     h1 {
-        display: flex;
-        flex-wrap: wrap;
-
+        width: 100%;
         border-bottom: 2px solid var(--flipdot-yellow);
     }
 
@@ -48,13 +46,21 @@ main {
     }
 }
 
+.post-header {
+    display: flex;
+}
+
 .post-header time {
     font-family: 'OpenSans';
     font-size: 1rem;
     color: var(--text-grey);
 
-    margin-left: auto;
-    align-self: flex-end;
+    float: right;
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+    shape-outside: inset(calc(100% - 1rem) 0 0);
+
     padding-left: .75em;
-    padding-bottom: .5rem;
+    padding-bottom: .52rem;
 }
