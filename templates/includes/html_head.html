@@ -2,10 +2,16 @@
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+{% if config.mode == "Serve" -%}
+    {%- set livereload = "ws://127.0.0.1:1024/livereload" -%}
+{%- else -%}
+    {%- set livereload = "" -%}
+{%- endif -%}
+
 <meta http-equiv="Content-Security-Policy" content="
     default-src 'self';
     img-src *;
-    connect-src 'self' https://api.flipdot.org;
+    connect-src 'self' https://api.flipdot.org {{ livereload | safe }};
     style-src 'self';
     frame-src 'self' https://www.youtube-nocookie.com https://player.vimeo.com https://media.ccc.de
 ">
