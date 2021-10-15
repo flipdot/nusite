@@ -15,9 +15,9 @@ Die Türklingeln funktionieren leider nicht immer. Falls unten die Tür zu sein 
 
 ## Details
 
-* Mail: com {kringeldings} flipdot {punkt} org (Wird von ausgewählten Mitgliedern gelesen und wird archiviert!)
+* Email: `com[ät]flipdot.org` (Wird von ausgewählten Mitgliedern gelesen und wird archiviert)
 * Telefon: +49 561 47395848
-* Matrix: [#Sofaecke auf matrix.flipdot.org][matrix], Details und Hilfe [hier][matrix-details]
+* Matrix: [#general:flipdot.org][matrix], Details und Hilfe [hier][matrix-details]
 * Mumble: `mumble.flipdot.org`, [Details hier][mumble-details]
 * Telegram Gruppe: siehe [hier][matrix-details]
 
