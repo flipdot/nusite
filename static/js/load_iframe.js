@@ -1,6 +1,6 @@
 window.flipdot = window.flipdot || {};
 window.flipdot.loadIframe = (event, elemId, iframeSrc) => {
-    event.stopPropagation();
+    event.preventDefault();
     event.target.classList.add("hidden");
 
     const elem = document.getElementById(elemId);
