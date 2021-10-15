@@ -13,5 +13,4 @@ Es finden leider weiterhin keine offenen Veranstaltungen statt. Darunter
 fällt auch unser regulärer offener Dienstag.  
 Interessierte können sich gerne bei uns im Chat melden, wo wir uns
 aktuell, virtuell des öfteren treffen.  
-Kontaktmöglichkeiten findet ihr wie gehabt hier:
-https://flipdot.org/kontakt
+Kontaktmöglichkeiten findet ihr wie gehabt hier: [Kontakt](/kontakt/)
