@@ -11,13 +11,10 @@ Franz-Ulrich-Straße 18,
 34117 Kassel
 ```
 
-Datenschutzerklärung steht [hier](/datenschutz/).
-
 Kontakt
 
-```
-E-Mail: com[ät]flipdot.org (von allen Mitgliedern einsehbar, wird archiviert!)
-```
+* Allgemein: `com[ät]flipdot.org` (von allen Mitgliedern einsehbar, wird archiviert)
+* Vorstand: `vorstand[ät]flipdot.org` (wird archiviert)
 
 Unsere Vereinsräume sind hier:
 
@@ -27,11 +24,5 @@ Franz-Ulrich-Straße 18,
 34117 Kassel
 ```
 
-Legal:
-
-```
-Gläubiger-Identifikationsnummer: DE67ZZZ00001825855
+Gläubiger-Identifikationsnummer: DE67ZZZ00001825855  
 Registernummer: VR4781 KASSEL
-```
-
-Verantwortlich für den Inhalt sind die jeweiligen Autoren des Textes.
