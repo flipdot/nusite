@@ -11,8 +11,7 @@ Himmel, in der Küche ist der Geschirrspüler angeschlossen, und die von
 Jürgen geplanten und gezeichneten Arbeits- und Tresenflächen aus
 Multiplex-Platten kommen in wenigen Tagen.
 
-Die
-[Infrastruktur](https://flipdot.org/wiki/Infrastruktur)
+Die [Infrastruktur](/infrastruktur/)
 migriert unter den Händen der Netzwerk-Taskforce Arazer und Induzer
 langsam von "extrem fliegend aufgebaut" zu "fest installiert", und
 sobald die erwarteten Switche und Router da sind, steht der grobe

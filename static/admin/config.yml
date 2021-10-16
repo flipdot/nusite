@@ -28,7 +28,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   # Our pages e.g. About
   - name: "pages"
-    label: "Page"
+    label: "Seiten"
     folder: "content/pages"
     format: toml-frontmatter
     create: true
@@ -36,4 +36,13 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Permalink", name: "path", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "projects"
+    label: "Projekte"
+    folder: "content/projekte"
+    format: toml-frontmatter
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }

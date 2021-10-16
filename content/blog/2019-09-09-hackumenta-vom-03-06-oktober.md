@@ -19,7 +19,7 @@ Wir laden Dich ein, uns zu unserer Veranstaltung Hackumenta – 10 Years
 in Space zu besuchen. Hier kannst du unseren Space besichtigen,
 Workshops und Vorträge besuchen, leckere Sachen essen, zu live gemixter
 Musik tanzen, und [realisierte und entstehende
-Projekte](https://flipdot.org/wiki/Projekte) besichtigen.
+Projekte](/projekte/) besichtigen.
 
 Mehr Informationen unter [0xa.flipdot.org](https://2019.hackumenta.de/)
 
