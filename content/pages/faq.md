@@ -64,7 +64,7 @@ bauen,
 Visualisierungen all unserer Daten aus dem Space programmieren, Smart Meter verstehen, Touch
 Displays selber ansteuern, Besuchern mit merkwürdigen Kunstprojekten helfen, aus Mikrowellen
 Schweißgeräte bauen, Hochspannungs-Plasmalautsprecher zur Funktion bringen, aus Aktivkohle und
-Alufolie Batterien bauen, [brauen](https://flipdoKontaktdatent.org/blog/archives/243-MashBerry.html), gerne auch
+Alufolie Batterien bauen, [brauen](https://flipdot.org/blog/archives/243-MashBerry.html), gerne auch
 mal [genug Bier für alle](https://flipdot.org/blog/archives/353-Heute-back-ich,-morgen-brau-ich,-und-uebermorgen-....html),
 [programmieren](https://flipdot.org/blog/archives/246-flipdots-im-flipdot.html),
 [alte Hardware retten](https://flipdot.org/blog/archives/253-thereifixedit.html),
