@@ -35,6 +35,5 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Permalink", name: "path", widget: "string", required: false } # This needs to be looked at
+      - { label: "Permalink", name: "path", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
