@@ -6,11 +6,8 @@ https://flipdot.org/wiki/images/6/64/2010_10_22_Bausteln2.pdf
 Irgendein PHP-Wiki, gibt es diese Seiten noch irgendwo?
 
 https://flipdot.org/wiki/index.php?title=Control_mpc_via_php
-https://flipdot.org/wiki/index.php?title=Hallo!
 https://flipdot.org/wiki/index.php?title=Ideen/WorkshopAngebote
-https://flipdot.org/wiki/index.php?title=Infrastruktur
 https://flipdot.org/wiki/index.php?title=Kanister
-https://flipdot.org/wiki/index.php?title=Links
 https://flipdot.org/wiki/index.php?title=Raspberry_telefoniert_nach_draussen
 https://flipdot.org/wiki/index.php?title=Raumsuche/G%C3%BCterabfertigung
 https://flipdot.org/wiki/index.php?title=Raumsuche/Gie%C3%9Fbergstra%C3%9Fe
@@ -20,4 +17,3 @@ https://flipdot.org/wiki/index.php?title=Raumsuche/Sickingenstrasse
 https://flipdot.org/wiki/index.php?title=Spaceprojekte/A.W.E.S.O.M.E.
 https://flipdot.org/wiki/index.php?title=Spaceprojekte/Heizungssteuerung
 https://flipdot.org/wiki/index.php?title=Status_Notification_System
-https://flipdot.org/wiki/index.php?title=Zugangssystem

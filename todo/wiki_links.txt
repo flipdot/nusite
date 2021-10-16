@@ -3,6 +3,7 @@ Funktionierende Wiki-Seiten, die wir im Blog verlinkt haben
 https://flipdot.org/wiki/
 https://flipdot.org/wiki/Baustelwochenende
 https://flipdot.org/wiki/HackWat
+https://flipdot.org/wiki/Infrastruktur
 https://flipdot.org/wiki/Neuland
 https://flipdot.org/wiki/PPN/Fahrplan
 https://flipdot.org/wiki/Projekte

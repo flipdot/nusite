@@ -8,7 +8,7 @@ path = "/blog/2013/01/18/knock-sensor-for-gsm-doorlock-details"
 
 Amplifier for piezo to detect structure-borne sound if member knocks on
 the door from outside. Complete GSM doorlock see
-[wiki](https://flipdot.org/wiki/index.php?title=Zugangssystem).
+[wiki](https://web.archive.org/web/20111031013858/http://flipdot.org/wiki/index.php?title=Zugangssystem).
 
 Der Piezo hat einen 1M Widerstand, um ihn schneller zu entladen, sonst
 bleibt ggf. eine Restladung eine Weile auf der Sensorkapazität. Über

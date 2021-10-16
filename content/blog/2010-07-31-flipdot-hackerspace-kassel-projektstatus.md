@@ -12,7 +12,7 @@ Jürgen geplanten und gezeichneten Arbeits- und Tresenflächen aus
 Multiplex-Platten kommen in wenigen Tagen.
 
 Die
-[Infrastruktur](https://flipdot.org/wiki/index.php?title=Infrastruktur)
+[Infrastruktur](https://flipdot.org/wiki/Infrastruktur)
 migriert unter den Händen der Netzwerk-Taskforce Arazer und Induzer
 langsam von "extrem fliegend aufgebaut" zu "fest installiert", und
 sobald die erwarteten Switche und Router da sind, steht der grobe
