@@ -5,4 +5,4 @@ author = "flipdot member"
 path = "/blog/2015/07/22/erste-versuche-mit-mcb-milled-circuit-boards"
 +++
 [![Erste Versuche mit MCB (milled circuit
-boards)](https://flipdot.org/blog/uploads/20150722_111724-1.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/20150722_111724-1.jpg)
+boards)](/media/20150722_111724-1.serendipityThumb.jpg)](/media/20150722_111724-1.jpg)

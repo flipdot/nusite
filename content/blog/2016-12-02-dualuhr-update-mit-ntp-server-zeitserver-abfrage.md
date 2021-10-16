@@ -11,6 +11,6 @@ Diese Uhr gibt es in mehreren Varianten, u.A. auch
 Flohmarkt, vermutlich ein Röntgenfilmbetrachter, auf der Vorderseite
 befand sich noch eine riesige Lupe auf einer Linearführung)
 
-[![](https://flipdot.org/blog/uploads/_uhr.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/_uhr.jpg)  
+[![](/media/_uhr.serendipityThumb.jpg)](/media/_uhr.jpg)  
 [" Dualuhr Update mit NTP-Server (Zeitserver) - Abfrage " vollständig
 lesen](https://flipdot.org/blog/archives/359-Dualuhr-Update-mit-NTP-Server-Zeitserver-Abfrage.html#extended)

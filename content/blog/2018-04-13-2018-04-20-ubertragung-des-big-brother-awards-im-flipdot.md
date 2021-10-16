@@ -4,7 +4,7 @@ date = 2018-04-13T16:39:21Z
 author = "typ_o"
 path = "/blog/2018/04/13/2018-04-20-ubertragung-des-big-brother-awards-im-flipdot"
 +++
-[![](https://flipdot.org/blog/uploads/BBA2018.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/BBA2018.jpg)
+[![](/media/BBA2018.serendipityThumb.jpg)](/media/BBA2018.jpg)
 
 18:00 Uhr, im flipdot ([Anfahrt](/kontakt/))
 übertragen wir die Verleihung des [Big Brother

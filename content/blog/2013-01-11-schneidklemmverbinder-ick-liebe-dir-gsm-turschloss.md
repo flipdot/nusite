@@ -4,7 +4,7 @@ date = 2013-01-11T16:21:07Z
 author = "typ_o"
 path = "/blog/2013/01/11/schneidklemmverbinder-ick-liebe-dir-gsm-turschloss"
 +++
-![](https://flipdot.org/blog/uploads/schneidklemm.jpg)
+![](/media/schneidklemm.jpg)
 
 Auf dem Weg zum GSM gesteuerten Türschloss. Derzeit öffnen wir mit einer
 Bluetooth-SPP Terminalverbindung, die allerdings iOS-User ausschließt,

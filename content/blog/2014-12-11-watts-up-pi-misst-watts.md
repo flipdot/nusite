@@ -8,4 +8,4 @@ Der [Pi ist schon lange
 montiert](https://flipdot.org/blog/archives/254-Watts-up.html) (Danke
 Burkard\!), jetzt loggt er auch die Leistung:
 
-[![](https://flipdot.org/blog/uploads/watts-up-pi-power.serendipityThumb.png)](https://flipdot.org/blog/uploads/watts-up-pi-power.png)
+[![](/media/watts-up-pi-power.serendipityThumb.png)](/media/watts-up-pi-power.png)

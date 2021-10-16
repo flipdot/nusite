@@ -12,9 +12,9 @@ eine vollständige Spiralenumdrehung detektiert, sind nur zweipolig
 angeschlossen. Wie geht aber die Auswertung des Schalters, wenn man nur
 zwei Pole hat?
 
-[![](https://flipdot.org/blog/uploads/automat02.serendipityThumb.jpeg)](https://flipdot.org/blog/uploads/automat02.jpeg)
+[![](/media/automat02.serendipityThumb.jpeg)](/media/automat02.jpeg)
 
-[![](https://flipdot.org/blog/uploads/automat01.serendipityThumb.jpeg)](https://flipdot.org/blog/uploads/automat01.jpeg)
+[![](/media/automat01.serendipityThumb.jpeg)](/media/automat01.jpeg)
 
 Eine
 [Anfrage](https://www.fingers-welt.de/phpBB/viewtopic.php?f=14&t=1881) im

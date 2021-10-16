@@ -4,7 +4,7 @@ date = 2015-08-03T15:32:00Z
 author = "typ_o"
 path = "/blog/2015/08/03/tip-fur-fraswerkstucke-die-nicht-in-den-arbeitsbereich-passen-passbolzen-zum-wenden"
 +++
-[![](https://flipdot.org/blog/uploads/20150727_145638.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/20150727_145638.jpg)
+[![](/media/20150727_145638.serendipityThumb.jpg)](/media/20150727_145638.jpg)
 
 Mindestens zwei Bohrungen so anlegen, dass sie auch bei 180 Drehung die
 Position behalten (spiegelsymmetrisch). Dann bei der ersten

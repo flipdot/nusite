@@ -7,4 +7,4 @@ path = "/blog/2012/07/31/sublab-ladt-ein-zur-hackerspace-convention"
 Lustig, diese Postkarten immer zu kriegen, ein schöner Brauch\! Die 3.
 Large Hackerspace Convention ist vom 31.8. bis zum 2.9. in Leipzig.
 
-[![](https://flipdot.org/blog/uploads/IMAG1859.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/IMAG1859.jpg)
+[![](/media/IMAG1859.serendipityThumb.jpg)](/media/IMAG1859.jpg)

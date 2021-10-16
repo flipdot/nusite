@@ -8,4 +8,4 @@ Im Zuge des AutonomousVehicleContest (AVC) gab es eine sehr spannende
 Führung durch das nagelneue Firmengebäude.
 
 [![Besuch bei
-Sparkfun](https://flipdot.org/blog/uploads/IMG_20150620_142720.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/IMG_20150620_142720.jpg)
+Sparkfun](/media/IMG_20150620_142720.serendipityThumb.jpg)](/media/IMG_20150620_142720.jpg)

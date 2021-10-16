@@ -16,4 +16,4 @@ haben. Laptop mitbringen ist empfohlen, aber nicht notwendig.
 \- Demo / Übung: Flexbox Froggy  
 \- HowTo: Sticky Footer mit Flexbox
 
-![](https://flipdot.org/blog/uploads/boxes2.serendipityThumb.jpg)
+![](/media/boxes2.serendipityThumb.jpg)

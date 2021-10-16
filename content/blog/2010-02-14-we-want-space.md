@@ -4,4 +4,4 @@ date = 2010-02-14T18:12:59Z
 author = "typ_o"
 path = "/blog/2010/02/14/we-want-space"
 +++
-![](https://flipdot.org/blog/uploads/tasten.jpg)
+![](/media/tasten.jpg)

@@ -11,18 +11,18 @@ Schaltung des Infrarot-Empfängers mit einem Transistor zur
 Impulsformung. Betriebsspannung = Versorgungsspannung des Prozessors, an
 den die Daten gehen, dann stimmt der Pegel automatisch.
 
-![](https://flipdot.org/blog/uploads/smeter01.jpg)
+![](/media/smeter01.jpg)
 
 Der Fototransistor sitzt in dem klaren LED-Gehäuse und blickt auf den
 Opto-Ausgang des Zählers:
 
-![](https://flipdot.org/blog/uploads/smeter04.jpg)
+![](/media/smeter04.jpg)
 
 Signal an der Schnittstelle zum uC:
 
-![](https://flipdot.org/blog/uploads/smeter03.jpg)
+![](/media/smeter03.jpg)
 
 Zählerausgabe, Terminal setting: 9600, 7E1.
 [Protokoll](https://wiki.volkszaehler.org/software/obis)
 
-![](https://flipdot.org/blog/uploads/smeter02.jpg)
+![](/media/smeter02.jpg)

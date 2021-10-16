@@ -4,7 +4,7 @@ date = 2018-05-22T22:03:42Z
 author = "Baustel"
 path = "/blog/2018/05/22/esc-identifizieren"
 +++
-![](https://flipdot.org/blog/uploads/ESC-584x438.jpg)
+![](/media/ESC-584x438.jpg)
 
 Manchmal habe ich auf dem Tisch Technik liegen, zu der ich erst mal kaum
 Informationen habe. Diese Technik stammt z.B. aus ganz alten

@@ -11,7 +11,7 @@ Also: Konserven herstellen\! Bolognese Sauce kochen
 hat ganz hervorragend geklappt) und heiß in Gläser füllen. Anschließend
 1 h zugeschraubt in einen Topf mit kochendem Wasser stellen.
 
-[![](https://flipdot.org/blog/uploads/20150801_100211.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/20150801_100211.jpg)
+[![](/media/20150801_100211.serendipityThumb.jpg)](/media/20150801_100211.jpg)
 
 ["Konservenherstellung für das CCCamp15" vollständig
 lesen](https://flipdot.org/blog/archives/320-Konservenherstellung-fuer-das-CCCamp15.html#extended)

@@ -10,4 +10,4 @@ jene, die man zum verschießen des Außentores auf dem Gelände benötigt.
 Wie funktionierte es?
 
 [![Was war hier
-los?](https://flipdot.org/blog/uploads/riddle.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/riddle.jpg)
+los?](/media/riddle.serendipityThumb.jpg)](/media/riddle.jpg)

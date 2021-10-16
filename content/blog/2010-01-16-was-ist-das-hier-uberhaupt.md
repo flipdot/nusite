@@ -4,7 +4,7 @@ date = 2010-01-16T11:33:44Z
 author = "typ_o"
 path = "/blog/2010/01/16/was-ist-das-hier-uberhaupt"
 +++
-[![](https://flipdot.org/blog/uploads/vlcsnap-2010-01-16-08h44m06s122.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/vlcsnap-2010-01-16-08h44m06s122.jpg)
+[![](/media/vlcsnap-2010-01-16-08h44m06s122.serendipityThumb.jpg)](/media/vlcsnap-2010-01-16-08h44m06s122.jpg)
 
 Spaß am Gerät
 
@@ -24,7 +24,7 @@ dazu), der Hackerspace "SubLab" in Leipzig wurde
 schnell gründete man einen gemeinnützigen Verein und inzwischen steht
 auch die Raumsuche vor dem Abschluß.  
 
-[![](https://flipdot.org/blog/uploads/vlcsnap-2010-01-16-08h45m28s160.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/vlcsnap-2010-01-16-08h45m28s160.jpg)
+[![](/media/vlcsnap-2010-01-16-08h45m28s160.serendipityThumb.jpg)](/media/vlcsnap-2010-01-16-08h45m28s160.jpg)
 
 Hardware Hacking
 
@@ -37,7 +37,7 @@ Richtungen. Ein Teil der Initiative ist gleichzeitig Mitglied im lokalen
 [Erfa-Kreis](https://www.ccc.de/de/club/erfas) des [Chaos Computer
 Club](https://ccc.de/).  
 
-[![](https://flipdot.org/blog/uploads/vlcsnap-2010-01-16-08h44m55s115.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/vlcsnap-2010-01-16-08h44m55s115.jpg)
+[![](/media/vlcsnap-2010-01-16-08h44m55s115.serendipityThumb.jpg)](/media/vlcsnap-2010-01-16-08h44m55s115.jpg)
 
 Blinkende Dinge
 

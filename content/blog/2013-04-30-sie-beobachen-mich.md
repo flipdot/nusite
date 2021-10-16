@@ -13,7 +13,7 @@ Rauschen](https://de.wikipedia.org/wiki/Das_weisse_Rauschen). Ach -
 wolltest du nicht schon längst deine Platte mit
 [truecrypt](https://www.truecrypt.org/) verschlüsseln?
 
-[![](https://flipdot.org/blog/uploads/security.png)](https://xkcd.com/538/)
+[![](/media/security.png)](https://xkcd.com/538/)
 
 Ganz in unserer Nähe war übrigens grade die
 [cryptocon](https://sublab.org/cryptocon13), im sublab in Leipzig.

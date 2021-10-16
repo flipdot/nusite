@@ -23,7 +23,7 @@ Hier ist akribisch bis in psychologische Abschätzungen ausgebreitet, was
 bei einem längeren Blackout passieren dürfte. Das ist die Studie, die in
 dem Video erwähnt wurde.
 
-[![](https://flipdot.org/blog/uploads/IMG_1814.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/IMG_1814.jpg)
+[![](/media/IMG_1814.serendipityThumb.jpg)](/media/IMG_1814.jpg)
 
 Das Bild ist von [american preppers
 network](https://americanpreppersnetwork.com/). Dort: "Is Your Bunker

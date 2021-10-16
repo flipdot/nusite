@@ -9,4 +9,4 @@ documents where the hackerspace movement was in December of 2008. In
 that way it’s a bit of a time capsule. [Download The
 Beginning](https://blog.hackerspaces.org/2011/08/31/hackerspaces-the-beginning-the-book/).
 
-[![](https://flipdot.org/blog/uploads/beginning.jpg)](https://blog.hackerspaces.org/2011/08/31/hackerspaces-the-beginning-the-book)
+[![](/media/beginning.jpg)](https://blog.hackerspaces.org/2011/08/31/hackerspaces-the-beginning-the-book)

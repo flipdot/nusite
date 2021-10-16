@@ -18,4 +18,4 @@ kochen was leckeres.
 So ca. ab Mittag sind unsere Türen geöffnet. Ihr seht rechts oben auf
 dieser Seite sobald geöffnet ist. Seid willkommen\! Eintritt frei.
 
-[![](https://flipdot.org/blog/uploads/33c3.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/33c3.jpg)
+[![](/media/33c3.serendipityThumb.jpg)](/media/33c3.jpg)

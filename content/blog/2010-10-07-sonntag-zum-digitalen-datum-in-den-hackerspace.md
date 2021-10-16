@@ -19,4 +19,4 @@ Kassel.
 Edit: Und ja, man kann Pizza selbst machen, allerdings hat der Teig- und
 Backprozess doch so einige Kontrollparameter...
 
-![](https://flipdot.org/blog/uploads/0teig.serendipityThumb.jpg)![](https://flipdot.org/blog/uploads/1teig.serendipityThumb.jpg)![](https://flipdot.org/blog/uploads/2teig.serendipityThumb.jpg)![](https://flipdot.org/blog/uploads/3dose.serendipityThumb.jpg)![](https://flipdot.org/blog/uploads/4herd.serendipityThumb.jpg)![](https://flipdot.org/blog/uploads/5pizza.serendipityThumb.jpg)![](https://flipdot.org/blog/uploads/6essen.serendipityThumb.jpg)
+![](/media/0teig.serendipityThumb.jpg)![](/media/1teig.serendipityThumb.jpg)![](/media/2teig.serendipityThumb.jpg)![](/media/3dose.serendipityThumb.jpg)![](/media/4herd.serendipityThumb.jpg)![](/media/5pizza.serendipityThumb.jpg)![](/media/6essen.serendipityThumb.jpg)

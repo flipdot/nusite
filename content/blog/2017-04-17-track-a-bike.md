@@ -20,7 +20,7 @@ Zunächst haben wir einzelne Tagesausschnitte visualisiert. Hier sieht
 man etwa alle Fahrten, welche am 29.03. zwischen 07:00 und 08:00 Uhr
 angetreten wurden:
 
-[![](https://flipdot.org/blog/uploads/track-a-bike_2017-03-29_07_00-2017-03-29_08_00.serendipityThumb.png)](https://flipdot.org/blog/uploads/track-a-bike_2017-03-29_07_00-2017-03-29_08_00.png)
+[![](/media/track-a-bike_2017-03-29_07_00-2017-03-29_08_00.serendipityThumb.png)](/media/track-a-bike_2017-03-29_07_00-2017-03-29_08_00.png)
 
 Auffällig sind dabei die hier bereits rot markierten Fahrten: Sie alle
 haben gemeinsam, dass sie fast gleichzeitig an der selben Station
@@ -34,7 +34,7 @@ in eine Werkstatt gebracht und später wieder eingesetzt.
 Um zu sehen, welche Stationen mehr mit Transportern versorgt werden
 müssen als andere, haben wir die folgende Grafik erstellt:
 
-[![](https://flipdot.org/blog/uploads/track-a-bike_popular.serendipityThumb.png)](https://flipdot.org/blog/uploads/track-a-bike_popular.png)
+[![](/media/track-a-bike_popular.serendipityThumb.png)](/media/track-a-bike_popular.png)
 
 Die roten Pfeile zeigen, zwischen welchen Stationen Fahrradtransporte
 stattgefunden haben, während die grünen Pfeile die regulären Fahrten der
@@ -51,7 +51,7 @@ den Berg wieder hochzuradeln - das erledigen dann die Transporter von
 Konrad. Auch an der Weserspitze sammeln sich die Räder, welche dann von
 Konrad auf Hauptbahnhof / ICE Bahnhof / FES verteilt werden müssen.
 
-[![](https://flipdot.org/blog/uploads/track-a-bike_timeline.serendipityThumb.png)](https://flipdot.org/blog/uploads/track-a-bike_timeline.png)  
+[![](/media/track-a-bike_timeline.serendipityThumb.png)](/media/track-a-bike_timeline.png)  
 Diese Grafik zeigt, wieviele Fahrräder an der jeweiligen Station
 verfügbar sind. Auch hier sieht man einigen Stationen an, ob sie auf
 Bergen oder in Tälern liegen. Die Station "Ihringshäuser Str. / KVG"

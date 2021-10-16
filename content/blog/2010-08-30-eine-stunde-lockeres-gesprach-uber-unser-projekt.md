@@ -13,4 +13,4 @@ wir, wo sind die Frauen, wir bauen uns ein Paradies (Salm), 3D-Drucken,
 Projekte, Finanzierung.
 
 Download:
-[2010-08-29\_FRK.mp3](https://flipdot.org/blog/uploads/2010-08-29_FRK.mp3 "2010-08-29_FRK.mp3")
+[2010-08-29\_FRK.mp3](/media/2010-08-29_FRK.mp3 "2010-08-29_FRK.mp3")

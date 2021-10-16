@@ -12,4 +12,4 @@ Zwei diagonal gegenüberliegende Passbohrungen in der geätzten Platine
 mit 3 mm, Passfräsungen in der MDF-Opferplatte mit 2,5 mm.
 Platinenbefestigung mit M3 Schrauben.
 
-[![](https://flipdot.org/blog/uploads/20170716_193339.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/20170716_193339.jpg)
+[![](/media/20170716_193339.serendipityThumb.jpg)](/media/20170716_193339.jpg)

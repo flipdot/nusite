@@ -4,7 +4,7 @@ date = 2019-05-08T01:15:52Z
 author = "Baustel"
 path = "/blog/2019/05/08/osm-stammtisch-nordhessen"
 +++
-![](https://flipdot.org/blog/uploads/osm-kassel.jpg)
+![](/media/osm-kassel.jpg)
 
 Am **Dienstag, den 21. Mai 2019**, findet um **18:30** der erste
 OpenStreetMap-Stammtisch Nordhessen / Südniedersachsen statt.

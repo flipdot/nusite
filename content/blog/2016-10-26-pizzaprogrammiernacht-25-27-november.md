@@ -16,6 +16,6 @@ Aktuelle Infos: telnet ppn.flipdot.org 2323
 **Anmeldung nötig: com //aet// flipdot.org**
 
 [Flyer
-(pdf)](https://flipdot.org/blog/uploads/PPN-2016-11-25.pdf "PPN-2016-11-25.pdf")
+(pdf)](/media/PPN-2016-11-25.pdf "PPN-2016-11-25.pdf")
 
-[![](https://flipdot.org/blog/uploads/ppn-flyer-vorn.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/ppn-flyer-vorn.jpg)
+[![](/media/ppn-flyer-vorn.serendipityThumb.jpg)](/media/ppn-flyer-vorn.jpg)

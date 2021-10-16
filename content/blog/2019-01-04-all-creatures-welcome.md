@@ -4,7 +4,7 @@ date = 2019-01-04T15:11:20Z
 author = "typ_o"
 path = "/blog/2019/01/04/all-creatures-welcome"
 +++
-[![](https://flipdot.org/blog/uploads/acw_poster_ki_regenbogen_digital.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/acw_poster_ki_regenbogen_digital.jpg)
+[![](/media/acw_poster_ki_regenbogen_digital.serendipityThumb.jpg)](/media/acw_poster_ki_regenbogen_digital.jpg)
 
 In Zusammenarbeit mit den Balikinos in Kassel laden wir zur [Matinee am
 13. Januar 2019 um

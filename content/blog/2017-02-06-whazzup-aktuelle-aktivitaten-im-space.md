@@ -12,6 +12,6 @@ als Vortragsraum nutzbar und hält in einer Regalwand VIELE Euroboxen mit
 Material und persönliche Projektboxen der Member. Leinwand und Beamer
 sind da, mehr Strom und Netzwerk kommen noch.
 
-[![](https://flipdot.org/blog/uploads/2eb64ff099e00683e22f9ec68bbfcc98db613ae8_1_666x500.serendipityThumb.JPG)](https://flipdot.org/blog/uploads/2eb64ff099e00683e22f9ec68bbfcc98db613ae8_1_666x500.JPG)  
+[![](/media/2eb64ff099e00683e22f9ec68bbfcc98db613ae8_1_666x500.serendipityThumb.JPG)](/media/2eb64ff099e00683e22f9ec68bbfcc98db613ae8_1_666x500.JPG)  
 [" Whazzup? Aktuelle Aktivitäten im Space" vollständig
 lesen](https://flipdot.org/blog/archives/365-Whazzup-Aktuelle-Aktivitaeten-im-Space.html#extended)

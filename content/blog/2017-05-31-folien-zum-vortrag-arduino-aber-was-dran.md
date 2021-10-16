@@ -8,12 +8,12 @@ Hier noch von unserer letzten Veranstaltung "Was Sie schon immer über
 Technik wissen wollten..." die Vortragsfolien zu "Arduino - aber was
 dran?".
 
-[FD-VortragArduinoaberwasdran.zip](https://flipdot.org/blog/uploads/FD-VortragArduinoaberwasdran.zip "FD-VortragArduinoaberwasdran.zip")
+[FD-VortragArduinoaberwasdran.zip](/media/FD-VortragArduinoaberwasdran.zip "FD-VortragArduinoaberwasdran.zip")
 
 Das ist eine umangreiche Übersicht mit vielen Praxistips zum Thema
 Mikrocontroller - Peripherie, natürlich nicht auf Arduino beschränkt.
 Von [5 Volt Junkie](https://5volt-junkie.net/). Super Talk, kthx\!  
 
-[![](https://flipdot.org/blog/uploads/dcmotor.serendipityThumb.png)](https://flipdot.org/blog/uploads/dcmotor.png)
+[![](/media/dcmotor.serendipityThumb.png)](/media/dcmotor.png)
 
 Eine der 30 Folien

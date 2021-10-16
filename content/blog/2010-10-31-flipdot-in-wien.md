@@ -4,7 +4,7 @@ date = 2010-10-31T05:54:05Z
 author = "typ_o"
 path = "/blog/2010/10/31/flipdot-in-wien"
 +++
-[![](https://flipdot.org/blog/uploads/biennale_06.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/biennale_06.jpg)Relativ
+[![](/media/biennale_06.serendipityThumb.jpg)](/media/biennale_06.jpg)Relativ
 kurz geplant hat sich eine kleine Delegation vom hackerspace kassel nach
 Wien aufgemacht. Schön da, sehr entspannte Großstadt, und viel
 medienbezogener und nerdkompatibler Content. Unter anderem die [Media
@@ -13,7 +13,7 @@ Biennale 2010](https://www.mediaarchitecture.org/biennale2010/), also
 alles zum Thema "blinkende Häuser". (Sehr viel multimedialer und
 interaktiver ist hier noch nichts, ausser blinkende LED).
 
-[![](https://flipdot.org/blog/uploads/biennale_05.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/biennale_05.jpg)Im
+[![](/media/biennale_05.serendipityThumb.jpg)](/media/biennale_05.jpg)Im
 Künstlerhaus am Karlsplatz in Wien gibt es eine Ausstellung dazu. Ganz
 ambitioniert gemacht: Jeder Besucher kriegt ein Ipad in die Hand, auf
 dem er Details zu den Ausstellungsstücken abrufen kann, im Wesentlichen
@@ -22,7 +22,7 @@ Ausstellung](https://www.mediaarchitecture.org/biennale-2010-exhibition/).
 Ging auch meistens, ab und zu hing der Server, und man konnte im Display
 gucken, ob man noch frisch aussieht.
 
-[![](https://flipdot.org/blog/uploads/biennale_04.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/biennale_04.jpg)Was
+[![](/media/biennale_04.serendipityThumb.jpg)](/media/biennale_04.jpg)Was
 mir dazu so durch den Kopf ging: Wenn blinkende Fassaden, dann ist ja
 [Blinkenlights](https://blinkenlights.net/) erstmal die amtliche Adresse.
 Das Projekt war natürlich auch dabei. Alle anderen Häuser haben dann den
@@ -35,7 +35,7 @@ wieviel Farben das Spiel noch cool rüberkommt. 4 Pixel ist zu wenig,
 Optimum - noch schön abstrakt, und schon so gut aufgelöst, dass man
 Inhalt rüberbringen kann.
 
-[![](https://flipdot.org/blog/uploads/biennale_01.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/biennale_01.jpg)[![](https://flipdot.org/blog/uploads/biennale_02.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/biennale_02.jpg)Für
+[![](/media/biennale_01.serendipityThumb.jpg)](/media/biennale_01.jpg)[![](/media/biennale_02.serendipityThumb.jpg)](/media/biennale_02.jpg)Für
 flipdot hat mir ein Projekt gut gefallen, in dem einfach weisse
 Transportkisten kopfunter gestapelt wurden. ([Hier im
 Katalog](https://www.mediaarchitecture.org/boxleds/)) Im Inneren eine

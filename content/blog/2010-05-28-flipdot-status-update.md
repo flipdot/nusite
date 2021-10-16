@@ -10,7 +10,7 @@ mir auf dem Tisch. Wir werden ab 1. Juni in dem Hausprojekt
 Ort haben, einem Haus in dem es schon 30 Gruppen und Initiativen gibt.
 Heute haben wir eine große LKW-Ladung Möbel und Ausrüstung in die Räume
 gefahren, hier ein paar Blicke:  
-[![](https://flipdot.org/blog/uploads/IMAG0216.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/IMAG0216.jpg)[![](https://flipdot.org/blog/uploads/IMAG0209.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/IMAG0209.jpg)[![](https://flipdot.org/blog/uploads/IMAG0210.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/IMAG0210.jpg)[![](https://flipdot.org/blog/uploads/IMAG0211.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/IMAG0211.jpg)[![](https://flipdot.org/blog/uploads/IMAG0212.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/IMAG0212.jpg)[![](https://flipdot.org/blog/uploads/IMAG0213.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/IMAG0213.jpg)  
+[![](/media/IMAG0216.serendipityThumb.jpg)](/media/IMAG0216.jpg)[![](/media/IMAG0209.serendipityThumb.jpg)](/media/IMAG0209.jpg)[![](/media/IMAG0210.serendipityThumb.jpg)](/media/IMAG0210.jpg)[![](/media/IMAG0211.serendipityThumb.jpg)](/media/IMAG0211.jpg)[![](/media/IMAG0212.serendipityThumb.jpg)](/media/IMAG0212.jpg)[![](/media/IMAG0213.serendipityThumb.jpg)](/media/IMAG0213.jpg)  
 Morgen werden wir um 19:00 ein letztes Treffen im Kunsttempel haben -
 die Mitgliederversammlung, die formal noch beschließt, dass wir die
 Räume mieten wollen.

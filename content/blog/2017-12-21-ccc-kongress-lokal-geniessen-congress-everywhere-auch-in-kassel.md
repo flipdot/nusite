@@ -30,7 +30,7 @@ benutzt werden. Wenn wir dein Interesse wecken konnten, du aber dennoch
 Fragen hast, melde dich einfach via
 [Kontakt](/kontakt/).
 
-[![](https://flipdot.org/blog/uploads/Bildschirmfotovom2017-12-21174213.serendipityThumb.png)](https://flipdot.org/blog/uploads/Bildschirmfotovom2017-12-21174213.png)
+[![](/media/Bildschirmfotovom2017-12-21174213.serendipityThumb.png)](/media/Bildschirmfotovom2017-12-21174213.png)
 
 Die
 [Fairydust](https://www.heise.de/newsticker/meldung/34C3-Der-Chaos-Communication-Congress-geht-nach-Leipzig-3713516.html),

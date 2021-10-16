@@ -9,7 +9,7 @@ durch Durchtrennen einer Leiterbahn und Verbinden zweier Bauteile mit
 einem Draht, zur sparsamen Lampe nur für das automatische Einschalten
 bei detektierter Bewegung umgebaut werden.
 
-[![](https://flipdot.org/blog/uploads/716f80a420c556a4402daf16bf944be0b6263eb5_1_664x500.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/716f80a420c556a4402daf16bf944be0b6263eb5_1_664x500.jpg)
+[![](/media/716f80a420c556a4402daf16bf944be0b6263eb5_1_664x500.serendipityThumb.jpg)](/media/716f80a420c556a4402daf16bf944be0b6263eb5_1_664x500.jpg)
 
 Ansonsten würde er Nachts immer gedimmt leuchten bis der Akku leer ist
 oder die Sonne am anderen Tag genug scheint um die Entladung wieder

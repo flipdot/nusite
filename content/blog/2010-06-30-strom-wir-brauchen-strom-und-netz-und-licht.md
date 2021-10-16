@@ -4,7 +4,7 @@ date = 2010-06-30T05:56:44Z
 author = "typ_o"
 path = "/blog/2010/06/30/strom-wir-brauchen-strom-und-netz-und-licht"
 +++
-![](https://flipdot.org/blog/uploads/bergmann.jpg)  
+![](/media/bergmann.jpg)  
 Spende von der Firma [CL Bergmann](https://www.cl-bergmann.de/) für
 flipdot hackerspace kassel eingetroffen, jetzt können wir jede Menge
 Netzwerk- und Energieleitung in Kabelkanälen an die Wand bringen, und

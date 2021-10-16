@@ -56,4 +56,4 @@ disobedience itself. Which makes it all the more disturbing that hacking
 itself appears to have been hacked.**
 ([Scott](https://aeon.co/essays/how-yuppies-hacked-the-original-hacker-ethos))
 
-![](https://flipdot.org/blog/uploads/18c3-logo-tastatur-stern.jpg)
+![](/media/18c3-logo-tastatur-stern.jpg)

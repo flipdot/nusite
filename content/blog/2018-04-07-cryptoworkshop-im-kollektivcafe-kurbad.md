@@ -18,7 +18,7 @@ begrenzten Zeit jedoch nur GPG eingerichtet. Für verschlüsselte
 Kommunikation mit dem Smartphone haben wir [Signal](https://signal.org/)
 empfohlen und kurz vorgestellt.
 
-![](https://flipdot.org/blog/uploads/2018-04-07_kryptocafe.serendipityThumb.jpg)  
+![](/media/2018-04-07_kryptocafe.serendipityThumb.jpg)  
 
 Knapp zusammengefasst besteht die Einrichtung von GPG aus den folgenden
 Schritten:

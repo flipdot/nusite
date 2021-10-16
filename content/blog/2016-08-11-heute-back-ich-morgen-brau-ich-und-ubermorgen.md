@@ -7,7 +7,7 @@ path = "/blog/2016/08/11/heute-back-ich-morgen-brau-ich-und-ubermorgen"
 Pizzaworkshop war schon - jetzt gibt's eine Einführung in das Brauen von
 unserem Neu-Member and….
 
-![](https://flipdot.org/blog/uploads/br.serendipityThumb.jpg)
+![](/media/br.serendipityThumb.jpg)
 
 Am 14.08.16 wird um 12:00 Uhr eingemaischt. Wenn du noch nicht auf der
 Teilnehmerliste stehst, maile an com /kringeldings/ flipdot punkt org  
@@ -22,4 +22,4 @@ Edit: Der letzte Schritt, das zusetzen der Hefe, konnte leider nicht bei
 uns im Space gemacht werden, sondern musste aus rechtlichen Gründen bei
 unserem Fachmann zu Hause vorgenommen werden. Schade\!
 
-![](https://flipdot.org/blog/uploads/br2.serendipityThumb.jpg)
+![](/media/br2.serendipityThumb.jpg)

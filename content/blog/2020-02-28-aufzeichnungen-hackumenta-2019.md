@@ -4,7 +4,7 @@ date = 2020-02-28T12:38:27Z
 author = "Baustel"
 path = "/blog/2020/02/28/aufzeichnungen-hackumenta-2019"
 +++
-[<img src="https://flipdot.org/blog/uploads/2020/c1c629bd33a4aafe8494575e9224b733468eb08f.svg" title="hackumenta - 10 years in space" style="width:100.0%" />](https://media.ccc.de/b/conferences/hackumenta)
+[![hackumenta - 10 years in space](/media/c1c629bd33a4aafe8494575e9224b733468eb08f.svg)](https://media.ccc.de/b/conferences/hackumenta)
 
 Im Oktober letzten Jahres hatten wir unsere Jubiläumsfeier (siehe
 [Blogeintrag](https://flipdot.org/blog/archives/430-Hackumenta-vom-03.-06.-Oktober.html "Hackumenta vom 03. - 06. Oktober")).

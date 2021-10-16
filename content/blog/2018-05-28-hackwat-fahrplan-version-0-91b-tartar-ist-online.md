@@ -11,4 +11,4 @@ sehen)](https://flipdot.org/wiki/HackWat)
 
 Nur bis Sonntag\!\!\!
 
-![](https://flipdot.org/blog/uploads/monster_kl.serendipityThumb.JPG)
+![](/media/monster_kl.serendipityThumb.JPG)

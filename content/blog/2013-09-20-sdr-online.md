@@ -13,7 +13,7 @@ Hörer auf der Maschine. Im Chatfenster gehts oft um
 
 Hier eine Aufnahme des Senders E06 vom 20.9.2013 um 08:18 h von mir, mit
 der oben erwähnten Seite:
-[Zahlensender\_14830\_khz\_Kennung\_E06\_websdr-recording.mp3](https://flipdot.org/blog/uploads/Zahlensender_14830_khz_Kennung_E06_websdr-recording.mp3 "Zahlensender_14830_khz_Kennung_E06_websdr-recording.mp3").
+[Zahlensender\_14830\_khz\_Kennung\_E06\_websdr-recording.mp3](/media/Zahlensender_14830_khz_Kennung_E06_websdr-recording.mp3 "Zahlensender_14830_khz_Kennung_E06_websdr-recording.mp3").
 Jede Menge Material, auch zu diesem Sender
 [hier](https://www.simonmason.karoo.net/page30.html).
 

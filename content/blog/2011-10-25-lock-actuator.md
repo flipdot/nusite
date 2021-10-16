@@ -5,7 +5,7 @@ author = "typ_o"
 path = "/blog/2011/10/25/lock-actuator"
 +++
 [![Lock
-actuator](https://flipdot.org/blog/uploads/2011/10/IMAG1373.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/2011/10/IMAG1373.jpg)  
+actuator](/media/IMAG1373.serendipityThumb.jpg)](/media/IMAG1373.jpg)  
 EMV ist ein Depp\! Der Motor läßt beim Einschalten und auch manchmal im
 Betrieb den Controller abstürzen. Abhilfe wird sein: Getrennte Gehäuse
 und Stromversorgungen für Controller und das Schaltinterface.

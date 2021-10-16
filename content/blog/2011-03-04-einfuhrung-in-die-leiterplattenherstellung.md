@@ -4,7 +4,7 @@ date = 2011-03-04T03:34:57Z
 author = "typ_o"
 path = "/blog/2011/03/04/einfuhrung-in-die-leiterplattenherstellung"
 +++
-[![](https://flipdot.org/blog/uploads/eagle.serendipityThumb.png)](https://flipdot.org/blog/uploads/eagle.png)
+[![](/media/eagle.serendipityThumb.png)](/media/eagle.png)
 
 Layout in Eagle
 
@@ -14,7 +14,7 @@ und Leiterplatten- Zeichenprogramm, mit dem in der frei erhältlichen
 Version Platinen bis zur halben Europakartengröße gezeichnet werden
 können.
 
-[![](https://flipdot.org/blog/uploads/11-Bestueckt.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/11-Bestueckt.jpg)
+[![](/media/11-Bestueckt.serendipityThumb.jpg)](/media/11-Bestueckt.jpg)
 
 Fertige, selbst hergestellte Platine
 
@@ -29,4 +29,4 @@ ist [Wolle](https://blog.elektrowolle.de/).
 Edit: Spannender Vortrag - jede Menge Praxistipps - und mit ca 3h auch
 lang genug für Nerds :)
 
-![](https://flipdot.org/blog/uploads/eagle.jpg)
+![](/media/eagle.jpg)

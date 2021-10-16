@@ -9,4 +9,4 @@ nochmal ordentlich gebacken. Teig, Käse und Tomaten sind da, bring
 deinen eigenen Belag mit\!
 ([Anfahrt](/kontakt/))
 
-[![](https://flipdot.org/blog/uploads/pizza.serendipityThumb.JPG)](https://flipdot.org/blog/uploads/pizza.JPG)
+[![](/media/pizza.serendipityThumb.JPG)](/media/pizza.JPG)

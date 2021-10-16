@@ -4,7 +4,7 @@ date = 2016-06-09T18:15:00Z
 author = "typ_o"
 path = "/blog/2016/06/09/usv-fur-raspberry-pi-11-juni-2016-20-00"
 +++
-[![](https://flipdot.org/blog/uploads/usv.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/usv.jpg)
+[![](/media/usv.serendipityThumb.jpg)](/media/usv.jpg)
 
 Raspberry Pi einfach im Betrieb auszuschalten ist keine gute Idee - die
 Foren sind voller Berichte über zerschossene SDCARDs. Wir wollen eine
@@ -14,7 +14,7 @@ oder der Strom wieder da ist.
 
 Schaltungsvorschlag:
 
-[![](https://flipdot.org/blog/uploads/usv-supply.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/usv-supply.jpg)
+[![](/media/usv-supply.serendipityThumb.jpg)](/media/usv-supply.jpg)
 
 Der DC-Wandler ist eine China-Platine für ca. 3 EUR. Das bistabile
 Relais hat zwei Spulen, eine zum Einschalten, eine zum Ausschalten.
@@ -25,7 +25,7 @@ Script](https://flipdot.org/blog/archives/207-Shut-down-your-Raspberry-Pi-on-but
 zu starten. Nach 2 Minuten schaltet der ATTINY das Relais ab, und damit
 sich selbst und den Pi.
 
-[![](https://flipdot.org/blog/uploads/usv-supply2.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/usv-supply2.jpg)
+[![](/media/usv-supply2.serendipityThumb.jpg)](/media/usv-supply2.jpg)
 
 [Reichelt-Warenkorb](https://www.reichelt.de/my/1222447) für Bauteile
 und Akku (18,60 €). Den

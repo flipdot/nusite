@@ -4,7 +4,7 @@ date = 2015-04-18T11:52:35Z
 author = "typ_o"
 path = "/blog/2015/04/18/muss-frasen"
 +++
-[![](https://flipdot.org/blog/uploads/20150417_132626.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/20150417_132626.jpg)
+[![](/media/20150417_132626.serendipityThumb.jpg)](/media/20150417_132626.jpg)
 
 Unsere Fräse ist da\! Verfahrweg, also bearbeitbare Fläche, ca 500 x 600
 mm. Durch die offene Konstruktion kann man auch breitere und sehr viel

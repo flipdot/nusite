@@ -10,7 +10,7 @@ Trier](https://www.piandmore.de/) natürlich per Bahn und
 Equipment brauche, hier der 5-Minuten Hack für eine Fronthalterung für
 eine Ortlieb - Packtasche am Lenker.
 
-![](https://flipdot.org/blog/uploads/ortl01.jpg)
+![](/media/ortl01.jpg)
 
 Material: 8 mm - Rundmaterial (Hier Messing weil vorhanden) passend für
 die Ortlieb - Aufnahmen, Kabelbinder, zwei Schnappschellen für

@@ -10,6 +10,6 @@ haben uns mit einer
 Bastelmaterial beglückt. Bauteile, Krimskrams, Platinen - alles
 hackable. Vielen Dank für die nette Aktion\!
 
-![](https://flipdot.org/blog/uploads/kiste.jpg)
+![](/media/kiste.jpg)
 
 (Mir persönlich gefiel ja die Kiste selber am allerbesten ;)

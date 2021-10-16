@@ -10,26 +10,26 @@ Space. Die öffentlichen Werte sind
 
 Die CO2 Belastung:
 
-[![](https://flipdot.org/blog/uploads/CO2-Bildschirmfotovom2018-03-20091238.serendipityThumb.png)](https://flipdot.org/blog/uploads/CO2-Bildschirmfotovom2018-03-20091238.png)
+[![](/media/CO2-Bildschirmfotovom2018-03-20091238.serendipityThumb.png)](/media/CO2-Bildschirmfotovom2018-03-20091238.png)
 
 Der Space-Öffnungsgrad:
 
-[![](https://flipdot.org/blog/uploads/OPENING1-Bildschirmfotovom2018-03-20091701.serendipityThumb.png)](https://flipdot.org/blog/uploads/OPENING1-Bildschirmfotovom2018-03-20091701.png)
+[![](/media/OPENING1-Bildschirmfotovom2018-03-20091701.serendipityThumb.png)](/media/OPENING1-Bildschirmfotovom2018-03-20091701.png)
 
-[![](https://flipdot.org/blog/uploads/OPENING2-Bildschirmfotovom2018-03-20091731.serendipityThumb.png)](https://flipdot.org/blog/uploads/OPENING2-Bildschirmfotovom2018-03-20091731.png)
+[![](/media/OPENING2-Bildschirmfotovom2018-03-20091731.serendipityThumb.png)](/media/OPENING2-Bildschirmfotovom2018-03-20091731.png)
 
 Energieumsatz (Regelmäßige kleine Spitzen: Kühlschrank):
 
-[![](https://flipdot.org/blog/uploads/POWER-.serendipityThumb.png)](https://flipdot.org/blog/uploads/POWER-.png)
+[![](/media/POWER-.serendipityThumb.png)](/media/POWER-.png)
 
 Heizung:
 
-[![](https://flipdot.org/blog/uploads/HEATER-Bildschirmfotovom2018-03-20091537.serendipityThumb.png)](https://flipdot.org/blog/uploads/HEATER-Bildschirmfotovom2018-03-20091537.png)
+[![](/media/HEATER-Bildschirmfotovom2018-03-20091537.serendipityThumb.png)](/media/HEATER-Bildschirmfotovom2018-03-20091537.png)
 
 Traffic im (non public) Forum:
 
-[![](https://flipdot.org/blog/uploads/FORUM-Bildschirmfotovom2018-03-20091328.serendipityThumb.png)](https://flipdot.org/blog/uploads/FORUM-Bildschirmfotovom2018-03-20091328.png)
+[![](/media/FORUM-Bildschirmfotovom2018-03-20091328.serendipityThumb.png)](/media/FORUM-Bildschirmfotovom2018-03-20091328.png)
 
 Personen (DHCP Leases) im Space:
 
-[![](https://flipdot.org/blog/uploads/USERS-.serendipityThumb.png)](https://flipdot.org/blog/uploads/USERS-.png)
+[![](/media/USERS-.serendipityThumb.png)](/media/USERS-.png)

@@ -17,12 +17,12 @@ Für die beiden Pumpenvarianten habe ich schon mal was da: Eine alte
 Maschine, mit der Patienten im Krankenhaus z.B. Schmerzmittel über
 längere Zeit bekommen:
 
-![](https://flipdot.org/blog/uploads/IMG_8693.jpg)
+![](/media/IMG_8693.jpg)
 
 Die Mechanik drückt den Spritzenkolben langsam rein... Aber wie die
 Spitze gestalten? Na, und die Schlauchpumpe sieht so aus:
 
-![](https://flipdot.org/blog/uploads/IMG_8694.jpg)
+![](/media/IMG_8694.jpg)
 
 Großer Nachteil für diesen Zweck: Die Förderrate ist nicht konstant,
 sondern schwankt regelmäßig, wenn die Rollen den Schlauch erfassen bzw.
@@ -32,7 +32,7 @@ Verwendung finden.
 Farbe zum Testen ist auch schon da (Braun und schwarz, \*seufz\*), aber
 für umsonst:
 
-![](https://flipdot.org/blog/uploads/IMG_8695.jpg)
+![](/media/IMG_8695.jpg)
 
 Ach, und dann natürlich noch eine Kleinigkeit für Softwerker, für mich
 gleich nochmal 1-2 Monate: Ein PC-Programm, das ein Bitmap-Bild, das ich

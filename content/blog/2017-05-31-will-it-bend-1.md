@@ -9,7 +9,7 @@ Kleiner Test mit kunststoffbeschichtetem Multiplex-Plattenmaterial
 was](https://www.musik-produktiv.de/pic-010053087_01l/dap-audio-rigging-flightcase_01l.jpg)),
 der uns ab und zu seine Reste durchwühlen läßt)  
 
-[![](https://flipdot.org/blog/uploads/bend2.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/bend2.jpg)
+[![](/media/bend2.serendipityThumb.jpg)](/media/bend2.jpg)
 
 Rot: Faserrichtung der äußersten Lage unter dem Kunststoff
 

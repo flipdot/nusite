@@ -4,7 +4,7 @@ date = 2013-04-04T18:58:10Z
 author = "typ_o"
 path = "/blog/2013/04/04/raspberry-zeigt-an-ob-der-space-offen-oder-geschlossen-ist"
 +++
-![](https://flipdot.org/blog/uploads/spaceopen1.jpg)
+![](/media/spaceopen1.jpg)
 
 Der Status des Schliessystems wird von den Endschaltern via Optokoppler
 an den Raspberry gegeben. Ein Cronjob fragt alle Minute einen GPIO Pin

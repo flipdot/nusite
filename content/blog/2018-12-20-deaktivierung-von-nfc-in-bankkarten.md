@@ -8,7 +8,7 @@ Wir haben über die Lokalzeitung HNA die allgemeine Bevölkerung darauf
 hingewiesen, dass man die NFC-Funktion ausschalten kann, wenn man deren
 Verwendung nicht wünscht.
 
-![](https://flipdot.org/blog/uploads/2018-12-11-hna.serendipityThumb.png)
+![](/media/2018-12-11-hna.serendipityThumb.png)
 
 [Auf den Seiten des CCC Aachen findet sich eine
 Tabelle](https://calc.ccc.ac/Girokarten_NFC_deaktivieren), in der Nutzer

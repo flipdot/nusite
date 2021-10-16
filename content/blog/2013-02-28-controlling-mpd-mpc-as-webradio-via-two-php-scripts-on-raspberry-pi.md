@@ -8,7 +8,7 @@ Simple approach to control your webradio stations on your Raspberry Pi.
 Details see [flipdot
 wiki](https://flipdot.org/wiki/index.php?title=Control_mpc_via_php).
 
-[![](https://flipdot.org/blog/uploads/Screenshot.jpg)](https://flipdot.org/wiki/index.php?title=Control_mpc_via_php)
+[![](/media/Screenshot.jpg)](https://flipdot.org/wiki/index.php?title=Control_mpc_via_php)
 
 Simpler Ansatz, um den media player daemon auf dem Raspberry mit zwei
 einfachen PHP-Scripten zu steuern, ganz ohne Web 2.0. Details im

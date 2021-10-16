@@ -9,13 +9,13 @@ Connect a shutdown-pushbutton to
 and 8) and a reset button to
 [header 6](https://elinux.org/RPi_Low-level_peripherals#P6_header) (pin 1
 and 2). Copy
-[shutdown.py](https://flipdot.org/blog/uploads/shutdown.py.txt) to your
+[shutdown.py](/media/shutdown.py.txt) to your
 /home/pi folder, and add line in crontab with crontab -e: "@reboot sudo
 python /home/pi/shutdown.py" (without the quotes). Done.
 
-![](https://flipdot.org/blog/uploads/raspi_shutdown.jpg)
+![](/media/raspi_shutdown.jpg)
 
-![](https://flipdot.org/blog/uploads/raspi_reset.jpg)
+![](/media/raspi_reset.jpg)
 
 Das Script legt eine Interruptroutine an, die bei einer fallenden Flanke
 am GPIO pin 31 angesprungen wird.

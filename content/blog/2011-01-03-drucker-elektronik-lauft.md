@@ -4,7 +4,7 @@ date = 2011-01-03T17:26:08Z
 author = "typ_o"
 path = "/blog/2011/01/03/drucker-elektronik-lauft"
 +++
-[![](https://flipdot.org/blog/uploads/IMG_8698.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/IMG_8698.jpg)Motor-
+[![](/media/IMG_8698.serendipityThumb.jpg)](/media/IMG_8698.jpg)Motor-
 und Servotreiber sind fertig, kleinere Probleme mit der Stromversorgung
 (Störungen und Verlustleistung) werden heute noch gelöst, die
 Controllersoftware steht als frühe Betaversion. Morgen beim

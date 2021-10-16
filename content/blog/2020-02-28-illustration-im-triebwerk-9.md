@@ -9,10 +9,10 @@ Wir haben eine Anzeige im [Triebwerk
 9](https://www.startnext.com/triebwerk-9) aufgegeben. Das Ergebnis fasst
 den üblichen Dienstag im Space graphisch super zusammen:
 
-<img src="https://flipdot.org/blog/uploads/AnzeigeTriebwerkinFarbpaletteMIMend..serendipityThumbSmall.serendipityThumb.jpg" width="675" height="956" />
+![](/media/AnzeigeTriebwerkinFarbpaletteMIMend..serendipityThumbSmall.serendipityThumb.jpg)
 
 Die Koloration basiert auf der vorherigen
-[Skizze](https://flipdot.org/blog/uploads/2020/AnzeigeTriebwerksketchMIMend..PNG).
+[Skizze](/media/AnzeigeTriebwerksketchMIMend..PNG).
 Vielen Dank an MIMend für die tolle Umsetzung. Mehr gibts auf [ihrem
 Instagram](https://www.instagram.com/mim.end/) und [ihrer
 Webseite](https://www.mimend.com/) zu sehen.

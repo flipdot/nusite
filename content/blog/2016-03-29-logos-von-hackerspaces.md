@@ -7,4 +7,4 @@ path = "/blog/2016/03/29/logos-von-hackerspaces"
 Einen schönen Eindruck von Hackerspace - Logos gibt es auf
 [hackorama.ck.si](https://hackorama.ck.si/)
 
-[![](https://flipdot.org/blog/uploads/hackorama.ck.si)](https://hackorama.ck.si/)
+[![](/media/hackorama.ck.si)](https://hackorama.ck.si/)

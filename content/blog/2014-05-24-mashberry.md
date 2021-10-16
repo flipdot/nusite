@@ -8,6 +8,6 @@ fd member \[Sebastian\] hat seinen
 [MashBerry](https://sebastian-duell.de/mashberry/index.html) fertig -
 Raspberry Pi gesteuerte Bierfertigung\! Chapeau\!
 
-[![](https://flipdot.org/blog/uploads/MashingIn.serendipityThumb.JPG)](https://flipdot.org/blog/uploads/MashingIn.JPG)
+[![](/media/MashingIn.serendipityThumb.JPG)](/media/MashingIn.JPG)
 
-[![](https://flipdot.org/blog/uploads/RaspberryInAction.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/RaspberryInAction.jpg)
+[![](/media/RaspberryInAction.serendipityThumb.jpg)](/media/RaspberryInAction.jpg)

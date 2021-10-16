@@ -4,7 +4,7 @@ date = 2014-04-30T16:41:26Z
 author = "typ_o"
 path = "/blog/2014/04/30/6-minutes-left"
 +++
-[![](https://flipdot.org/blog/uploads/timetables.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/timetables.jpg)
+[![](/media/timetables.serendipityThumb.jpg)](/media/timetables.jpg)
 
 Work in progress: Unser kleiner
 [Touch-Pi](https://flipdot.org/blog/archives/235-Laser!.html)

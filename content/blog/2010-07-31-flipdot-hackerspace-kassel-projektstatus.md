@@ -43,7 +43,7 @@ Fenster gelehnt, in der Hoffnung, innerhalb eines halben Jahres genug
 Menschen beisammen zu haben, die Lust auf einen unabhängigen und freien
 Ort zum Coden, Reden, Löten, Schrauben und Planen haben - und denen das
 einen regelmäßig Beitrag wert ist. [Der Tag der offenen
-Tür](https://flipdot.org/blog/uploads/slideshows/offtuer2010-06/) war
+Tür](/media/slideshows/offtuer2010-06/) war
 gut besucht, inzwischen sind wir fast 20 Member, die stabil zum Projekt
 beitragen, nicht alle mit dem vollen Beitragssatz, manche vor allem mit
 persönlichem Einsatz. Damit die Miete drin ist, fehlen jetzt nur noch

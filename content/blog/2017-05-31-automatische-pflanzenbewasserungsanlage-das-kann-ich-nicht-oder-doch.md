@@ -11,7 +11,7 @@ meiner Pflanzen durch Wassermangel verantwortlich zu sein, musste ich
 also handeln.  
 Was tut man also? Im Internet nach Lösungen suchen.  
 
-[![](https://flipdot.org/blog/uploads/IMG_8202.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/IMG_8202.jpg)
+[![](/media/IMG_8202.serendipityThumb.jpg)](/media/IMG_8202.jpg)
 
 Der Teil am Geländer der bewässert wird
 

@@ -4,7 +4,7 @@ date = 2015-04-27T19:28:45Z
 author = "typ_o"
 path = "/blog/2015/04/27/baustel-wochenende-9-und-10-mai-ab-ca-9-00"
 +++
-[![](https://flipdot.org/blog/uploads/baustelwochenendepreview.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/baustelwochenendepreview.jpg)
+[![](/media/baustelwochenendepreview.serendipityThumb.jpg)](/media/baustelwochenendepreview.jpg)
 
 Eine gemeinsame Aktion von
 [BauKunstErfinden](https://www.baukunsterfinden.org/de/) und Flipdot.
@@ -32,6 +32,6 @@ Bis jetzt gibt es:
 
 Mehr Infos [hier](https://flipdot.org/wiki/Baustelwochenende).  
 Und ein
-[Plakat](https://flipdot.org/blog/uploads/Baustel_Plakat_kl.jpg).
+[Plakat](/media/Baustel_Plakat_kl.jpg).
 [Unsere Kontaktseite](/kontakt/), oder direkt
 mail: **com {kringeldings} flipdot punkt org**

@@ -6,7 +6,7 @@ path = "/blog/2020/02/05/vortrag-zellulare-automaten"
 +++
 2020-02-11 um 20:00 Uhr im Space **Zelluläre Automaten**
 
-![](https://flipdot.org/blog/uploads/anim.gif)
+![](/media/anim.gif)
 
 - **Kein Vorwissen benötigt**
 - Conway's Game of Life

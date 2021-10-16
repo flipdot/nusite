@@ -6,7 +6,7 @@ path = "/blog/2018/01/19/wegnehmen-kann-jeder-hinzufugen-konnen-wir-additive-fer
 +++
 3-D Druck im flipdot
 
-[![](https://flipdot.org/blog/uploads/2018/IMG_20180117_12263901.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/2018/IMG_20180117_12263901.jpg)
+[![](/media/IMG_20180117_12263901.serendipityThumb.jpg)](/media/IMG_20180117_12263901.jpg)
 
 Der flipdot hat auch einen 3-D Drucker zu bieten.  
 Er kann größere Teile bis ca 210x210x210mm drucken.

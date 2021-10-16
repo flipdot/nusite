@@ -4,7 +4,7 @@ date = 2011-04-19T18:10:22Z
 author = "typ_o"
 path = "/blog/2011/04/19/ui-nasa-ein-flohmarktfund"
 +++
-![](https://flipdot.org/blog/uploads/demo.jpg)  
+![](/media/demo.jpg)  
 Samstags auf meinem Lieblingsflohmarkt einen Seefunkempfänger ergattert
 (7 EUR). Mangels See und Schiff, bzw. aufgrund zu großen Abstandes zu
 den auf der Mittelwelle arbeitenden Fernschreibstationen, die für diesen

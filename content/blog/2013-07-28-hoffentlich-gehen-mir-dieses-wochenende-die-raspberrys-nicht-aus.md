@@ -5,4 +5,4 @@ author = "typ_o"
 path = "/blog/2013/07/28/hoffentlich-gehen-mir-dieses-wochenende-die-raspberrys-nicht-aus"
 +++
 Scripts here:
-[catflap.zip](https://flipdot.org/blog/uploads/catflap.zip "catflap.zip").
+[catflap.zip](/media/catflap.zip "catflap.zip").

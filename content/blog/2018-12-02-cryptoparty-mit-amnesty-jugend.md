@@ -4,7 +4,8 @@ date = 2018-12-02T13:40:50Z
 author = "Baustel"
 path = "/blog/2018/12/02/cryptoparty-mit-amnesty-jugend"
 +++
-![](https://flipdot.org/blog/uploads/2018/Logo_Amnesty.serendipityThumb.png)  
+![](/media/Logo_Amnesty.serendipityThumb.png)
+
 Vom 23. bis 25.11. traf sich die Amnesty-Jugend im Rahmen der
 [Jugend@Amnesty
 2018](https://www.amnesty-jugend.de/jugendtreffen/jugendamnesty-2018/ "EINLADUNG ZU JUGEND@AMNESTY IN KASSEL VOM 23. BIS 25. NOVEMBER 2018")
@@ -17,9 +18,9 @@ Funktionsweise von [Tor](https://www.torproject.org/) erklärt und wie
 sich damit staatliche Zensur aushebeln lässt, sowie auf die
 Möglichkeiten für Festplattenverschlüsselung hingewiesen.  
 
-|                                                                                                                                                                      |                                                                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [![](https://flipdot.org/blog/uploads/2018/amnesty_cryptoworkshop_2018.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/2018/amnesty_cryptoworkshop_2018.jpg) | [![](https://flipdot.org/blog/uploads/2018/amnesty_cryptoworkshop_2018_2.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/2018/amnesty_cryptoworkshop_2018_2.jpg) |
+| | |
+|-|-|
+| [![](/media/amnesty_cryptoworkshop_2018.serendipityThumb.jpg)](/media/amnesty_cryptoworkshop_2018.jpg) | [![](/media/amnesty_cryptoworkshop_2018_2.serendipityThumb.jpg)](/media/amnesty_cryptoworkshop_2018_2.jpg) |
 
 Im anschließenden Praxisteil haben wir gemeinsam in kleinen Gruppen auf
 den mitgebrachten Geräten der Teilnehmer die gewünschte Software

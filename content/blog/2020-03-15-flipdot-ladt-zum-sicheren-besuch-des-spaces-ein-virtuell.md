@@ -9,7 +9,7 @@ aufgrund der aktuellen SARS-CoV-2-Situation entfällt hierfür die
 "Besucher nur am Dienstag" - Regelung - alle brauchen jetzt soziale
 Kontakte!
 
-<img src="https://flipdot.org/blog/uploads/asdfg.serendipityThumb.jpeg" width="675" height="506" />
+![](/media/asdfg.serendipityThumb.jpeg)
 
 **mumble.flipdot.org**
 

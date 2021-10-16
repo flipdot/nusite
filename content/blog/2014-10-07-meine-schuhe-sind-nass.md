@@ -7,5 +7,5 @@ path = "/blog/2014/10/07/meine-schuhe-sind-nass"
 Als es heute regnete sind meine Schuhe leider nass geworden. Also
 brauchte ich ein paar Neue:
 
-[![](https://flipdot.org/blog/uploads/alternativeSchuhe.serendipityThumb.jpg
-"alternativeSchuhe.jpg")](https://flipdot.org/blog/uploads/alternativeSchuhe.jpg "alternativeSchuhe.jpg")
+[![](/media/alternativeSchuhe.serendipityThumb.jpg
+"alternativeSchuhe.jpg")](/media/alternativeSchuhe.jpg "alternativeSchuhe.jpg")

@@ -4,13 +4,13 @@ date = 2013-02-02T00:48:20Z
 author = "typ_o"
 path = "/blog/2013/02/02/raspberry-telefoniert-nach-draussen"
 +++
-![](https://flipdot.org/blog/uploads/raspi-small.jpg)
+![](/media/raspi-small.jpg)
 
 Den Raspberry im Netz zu exponieren schien mir keine gute Idee: Keine
 Performance bei vielen Zugriffen, die Mühe den Webserver auf ihm sicher
 zu machen, und den dyndns-Ärger wegen NAT.
 
-![](https://flipdot.org/blog/uploads/rasp_schema.jpg)
+![](/media/rasp_schema.jpg)
 
 Ich habe jetzt auf dem Pi einen Cronjob, alle 30 sec. Messdaten von
 einem angeschlossenen uC nach draussen auf einen Server schiebt, wo man

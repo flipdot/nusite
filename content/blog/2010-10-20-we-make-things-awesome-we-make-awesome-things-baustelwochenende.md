@@ -4,7 +4,7 @@ date = 2010-10-20T05:32:01Z
 author = "typ_o"
 path = "/blog/2010/10/20/we-make-things-awesome-we-make-awesome-things-baustelwochenende"
 +++
-[![](https://flipdot.org/blog/uploads/0230.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/0230.jpg)[![](https://flipdot.org/blog/uploads/0255.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/0255.jpg)[![](https://flipdot.org/blog/uploads/0020.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/0020.jpg)flipdot
+[![](/media/0230.serendipityThumb.jpg)](/media/0230.jpg)[![](/media/0255.serendipityThumb.jpg)](/media/0255.jpg)[![](/media/0020.serendipityThumb.jpg)](/media/0020.jpg)flipdot
 - der hackerspace kassel - veranstaltet ein **Baustelwochenende vom
 22.-24.10.**
 
@@ -22,4 +22,4 @@ Wir werden u.A: an embedded Webservern arbeiten, das Projekt Blinkenglow
 weitertreiben, die Raumbeleuchtung fernsteuern, Pizza backen, Club Mate
 trinken und uns unterhalten. Worüber? Über Technik\!  
 Schon mal gucken? [Slideshow
-hier\!](https://flipdot.org/blog/uploads/slideshows/offtuer2010-06/)
+hier\!](/media/slideshows/offtuer2010-06/)

@@ -4,7 +4,7 @@ date = 2017-04-11T07:44:17Z
 author = "typ_o"
 path = "/blog/2017/04/11/entwicklung-des-hackerspaces-good-news-everyone"
 +++
-[![](https://flipdot.org/blog/uploads/Bildschirmfotovom2017-04-11083417.serendipityThumb.png)](https://flipdot.org/blog/uploads/Bildschirmfotovom2017-04-11083417.png)
+[![](/media/Bildschirmfotovom2017-04-11083417.serendipityThumb.png)](/media/Bildschirmfotovom2017-04-11083417.png)
 
 Für Mitglieder ist der Space jeden Tag zugänglich. Am offenen Dienstag
 sind immer \>\> 20 Menschen da (Mehr als in dem Graphen, da die Zählung
@@ -13,7 +13,7 @@ anmelden). Erfreulicher Weise ist der Space auch an allen anderen Tagen
 sehr gleichmäßig besucht (Dienstag ist eher so Party Mode, und eine gute
 Gelegenheit zum Socializing).
 
-[![](https://flipdot.org/blog/uploads/members.serendipityThumb.png)](https://flipdot.org/blog/uploads/members.png)  
+[![](/media/members.serendipityThumb.png)](/media/members.png)  
 In den letzten fünf Quartalen hat sich die Zahl der Menschen, die den
 Space durch ihren Beitrag am Leben halten, fast verdoppelt. Die Beiträge
 pro Member sinken etwas, weil gerade viel Schüler und Studenten dazu

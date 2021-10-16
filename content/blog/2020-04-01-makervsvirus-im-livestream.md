@@ -7,7 +7,7 @@ path = "/blog/2020/04/01/makervsvirus-im-livestream"
 Gesichtsmasken helfen Krankenhauspersonal dabei, sich vor Corona zu
 schützen.
 
-<img src="https://flipdot.org/blog/uploads/corona-facemask.serendipityThumbSmall.serendipityThumb.jpg" width="675" height="1200" />
+![](/media/corona-facemask.serendipityThumbSmall.serendipityThumb.jpg)
 
 Das [Hammertime](https://www.hammertimekassel.de/) hat bereits eine
 Menge an Masken gedruckt. Auch wir produzieren welche - schaut uns doch

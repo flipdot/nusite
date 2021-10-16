@@ -4,7 +4,7 @@ date = 2015-06-03T04:57:33Z
 author = "typ_o"
 path = "/blog/2015/06/03/erstes-werkstuck-gefrast"
 +++
-[![](https://flipdot.org/blog/uploads/pizzaschieber.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/pizzaschieber.jpg)  
+[![](/media/pizzaschieber.serendipityThumb.jpg)](/media/pizzaschieber.jpg)  
 Ein Pizzaschieber. Sperrholz - das erste Werkstück muss ja nicht gleich
 aus Metall sein. Das ertse Lehrgeld bereits bezahlt: Zu wenig Vorschub
 und zu hohe Drehzahl - Fräser angelaufen (zu heiss und deswegen
@@ -14,4 +14,4 @@ Ach zum Backen: Ich will hier noch für das hervorragende
 [Plötzblog](https://www.ploetzblog.de/) werben, nach einem Rezept aus
 dem Blog habe ich zuletzt ganz hervorragendes Baguette gemacht:
 
-[![](https://flipdot.org/blog/uploads/baguette.serendipityThumb.JPG)](https://flipdot.org/blog/uploads/baguette.JPG)
+[![](/media/baguette.serendipityThumb.JPG)](/media/baguette.JPG)

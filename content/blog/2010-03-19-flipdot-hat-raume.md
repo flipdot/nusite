@@ -4,7 +4,7 @@ date = 2010-03-19T12:48:36Z
 author = "typ_o"
 path = "/blog/2010/03/19/flipdot-hat-raume"
 +++
-![](https://flipdot.org/blog/uploads/Gueterabefrtigung_EG_Ausschnitt.serendipityThumb.jpg)Vergangenen
+![](/media/Gueterabefrtigung_EG_Ausschnitt.serendipityThumb.jpg)Vergangenen
 Dienstag haben wir zusammen beschlossen, die [Räume in der "Zentralen
 Netzleitstelle"](https://flipdot.org/wiki/index.php?title=Raumsuche/G%C3%BCterabfertigung)
 am Kasseler Hauptbahnhof zu mieten. Wir werden für's Erste ca 50m² im

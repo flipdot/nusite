@@ -11,9 +11,9 @@ Der Realitätstranslator läßt dich in ein Paralleluniversum reisen, wo du
 den Platz mit deinem Doppelgänger tauscht und du dich über all die
 merkwürdigen Menschen dort wundern kannst - allesamt Doppelgänger\!
 
-![](https://flipdot.org/blog/uploads/translator1.serendipityThumb.jpg)
+![](/media/translator1.serendipityThumb.jpg)
 
 Die Shepard-Ton-Installation erzeugt einen örtlich wandernden Akkord,
 der unentwegt an Tonhöhe zunimmt.
 
-![](https://flipdot.org/blog/uploads/shepard.serendipityThumb.jpg)
+![](/media/shepard.serendipityThumb.jpg)

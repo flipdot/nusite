@@ -14,4 +14,4 @@ sofort nach Hausen gefahren und haben die Ladung abgeholt. Besonders
 gefällt uns das ARM-EVA-Board und das STK500 (schon nicht mehr alle auf
 dem Foto, da sofort bespielt), quasi der Standard für Atmel-Entwicklung.
 Vielen Dank an den Spender\!  
-[![](https://flipdot.org/blog/uploads/watterott02.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/watterott02.jpg)[![](https://flipdot.org/blog/uploads/watterott03.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/watterott03.jpg)[![](https://flipdot.org/blog/uploads/watterott01.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/watterott01.jpg)
+[![](/media/watterott02.serendipityThumb.jpg)](/media/watterott02.jpg)[![](/media/watterott03.serendipityThumb.jpg)](/media/watterott03.jpg)[![](/media/watterott01.serendipityThumb.jpg)](/media/watterott01.jpg)

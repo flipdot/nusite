@@ -12,10 +12,10 @@ Ein erster Versuch zeigte, dass sich das Material mit einem
 Einzahnfräser gut zerspanen lässt. (3 mm Fräser, ca. 6000 upm, 400 mm /
 min Vorschub, 3 mm Zustellung, Kühlung mit Wasser + ca. 1/5 Spiritus).
 
-[![](https://flipdot.org/blog/uploads/PiCase01.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/PiCase01.jpg)  
+[![](/media/PiCase01.serendipityThumb.jpg)](/media/PiCase01.jpg)  
 Hier die Herstellungsdaten:
-[LCDAcrylgehäusePi2.dxf](https://flipdot.org/blog/uploads/LCDAcrylgehusePi2.dxf "LCDAcrylgehusePi2.dxf"),
-[LCDAcrylgehäusePi2.nc](https://flipdot.org/blog/uploads/LCDAcrylgehusePi2.nc "LCDAcrylgehusePi2.nc"),
-[LCDAcrylgehäusePi2.e25](https://flipdot.org/blog/uploads/LCDAcrylgehusePi2.e25 "LCDAcrylgehusePi2.e25")
+[LCDAcrylgehäusePi2.dxf](/media/LCDAcrylgehusePi2.dxf "LCDAcrylgehusePi2.dxf"),
+[LCDAcrylgehäusePi2.nc](/media/LCDAcrylgehusePi2.nc "LCDAcrylgehusePi2.nc"),
+[LCDAcrylgehäusePi2.e25](/media/LCDAcrylgehusePi2.e25 "LCDAcrylgehusePi2.e25")
 
-[![](https://flipdot.org/blog/uploads/PiCase02.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/PiCase02.jpg)
+[![](/media/PiCase02.serendipityThumb.jpg)](/media/PiCase02.jpg)

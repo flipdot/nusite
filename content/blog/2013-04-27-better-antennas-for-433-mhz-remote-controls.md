@@ -30,7 +30,7 @@ Länge. Eines kommt an den Antennenanschluss des Sendemoduls senkrecht
 nach oben, die anderen drei an den Masseanschluss im Winkel von 45 °
 nach unten.
 
-![](https://flipdot.org/blog/uploads/gp.jpg)
+![](/media/gp.jpg)
 
 Die Sperrtopfantenne braucht weniger Platz und ist ähnlich einfach
 herzustellen: An den Innenleiter eines Koaxialkabels lötet man den 164
@@ -41,9 +41,9 @@ ein anderer
 [Verkürzungsfaktor](https://de.wikipedia.org/wiki/Verk%C3%BCrzungsfaktor)
 gilt, 0,66)
 
-![](https://flipdot.org/blog/uploads/sperrtopf3.jpg)
+![](/media/sperrtopf3.jpg)
 
 Der Schirm vom anderen Ende des Kabels kommt an GND vom Sender, der
 Innenleiter an den Antennenanschluss.
 
-![](https://flipdot.org/blog/uploads/sperrtopf4.jpg)
+![](/media/sperrtopf4.jpg)

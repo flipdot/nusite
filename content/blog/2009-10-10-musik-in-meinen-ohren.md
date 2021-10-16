@@ -10,4 +10,4 @@ hat sich gedacht, "wie das wohl klingt, wenn ich meine CPU nur mit
 3,5kHz takte und den Accu-Inhalt in einen Synthesizer füttere?". So:
 
 Download:
-[nerdmusic.mp3](https://flipdot.org/blog/uploads/nerdmusic.mp3 "nerdmusic.mp3")
+[nerdmusic.mp3](/media/nerdmusic.mp3 "nerdmusic.mp3")

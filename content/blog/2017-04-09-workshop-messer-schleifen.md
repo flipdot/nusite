@@ -4,7 +4,7 @@ date = 2017-04-09T10:49:31Z
 author = "typ_o"
 path = "/blog/2017/04/09/workshop-messer-schleifen"
 +++
-[![](https://flipdot.org/blog/uploads/messerschleifen.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/messerschleifen.jpg)
+[![](/media/messerschleifen.serendipityThumb.jpg)](/media/messerschleifen.jpg)
 
 Vielen Dank an **Mikola** für den Workshop\!
 

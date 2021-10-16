@@ -5,4 +5,4 @@ author = "flipdot member"
 path = "/blog/2017/08/13/strom-macht-strubbelige-haare"
 +++
 [![Strom macht strubbelige
-Haare](https://flipdot.org/blog/uploads/20170813_204108.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/20170813_204108.jpg)
+Haare](/media/20170813_204108.serendipityThumb.jpg)](/media/20170813_204108.jpg)

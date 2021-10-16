@@ -21,4 +21,4 @@ lernen wichtiger als konsumieren.
 Den Geheimtipp für den Industrietechnik-Schrottplatz kann ich leider
 mangels Zeit nicht mehr nutzen - aber nächstes Mal bestimmt\!
 
-[![](https://flipdot.org/blog/uploads/20160322_211349.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/20160322_211349.jpg)
+[![](/media/20160322_211349.serendipityThumb.jpg)](/media/20160322_211349.jpg)

@@ -4,9 +4,9 @@ date = 2018-04-08T07:36:57Z
 author = "typ_o"
 path = "/blog/2018/04/08/hackwat-1-bis-3-juni-2018-im-flipdot-hackerspace-kassel"
 +++
-[![](https://flipdot.org/blog/uploads/HackWat_vorn_kl.serendipityThumb.png)](https://flipdot.org/wiki/HackWat)
+[![](/media/HackWat_vorn_kl.serendipityThumb.png)](https://flipdot.org/wiki/HackWat)
 
-[![](https://flipdot.org/blog/uploads/HackWat_hinten_kl.serendipityThumb.png)](https://flipdot.org/wiki/HackWat)
+[![](/media/HackWat_hinten_kl.serendipityThumb.png)](https://flipdot.org/wiki/HackWat)
 
 Drei Tage lang ist der Hackerspace geöffnet.
 
