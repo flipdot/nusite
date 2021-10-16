@@ -5,9 +5,7 @@ https://flipdot.org/wiki/images/6/64/2010_10_22_Bausteln2.pdf
 
 Irgendein PHP-Wiki, gibt es diese Seiten noch irgendwo?
 
-https://flipdot.org/wiki/index.php?title=Anfahrt
 https://flipdot.org/wiki/index.php?title=Control_mpc_via_php
-https://flipdot.org/wiki/index.php?title=Faq
 https://flipdot.org/wiki/index.php?title=Flipdot_Treffen
 https://flipdot.org/wiki/index.php?title=Flipdot_Treffen/2009-10-06
 https://flipdot.org/wiki/index.php?title=Flipdot_Treffen/2009-10-20

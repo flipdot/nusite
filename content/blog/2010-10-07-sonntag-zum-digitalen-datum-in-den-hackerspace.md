@@ -15,7 +15,7 @@ sind, hat am Sonntag dem 10.10.10 Gelegenheit, sich am Datum 101010 die
 Antwort zum Leben, dem Universum und dem ganzen Rest erklären zu lassen.
 Es gibt einen Workshop zur Herstellung des wichtigsten Nahrungsmittels
 für Nerds und Musique live aus der Konserve. Ab ca. 15:00 in der
-[Sickingenstraße 10](https://flipdot.org/wiki/index.php?title=Anfahrt) in
+[Sickingenstraße 10](/kontakt/#anfahrt) in
 Kassel.
 
 Edit: Und ja, man kann Pizza selbst machen, allerdings hat der Teig- und
