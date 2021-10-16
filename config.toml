@@ -22,6 +22,10 @@ title = "FAQ"
 href = "/faq/"
 
 [[extra.site_nav]]
+title = "Projekte"
+href = "/projekte/"
+
+[[extra.site_nav]]
 title = "Kontakt"
 href = "/kontakt/"
 
