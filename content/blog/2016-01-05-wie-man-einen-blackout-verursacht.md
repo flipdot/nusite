@@ -6,7 +6,7 @@ path = "/blog/2016/01/05/wie-man-einen-blackout-verursacht"
 +++
 Sehr schöner Talk von 32C3: "[Wie man einen Blackout verursacht - und
 warum das gar nicht so einfach
-ist](https://media.ccc.de/v/32c3-7323-wie_man_einen_blackout_verursacht#video)".
+ist](https://media.ccc.de/v/32c3-7323-wie_man_einen_blackout_verursacht)".
 Viele Details zum Aufbau der Netze und der Funktion der Netzregelung,
 sowie deren Störungsempfindlichkeiten.
 
