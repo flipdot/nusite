@@ -4,7 +4,7 @@ date = 2009-10-02T18:15:00Z
 author = "typ_o"
 path = "/blog/2009/10/02/uralt-baustler"
 +++
-Die Herkünfte von [Hackerspaces](https://hackerspaces.org/wiki/) und
+Die Herkünfte von [Hackerspaces](https://wiki.hackerspaces.org/) und
 [Baustlern](http://bausteln.de/) liegen nicht nur im Do It Yourself und
 Eisenbahn-Modellbau, ein Würzelchen ist auch Graswurzel(\!)-und
 Selbstversorger-Bewegung. Ein [Artikel der

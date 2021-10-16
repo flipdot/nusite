@@ -11,4 +11,4 @@ Infrastructure or projects?
 servers, connectivity, and other facilities come ﬁrst. Once you have
 that, people will come up with the most amazing projects you didn’t
 think about in the ﬁrst place. (Q: [Design Patterns for
-Hackerspaces](https://hackerspaces.org/wiki/Design_Patterns))
+Hackerspaces](https://wiki.hackerspaces.org/Design_Patterns))
