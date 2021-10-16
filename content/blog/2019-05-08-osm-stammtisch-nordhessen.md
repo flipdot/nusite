@@ -17,4 +17,4 @@ Die Veranstaltung findet in den Räumen des Nordhessischen
 VerkehrsVerbundes im Hauptbahnhof statt.
 
 Mehr Informationen und kostenfreie Anmeldung unter
-<https://www.nvv.de/osm-stammtisch/>.
+<https://wiki.openstreetmap.org/wiki/Stammtisch_Nordhessen>.

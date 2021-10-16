@@ -5,7 +5,7 @@ author = "typ_o"
 path = "/blog/2016/12/02/mehr-reichweite-fur-esp8266"
 +++
 Auf dem verwendeten ESP8266-12F sitzt eine
-[Inverted-F](http://www.antenna-theory.com/antennas/aperture/ifa.php)
+[Inverted-F](https://www.antenna-theory.com/antennas/aperture/ifa.php)
 Leiterplattenantenne. Für mehr Reichweite habe ich eine [Antenne aus
 einem alten Router](https://flipdot.org/blog/uploads/antenne.JPG)
 angeschlossen.
@@ -26,7 +26,7 @@ herauskommt. Der Schirm kommt an die Masse.
 Danach ist die Reichweite besser. Wie groß der Gewinn ist, kann ich
 mangels Messmitteln nur raten - auf jeden Fall geht's jetzt auch bis in
 den Keller. In der Literatur wird Inverted-F und
-[Sperrtopf](http://www.dl2bcm.de/down/Koaxant.pdf) (das ist der
+[Sperrtopf](https://www.dl2bcm.de/down/Koaxant.pdf) (das ist der
 Antennentyp in der neuen Antenne aus dem Router) mit ähnlichen Werten
 angegeben, vermutlich funktioniert die PCB Antenne in der
 Platinenumgebung nicht optimal.

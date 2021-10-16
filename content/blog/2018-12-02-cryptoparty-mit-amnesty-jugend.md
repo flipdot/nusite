@@ -7,7 +7,7 @@ path = "/blog/2018/12/02/cryptoparty-mit-amnesty-jugend"
 ![](https://flipdot.org/blog/uploads/2018/Logo_Amnesty.serendipityThumb.png)  
 Vom 23. bis 25.11. traf sich die Amnesty-Jugend im Rahmen der
 [Jugend@Amnesty
-2018](http://www.amnesty-jugend.de/jugendtreffen/jugendamnesty-2018/ "EINLADUNG ZU JUGEND@AMNESTY IN KASSEL VOM 23. BIS 25. NOVEMBER 2018")
+2018](https://www.amnesty-jugend.de/jugendtreffen/jugendamnesty-2018/ "EINLADUNG ZU JUGEND@AMNESTY IN KASSEL VOM 23. BIS 25. NOVEMBER 2018")
 in Kassel. Mit einem Schwerpunkt zum Thema Menschenrechte im digitalen
 Zeitalter waren auch wir vom flipdot eingeladen, eine Cryptoparty zu
 veranstalten. Wir haben einige Kommunikationsmedien erklärt und diese

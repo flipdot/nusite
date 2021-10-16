@@ -10,7 +10,7 @@ wohl auch geben ... Die wollen für fünf Jahre mieten und umfangreich
 renovieren, deshalb hat unsere Vermieterin denen zugesagt. Dennoch war
 sie an unserer Anwesenheit im Haus interessiert, und hat uns neue Räume
 angeboten: Im Keller gab es lange Jahre ein Autonomes Zentrum, die
-"[Bazille](http://www.myspace.com/bazillekassel)". Der Keller, auf den
+"[Bazille](https://www.myspace.com/bazillekassel)". Der Keller, auf den
 ersten Blick nicht für alle von uns reizvoll, hat dennoch was. Wir sind
 gerade im Gespräch mit der Verwaltung und bekommen die nächsten Tage ein
 Angebot für die renovierten Räume, jetzt auch mit Fenster zum

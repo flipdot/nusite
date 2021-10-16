@@ -11,8 +11,8 @@ Audio aktivieren:
 sudo apt-get install alsa-utils  
 sudo apt-get install mpg321
 
-Die mp3s habe ich hiermit: <http://ctrlq.org/listen/> erzeugt und mit
-[audacity](http://audacity.sourceforge.net/?lang=de) zerschnibbelt.
+Die mp3s habe ich hiermit: <https://ctrlq.org/listen/> erzeugt und mit
+[audacity](https://audacity.sourceforge.net/?lang=de) zerschnibbelt.
 Soundfiles und Script aus diesem
 [zip](https://flipdot.org/blog/uploads/Raspberry_sagt_IP.zip "Raspberry_sagt_IP.zip")
 auspacken und in ein Verzeichnis deiner Wahl legen, und mit crontab das

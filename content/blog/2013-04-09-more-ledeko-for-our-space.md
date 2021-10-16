@@ -6,7 +6,7 @@ path = "/blog/2013/04/09/more-ledeko-for-our-space"
 +++
 An old Roentgen film viewer combied with a handful of [WS2801 IC with
 three RGB LED
-each](http://shop.led-studien.de/de/elektronik-bausatze/led-pixel).
+each](https://shop.led-studien.de/de/elektronik-bausatze/led-pixel).
 Looks like a pretty high resolution diplay although only 8 RGB channels
 are used.
 

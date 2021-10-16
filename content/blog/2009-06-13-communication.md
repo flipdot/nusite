@@ -22,5 +22,5 @@ Mensch)
 
 **IRC**  
 <irc://irc.freenode.net/flipdot>, auch als
-[Webchat](http://webchat.freenode.net/?channels=flipdot&uio=MTE9NjI30)
+[Webchat](https://webchat.freenode.net/?channels=flipdot&uio=MTE9NjI30)
 im Browser

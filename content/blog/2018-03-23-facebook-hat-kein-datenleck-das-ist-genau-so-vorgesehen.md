@@ -29,4 +29,4 @@ entfernt, und seine Datenschutzeinstellung schärfer einstellt.
 > *wirklich* weg sind).  
 >   
 > [Löschanleitung für das komplette facebook
-> Konto](http://datenfresser.info/?p=191)
+> Konto](https://datenfresser.info/?p=191)

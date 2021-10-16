@@ -10,7 +10,7 @@ Treffen](https://flipdot.org/wiki/index.php?title=Flipdot_Treffen) vom
 kassel](https://flipdot.org/wiki/index.php?title=Hallo!) (an jeden
 Dienstag Abend) getraut hat, weil ihm VPN, IPSEC, ISP und FUBAR zu
 [kryptische
-Akronyme](http://de.wikipedia.org/wiki/Liste_von_Abk%C3%BCrzungen_%28Netzjargon%29)
+Akronyme](https://de.wikipedia.org/wiki/Liste_von_Abk%C3%BCrzungen_%28Netzjargon%29)
 sind, hat am Sonntag dem 10.10.10 Gelegenheit, sich am Datum 101010 die
 Antwort zum Leben, dem Universum und dem ganzen Rest erklären zu lassen.
 Es gibt einen Workshop zur Herstellung des wichtigsten Nahrungsmittels

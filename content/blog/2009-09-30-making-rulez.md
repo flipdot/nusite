@@ -5,9 +5,9 @@ author = "typ_o"
 path = "/blog/2009/09/30/making-rulez"
 +++
 Auf der SigInt hielt Philip Steffan von
-[Bausteln.de](http://bausteln.de/) einen flotten Vortrag unter dem
+[Bausteln.de](https://bausteln.de/) einen flotten Vortrag unter dem
 Titel: "[Es gibt keinen Löffel? Dann druck doch einen Neuen
-aus\!](http://sigint.ccc.de/sigint/2009/Fahrplan/events/3197.en.html)".
+aus\!](https://sigint.ccc.de/sigint/2009/Fahrplan/events/3197.en.html)".
 Er beschreibt sehr schön, wie das Selbermachen jetzt gerade von der Welt
 der Bits in die Welt der Atome übergeht. Natürlich wurde auch bisher
 schon mit Atomen gebaustelt, aber jetzt gibt es "Adapter" zwischen den

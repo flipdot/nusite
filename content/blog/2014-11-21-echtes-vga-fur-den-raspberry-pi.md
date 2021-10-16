@@ -5,7 +5,7 @@ author = "typ_o"
 path = "/blog/2014/11/21/echtes-vga-fur-den-raspberry-pi"
 +++
 Fand ich immer schade, dass der Pi nur HDMI liefert - [aber jetzt kann
-er auch VGA](http://www.raspberrypi.org/gert-vga-adapter/), und all die
+er auch VGA](https://www.raspberrypi.org/gert-vga-adapter/), und all die
 alten Monitore in unseren Kellern sind jetzt für Baustelzwecke zu
 verwenden. Nötig ist allerdings ein RasPi Modell B+ oder A+, weil das
 Widerstandsnetzwerk für die D/A - Wandlung (3x6bit = 262144 Farben) eine

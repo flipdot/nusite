@@ -7,4 +7,4 @@ path = "/blog/2014/11/01/repair-cafe-in-kassel"
 Die nächsten Repair Café-Veranstaltungen finden am 28.11., 23.01.,
 27.02., 27.03. und 24.04. jeweils ab 16 Uhr im Nachbarschaftstreff
 Vorderer Westen statt (Samuel-Beckett-Anlage 12) Mehr dazu auf
-[repaircafe-ks.de](http://repaircafe-ks.de/).
+[repaircafe-ks.de](https://repaircafe-ks.de/).

@@ -6,7 +6,7 @@ path = "/blog/2010/05/28/flipdot-status-update"
 +++
 **Wir haben (jetzt wirklich) Räume\!** Die Mietverträge liegen hier vor
 mir auf dem Tisch. Wir werden ab 1. Juni in dem Hausprojekt
-[Chasalla](http://fabrik-chasalla.de/) in der Sickingenstraße unseren
+[Chasalla](https://fabrik-chasalla.de/) in der Sickingenstraße unseren
 Ort haben, einem Haus in dem es schon 30 Gruppen und Initiativen gibt.
 Heute haben wir eine große LKW-Ladung Möbel und Ausrüstung in die Räume
 gefahren, hier ein paar Blicke:  

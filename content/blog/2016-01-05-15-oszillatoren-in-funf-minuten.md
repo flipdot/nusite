@@ -11,4 +11,4 @@ Viel interessanter ist das Geräusch beim Abschalten:
 Die Geräusche erinnern sehr stark an
 [Spherics](https://de.wikipedia.org/wiki/Sferics), die Freaks, die in
 dem Bereich lauschen, nennen sie auch
-[Whistler](http://www.astrosurf.com/luxorion/audiofiles-geomagnetosphere.htm).
+[Whistler](https://www.astrosurf.com/luxorion/audiofiles-geomagnetosphere.htm).

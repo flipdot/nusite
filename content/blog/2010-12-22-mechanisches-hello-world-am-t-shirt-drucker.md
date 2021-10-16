@@ -11,7 +11,7 @@ dickflüssige Farbe auf den Stoff bringe. Irgendwas mit einem Stempel?
 Leerer Edding mit Stoffarbe gefüllt? Ein Röhrchen, das durch
 Kapillareffekt Farbe nach vorn saugt und auf den Stoff tupft? Eine
 Schlauch-Rollenpumpe? Ein Perfusor? Ein
-[Piezo-Tintenstrahl-Druckkopf](http://reprap.org/wiki/Scratchbuilt_Piezo_Printhead)?
+[Piezo-Tintenstrahl-Druckkopf](https://reprap.org/wiki/Scratchbuilt_Piezo_Printhead)?
 
 Für die beiden Pumpenvarianten habe ich schon mal was da: Eine alte
 Maschine, mit der Patienten im Krankenhaus z.B. Schmerzmittel über

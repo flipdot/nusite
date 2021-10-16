@@ -14,11 +14,11 @@ Bösen mehr, nur Interessen, die von Social Media Manipulateuren mit
 einer Armee von Sockenpuppen gestützt werden. Fragestellungen wie
 "Welche Eskalationsstufen werden durch Drohnen ausgelöst". Read more:
 [Längere
-Kritik](http://www.faz.net/aktuell/feuilleton/buecher/thriller-kill-decision-von-daniel-suarez-wie-technik-die-welt-zum-schlechteren-wendet-11826693.html)
-in der FAZ, [Frank und Fefe zu Drohnen](http://alternativlos.org/27/) in
+Kritik](https://www.faz.net/aktuell/feuilleton/buecher/thriller-kill-decision-von-daniel-suarez-wie-technik-die-welt-zum-schlechteren-wendet-11826693.html)
+in der FAZ, [Frank und Fefe zu Drohnen](https://alternativlos.org/27/) in
 Alternativlos, Frank Rieger auf dem netzpolitischen Abend der Digitalen
 Gesellschaft [über Drohnen und
-Politik](http://www.youtube.com/watch?v=M7XphxoA3MU),
+Politik](https://www.youtube.com/watch?v=M7XphxoA3MU),
 [niedlich](https://www.youtube.com/watch?v=YQIMGV5vtd4) wirkende
 Quadrocopter, der [Big Dog](https://www.youtube.com/watch?v=W1czBcnX1Ww)
 von Boston Dynamics beim [Steine

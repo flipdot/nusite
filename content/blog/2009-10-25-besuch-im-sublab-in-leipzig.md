@@ -5,9 +5,9 @@ author = "typ_o"
 path = "/blog/2009/10/25/besuch-im-sublab-in-leipzig"
 +++
 Vorletzte Woche waren wir anläßlich des Konzerts von [Parov
-Stelar](http://www.parovstelar.com/) in Leipzig, dabei natürlich gleich
+Stelar](https://www.parovstelar.com/) in Leipzig, dabei natürlich gleich
 mal den ortsansässigen Hackerspace besucht. Kloschi von den
-[SubLab](http://sublab.org/)-Leuten hat sich netterweise Zeit genommen
+[SubLab](https://sublab.org/)-Leuten hat sich netterweise Zeit genommen
 für meine Fragen. Kurz gesagt: Diese Gruppe baut im eiskalten Winter
 eine riesige Fabriketage ohne jede Heizmöglichkeit zum Hackerspace aus,
 mit einem unglaublichen Arbeitseinsatz - allein die abgeschliffenen

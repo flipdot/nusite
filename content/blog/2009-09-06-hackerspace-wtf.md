@@ -35,4 +35,4 @@ Bekannte Hackerspaces sind beispielsweise C4 in Köln, c-base in Berlin,
 Das Labor in Bochum, Metalab und Happylab in Wien, HackerbotLabs in
 Seattle, HacDC in Washington DC, NYC Resistor \[1\] in New York City und
 Noisebridge \[2\] in San Francisco. (Q:
-[Wikipedia](http://de.wikipedia.org/wiki/Hackerspace))
+[Wikipedia](https://de.wikipedia.org/wiki/Hackerspace))

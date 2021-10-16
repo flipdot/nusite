@@ -5,10 +5,10 @@ author = "wegenerd"
 path = "/blog/2018/04/07/cryptoworkshop-im-kollektivcafe-kurbad"
 +++
 Im Rahmen der Vortragsreihe „[Aluhut und
-gut?](http://dorn.blogsport.de/2018/02/09/aluhut-und-gut-von-internetueberwachung-zu-digitaler-selbstverteidigung/)“
+gut?](https://dorn.blogsport.de/2018/02/09/aluhut-und-gut-von-internetueberwachung-zu-digitaler-selbstverteidigung/)“
 haben wir am Donnerstag, den 29.03.2018, einen Workshop zum Thema
 „verschlüsselte Kommunikation“ im [Kollektivcaf
-Kurbad](http://www.kurbad-jungborn.de/cafe.htm) durchgeführt. Wir haben
+Kurbad](https://www.kurbad-jungborn.de/cafe.htm) durchgeführt. Wir haben
 uns sehr über das große Interesse gefreut und konnten den Teilnehmern
 die Nutzung von GPG mit
 [Thunderbird](https://www.mozilla.org/de/thunderbird/) und
@@ -40,7 +40,7 @@ Eine ausführliche Anleitung findet sich Beispielsweise [im c't
 Magazin.](https://www.heise.de/ct/artikel/Einfach-erklaert-E-Mail-Verschluesselung-mit-PGP-4006652.html)
 
 Vielen Dank an der Stelle nochmal an die interessierten Teilnehmer sowie
-an das [Kollektivcafé Kurbad](http://www.kurbad-jungborn.de/cafe.htm)
+an das [Kollektivcafé Kurbad](https://www.kurbad-jungborn.de/cafe.htm)
 für die Ausrichtung der Veranstaltungsreihe und Bereitstellung der
 Räumlichkeiten\!
 

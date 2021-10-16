@@ -4,7 +4,7 @@ date = 2010-08-04T05:11:31Z
 author = "typ_o"
 path = "/blog/2010/08/04/jaaa-noch-mehr-spenden"
 +++
-Die Firma [Watterott Elektronic](http://www.watterott.com/), manchen als
+Die Firma [Watterott Elektronic](https://www.watterott.com/), manchen als
 Arduino und Adafruit Industries Distri bekannt, hat gespendet - und zwar
 initiativ, wir wurden angesprochen, ob wir einen 19" Serverschrank,
 Sicherungsautomaten, RCD-Schalter und diverse Evaluation-Boards brauchen

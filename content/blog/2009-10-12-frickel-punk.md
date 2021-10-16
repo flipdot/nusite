@@ -23,7 +23,7 @@ UKW-Rundfunksender außerdem geplanten Kurzwellensender in den Baum
 bringen will - dann macht man das nicht mit einer Zwille, sondern mit
 einer Bazooka - ähnlichen Vorrichtung, am Kompressor aufgeladen, mit
 Zielfernrohr und pneumatischem Auslöser. (Die Videos entstanden auf dem
-[Treffen der Fans](http://www.fingers-welt.de/jubilaeum/treffen2009.htm)
-von [Fingers elektrischer Welt](http://fingers-welt.de/), der amtlichen
+[Treffen der Fans](https://www.fingers-welt.de/jubilaeum/treffen2009.htm)
+von [Fingers elektrischer Welt](https://fingers-welt.de/), der amtlichen
 Bastelseite schlechthin. Tasse kaffee machen, zurücklehnen, und alle
 Projektdokus angucken)

@@ -5,9 +5,9 @@ author = "typ_o"
 path = "/blog/2013/06/03/shut-down-your-raspberry-pi-on-button-press-and-add-reset-function"
 +++
 Connect a shutdown-pushbutton to
-[header 5](http://elinux.org/RPi_Low-level_peripherals#P5_header) (pin 6
+[header 5](https://elinux.org/RPi_Low-level_peripherals#P5_header) (pin 6
 and 8) and a reset button to
-[header 6](http://elinux.org/RPi_Low-level_peripherals#P6_header) (pin 1
+[header 6](https://elinux.org/RPi_Low-level_peripherals#P6_header) (pin 1
 and 2). Copy
 [shutdown.py](https://flipdot.org/blog/uploads/shutdown.py.txt) to your
 /home/pi folder, and add line in crontab with crontab -e: "@reboot sudo

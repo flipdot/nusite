@@ -5,8 +5,8 @@ author = "typ_o"
 path = "/blog/2013/06/09/5-min-hack-ortlieb-tasche-am-brompton-lenker"
 +++
 Weil ich zu der [Raspberry Pi - Veranstaltung in
-Trier](http://www.piandmore.de/) natürlich per Bahn und
-[Faltrad](http://www.brompton.de/) anreisen will, und ein wenig
+Trier](https://www.piandmore.de/) natürlich per Bahn und
+[Faltrad](https://www.brompton.de/) anreisen will, und ein wenig
 Equipment brauche, hier der 5-Minuten Hack für eine Fronthalterung für
 eine Ortlieb - Packtasche am Lenker.
 

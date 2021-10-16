@@ -21,7 +21,7 @@ Das Holzklötzchen fräsen.
 [smartphone-halter00.dxf](https://flipdot.org/blog/uploads/smartphone-halter00.dxf "smartphone-halter00.dxf").
 Der G-Code ist für einen 3 mm Fräser:
 [smartphone-halter00.nc](https://flipdot.org/blog/uploads/smartphone-halter00.nc "smartphone-halter00.nc").
-Und hier noch das [Estlcam](http://www.estlcam.com/) - File dazu:
+Und hier noch das [Estlcam](https://www.estlcam.com/) - File dazu:
 [smartphone-halter00.e25](https://flipdot.org/blog/uploads/smartphone-halter00.e25 "smartphone-halter00.e25").
 Das Klötzchen etwas abschrägen, damit es gut in den Clip paßt. Die
 Mutter (Habe ich aus einer Webcam aus dem Kaffeeladen geerntet) in das

@@ -6,7 +6,7 @@ path = "/blog/2013/01/25/den-staat-zu-hacken-ist-nicht-genug"
 +++
 Michael Seemann in der Zeit: [Staatstrojaner zu hacken, genügt nicht,
 denn es macht sie
-besser.](http://www.zeit.de/digital/internet/2013-01/hacktivismus-ccc)  
+besser.](https://www.zeit.de/digital/internet/2013-01/hacktivismus-ccc)  
 Der Hacktivismus ist erfolgreich und gerade weil er erfolgreich ist,
 läuft er Gefahr, im Erfolg zu erstarren, staatstragend,
 institutionalisiert, professionalisiert und schließlich vereinnahmt zu

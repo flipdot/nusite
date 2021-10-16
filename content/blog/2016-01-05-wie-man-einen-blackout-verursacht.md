@@ -11,7 +11,7 @@ Viele Details zum Aufbau der Netze und der Funktion der Netzregelung,
 sowie deren Störungsempfindlichkeiten.
 
 Wenn man sowieso schon [den ganzen Keller
-voll](http://diyprepping.com/survivalist-prepper-homesteader/) Kerzen,
+voll](https://diyprepping.com/survivalist-prepper-homesteader/) Kerzen,
 Ravioli und Bier hat, um der Zombieapokalypse widerstehen zu können:
 Thomas Petermann et.Al.: "[Was bei einem Blackout geschieht - Folgen
 eines langandauernden und großräumigen
@@ -26,6 +26,6 @@ dem Video erwähnt wurde.
 [![](https://flipdot.org/blog/uploads/IMG_1814.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/IMG_1814.jpg)
 
 Das Bild ist von [american preppers
-network](http://americanpreppersnetwork.com/). Dort: "Is Your Bunker
+network](https://americanpreppersnetwork.com/). Dort: "Is Your Bunker
 Ready For The Apocalypse? Starting construction on your family’s
 emergency bunker could be one of the best decisions that you ever make".

@@ -6,5 +6,5 @@ path = "/blog/2009/10/05/atoms-and-bits-camp-berlin"
 +++
 Beim atoms\&bits-Camp in Berlin trafen sich Baustler, Aktivisten und
 kreative Geeks zum “Festival of Thinking, Making, Doing”. [Hier einige
-Interviews](http://anjakrieger.com/2009/10/01/people-atomsbits-09/) mit
+Interviews](https://anjakrieger.com/2009/10/01/people-atomsbits-09/) mit
 Teilnehmern die u.A. blinkende Kleidungsstücke nähen.

@@ -8,7 +8,7 @@ path = "/blog/2019/01/04/all-creatures-welcome"
 
 In Zusammenarbeit mit den Balikinos in Kassel laden wir zur [Matinee am
 13. Januar 2019 um
-12:00](http://www.balikinos.de/index.php?id=-1&uid=4549 "Balikinos")
+12:00](https://www.balikinos.de/index.php?id=-1&uid=4549 "Balikinos")
 ein.
 
 **All Creatures Welcome** - der Film über das Mindset der Menschen im

@@ -11,7 +11,7 @@ Staatstrojanern erlauben. Wir fordern: Kein Staatstrojaner für Hessen\!
 Der von den Fraktionen der CDU und Bündnis90/Die Grünen im Hessischen
 Landtag vorgelegte „[Gesetzesentwurf zur Neuausrichtung des
 Verfassungsschutzes in
-Hessen](http://www.gruene-hessen.de/landtag/files/2017/10/HSVG.pdf)“
+Hessen](https://www.gruene-hessen.de/landtag/files/2017/10/HSVG.pdf)“
 sieht eine Ausweitung der Befugnisse des Verfassungsschutzes vor,
 insbesondere den Einsatz von Staatstrojanern zur sog.
 Quellen-Telekommunikationsüberwachung („Quellen-TKÜ“) und zur
@@ -43,7 +43,7 @@ und personell gut ausgestattete Behörden wie die NSA nicht in der Lage
 sind, die Geheimhaltung dieser Lücken sicherzustellen.“
 
 Im Mai diesen Jahres erregte ein [von Kriminellen verbreiteter
-Erpressungs-Trojaner](http://faktenfinder.tagesschau.de/wanna-cry-cyberangriff-101.html)
+Erpressungs-Trojaner](https://faktenfinder.tagesschau.de/wanna-cry-cyberangriff-101.html)
 namens „Wannacry“ weltweit Aufsehen, da er neben Privat-PCs auch
 Automobilkonzerne, Bahnunternehmen und Krankenhäuser lahmlegte. Der
 geschätzte finanzielle Schaden betrug bis zu [vier Milliarden
@@ -58,7 +58,7 @@ Steuergeldern in Deutschland finanzierten Hacking-Tools zum Ausspähen
 von Journalisten, Oppositionspolitikern und unterdrückten Minderheiten
 nutzen. Der Zweitverwertungsmarkt für Sicherheitslücken und Trojaner ist
 groß. Die Technologie-Zulieferer solcher Regierungen [sitzen oft in
-Europa](http://www.zeit.de/digital/datenschutz/2017-02/ueberwachung-technik-exporte-europa-kontrolle-versagt).“  
+Europa](https://www.zeit.de/digital/datenschutz/2017-02/ueberwachung-technik-exporte-europa-kontrolle-versagt).“  
 Für Unternehmen stellen offene Sicherheitslücken auch [unter dem Aspekt
 der
 Wirtschaftsspionage](https://www.hessen.de/pressearchiv/pressemitteilung/sicherheitsluecken-schaden-betrieben-0)

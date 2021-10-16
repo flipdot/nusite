@@ -9,7 +9,7 @@ Neue Schlossmechanik für unseren Hackerspace.
 [![](https://flipdot.org/blog/uploads/schloss3.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/schloss3.jpg)
 
 In unseren vorherigen Räumen hatten wir ein
-"[Aufsatzschloss](http://www.abus.com/var/ezflow_site/storage/images/media/keyvisuals/sicherheit-zuhause/tuersicherheit/keyvisual-tuer-zusatzschloesser-fehlt-in-keinem-krimi/221161-1-ger-DE/Keyvisual-Tuer-Zusatzschloesser-Fehlt-in-keinem-Krimi_slide_wide.jpg)",
+"[Aufsatzschloss](https://www.abus.com/var/ezflow_site/storage/images/media/keyvisuals/sicherheit-zuhause/tuersicherheit/keyvisual-tuer-zusatzschloesser-fehlt-in-keinem-krimi/221161-1-ger-DE/Keyvisual-Tuer-Zusatzschloesser-Fehlt-in-keinem-Krimi_slide_wide.jpg)",
 dessen Knebel auf der Innenseite mit einem Motor betätigt wurde.
 Aufschließen konnte man elektrisch, und von außen mit dem Schlüssel.
 

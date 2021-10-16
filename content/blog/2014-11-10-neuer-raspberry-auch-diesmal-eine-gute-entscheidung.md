@@ -5,7 +5,7 @@ author = "typ_o"
 path = "/blog/2014/11/10/neuer-raspberry-auch-diesmal-eine-gute-entscheidung"
 +++
 Es gibt einen weiteren [Pi mit abgespecktem Hardwareumfang, den
-A+](http://www.raspberrypi.org/raspberry-pi-model-a-plus-on-sale/). Was
+A+](https://www.raspberrypi.org/raspberry-pi-model-a-plus-on-sale/). Was
 ich bei den Entscheidungen für den Pi B, A, B+ und jetzt A+ besonders
 schätze: Keine geänderten Chips, alle Software läuft wie gehabt. Die
 Macher vermeiden, die Hardware Base in dutzende Versionen zu

@@ -5,9 +5,9 @@ author = "typ_o"
 path = "/blog/2009/12/04/basteln-im-21-jahrhundert"
 +++
 [Die Demokratisierung des
-Produktionswissens](http://chaosradio.ccc.de/cre138.html), Podcast des
+Produktionswissens](https://chaosradio.ccc.de/cre138.html), Podcast des
 Chaosradio Express mit Tim Pritlove, Frank Rieger (CCC) und Philip
-Steffan ([bausteln.de](http://bausteln.de/)).
+Steffan ([bausteln.de](https://bausteln.de/)).
 
 Die technische Entwicklung erlaubt es mittlerweile sich am Bau von
 Dingen zu versuchen, die vor kurzem noch unrealisierbar schienen. Eine

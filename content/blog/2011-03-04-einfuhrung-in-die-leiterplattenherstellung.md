@@ -24,7 +24,7 @@ falls eine Platine geätzt werden soll.
 
 In der kommenden Woche folgt ein kurzes Hands On, wie mit einfachen
 Mitteln aus dem Layout dann eine fertige Platine fertigen kann. Referent
-ist [Wolle](http://blog.elektrowolle.de/).
+ist [Wolle](https://blog.elektrowolle.de/).
 
 Edit: Spannender Vortrag - jede Menge Praxistipps - und mit ca 3h auch
 lang genug für Nerds :)

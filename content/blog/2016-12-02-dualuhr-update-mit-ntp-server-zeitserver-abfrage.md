@@ -5,7 +5,7 @@ author = "typ_o"
 path = "/blog/2016/12/02/dualuhr-update-mit-ntp-server-zeitserver-abfrage"
 +++
 Die Dual-Uhr in der Lounge ist ein altes Projekt mit einem AVR und
-[BASCOM](http://www.mcselec.com/?option=com_content&task=view&id=14&Itemid=41).
+[BASCOM](https://www.mcselec.com/?option=com_content&task=view&id=14&Itemid=41).
 Diese Uhr gibt es in mehreren Varianten, u.A. auch
 [so](https://www.youtube.com/watch?v=HVVzy0h6RqQ). (Das Gehäuse ist vom
 Flohmarkt, vermutlich ein Röntgenfilmbetrachter, auf der Vorderseite

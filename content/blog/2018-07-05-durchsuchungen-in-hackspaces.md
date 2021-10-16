@@ -68,7 +68,7 @@ Weitere Quellen zu den Durchsuchungen:
 
 [CCC](https://www.ccc.de/de/updates/2018/hausdurchsuchungen-bei-vereinsvorstanden-der-zwiebelfreunde-und-im-openlab-augsburg)  
 [Spiegel
-Online](http://www.spiegel.de/netzwelt/web/hausdurchsuchungen-bei-netzaktivisten-chaos-computer-club-kritisiert-polizeivorgehen-a-1216463.html)  
+Online](https://www.spiegel.de/netzwelt/web/hausdurchsuchungen-bei-netzaktivisten-chaos-computer-club-kritisiert-polizeivorgehen-a-1216463.html)  
 [Heise
 Online](https://www.heise.de/newsticker/meldung/Massive-CCC-Kritik-an-Polizei-Hausdurchsuchung-bei-Datenschutz-Aktivisten-4098764.html)  
 [Netzpolitik.org](https://netzpolitik.org/2018/zwiebelfreunde-durchsuchungen-wenn-zeugen-wie-straftaeter-behandelt-werden/)  

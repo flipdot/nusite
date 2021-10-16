@@ -5,13 +5,13 @@ author = "typ_o"
 path = "/blog/2013/12/19/thermoelektrischer-generator"
 +++
 Wegen
-[dieses](http://clockworker.de/cw/2013/12/03/der-thermoelektrische-aetherwellen-empfaenger/)
+[dieses](https://clockworker.de/cw/2013/12/03/der-thermoelektrische-aetherwellen-empfaenger/)
 Blogartikels hab ich in Reisefotos gekramt und den [thermoelektrischen
-Generator](http://de.wikipedia.org/wiki/Thermoelement) herausgesucht,
+Generator](https://de.wikipedia.org/wiki/Thermoelement) herausgesucht,
 den ich im [Museum für
-Kommunikationsgeschichte](http://www.teo.lt/node/1066) in Kaunas
+Kommunikationsgeschichte](https://www.teo.lt/node/1066) in Kaunas
 fotografiert habe. (In
-[diesem](http://www.teo.lt/gallery/flash/Telekomun.swf) Flashpanorama
+[diesem](https://www.teo.lt/gallery/flash/Telekomun.swf) Flashpanorama
 findet man das Gerät sogar in einer Ecke).
 
 [![](https://flipdot.org/blog/uploads/seebeck_kaunas_2.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/seebeck_kaunas_2.jpg)
@@ -21,4 +21,4 @@ findet man das Gerät sogar in einer Ecke).
 Augenscheinlich treibt der Generator ein Röhrenradio, allerdings nicht
 direkt, sondern vermutlich über einen Akku als Zwischenspeicher
 (Zeichnung rechts unten). (Das selbe in neu gibts wohl
-[hier](http://thermalforce.de/))
+[hier](https://thermalforce.de/))

@@ -12,7 +12,7 @@ dran?".
 
 Das ist eine umangreiche Übersicht mit vielen Praxistips zum Thema
 Mikrocontroller - Peripherie, natürlich nicht auf Arduino beschränkt.
-Von [5 Volt Junkie](http://5volt-junkie.net/). Super Talk, kthx\!  
+Von [5 Volt Junkie](https://5volt-junkie.net/). Super Talk, kthx\!  
 
 [![](https://flipdot.org/blog/uploads/dcmotor.serendipityThumb.png)](https://flipdot.org/blog/uploads/dcmotor.png)
 

@@ -6,5 +6,5 @@ path = "/blog/2012/01/19/hackerspace-happenings-hackerspace-symposium-in-berlin"
 +++
 The Hackerspaces.org blog announced a symposium at the c-base
 hackerspace called “[Hackerspaces: The story so far and the future
-ahead](http://blog.hackerspaces.org/2012/01/13/upcoming-symposium-in-berlin-germany-hackerspaces-the-story-so-far-and-the-future-ahead/)”
+ahead](https://blog.hackerspaces.org/2012/01/13/upcoming-symposium-in-berlin-germany-hackerspaces-the-story-so-far-and-the-future-ahead/)”
 to be held on Friday, February 3rd.

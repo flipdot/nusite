@@ -5,5 +5,5 @@ author = "typ_o"
 path = "/blog/2009/09/27/hackerspaces-links"
 +++
 Eine Soup verschiedener [Hackerspaces
-Blogs](http://hackerspaces.soup.io/), und der olle SPON zu [Hardware
-Hacking](http://www.spiegel.de/netzwelt/games/0,1518,647596,00.html).
+Blogs](https://hackerspaces.soup.io/), und der olle SPON zu [Hardware
+Hacking](https://www.spiegel.de/netzwelt/games/0,1518,647596,00.html).

@@ -7,4 +7,4 @@ path = "/blog/2009/10/14/design-patterns-ubersetzt"
 Die bereits
 [verlinkten](https://flipdot.org/blog/index.php?/archives/2-Erst-Ei,-dann-Gack!.html)
 Design Patterns for Hackerspaces hier [zusammengefaßt auf
-Deutsch](http://futur.plomlompom.de/archiv/1864/24c3-4-wir-designen-einen-hackerspace).
+Deutsch](https://futur.plomlompom.de/archiv/1864/24c3-4-wir-designen-einen-hackerspace).

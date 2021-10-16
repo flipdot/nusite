@@ -5,7 +5,7 @@ author = "wegenerd"
 path = "/blog/2017/04/17/track-a-bike"
 +++
 Wir haben uns mit unserem lokalen Fahrradleihsystem
-[Konrad](http://www.konrad-kassel.de) auseinandergesetzt und uns dabei
+[Konrad](https://www.konrad-kassel.de) auseinandergesetzt und uns dabei
 die App etwas näher angeschaut. Mithilfe von
 [mitmproxy](https://mitmproxy.org/) konnten wir die Funktionsweise der
 API nachvollziehen und sammeln so seit einigen Wochen die Daten darüber,

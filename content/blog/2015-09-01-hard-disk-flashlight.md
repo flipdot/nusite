@@ -5,7 +5,7 @@ author = "typ_o"
 path = "/blog/2015/09/01/hard-disk-flashlight"
 +++
 Connect two LEDs in parallel (one reversed) to the actuator coil (aka
-[voice coil](http://www.sensorwiki.org/doku.php/actuators/voice_coil))
+[voice coil](https://www.sensorwiki.org/doku.php/actuators/voice_coil))
 of a salvaged hard disc. Shake the magnets: profit\!  
 
 [20150825\_223647](https://vimeo.com/137957844) from [flipdot:

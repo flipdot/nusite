@@ -11,13 +11,13 @@ Spaß am Gerät
 Der
 [Plan](https://flipdot.org/blog/index.php?/archives/5-Einladung-zum-Starttreffen-am-6.10.09.html),
 auch in Kassel einen
-[Hackerspace](http://de.wikipedia.org/wiki/Hackerspace) aufzubauen,
+[Hackerspace](https://de.wikipedia.org/wiki/Hackerspace) aufzubauen,
 begann mit einem initialen Treffen im Oktober letzten Jahres, zu dem 28
 Teilnehmer mit so vielen Zielen und Ideen kamen, daß viele sich fragten:
 "Warum erst jetzt?".  
 In der Zwischenzeit beteiligte sich die Gruppe mit einem offenen
-[Workshop](http://www.interfiction.org/abstracts-cv/helmut-fligge/) auf
-der [Interfiction](http://www.interfiction.org/) (hier ein
+[Workshop](https://www.interfiction.org/abstracts-cv/helmut-fligge/) auf
+der [Interfiction](https://www.interfiction.org/) (hier ein
 [Video](https://flipdot.org/blog/index.php?/archives/53-flipdot-trifft-Medientheoretiker-und-macht-Praxis.html)
 dazu), der Hackerspace "SubLab" in Leipzig wurde
 [besucht](https://flipdot.org/blog/index.php?/archives/45-Besuch-im-SubLab-in-Leipzig.html),
@@ -34,8 +34,8 @@ Technik auch mal gegen den Strich gebürstet werden kann. Darunter sind
 Programmierer, Künstler, Hardware-Spezialisten aus verschiedenen
 Bereichen, Auszubildende und Studenten verschiedener meist technischer
 Richtungen. Ein Teil der Initiative ist gleichzeitig Mitglied im lokalen
-[Erfa-Kreis](http://www.ccc.de/de/club/erfas) des [Chaos Computer
-Club](http://ccc.de/).  
+[Erfa-Kreis](https://www.ccc.de/de/club/erfas) des [Chaos Computer
+Club](https://ccc.de/).  
 
 [![](https://flipdot.org/blog/uploads/vlcsnap-2010-01-16-08h44m55s115.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/vlcsnap-2010-01-16-08h44m55s115.jpg)
 

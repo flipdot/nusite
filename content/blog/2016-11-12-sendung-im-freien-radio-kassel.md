@@ -5,7 +5,7 @@ author = "typ_o"
 path = "/blog/2016/11/12/sendung-im-freien-radio-kassel"
 +++
 Flipdot war heute im
-[FRK](http://www.freies-radio-kassel.de/startseite.html) zu Gast. Hier
+[FRK](https://www.freies-radio-kassel.de/startseite.html) zu Gast. Hier
 wie in der Sendung versprochen die erwähnten Links. Zum
 [Download](https://flipdot.org/blog/uploads/2016-11-12-Flipdot-Freies-Radio-Kassel.mp3)
 das Interview als Ausschnitt der Sendung.  

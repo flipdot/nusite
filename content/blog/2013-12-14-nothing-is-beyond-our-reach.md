@@ -5,12 +5,12 @@ author = "typ_o"
 path = "/blog/2013/12/14/nothing-is-beyond-our-reach"
 +++
 Das [National Reconnaissance
-Office](http://de.wikipedia.org/wiki/National_Reconnaissance_Office)
+Office](https://de.wikipedia.org/wiki/National_Reconnaissance_Office)
 (NRO; deutsch Nationales Aufklärungsamt) ist ein 1960/61 gegründeter
 Militärnachrichtendienst der USA, der für das militärische
 Satellitenprogramm verantwortlich ist. Das NRO startete am 6. Dezember
 2013 einen neuen Radar - Spiaonagesatelliten, NROL-39. Das [Logo des
-Satelliten](http://i2.wp.com/vigilantcitizen.com/wp-content/uploads/2013/12/bawnccdceaeekoi.jpg)
+Satelliten](https://i2.wp.com/vigilantcitizen.com/wp-content/uploads/2013/12/bawnccdceaeekoi.jpg)
 mit dem Spruch "Nothing is Beyond our Reach" (links), verglichen mit
 einer antikommunistischen Illustration mit dem Untertitel "Know Your
 Communist Enemy" aus dem Werk von Robert B. Watts (1977), "Our Freedom

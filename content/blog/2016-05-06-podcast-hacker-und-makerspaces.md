@@ -15,4 +15,4 @@ sich die Einrichtungen in ihren Ideen und Philosophien? Und was ist zu
 beachten, wenn man selber einen solchen Space gründen möchte?
 
 Hier gibts den Podcast:
-[Chaosradio 222](http://chaosradio.ccc.de/cr222.html).
+[Chaosradio 222](https://chaosradio.ccc.de/cr222.html).

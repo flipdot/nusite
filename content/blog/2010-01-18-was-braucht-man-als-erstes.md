@@ -20,4 +20,4 @@ Datei in
 Pfaden](https://flipdot.org/blog/uploads/fuerreinengelbdruck.cdr "fuerreinengelbdruck.cdr")).
 
 Edit: Ganz auf die Schnelle kann man sofort [hier im Shop
-bestellen](http://flipdot.spreadshirt.de/).
+bestellen](https://flipdot.spreadshirt.de/).

@@ -5,4 +5,4 @@ author = "typ_o"
 path = "/blog/2012/02/20/top-10-programming-fonts"
 +++
 [Top 10 Programming
-Fonts](http://hivelogic.com/articles/top-10-programming-fonts/)
+Fonts](https://hivelogic.com/articles/top-10-programming-fonts/)

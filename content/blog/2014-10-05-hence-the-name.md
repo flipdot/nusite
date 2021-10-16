@@ -5,4 +5,4 @@ author = "typ_o"
 path = "/blog/2014/10/05/hence-the-name"
 +++
 apparently flip-dot displays are [pretty
-awesome](http://www.flipdots.com/advantages.html).
+awesome](https://www.flipdots.com/advantages.html).
