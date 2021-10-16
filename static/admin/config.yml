@@ -8,7 +8,6 @@ backend:
 # publish_mode: editorial_workflow
 
 site_url: https://nusite.flipdot.org
-# logo_url: https://nusite.flipdot.org/img/favicon.svg
 
 media_folder: "static/media" # Media files will be stored in the repo under images/uploads
 public_folder: "/media"
