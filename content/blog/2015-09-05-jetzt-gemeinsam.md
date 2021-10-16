@@ -20,7 +20,7 @@ future that works without waste")
 [Open Source Ecology](https://opensourceecology.de/) Germany ("Wir
 verwenden nachhaltige Kriterien für die Entwicklung von Technologien")
 
-[Open Access](https://www.open-access.net/startseite/) - freier Zugang
+[Open Access](https://www.open-access.net/) - freier Zugang
 zu wissenschaftlicher Information
 
 [Commonsblog](https://commonsblog.wordpress.com/) ("Fundsachen von der
