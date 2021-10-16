@@ -51,7 +51,7 @@ icon_classes = "fas fa-hashtag"
 
 [[extra.ext_nav]]
 title = "flipdot bei Twitter"
-href = "https://twitter.com/FlipDot_KS"
+href = "https://twitter.com/flipdot_kassel"
 icon_classes = "fab fa-twitter"
 
 [[extra.ext_nav]]

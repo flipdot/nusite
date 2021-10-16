@@ -18,7 +18,7 @@ Mail an com {kringeldings} flipdot {punkt} org (Das macht dann ein
 Mensch)
 
 **Twitter**  
-[FlipDot\_KS](https://twitter.com/FlipDot_KS)
+[FlipDot\_KS](https://twitter.com/flipdot_kassel)
 
 **IRC**  
 <irc://irc.freenode.net/flipdot>, auch als
