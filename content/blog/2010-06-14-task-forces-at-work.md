@@ -5,7 +5,7 @@ author = "typ_o"
 path = "/blog/2010/06/14/task-forces-at-work"
 +++
 Morgen um 19:00
-[treffen](http://flipdot.org/wiki/index.php?title=Flipdot_Treffen) wir
+[treffen](https://flipdot.org/wiki/index.php?title=Flipdot_Treffen) wir
 uns alle wieder wie immer im Space. Die einzelnen Task Forces für
 Gestaltung, Automation, Fundraising, Getränkesupport etc. legen jetzt
 los, was man am steigenden Traffic auf der Mailingliste sehen kann.  

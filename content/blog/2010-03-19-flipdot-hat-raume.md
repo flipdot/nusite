@@ -6,7 +6,7 @@ path = "/blog/2010/03/19/flipdot-hat-raume"
 +++
 ![](https://flipdot.org/blog/uploads/Gueterabefrtigung_EG_Ausschnitt.serendipityThumb.jpg)Vergangenen
 Dienstag haben wir zusammen beschlossen, die [Räume in der "Zentralen
-Netzleitstelle"](http://flipdot.org/wiki/index.php?title=Raumsuche/G%C3%BCterabfertigung)
+Netzleitstelle"](https://flipdot.org/wiki/index.php?title=Raumsuche/G%C3%BCterabfertigung)
 am Kasseler Hauptbahnhof zu mieten. Wir werden für's Erste ca 50m² im
 Erdgeschoß und dazu einen guten, trockenen Kellerraum z.B. für Maschinen
 haben. Ab dem ersten April können wir rein, und uns die Räume

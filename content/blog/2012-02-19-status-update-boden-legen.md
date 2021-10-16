@@ -12,6 +12,6 @@ Die Aktion hat Spaß gemacht\!
 ![](https://flipdot.org/blog/uploads/boden_transport.serendipityThumb.jpg)
 
 [.. ganzer
-Eintrag](http://flipdot.org/blog/index.php?/archives/161-Status-Update-Boden-legen.html)  
+Eintrag](https://flipdot.org/blog/index.php?/archives/161-Status-Update-Boden-legen.html)  
 ["Status Update: Boden legen" vollständig
 lesen](https://flipdot.org/blog/archives/161-Status-Update-Boden-legen.html#extended)

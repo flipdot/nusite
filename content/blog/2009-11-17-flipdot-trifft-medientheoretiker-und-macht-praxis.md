@@ -13,7 +13,7 @@ Viele "Aha"-Augenblicke und Spaß am Gerät.
 [![](https://flipdot.org/blog/uploads/VidTerm.serendipityThumb.GIF)](https://flipdot.org/blog/uploads/VidTerm.GIF)EIDT:
 Der im Film kurzzeitig sichtbare Röhrnmonitor mit dem Text
 "interfiction" drauf wird getrieben von einem Mega8 mit ein [wenig
-Code](http://flipdot.org/blog/uploads/Vidterm64.zip) drauf, der das
+Code](https://flipdot.org/blog/uploads/Vidterm64.zip) drauf, der das
 PAL-Bild erzeugt. ([Q](http://www.mikrocontroller.net/topic/53140))
 
 EDIT2: Die Musik ist übrigens von

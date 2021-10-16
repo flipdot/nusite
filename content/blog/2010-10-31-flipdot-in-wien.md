@@ -41,6 +41,6 @@ Transportkisten kopfunter gestapelt wurden. ([Hier im
 Katalog](http://www.mediaarchitecture.org/boxleds/)) Im Inneren eine
 Platine mit LED und etwas Buslogik. Schön groß, schön billig. Bei uns im
 Wiki reift ja eine ganz ähnliche Idee mit den [beleuchteten
-Kanistern](http://flipdot.org/wiki/index.php?title=Kanister). Auch schön
+Kanistern](https://flipdot.org/wiki/index.php?title=Kanister). Auch schön
 simpel: [Dieses
 Projekt](http://www.mediaarchitecture.org/portable-deflatable-led-matrix-by-werkzeug-h/).

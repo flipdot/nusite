@@ -21,7 +21,7 @@ Workshops und Vorträge besuchen, leckere Sachen essen, zu live gemixter
 Musik tanzen, und [realisierte und entstehende
 Projekte](https://flipdot.org/wiki/Projekte) besichtigen.
 
-Mehr Informationen unter [0xa.flipdot.org](http://0xa.flipdot.org/)
+Mehr Informationen unter [0xa.flipdot.org](https://2019.hackumenta.de/)
 
 Übrigens: Wenn dir der Flyer nicht gefällt, [generier' dir halt 'nen
 Neuen\!](https://flipdot.github.io/0xA-flyer-generator/)

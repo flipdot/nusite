@@ -9,7 +9,7 @@ path = "/blog/2010/01/16/was-ist-das-hier-uberhaupt"
 Spaß am Gerät
 
 Der
-[Plan](http://flipdot.org/blog/index.php?/archives/5-Einladung-zum-Starttreffen-am-6.10.09.html),
+[Plan](https://flipdot.org/blog/index.php?/archives/5-Einladung-zum-Starttreffen-am-6.10.09.html),
 auch in Kassel einen
 [Hackerspace](http://de.wikipedia.org/wiki/Hackerspace) aufzubauen,
 begann mit einem initialen Treffen im Oktober letzten Jahres, zu dem 28
@@ -18,9 +18,9 @@ Teilnehmer mit so vielen Zielen und Ideen kamen, daß viele sich fragten:
 In der Zwischenzeit beteiligte sich die Gruppe mit einem offenen
 [Workshop](http://www.interfiction.org/abstracts-cv/helmut-fligge/) auf
 der [Interfiction](http://www.interfiction.org/) (hier ein
-[Video](http://flipdot.org/blog/index.php?/archives/53-flipdot-trifft-Medientheoretiker-und-macht-Praxis.html)
+[Video](https://flipdot.org/blog/index.php?/archives/53-flipdot-trifft-Medientheoretiker-und-macht-Praxis.html)
 dazu), der Hackerspace "SubLab" in Leipzig wurde
-[besucht](http://flipdot.org/blog/index.php?/archives/45-Besuch-im-SubLab-in-Leipzig.html),
+[besucht](https://flipdot.org/blog/index.php?/archives/45-Besuch-im-SubLab-in-Leipzig.html),
 schnell gründete man einen gemeinnützigen Verein und inzwischen steht
 auch die Raumsuche vor dem Abschluß.  
 
@@ -48,7 +48,7 @@ Interessierte willkommen.
 
 Bis ein Raum gefunden ist, wird es weitere gemeinsame und offene
 Aktionen wie den Workshop auf der Interfiction geben, Ankündigungen dazu
-im [Blog](http://flipdot.org/blog/) der Initiative. Die wöchentlichen
+im [Blog](https://flipdot.org/blog/) der Initiative. Die wöchentlichen
 Treffen von "flipdot - hackerspace kassel" sind jeden [Dienstag um 19:00
 im
-Kunsttempel](http://flipdot.org/blog/index.php?/archives/47-Ab-jetzt-immer-Dienstags.html).
+Kunsttempel](https://flipdot.org/blog/index.php?/archives/47-Ab-jetzt-immer-Dienstags.html).

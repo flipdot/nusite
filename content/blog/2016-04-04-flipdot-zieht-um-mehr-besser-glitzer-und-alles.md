@@ -11,7 +11,7 @@ und haben jetzt neue Räume im "Kulturbahnhof", Franz-Ulrich-Straße 18.
 
 Die letzte Meile: Vom Bahnhofsvorplatz zum Space.
 
-[Details zu den neuen Räumen](http://flipdot.org/wiki/Neuland).
+[Details zu den neuen Räumen](https://flipdot.org/wiki/Neuland).
 
 Ab dem 12. April 2016 sind wir dort auch für Besucher zu finden.
 Einzugsparty kommt\!

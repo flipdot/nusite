@@ -9,6 +9,6 @@ Imbiss](http://maps.google.de/maps?q=51.318338,9.49247&num=1&sll=51.318928,9.496
 links neben der Lolita Bar um uns zu koordinieren, und gehen dann zu dem
 Besichtigungstermin in die Sickingenstraße 10, 34117 Kassel um mit den
 Vermietern die
-[Räume](http://flipdot.org/wiki/index.php?title=Raumsuche/Sickingenstrasse)
+[Räume](https://flipdot.org/wiki/index.php?title=Raumsuche/Sickingenstrasse)
 anzusehen.  
 Kommt alle, damit wir eine breite Entscheidungsbasis haben.

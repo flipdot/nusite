@@ -27,7 +27,7 @@ Gesetze.](https://www.no-polizeigesetz-nrw.de/demo-7-7/)
 
 Am Abend des 4. Juli rückte die Polizei, genauer: die Zentral- und
 Anlaufstelle Cybercrime NRW in den „Langen August“ in Dortmund ein und
-durchsuchte neben dem alternativen Hoster [FREE\!](http://www.free.de/)
+durchsuchte neben dem alternativen Hoster [FREE\!](https://www.free.de/)
 unter anderem die Räume unserer Freunde beim Chaostreff Dortmund, aber
 auch die der anderen Vereine und Initiativen. Offenbar ging es den
 Beamten darum, Dokumente sicherzustellen, die als geheim eingestuft

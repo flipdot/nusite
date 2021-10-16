@@ -5,9 +5,9 @@ author = "typ_o"
 path = "/blog/2010/10/07/sonntag-zum-digitalen-datum-in-den-hackerspace"
 +++
 Wer sich bisher noch nicht zum [öffentlichen
-Treffen](http://flipdot.org/wiki/index.php?title=Flipdot_Treffen) vom
+Treffen](https://flipdot.org/wiki/index.php?title=Flipdot_Treffen) vom
 [flipdot - hackerspace
-kassel](http://flipdot.org/wiki/index.php?title=Hallo!) (an jeden
+kassel](https://flipdot.org/wiki/index.php?title=Hallo!) (an jeden
 Dienstag Abend) getraut hat, weil ihm VPN, IPSEC, ISP und FUBAR zu
 [kryptische
 Akronyme](http://de.wikipedia.org/wiki/Liste_von_Abk%C3%BCrzungen_%28Netzjargon%29)
@@ -15,7 +15,7 @@ sind, hat am Sonntag dem 10.10.10 Gelegenheit, sich am Datum 101010 die
 Antwort zum Leben, dem Universum und dem ganzen Rest erklären zu lassen.
 Es gibt einen Workshop zur Herstellung des wichtigsten Nahrungsmittels
 für Nerds und Musique live aus der Konserve. Ab ca. 15:00 in der
-[Sickingenstraße 10](http://flipdot.org/wiki/index.php?title=Anfahrt) in
+[Sickingenstraße 10](https://flipdot.org/wiki/index.php?title=Anfahrt) in
 Kassel.
 
 Edit: Und ja, man kann Pizza selbst machen, allerdings hat der Teig- und

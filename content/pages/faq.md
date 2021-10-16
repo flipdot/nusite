@@ -45,15 +45,15 @@ Nein! Wir halten uns an geltendes Recht und machen höchstens auf die Gefahren u
 ## Ok, gut, aber was macht ihr denn nun in eurem Hackspace?
 
 Na, hier ein paar Beispiele:
-[Fahrradverleihsysteme analysieren](http://flipdot.org/blog/archives/373-Track-a-Bike.html),
-[zusammen kochen und essen](http://flipdot.org/blog/archives/364-Food-Pr0n.html),
+[Fahrradverleihsysteme analysieren](https://flipdot.org/blog/archives/373-Track-a-Bike.html),
+[zusammen kochen und essen](https://flipdot.org/blog/archives/364-Food-Pr0n.html),
 [mit parametrischen 3D-Programmen Getränkeregale entwerfen und auf der CNC Fräse herstellen](https://flipdot.org/blog/archives/355-Eazy-math-Getraenkestorage.html), Prototypen für Kommunikationstunnel bauen,
-[Hardware reparieren](http://flipdot.org/blog/archives/367-Apple-iPad1-3G-Akkutausch-Reparatur-mit-vorhandenem-Material.html),
+[Hardware reparieren](https://flipdot.org/blog/archives/367-Apple-iPad1-3G-Akkutausch-Reparatur-mit-vorhandenem-Material.html),
 ferngesteuerte [Türöffner](https://flipdot.org/blog/archives/351-Jeder-Space-hat-ein-Schloss.html) bauen,
-[Messer schleifen lernen](http://flipdot.org/blog/archives/371-Workshop-Messer-schleifen.html),
+[Messer schleifen lernen](https://flipdot.org/blog/archives/371-Workshop-Messer-schleifen.html),
 verstehen wie schwer Kommunikation sicher gemacht werden kann,
-[Antennen bauen](http://flipdot.org/blog/archives/366-Bau-einer-kolinear-Antenne-fuer-ADS-B-Empfang.html),
-[zeitservergesteuerte Uhren aus Röntgenfilmbetrachter entwerfen](http://flipdot.org/blog/archives/359-Dualuhr-Update-mit-NTP-Server-Zeitserver-Abfrage.html),
+[Antennen bauen](https://flipdot.org/blog/archives/366-Bau-einer-kolinear-Antenne-fuer-ADS-B-Empfang.html),
+[zeitservergesteuerte Uhren aus Röntgenfilmbetrachter entwerfen](https://flipdot.org/blog/archives/359-Dualuhr-Update-mit-NTP-Server-Zeitserver-Abfrage.html),
 [unterbrechungsfreie Stromversorgungen](https://flipdot.org/blog/archives/348-USV-fuer-raspberry-Pi-11.-Juni-2016,-2000.html) löten,
 [Tetris](https://flipdot.org/blog/archives/335-Borg-Tetris.html)
 mit einem Kamerasucher und einer Kransteuerung spielen, bei CCC-Veranstaltungen
@@ -70,9 +70,9 @@ mal [genug Bier für alle](https://flipdot.org/blog/archives/353-Heute-back-ich,
 [alte Hardware retten](https://flipdot.org/blog/archives/253-thereifixedit.html),
 [reparieren](https://flipdot.org/blog/archives/315-AVR-Programmer-repariert.html),
 [hacken](https://flipdot.org/blog/archives/317-Bieg-den-Schaltkreis!.html),
-[basteln](http://flipdot.org/blog/archives/335-Borg-Tetris.html),
+[basteln](https://flipdot.org/blog/archives/335-Borg-Tetris.html),
 [programmieren](https://flipdot.org/blog/archives/272-Dashboard-mit-Spacedaten.html),
-[Vorträge](http://flipdot.org/blog/archives/133-Einfuehrung-in-die-Leiterplattenherstellung.html)
+[Vorträge](https://flipdot.org/blog/archives/133-Einfuehrung-in-die-Leiterplattenherstellung.html)
 und
 [Workshops](https://flipdot.org/blog/archives/311-Docker-Swarm-Workshop-heute-ab-1400-Uhr.html)
 halten (auch mit und über
@@ -80,20 +80,20 @@ halten (auch mit und über
 [tauschen Zeug](https://flipdot.org/blog/archives/268-Jaaa!-Weihnachtlicher-Sachentausch!.html),
 [Baustelwochenenden](https://flipdot.org/blog/archives/277-Baustelwochenende.html)
 und
-[Pizzaworkshops](http://flipdot.org/blog/archives/107-Sonntag-Zum-digitalen-Datum-in-den-Hackerspace.html)
+[Pizzaworkshops](https://flipdot.org/blog/archives/107-Sonntag-Zum-digitalen-Datum-in-den-Hackerspace.html)
 machen, zusammen über unsere Projekte, Anschaffungen, Pläne,
-[Netzpolitik](http://flipdot.org/blog/archives/331-Die-Gentrifizierung-der-Hacker-und-Maker-Szene.html)
+[Netzpolitik](https://flipdot.org/blog/archives/331-Die-Gentrifizierung-der-Hacker-und-Maker-Szene.html)
 reden, unsere
-[Räume](http://flipdot.org/blog/archives/161-Status-Update-Boden-legen.html)
+[Räume](https://flipdot.org/blog/archives/161-Status-Update-Boden-legen.html)
 herrichten,
 [Besuch](https://flipdot.org/blog/archives/234-Space-Besucher-kommt-mit-Plan.html)
 bekommen,
-[andere Hackerspaces besuchen](http://flipdot.org/blog/archives/118-Visiting-metalab.html)
-[2](http://flipdot.org/blog/archives/45-Besuch-im-SubLab-in-Leipzig.html),
-[3](http://flipdot.org/blog/archives/11-Besuch-beim-Hackcenter-Treffen-in-The-Hub-Islington,-London.html),
+[andere Hackerspaces besuchen](https://flipdot.org/blog/archives/118-Visiting-metalab.html)
+[2](https://flipdot.org/blog/archives/45-Besuch-im-SubLab-in-Leipzig.html),
+[3](https://flipdot.org/blog/archives/11-Besuch-beim-Hackcenter-Treffen-in-The-Hub-Islington,-London.html),
 [4](https://flipdot.org/blog/archives/337-Besuch-im-Open-Lab-in-Augsburg.html), auf
 Konferenzen gehen oder einfach zusammen
-[wegfahren](http://flipdot.org/blog/archives/117-flipdot-in-Wien.html).
+[wegfahren](https://flipdot.org/blog/archives/117-flipdot-in-Wien.html).
 
 ## Wer seid ihr?
 

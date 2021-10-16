@@ -5,6 +5,6 @@ author = "typ_o"
 path = "/blog/2011/01/11/heute-jahresplenum-im-hackerspace"
 +++
 Heute 19:00 treffen wir uns im
-[Hackerpace](http://flipdot.org/wiki/index.php?title=Anfahrt) zur
+[Hackerpace](https://flipdot.org/wiki/index.php?title=Anfahrt) zur
 jährlichen Mitgliederversammlung. Gäste sind nachdrücklich eingeladen -
 wir sprechen über die Zukunft von flipdot.

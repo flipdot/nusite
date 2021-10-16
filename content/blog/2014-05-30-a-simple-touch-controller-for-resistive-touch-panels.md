@@ -5,7 +5,7 @@ author = "typ_o"
 path = "/blog/2014/05/30/a-simple-touch-controller-for-resistive-touch-panels"
 +++
 ([Hier gehts zur deutschen
-Version](http://flipdot.org/blog/index.php?/archives/244-A-simple-Touch-Controller-for-resistive-touch-panels.html#extended))
+Version](https://flipdot.org/blog/index.php?/archives/244-A-simple-Touch-Controller-for-resistive-touch-panels.html#extended))
 Flipdot member \[typ.o\] writes: There are more and more affordable TFT
 displays for Raspberry Pi coming with a resistive touch panel like
 [this](http://www.pollin.de/shop/dt/NTMwOTc4OTk-/Bauelemente_Bauteile/Aktive_Bauelemente/Displays/7_17_78_cm_Display_Set_mit_Touchscreen_LS_7T_HDMI_DVI_VGA_CVBS.html)

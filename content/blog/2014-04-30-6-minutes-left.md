@@ -7,10 +7,10 @@ path = "/blog/2014/04/30/6-minutes-left"
 [![](https://flipdot.org/blog/uploads/timetables.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/timetables.jpg)
 
 Work in progress: Unser kleiner
-[Touch-Pi](http://flipdot.org/blog/index.php?/archives/235-Laser!.html)
+[Touch-Pi](https://flipdot.org/blog/index.php?/archives/235-Laser!.html)
 hat seine ersten Teilaufgaben in der Space-Steuerung schon bekommen,
 hier die von der ÖPNV-Website runtergeparsten Abfahrtszeiten der
-nächsten Bahnen (Die [kvg](http://kvg.de/) bietet keinerlei vernünftige
+nächsten Bahnen (Die [kvg](https://kvg.de/) bietet keinerlei vernünftige
 API an, denn dann könnten die Kunden ja gucken, wann sie die nächste
 Transportdienstleistung kaufen können - bewahre\! Die haben da irgendein
 proprietäres System \[geleast?\], wo sie so nette Sachen wie im Bild -

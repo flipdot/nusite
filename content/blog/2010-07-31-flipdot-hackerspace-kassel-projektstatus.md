@@ -12,7 +12,7 @@ Jürgen geplanten und gezeichneten Arbeits- und Tresenflächen aus
 Multiplex-Platten kommen in wenigen Tagen.
 
 Die
-[Infrastruktur](http://flipdot.org/wiki/index.php?title=Infrastruktur)
+[Infrastruktur](https://flipdot.org/wiki/index.php?title=Infrastruktur)
 migriert unter den Händen der Netzwerk-Taskforce Arazer und Induzer
 langsam von "extrem fliegend aufgebaut" zu "fest installiert", und
 sobald die erwarteten Switche und Router da sind, steht der grobe
@@ -44,7 +44,7 @@ Fenster gelehnt, in der Hoffnung, innerhalb eines halben Jahres genug
 Menschen beisammen zu haben, die Lust auf einen unabhängigen und freien
 Ort zum Coden, Reden, Löten, Schrauben und Planen haben - und denen das
 einen regelmäßig Beitrag wert ist. [Der Tag der offenen
-Tür](http://flipdot.org/blog/uploads/slideshows/offtuer2010-06/) war
+Tür](https://flipdot.org/blog/uploads/slideshows/offtuer2010-06/) war
 gut besucht, inzwischen sind wir fast 20 Member, die stabil zum Projekt
 beitragen, nicht alle mit dem vollen Beitragssatz, manche vor allem mit
 persönlichem Einsatz. Damit die Miete drin ist, fehlen jetzt nur noch

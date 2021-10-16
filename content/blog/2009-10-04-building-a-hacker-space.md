@@ -7,7 +7,7 @@ path = "/blog/2009/10/04/building-a-hacker-space"
 [![](https://flipdot.org/blog/uploads/ohlig.jpg)](http://chaosradio.ccc.de/24c3_m4v_2133.html)
 
 Wie hier schon mit einem Link auf das Wiki von hackerspaces.org
-[erwähnt](http://flipdot.org/blog/index.php?/archives/2-Erst-Ei,-dann-Gack!.html),
+[erwähnt](https://flipdot.org/blog/index.php?/archives/2-Erst-Ei,-dann-Gack!.html),
 heute noch das [Video zum Vortrag von Lars Weiler und Jens
 Ohlig](http://chaosradio.ccc.de/24c3_m4v_2133.html) zum Hacker Space
 Design Pattern Catalogue auf dem

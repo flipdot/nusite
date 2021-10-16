@@ -19,7 +19,7 @@ zwei Pole hat?
 Eine
 [Anfrage](http://www.fingers-welt.de/phpBB/viewtopic.php?f=14&t=1881) im
 prima Forum von Fingers elektrischer Welt (Ja, das sind
-[DIE](http://flipdot.org/blog/index.php?/archives/40-Frickel-Punk.html)\!)
+[DIE](https://flipdot.org/blog/index.php?/archives/40-Frickel-Punk.html)\!)
 brachte einen absolut treffsicheren Hinweis auf ein [US
 Patent](https://www.google.com/patents/US4458187), mit dem die Stellung
 des Schalters durch einen dem Motorstrom aufgeprägten Wechselstrom

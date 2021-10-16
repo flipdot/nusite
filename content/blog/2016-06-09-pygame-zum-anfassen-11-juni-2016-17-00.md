@@ -13,4 +13,4 @@ hervorragend zum Aufbau von Benutzeroberflächen verwenden läßt.
 
 Dies ist kein Vortrag oder strukturierter Workshop, sondern ein
 gemeinsames hands on. Jeder ist willkommen, Eintritt frei. Wo?
-[flipdot](http://flipdot.org/wiki/Kontakt).
+[flipdot](https://flipdot.org/wiki/Kontakt).

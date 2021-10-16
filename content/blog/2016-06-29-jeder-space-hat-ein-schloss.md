@@ -8,7 +8,7 @@ Irgendein Schloss? Natürlich nicht\! Elektronisch, sicher, Schlüssel
 leicht zurückzuziehen, Datensparsam usf.
 
 Unsere
-[Schlossmechanik](http://flipdot.org/blog/archives/345-Das-Auge-schliesst-mit!.html)
+[Schlossmechanik](https://flipdot.org/blog/archives/345-Das-Auge-schliesst-mit!.html)
 hat jetzt auch die nötige Soft- und Hardware bekommen.
 
 Die Steuerung besteht aus einem PI und einem pihat mit einem PIC16LF1719

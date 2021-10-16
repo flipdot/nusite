@@ -12,7 +12,7 @@ Zukunft sind Raumtemperatur, Netzwerktraffic sowie der Getränkefüllstand
 geplant.
 
 Bereitgestellt werden die angezeigten Daten über
-<http://flipdot.org/spacestatus/status.json> (der Stromverbrauch wird
+<https://flipdot.org/spacestatus/status.json> (der Stromverbrauch wird
 demnächst ebenfalls darüber abrufbar sein, zurzeit noch via
 <http://infragelb.de/flipdot-power/>). Jede Minute wird ein Cronjob
 angestoßen, welcher die Daten abholt ([GitHub
