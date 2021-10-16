@@ -5,8 +5,7 @@ author = "typ_o"
 path = "/blog/2009/10/06/starttreffen"
 +++
 Sammlung zu den Themen heute Abend
-[hier](https://flipdot.org/wiki/index.php?title=Flipdot_Treffen/2009-10-06),
-pse contribute.
+[~~hier~~](#), pse contribute.
 
 **Edit:**  
 Das erste Treffen war (für mich) eine große Überraschung: 28 Teilnehmer
