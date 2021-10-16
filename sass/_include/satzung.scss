@@ -10,7 +10,7 @@
 
     ol > li:before {
         counter-increment: list;
-        content: "(" counter(list, lower-alpha) ")\a0";
+        content: "(" counter(list) ")\a0";
         position: absolute;
         left: -1.4em;
     }
