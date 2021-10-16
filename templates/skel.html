@@ -1,6 +1,48 @@
 <!doctype html>
 
-{% include "includes/html_head.html" %}
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+{% if config.mode == "Serve" -%}
+    {%- set livereload = "ws://127.0.0.1:1024/livereload" -%}
+{%- else -%}
+    {%- set livereload = "" -%}
+{%- endif -%}
+
+<meta http-equiv="Content-Security-Policy" content="
+    default-src 'self';
+    img-src *;
+    connect-src 'self' https://api.flipdot.org {{ livereload | safe }};
+    script-src 'self' 'unsafe-inline';
+    frame-src 'self' https://media.ccc.de https://player.vimeo.com https://w.soundcloud.com
+        https://www.youtube-nocookie.com
+">
+
+<title>{% block html_title %}{% endblock html_title %}</title>
+
+<!-- Disable automatic detection and formatting of possible phone numbers -->
+<meta name="format-detection" content="telephone=no">
+
+<link rel="stylesheet" href="/css/normalize.css">
+<link rel="stylesheet" href="/css/flipdot.css">
+<link rel="stylesheet" href="/css/font-awesome.min.css">
+
+<!-- No link to favicon.ico because browsers search for it in the root directory no matter what -->
+<link rel="icon" href="/img/favicon_16.png" sizes="16x16">
+<link rel="icon" href="/img/favicon_24.png" sizes="64x64">
+<link rel="icon" href="/img/favicon_32.png" sizes="32x32">
+<link rel="icon" href="/img/favicon_48.png" sizes="64x64">
+<link rel="icon" href="/img/favicon_64.png" sizes="64x64">
+<link rel="icon" href="/img/favicon_96.png" sizes="64x64">
+<link rel="icon" href="/img/favicon_128.png" sizes="64x64">
+<link rel="icon" href="/img/favicon.svg">
+
+<link rel="alternate" href="/rss.xml" type="application/atom+xml" title="Blog Posts">
+
+<script defer src="/js/space_status.js"></script>
+<script defer src="/js/load_iframe.js"></script>
+
 {% include "includes/site_header.html" %}
 
 <div class="site-content">
