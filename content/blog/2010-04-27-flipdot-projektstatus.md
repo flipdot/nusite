@@ -25,7 +25,7 @@ Wir sind 13 zahlende Mitglieder, und wenn wir die Beiträge komplett
 verwenden, dann reicht es gerade für 400-500 EUR Miete.
 
 Bis wir denn ein eigenes Dach haben, werden wir uns weiterhin im
-[Kunsttempel](https://flipdot.org/blog/index.php?/archives/47-Ab-jetzt-immer-Dienstags.html)
+[Kunsttempel](https://flipdot.org/blog/archives/47-Ab-jetzt-immer-Dienstags.html)
 treffen (Di., 19:00, komm dazu\!)
 
 Parallel sammeln wir schon Material und Einrichtung - Ein Stapel Möbel

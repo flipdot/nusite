@@ -12,7 +12,7 @@ Lange Strasse 24
 34131 Kassel.
 
 und über [weitere
-Kontaktmöglichkeiten](https://flipdot.org/blog/index.php?/archives/13-Communication.html).
+Kontaktmöglichkeiten](https://flipdot.org/blog/archives/13-Communication.html).
 
 Die Vereinsräume sind hier:
 

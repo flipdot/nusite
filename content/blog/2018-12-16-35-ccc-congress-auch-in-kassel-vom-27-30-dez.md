@@ -9,7 +9,7 @@ Congress](https://de.wikipedia.org/wiki/Chaos_Communication_Congress)
 statt, ausgerichtet vom [Chaos Computer
 Club](https://de.wikipedia.org/wiki/Chaos_Computer_Club). Erwartet
 werden 15.000 Besucher. Für alle die nicht nach Leipzig fahren können:
-Wir schauen bei uns im [Hackerspace](https://flipdot.org/wiki/Kontakt)
+Wir schauen bei uns im [Hackerspace](/kontakt/)
 ausgewählte Vorträge aus dem
 [Programm](https://fahrplan.events.ccc.de/congress/2018/Fahrplan/) live
 an, unterhalten uns darüber, bausteln an unseren Projekten weiter und

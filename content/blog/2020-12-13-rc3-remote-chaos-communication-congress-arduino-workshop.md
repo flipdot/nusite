@@ -26,7 +26,7 @@ Arduinos
 arduino-rc3.
 - Termine vorauss. 27.,28., und 29.12.2020 10:30-13:00
 - Materialabholung am [flipdot HbF
-Kassel](https://flipdot.org/wiki/Kontakt), vorauss. 26.12.2020, 18:00
+Kassel](/kontakt/), vorauss. 26.12.2020, 18:00
 Uhr.
 
 Im Workshop installieren wir die Arduino-Entwicklungsumgebung, lassen

@@ -4,11 +4,11 @@ date = 2009-06-13T07:10:00Z
 author = "typ_o"
 path = "/blog/2009/06/13/communication"
 +++
-**Blog**  
-<https://flipdot.org/blog> (du liest es gerade)
+[**Blog**]  
+</blog/> (du liest es gerade)
 
 **Wiki**  
-<https://flipdot.org/wiki>
+</wiki/>
 
 **Mail:**  
 com {kringeldings} flipdot {punkt} org

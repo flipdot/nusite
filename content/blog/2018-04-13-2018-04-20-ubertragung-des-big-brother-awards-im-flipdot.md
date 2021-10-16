@@ -6,7 +6,7 @@ path = "/blog/2018/04/13/2018-04-20-ubertragung-des-big-brother-awards-im-flipdo
 +++
 [![](https://flipdot.org/blog/uploads/BBA2018.serendipityThumb.jpg)](https://flipdot.org/blog/uploads/BBA2018.jpg)
 
-18:00 Uhr, im flipdot ([Anfahrt](https://flipdot.org/wiki/Kontakt))
+18:00 Uhr, im flipdot ([Anfahrt](/kontakt/))
 übertragen wir die Verleihung des [Big Brother
 Awards](https://bigbrotherawards.de/). (Keine Kosten)  
 

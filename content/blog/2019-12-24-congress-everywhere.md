@@ -15,7 +15,7 @@ Congress Everywhere an:
 [Vorträge](https://fahrplan.events.ccc.de/congress/2019/Fahrplan/) im
 [Congress-Stream](https://streaming.media.ccc.de/ "stream") gucken,
 bausteln, Pizza Essen im kleinen Rahmen in unseren gerade neu bezogenen
-Räumen ([gleicher Ort](https://flipdot.org/wiki/Kontakt "Anfahrt"), ein
+Räumen ([gleicher Ort](/kontakt/ "Anfahrt"), ein
 Stockwerk tiefer).
 
 Ab dem Nachmittag bis in den Abend - guckt auf unserem Blog rechts oben,

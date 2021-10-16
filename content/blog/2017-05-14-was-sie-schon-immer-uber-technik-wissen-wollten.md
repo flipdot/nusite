@@ -15,11 +15,11 @@ Konstruierens haben möchtest, aber bisher einfach kaum Erfahrungen hast,
 dann gönn‘ dir den Spaß und komm vorbei\!
 
 Wir öffnen an diesem Tag unseren
-[Hackerspace](https://flipdot.org/wiki/FAQ) für offene Workshops. Wir
+[Hackerspace](/faq/) für offene Workshops. Wir
 überlegen welche Themen Dich interessieren, in welchen Bereichen Du
 gerne mehr erfahren möchtest oder es häufiger bei Dir klemmt und Du nur
 noch Fragezeichen siehst. Trau Dich [und schick uns doch einfach Deine
-Themenvorschläge ein](https://flipdot.org/wiki/Kontakt), wir schauen dann
+Themenvorschläge ein](/kontakt/), wir schauen dann
 ob wir es an diesem Tag als Workshop anbieten können. Du willst Freunde
 und Bekannten davon erzählen und zum mitkommen anregen? [Hier der
 Flyer](https://flipdot.org/wiki/Was%20Sie%20schon%20immer%20%C3%BCber%20Technik%20wissen%20wollten...?action=AttachFile&do=view&target=FD_technikworkshop.pdf)

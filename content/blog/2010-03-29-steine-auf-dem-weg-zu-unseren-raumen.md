@@ -13,4 +13,4 @@ Tragen es alle mit, die Beiträge auf die Hohe Kante zu legen? Wie
 könnten Alternative aussehen? Welche Deadlines wollen wir uns setzen?
 
 Das und mehr Dienstag 19:00 im
-[Kunsttempel](https://flipdot.org/blog/index.php?/archives/47-Ab-jetzt-immer-Dienstags.html).
+[Kunsttempel](https://flipdot.org/blog/archives/47-Ab-jetzt-immer-Dienstags.html).

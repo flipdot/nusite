@@ -5,7 +5,7 @@ author = "typ_o"
 path = "/blog/2016/05/19/einweihungsfestival-vom-flipdot-hackerspace-kassel-mit-tinypalace-vernissage-nebenan"
 +++
 Ab heute 19:00 bis zum 22.5. am [neuen Standort im  
-Hauptbahnhof Kassel](https://flipdot.org/wiki/Kontakt)
+Hauptbahnhof Kassel](/kontakt/)
 (Nachrichtenmeisterei neben Interim).
 
 Kommt vorbei und scannt euch einen Tschunk auf der geilsten Party der

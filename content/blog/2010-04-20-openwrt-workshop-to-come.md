@@ -16,4 +16,4 @@ gibt's aber nichtmehr. WRTSL54GS oder WRT54G3GV2-VF könnte das neue
 "top" Model sein. Also bis morgen dann, Emzy
 
 Das und mehr (neue potentielle Räume) heute, Dienstag 19:00 im
-[Kunsttempel](https://flipdot.org/blog/index.php?/archives/47-Ab-jetzt-immer-Dienstags.html).
+[Kunsttempel](https://flipdot.org/blog/archives/47-Ab-jetzt-immer-Dienstags.html).

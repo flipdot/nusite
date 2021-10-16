@@ -15,7 +15,7 @@ findet sich
 
 Für alle die kein Ticket ergattern konnten oder wollten, öffnen wir vom
 27. bis 30.12. jeweils ab ca. Mittag unseren Hackspace
-([Anfahrt](https://flipdot.org/wiki/Kontakt)) und laden ein zum
+([Anfahrt](/kontakt/)) und laden ein zum
 gemeinsamen Streams schauen, bausteln und chillen bei jeder Menge
 Blinkenlights. Voraussichtlich bauen wir unter Anderem auch an unserem
 automatischen Getränke-Bestellsystem mit MQTT-vernetzten Waagen weiter,
@@ -28,7 +28,7 @@ Elektro- und Mechanik-Werkstatträume, 3D-Drucker, CNC Fräse, Mikroskop,
 allerlei Meßgeräte und viele andere Dinge können gemeinsam erforscht und
 benutzt werden. Wenn wir dein Interesse wecken konnten, du aber dennoch
 Fragen hast, melde dich einfach via
-[Kontakt](https://flipdot.org/wiki/Kontakt).
+[Kontakt](/kontakt/).
 
 [![](https://flipdot.org/blog/uploads/Bildschirmfotovom2017-12-21174213.serendipityThumb.png)](https://flipdot.org/blog/uploads/Bildschirmfotovom2017-12-21174213.png)
 

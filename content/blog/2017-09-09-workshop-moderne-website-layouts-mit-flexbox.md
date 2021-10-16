@@ -5,7 +5,7 @@ author = "typ_o"
 path = "/blog/2017/09/09/workshop-moderne-website-layouts-mit-flexbox"
 +++
 Offener Workshop am 2017-09-16 um 17:00 im
-[flipdot](https://flipdot.org/wiki/Kontakt). Die Veranstaltung ist für
+[flipdot](/kontakt/). Die Veranstaltung ist für
 Leute gedacht, die schon ein gewisses Grundverständnis von HTML + CSS
 haben. Laptop mitbringen ist empfohlen, aber nicht notwendig.
 

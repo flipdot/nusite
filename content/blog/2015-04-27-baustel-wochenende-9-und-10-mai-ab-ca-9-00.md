@@ -33,5 +33,5 @@ Bis jetzt gibt es:
 Mehr Infos [hier](https://flipdot.org/wiki/Baustelwochenende).  
 Und ein
 [Plakat](https://flipdot.org/blog/uploads/Baustel_Plakat_kl.jpg).
-[Unsere Kontaktseite](https://flipdot.org/wiki/Kontakt), oder direkt
+[Unsere Kontaktseite](/kontakt/), oder direkt
 mail: **com {kringeldings} flipdot punkt org**

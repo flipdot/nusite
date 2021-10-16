@@ -6,6 +6,6 @@ path = "/blog/2009/10/05/bitte-in-der-mailingliste-eintragen"
 +++
 Die interne Mailingliste von flipdot (Low traffic) ist eingerichtet,
 bitte trag dich
-[hier](https://flipdot.org/blog/index.php?/pages/contactform.html) ein.  
+[~~hier~~](#) ein.  
 ["Bitte in der Mailingliste eintragen" vollständig
 lesen](https://flipdot.org/blog/archives/28-Bitte-in-der-Mailingliste-eintragen.html#extended)

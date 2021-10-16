@@ -14,4 +14,4 @@ mit *so* vielen Zielen und Ideen, daß man sich fragt: "Warum erst
 jetzt?". In einer Woche treffen wir uns in den bereits in Frage
 kommenden Räumlichkeiten, und führen anschließend die Themen weiter, die
 wir heute Abend nur anreißen konnten. (Details in der
-[Mailingliste](https://flipdot.org/blog/index.php?/pages/contactform.html))
+[~~Mailingliste~~](#))
