@@ -13,5 +13,6 @@ hat ganz hervorragend geklappt) und heiß in Gläser füllen. Anschließend
 
 [![](/media/20150801_100211.serendipityThumb.jpg)](/media/20150801_100211.jpg)
 
-["Konservenherstellung für das CCCamp15" vollständig
-lesen](https://flipdot.org/blog/archives/320-Konservenherstellung-fuer-das-CCCamp15.html#extended)
+[![](/media/20150801_101918.serendipityThumb.jpg)](/media/20150801_101918.jpg)
+
+[![](/media/20150801_152015.serendipityThumb.jpg)](/media/20150801_152015.jpg)

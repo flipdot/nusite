@@ -6,5 +6,3 @@ path = "/blog/2011/10/24/rfid-lock-under-construction"
 +++
 [![RFID-Lock under
 construction](/media/IMAG1363.serendipityThumb.jpg)](/media/IMAG1363.jpg)  
-[" RFID-Lock under construction" vollständig
-lesen](https://flipdot.org/blog/archives/149-RFID-Lock-under-construction.html#extended)

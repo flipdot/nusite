@@ -10,6 +10,7 @@ Relais drauflöten.
 Controller hat Ruhe. [![RFID-Schloss
 Platine](/media/IMAG1415.serendipityThumb.jpg)](/media/IMAG1415.jpg)
 
-[](/media/IMAG1415.jpg)  
-[" RFID-Schloss - Schaltinterface" vollständig
-lesen](https://flipdot.org/blog/archives/153-RFID-Schloss-Schaltinterface.html#extended)
+[](/media/IMAG1415.jpg)
+
+Gerade letzte Lackschicht aufgetragen, morgen Optokoppler, MOSFETs und
+Relais drauflöten.

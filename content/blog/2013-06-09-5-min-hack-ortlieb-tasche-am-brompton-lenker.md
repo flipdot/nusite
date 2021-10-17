@@ -16,7 +16,11 @@ Material: 8 mm - Rundmaterial (Hier Messing weil vorhanden) passend für
 die Ortlieb - Aufnahmen, Kabelbinder, zwei Schnappschellen für
 Installationsrohr (was der Elektrolurch halt so im Keller hat)
 
-Und - es läßt sich noch 1a zusammen falten\! Belastungstest mit neun
-Litern Wasser bestanden.  
-["5 Min - Hack: Ortlieb Tasche am Brompton - Lenker" vollständig
-lesen](https://flipdot.org/blog/archives/208-5-Min-Hack-Ortlieb-Tasche-am-Brompton-Lenker.html#extended)
+Und - es läßt sich noch 1a zusammen falten! Belastungstest mit neun
+Litern Wasser bestanden.
+
+![](/media/ortl02.jpg)\
+
+![](/media/ortl03.jpg)
+
+![](/media/ortl04.jpg)
