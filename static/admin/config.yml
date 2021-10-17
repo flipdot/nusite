@@ -2,8 +2,8 @@ backend:
   name: gitlab
   repo: flipdot/nusite
   branch: main
-  auth_type: implicit
-  app_id: ea3a559f58edf41907ad17c7e9f89273d8ff6aacaf6084d24f440ae2592f3575
+  auth_type: pkce
+  app_id: 46ca4cc2955a8aef10df8d37468d02411f0da9dfe64e78f58d77a2282059e934
 
 # Uncomment below to enable drafts
 # publish_mode: editorial_workflow
