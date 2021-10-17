@@ -163,8 +163,8 @@ bzw. sagte mir der gute Feerich (wie ist die maskuline Form?) der mir
 dabei half als ich wieder kurz vor einem Nervenzusammenbruch stand, dass
 das anders zu lösen sei:
 
-> „ ich hab eine viel lustigere loesung gefunden: alle 5 minuten wird
-> einfach die datei per crontab ueberschrieben mit dem was sie sein
+> „ich hab eine viel lustigere loesung gefunden: alle 5 minuten wird
+> einfach die datei per crontab überschrieben mit dem was sie sein
 > sollte"
 
 **Pic or it didn\'t happen**

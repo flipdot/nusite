@@ -39,6 +39,21 @@ main {
         border-bottom: 1px solid #aaa;
     }
 
+    blockquote {
+        border-left: .4em solid var(--bg-grey);
+        margin-left: .15em;
+        margin-right: 0;
+        padding: .3em .85em;
+    }
+
+    blockquote > p:first-child {
+        margin-top: 0;
+    }
+
+    blockquote > p:last-child {
+        margin-bottom: 0;
+    }
+
     iframe {
         border: 0;
         width: 100%;
