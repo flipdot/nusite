@@ -12,6 +12,11 @@ highlight_theme = "visual-studio-dark"
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
+[slugify]
+paths = "safe"
+taxonomies = "safe"
+anchors = "safe"
+
 
 [[extra.site_nav]]
 title = "Blog"
