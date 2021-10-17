@@ -1,6 +1,7 @@
 backend:
   name: gitlab
   repo: flipdot/nusite
+  branch: main
   auth_type: implicit
   app_id: ea3a559f58edf41907ad17c7e9f89273d8ff6aacaf6084d24f440ae2592f3575
 
