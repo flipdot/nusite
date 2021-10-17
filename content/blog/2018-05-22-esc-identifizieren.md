@@ -83,8 +83,8 @@ man nur, dass sein ESC ab jetzt nicht mehr funktioniert
 
 Als Nächstes habe ich nach Bezeichnungen der FETs gesucht. Auf der
 Platine sind 6 [MT6680 (N-Chanel
-MOS-FETs)](http://www.mtsemi.com/uploadfile/MT6680.pdf) und 6 [AO4407
-(P-Chanel MOS-FETs)](http://aosmd.com/pdfs/datasheet/ao4407.pdf).
+MOS-FETs)](https://www.mtsemi.com/uploadfile/MT6680.pdf) und 6 [AO4407
+(P-Chanel MOS-FETs)](https://aosmd.com/pdfs/datasheet/ao4407.pdf).
 
 Ok, also kann das wirklich nur noch die Firmware tgy.hex sein.
 

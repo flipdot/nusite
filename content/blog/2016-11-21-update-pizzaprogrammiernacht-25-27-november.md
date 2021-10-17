@@ -58,7 +58,7 @@ Wir freuen uns schon, kommt und habt Spaß!
 PS: Direkt neben flipdot findet gleichzeitig das Randfilm Festival
 statt:
 
-> \"Das [Randfilmfest 2016](http://www.randfilm.de/)
+> \"Das [Randfilmfest 2016](https://www.randfilm.de/)
 > 
 > Jenseits von Genres und Schubladen - beim Randfilmfest mischen sich
 > Film- und Musikevents, treffen Stargäste in familiärer Atmosphäre auf

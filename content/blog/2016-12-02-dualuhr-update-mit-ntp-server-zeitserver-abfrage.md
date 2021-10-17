@@ -20,17 +20,17 @@ Software-Update mit ESP8266.
 
 [![](/media/_nodmcu.serendipityThumb.jpg)](/media/_nodmcu.jpg)
 
-Ein [NodeMcu](http://nodemcu.com/index_en.html) wird via Arduino IDE
-\[[1](http://www.esp8266.com/viewforum.php?f=25)\],
+Ein [NodeMcu](https://nodemcu.com/index_en.html) wird via Arduino IDE
+\[[1](https://www.esp8266.com/viewforum.php?f=25)\],
 \[[2](https://github.com/esp8266/Arduino)\] mit ein paar Zeilen zur
 Abfrage eines Zeitservers programmiert
-([Quelle](http://www.arduinoclub.de/2016/05/07/arduino-ide-esp8266-ntp-server-timezone/)).
+([Quelle](https://www.arduinoclub.de/2016/05/07/arduino-ide-esp8266-ntp-server-timezone/)).
 Dazu ein
 [OLEDisplay](https://www.aliexpress.com/item/Free-Shipping-1Pcs-white-128X64-OLED-LCD-0-96-I2C-IIC-SPI-Serial-new-original/32389025950.html)
 damit man auch was Nettes anzuschauen hat, mit einer Lib. von Adafruit
 \[[1](https://github.com/adafruit/Adafruit_SSD1306)\],
 \[[2](https://github.com/adafruit/Adafruit-GFX-Library)\],
-\[[3](http://arduino-er.blogspot.de/2016/04/nodemcu-esp8266-to-display-on-128x64.html)\].
+\[[3](https://arduino-er.blogspot.de/2016/04/nodemcu-esp8266-to-display-on-128x64.html)\].
 Weil das Dimmen mit dem ESP bei mehr als zwei Kanälen [Flackern mit sich
 bringt](https://github.com/esp8266/Arduino/issues/836), habe ich als
 Workaround [WS2801 serielle

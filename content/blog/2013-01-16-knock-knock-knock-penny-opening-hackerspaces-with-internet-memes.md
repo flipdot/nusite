@@ -8,5 +8,5 @@ Member calls space lock with his cellphone. As the incoming call ist
 detected the controller rejects the call (Good old "ath"). Caller ID is
 checked against members list and lock is then waiting for the magic
 knocks. [See Wiki page for
-Details](https://web.archive.org/web/20111031013858/http://flipdot.org/wiki/index.php?title=Zugangssystem)
+Details](https://web.archive.org/web/20111031013858/https://flipdot.org/wiki/index.php?title=Zugangssystem)
 (german).

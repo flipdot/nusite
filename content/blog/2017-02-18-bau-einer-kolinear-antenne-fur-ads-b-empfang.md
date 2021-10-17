@@ -21,7 +21,7 @@ Empfangseigenschaften als bei einem einfachen Dipol.
 
 Mit einem DVB-T-Stick gibt es dann die Möglichkeit diese Sendesignale zu
 empfangen und via SDR (Software-Defined-Radio) anzuzeigen. Software:
-[1](http://osmocom.org/projects/sdr/wiki/rtl-sdr),
+[1](https://osmocom.org/projects/sdr/wiki/rtl-sdr),
 [2](https://github.com/steve-m/librtlsdr),
 [3](https://github.com/MalcolmRobb/dump1090),
 [4](https://aur.archlinux.org/packages/dump1090-git/).
@@ -29,7 +29,7 @@ empfangen und via SDR (Software-Defined-Radio) anzuzeigen. Software:
 **Materialien**
 
 - Koaxialkabel (SAT-Empfang überbleibsel) bspw. Typ:
-  \"[Koaxkabel](http://satco-europe.eu/de/Koaxkabel/Koaxkabel-KTH-94-100m-EasyBox2)
+  \"[Koaxkabel](https://satco-europe.eu/de/Koaxkabel/Koaxkabel-KTH-94-100m-EasyBox2)
   KTH 94\" Länge: \~2m 
 - Installationrohr (80ct aus dem Baumarkt) Länge: 2m
 - Heißklebepistole plus Schmelzkleber

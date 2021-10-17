@@ -41,5 +41,5 @@ Kleines Detail:
 
 Um einen festen Bezeichner für das USB Gerät zu erreichen, hier im
 Beispiel wurde "/dev/RS232_conv" gewählt, kann man nach [dieser
-Anleitung](http://rolfblijleven.blogspot.de/2015/02/howto-persistent-device-names-on.html)
+Anleitung](https://rolfblijleven.blogspot.de/2015/02/howto-persistent-device-names-on.html)
 vorgehen.

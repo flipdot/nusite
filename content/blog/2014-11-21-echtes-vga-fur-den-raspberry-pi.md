@@ -31,24 +31,24 @@ ohne Farbabgleich geht da natürlich nichts. In Echt \[TM\] isses
 besser)
 
 Verwendete Hardware: [VGA
-Buchse](http://www.reichelt.de/High-Density-Steckverbinder/HD-15FW/3//index.html?ACTION=3&GROUPID=3209&ARTICLE=8506&SEARCH=HD%2015FW%20&OFFSET=500&WKID=0&)
-([Belegung](http://www.theavguide.co.uk/view_page.php?page=18)), [B+
-Proto Board](http://www.watterott.com/de/RPi-Proto-HAT) und die
+Buchse](https://www.reichelt.de/High-Density-Steckverbinder/HD-15FW/3//index.html?ACTION=3&GROUPID=3209&ARTICLE=8506&SEARCH=HD%2015FW%20&OFFSET=500&WKID=0&)
+([Belegung](https://www.theavguide.co.uk/view_page.php?page=18)), [B+
+Proto Board](https://www.watterott.com/de/RPi-Proto-HAT) und die
 [geeigneten
-Widerstände](http://www.reichelt.de/1-4W-1-/2/index.html?&ACTION=2&LA=3&GROUPID=3074)
+Widerstände](https://www.reichelt.de/1-4W-1-/2/index.html?&ACTION=2&LA=3&GROUPID=3074)
 (1% Metallfilm)
 
 ![](/media/vgapi04.jpg)
 
 Die Installation ist super simpel: Ein File in die Bootpartition
 kopieren und ein Eintrag in der config.txt (Infos dazu von
-[hier](http://elinux.org/RPiconfig)):
+[hier](https://elinux.org/RPiconfig)):
 
 ```
 enable_dpi_lcd=1
 display_default_lcd=1
 
-# http://elinux.org/RPiconfig
+# https://elinux.org/RPiconfig
 # hdmi_mode=35 1280x1024 60 Hz
 # hdmi_mode=36 1280x1024 75 Hz
 # hdmi_mode=37 1280x1024 85 Hz

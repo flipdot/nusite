@@ -51,7 +51,7 @@ text "RELEASE". That'sall.
 
 Inzwischen gibt\'s eine Menge bezahlbarer TFTs für den Pi, zum Beispiel
 [das
-da](http://www.pollin.de/shop/dt/NTMwOTc4OTk-/Bauelemente_Bauteile/Aktive_Bauelemente/Displays/7_17_78_cm_Display_Set_mit_Touchscreen_LS_7T_HDMI_DVI_VGA_CVBS.html)
+da](https://www.pollin.de/shop/dt/NTMwOTc4OTk-/Bauelemente_Bauteile/Aktive_Bauelemente/Displays/7_17_78_cm_Display_Set_mit_Touchscreen_LS_7T_HDMI_DVI_VGA_CVBS.html)
 von Pollin. Die Touch-Controller verbraten immer einen USB-Port, von
 denen der Pi ja bloss zwei hat, und für den Textmodus auf der Konsole
 habe ich auch noch keinen Treiber gefunden - was soll man da als
@@ -71,7 +71,7 @@ Die Messwerte sendet der Controller ohne weitere Verarbeitung über die
 serielle Schnittstelle. Bei einem Fingerdruck kommt dann beispielsweise
 \"503,220\" mit 9600 bit/s. Macht man den Finger wieder weg, sendet der
 Controller ein \"RELEASE\". Das ist schon alles.
-[KISS](http://de.wikipedia.org/wiki/KISS-Prinzip).
+[KISS](https://de.wikipedia.org/wiki/KISS-Prinzip).
 
 im [touch.zip](/media/touch.zip "touch.zip") ist die Controller -
 Firmare in BASCOM, das entsprechende kompilierte HEX File, ein krudes

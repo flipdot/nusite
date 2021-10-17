@@ -83,4 +83,4 @@ wollt, Materialwunschliste anbei, Spendenquittung möglich\!
   - Bohrtisch
   - Heißdraht-Schneider
 
-[Kontakt hier](http://flipdot.org/blog//archives/13-Communication.html).
+[Kontakt hier](https://flipdot.org/blog//archives/13-Communication.html).
