@@ -105,5 +105,4 @@ Realität hinterher. Derzeit fehlen Dokus zu...
 - GSM Türschloss unten
 - SSH Türschloss oben
 
-Bitte [dokumentiere](https://flipdot.org/wiki/Dokumentation) dein Projekt oder auch
-die von anderen, wenn Sie nichts dagegen haben.
+Bitte dokumentiere dein Projekt oder auch die von anderen, wenn Sie nichts dagegen haben.
