@@ -231,7 +231,7 @@
     }
 
     #space-status-checkbox:checked ~ .space-status {
-        background: var(--light-yellow);
+        background: var(--flipdot-yellow);
     }
 
     #space-status-checkbox:not(:checked) ~ .space-status #space-status-tooltip {
