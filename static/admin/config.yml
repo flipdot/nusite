@@ -37,12 +37,12 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Permalink", name: "path", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-  #- name: "projects"
-  #  label: "Project"
-  #  folder: "content/projekte"
-  #  format: toml-frontmatter
-  #  create: true
-  #  slug: "{{slug}}"
-  #  fields:
-  #    - { label: "Title", name: "title", widget: "string" }
-  #    - { label: "Body", name: "body", widget: "markdown" }
+  - name: "projects"
+    label: "Project"
+    folder: "content/projekte"
+    format: toml-frontmatter
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
