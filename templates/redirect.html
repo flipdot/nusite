@@ -1,0 +1,7 @@
+<!doctype html>
+<meta charset="utf-8">
+{%- set redirect_url = config.base_url ~ page.extra.redirect_to -%}
+<link rel="canonical" href="{{ redirect_url | safe }}">
+<meta http-equiv="refresh" content="0; url={{ redirect_url | safe }}">
+<title>Redirect</title>
+<p><a href="{{ redirect_url | safe }}">Click here</a> to be redirected.</p>
