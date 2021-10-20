@@ -42,6 +42,10 @@ collections:
     folder: "content/projekte"
     format: toml-frontmatter
     create: true
+    nested:
+      depth: 8
+    meta:
+      path: { label: "Path", index_file: "index", widget: "string" }
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
