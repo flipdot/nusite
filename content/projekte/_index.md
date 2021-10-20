@@ -12,15 +12,15 @@ Bereits im Wiki dokumentierte Projekte:
 1. [Arduino](https://flipdot.org/wiki/Projekte/Arduino)
 1. [Arduino/Puls und Blut-Sauerstoff](https://flipdot.org/wiki/Projekte/Arduino/Puls%20und%20Blut-Sauerstoff)
 1. [CANberry](https://flipdot.org/wiki/Projekte/CANberry)
-1. [CNC Fräse](https://flipdot.org/wiki/Projekte/CNC%20Fräse)
-1. [CNC Fräse/Beschaffung](https://flipdot.org/wiki/Projekte/CNC%20Fräse/Beschaffung)
-1. [CNC Fräse/HowTo](https://flipdot.org/wiki/Projekte/CNC%20Fräse/HowTo)
-1. [CNC Fräse/Linkliste](https://flipdot.org/wiki/Projekte/CNC%20Fräse/Linkliste)
-1. [CNC Fräse/Logbuch](https://flipdot.org/wiki/Projekte/CNC%20Fräse/Logbuch)
-1. [CNC Fräse/Material](https://flipdot.org/wiki/Projekte/CNC%20Fräse/Material)
-1. [CNC Fräse/Platinenfraesen](https://flipdot.org/wiki/Projekte/CNC%20Fräse/Platinenfraesen)
-1. [CNC Fräse/Schnittwerte](https://flipdot.org/wiki/Projekte/CNC%20Fräse/Schnittwerte)
-1. [CNC Fräse/Scratchpad](https://flipdot.org/wiki/Projekte/CNC%20Fräse/Scratchpad)
+1. [CNC-Fräse](cnc-fräse/)
+1. [CNC-Fräse/Beschaffung](https://flipdot.org/wiki/Projekte/CNC%20Fräse/Beschaffung)
+1. [CNC-Fräse/HowTo](https://flipdot.org/wiki/Projekte/CNC%20Fräse/HowTo)
+1. [CNC-Fräse/Linkliste](https://flipdot.org/wiki/Projekte/CNC%20Fräse/Linkliste)
+1. [CNC-Fräse/Logbuch](https://flipdot.org/wiki/Projekte/CNC%20Fräse/Logbuch)
+1. [CNC-Fräse/Material](https://flipdot.org/wiki/Projekte/CNC%20Fräse/Material)
+1. [CNC-Fräse/Platinenfraesen](https://flipdot.org/wiki/Projekte/CNC%20Fräse/Platinenfraesen)
+1. [CNC-Fräse/Schnittwerte](https://flipdot.org/wiki/Projekte/CNC%20Fräse/Schnittwerte)
+1. [CNC-Fräse/Scratchpad](https://flipdot.org/wiki/Projekte/CNC%20Fräse/Scratchpad)
 1. [DMX](https://flipdot.org/wiki/Projekte/DMX)
 1. [Drinks Storage](https://flipdot.org/wiki/Projekte/Drinks%20Storage)
 1. [ESB](https://flipdot.org/wiki/Projekte/ESB)
@@ -70,10 +70,8 @@ Realität hinterher. Derzeit fehlen Dokus zu...
   - messtechnische Untersuchung von LED Lampen
   - Gegenstrom-Wärmetauscher
   - Funksteckdosen
-- [3D-Drucker](https://flipdot.org/wiki/3D-Drucker)
-  - Autobedleveling
-        <https://flipdot.org/wiki/Projekte/3D-Drucker/Autobedleveling>
-  - Umbauten
+- 3D-Drucker
+  - Umbautens
   - Filamenttrockner mit Molekularsieb
   - Doku der Druckprojekte
   - Testdrucke / Lessons Learned
@@ -87,7 +85,7 @@ Realität hinterher. Derzeit fehlen Dokus zu...
   - Feuerwerkssimulation auf dem Dach,
   - fd-Sign am Eingang
 - Innenbeblinkung:
-  - Member [FiWi](https://flipdot.org/wiki/FiWi) Stats mit Physik - Engine
+  - Member FiWi Stats mit Physik - Engine
   - Dual Uhr
   - 8x8 low res Projektor
   - MQTT Wabenlampe
