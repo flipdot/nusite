@@ -39,16 +39,16 @@ collections:
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Permalink", name: "path", widget: "string" }
       - { label: "Inhalt", name: "body", widget: "markdown" }
-  - name: "projects"
-    label: "Projekt"
-    folder: "content/projekte"
-    format: toml-frontmatter
-    create: true
-    nested:
-      depth: 8
-    meta:
-      path: { label: "Pfad", index_file: "index", widget: "string" }
-    slug: "{{slug}}"
-    fields:
-      - { label: "Titel", name: "title", widget: "string" }
-      - { label: "Inhalt", name: "body", widget: "markdown" }
+  #- name: "projects"
+  #  label: "Projekt"
+  #  folder: "content/projekte"
+  #  format: toml-frontmatter
+  #  create: true
+  #  nested:
+  #    depth: 8
+  #  meta:
+  #    path: { label: "Pfad", index_file: "index", widget: "string" }
+  #  slug: "{{slug}}"
+  #  fields:
+  #    - { label: "Titel", name: "title", widget: "string" }
+  #    - { label: "Inhalt", name: "body", widget: "markdown" }
