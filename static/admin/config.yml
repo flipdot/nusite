@@ -24,10 +24,10 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Datum", name: "date", widget: "datetime" }
       #- { label: "Summary", name: "summary", widget: "text", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Inhalt", name: "body", widget: "markdown" }
   # Our pages e.g. About
   - name: "pages"
     label: "Seite"
@@ -36,9 +36,9 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Titel", name: "title", widget: "string" }
       - { label: "Permalink", name: "path", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Inhalt", name: "body", widget: "markdown" }
   - name: "projects"
     label: "Projekt"
     folder: "content/projekte"
@@ -47,8 +47,8 @@ collections:
     nested:
       depth: 8
     meta:
-      path: { label: "Path", index_file: "index", widget: "string" }
+      path: { label: "Pfad", index_file: "index", widget: "string" }
     slug: "{{slug}}"
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Inhalt", name: "body", widget: "markdown" }
