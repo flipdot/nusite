@@ -1,3 +1,5 @@
+locale: 'de'
+
 backend:
   name: gitlab
   repo: flipdot/nusite
@@ -28,7 +30,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   # Our pages e.g. About
   - name: "pages"
-    label: "Page"
+    label: "Seite"
     folder: "content/pages"
     format: toml-frontmatter
     create: true
@@ -38,7 +40,7 @@ collections:
       - { label: "Permalink", name: "path", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "projects"
-    label: "Project"
+    label: "Projekt"
     folder: "content/projekte"
     format: toml-frontmatter
     create: true
