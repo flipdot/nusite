@@ -3,15 +3,17 @@ title = "Kontakt"
 path = "/kontakt/"
 +++
 
-## Coronavirus
-
-Aufgrund der aktuellen Situation findet unser üblicher offener Dienstag aktuell nicht statt, ebenso fallen bis auf weiteres auch alle öffentlichen Veranstaltungen flach. Interessierte können sich gerne bei uns via der unten aufgeführten Kontaktmöglichkeiten melden, wo wir uns aktuell, virtuell des öfteren treffen.
-
-<!-- Komm am besten an einem Dienstag ab 19 Uhr vorbei. Das ist unser *offener Tag*, an dem auch immer viele Member im Space sind. Wir freuen uns über jeden neuen Besuch, also keine falsche Scheu. Wenn du den Raum betrittst, passiert normalerweise: nichts. Wundere dich also nicht, sondern [sprich jemanden an](https://store-xkcd-com.myshopify.com/products/just-shy)!
+Komm am besten an einem Dienstag ab 19 Uhr vorbei. Das ist unser *offener Tag*,
+an dem auch immer viele Member im Space sind. Wir freuen uns über jeden neuen
+Besuch, also keine falsche Scheu. Wenn du den Raum betrittst, passiert
+normalerweise: nichts. Wundere dich also nicht, sondern
+[sprich jemanden an](https://store-xkcd-com.myshopify.com/products/just-shy)!
 
 Wenn du vorher mit uns Kontakt aufnehmen willst, melde dich einfach per Mail.
 
-Die Türklingeln funktionieren leider nicht immer. Falls unten die Tür zu sein sollte und nach mehrmaligem {!} Klingeln keiner öffnet, kannst du uns eine Mail senden, im IRC schreiben oder das Spacetelefon anrufen. -->
+Die Türklingeln funktionieren leider nicht immer. Falls unten die Tür zu sein
+sollte und nach mehrmaligem {!} Klingeln keiner öffnet, kannst du uns eine Mail
+senden, in Matrix schreiben oder das Spacetelefon anrufen.
 
 ## Details
 
