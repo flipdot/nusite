@@ -71,20 +71,19 @@ main {
 }
 
 .post-header {
-    display: flex;
-}
+    display: relative;
 
-.post-header time {
-    font-family: 'OpenSans';
-    font-size: 1rem;
-    color: var(--text-grey);
+    h1 {
+        margin-bottom: 1em;
+    }
 
-    float: right;
-    height: 100%;
-    display: flex;
-    align-items: flex-end;
-    shape-outside: inset(calc(100% - 1rem) 0 0);
+    time {
+        font-family: 'OpenSans';
+        font-size: 1rem;
+        color: var(--text-grey);
 
-    padding-left: .75em;
-    padding-bottom: .52rem;
+        position: absolute;
+        right: 0;
+        bottom: -1.5rem;
+    }
 }
