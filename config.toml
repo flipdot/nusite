@@ -12,6 +12,10 @@ highlight_theme = "visual-studio-dark"
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
+# RSS feed
+generate_feed = true
+feed_filename = "rss.xml"
+
 [slugify]
 paths = "safe"
 taxonomies = "safe"
@@ -50,7 +54,7 @@ href = "/satzung/"
 
 [[extra.ext_nav]]
 title = "RSS feed"
-href = "/rss/"
+href = "/rss.xml"
 icon_classes = "fas fa-rss"
 
 [[extra.ext_nav]]
