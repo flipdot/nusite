@@ -1,0 +1,24 @@
+.public-transport {
+    display: inline-block;
+    color: #fff;
+    text-align: center;
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 11.62px;
+
+    padding: 2px 4px;
+    min-width: 28px;
+    white-space: nowrap;
+
+    &.tram {
+        background-color: rgb(193,0,31);
+    }
+    &.regional-train {
+        background-color: rgb(86, 147, 135);
+    }
+    &.bus {
+        background-color: rgb(117,22,115);
+        border-radius: 15px;
+    }
+}

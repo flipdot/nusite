@@ -26,20 +26,25 @@ Die Türklingeln funktionieren leider nicht immer. Falls unten die Tür zu sein 
 [mumble-details]: /mumble/
 
 ## Anfahrt
+`Franz-Ulrich-Straße 18a`, 34117 Kassel
 
-Franz-Ulrich-Straße 18a, 34117 Kassel
+Koordinaten: `51.318205, 9.484854` oder direkt zu [Open Street Map][osm] bzw. [Google Maps][gmaps].
 
-Koordinaten: 51.318205, 9.484854 oder direkt zu [Open Street Map][osm] bzw. [Google Maps][gmaps].
+Ja, du musst wirklich so weit nach hinten durch gehen. Schau dir am Besten den Ort auf einem Map-Dienst an.
 
-ÖPNV: Haltestelle Hauptbahnhof Kassel (nicht am nur eine Station entfernt liegenden Bahnhof Wilhelmshöhe)
+### ÖPNV
+Unsere Haltestelleist der **`Hauptbahnhof`** Kassel (**nicht** am nur eine Station entfernt liegenden Bahnhof Wilhelmshöhe). Bei uns halten:
+* Straßenbahnen: <b class="public-transport tram">RT1</b> <b class="public-transport tram">RT4</b> <b class="public-transport tram">RT5</b>
+* Busse: <b class="public-transport bus">10</b> <b class="public-transport bus">16</b> <b class="public-transport bus">17</b> <b class="public-transport bus">32</b> <b class="public-transport bus">37</b> <b class="public-transport bus">52</b> <b class="public-transport bus">100</b> <b class="public-transport bus">500</b>
+* Regionalbahnen: <b class="public-transport regional-train">RB5</b> <b class="public-transport regional-train">RE7</b> <b class="public-transport regional-train">RE83</b> <b class="public-transport regional-train">RE30</b> <b class="public-transport regional-train">RE98</b> und vermutlich noch ein paar mehr...
 
-* Straßenbahn RT1, RT4, RT5
-* Bus 10, 16, 17, 32, 37, 52, 100, 500 
+Du kannst auch mit einer <b class="public-transport tram">7</b> zum `Scheidemannplatz` fahren und von dort zu Fuß zu uns gelangen.
 
-Zu Fuß:
-
+### Zu Fuß
 * Links vom Hauptbahnhof auf den Parkplatz
-* Der Eingang zum Space liegt im Hof der "Nachrichtenmeisterei" 
+* Der Eingang zum Space liegt im Hof der "Nachrichtenmeisterei"
 
 [osm]: https://www.openstreetmap.org/node/1716494567/
 [gmaps]: https://www.google.de/maps/place/Flipdot+Hackerspace+Kassel/@51.318212,9.4826443,17z/data=!3m1!4b1!4m5!3m4!1s0x47bb3f3569c83b53:0x6bb77c6ef1794ed2!8m2!3d51.318212!4d9.484833
+
+In Kassel gibt es auch den [Nextbike-Fahrradverleih](https://www.nextbike.de/de/kassel/), welcher auch am Hauptbahnhof eine Abstelltation hat.
