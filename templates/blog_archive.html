@@ -1,0 +1,26 @@
+{% extends "skel.html" %}
+{% block html_title %}Blog-Archiv | flipdot.org{% endblock html_title %}
+{% block head_extra %}
+<link rel="stylesheet" href="/css/blog-archive.css">
+{% endblock head_extra %}
+{% block content %}
+<div>
+<h1 class="page-title">Blog-Archiv</h1>
+{% set section = get_section(path="blog/_index.md") %}
+
+{% for year, posts in section.pages | group_by(attribute="year") %}
+<h2>{{ year }}</h2>
+<ul class="blog-archive">
+{% for post in posts %}
+    {% set iso_date = post.date | date(format = '%Y-%m-%d') %}
+    <li>
+        <div>
+            <a href="{{ post.permalink | safe }}">{{ post.title }}</a>
+            <time datetime="{{ iso_date }}">{{ iso_date }}</time>
+        </div>
+    </li>
+{% endfor %}
+</ul>
+{% endfor %}
+</div>
+{% endblock content %}

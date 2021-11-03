@@ -1,0 +1,13 @@
+.blog-archive {
+    li div {
+        display: flex;
+        justify-content: space-between;
+
+        padding: 0 .5em;
+        text-indent: -.5em;
+    }
+
+    time {
+        color: var(--text-grey);
+    }
+}
