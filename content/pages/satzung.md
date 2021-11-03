@@ -8,7 +8,7 @@ template = "pages/satzung.html"
 
 <div class="satzung">
 
-Beschlossen am 19.4.2020
+Beschlossen am 19.04.2020
 
 § 01 Name, Sitz, Rechtsfähigkeit, Geschäftsjahr
 
