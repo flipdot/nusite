@@ -50,7 +50,7 @@ Ja, du musst wirklich so weit nach hinten durch gehen. Schau dir am Besten den O
 
 ### ÖPNV
 
-Unsere Haltestelle ist der **`Hauptbahnhof`** Kassel (**nicht** am nur eine
+Unsere Haltestelle ist der **Hauptbahnhof** Kassel (*nicht* der eine
 Zug-Station entfernt liegenden Bahnhof Wilhelmshöhe). Bei uns halten:
 
 * Straßenbahnen:
@@ -75,7 +75,7 @@ Zug-Station entfernt liegenden Bahnhof Wilhelmshöhe). Bei uns halten:
   und vermutlich noch ein paar mehr...
 
 Du kannst auch mit einer <b class="public-transport tram">7</b> zum
-`Scheidemannplatz` fahren und von dort zu Fuß zu uns gelangen.
+**Scheidemannplatz** fahren und von dort zu Fuß zu uns gelangen.
 
 ### Zu Fuß
 
