@@ -12,11 +12,8 @@ Besuch, also keine falsche Scheu. Wenn du den Raum betrittst, passiert
 normalerweise: nichts. Wundere dich also nicht, sondern
 [sprich jemanden an](https://store-xkcd-com.myshopify.com/products/just-shy)!
 
-Wenn du vorher mit uns Kontakt aufnehmen willst, melde dich einfach per Mail.
-
-Die Türklingeln funktionieren leider nicht immer. Falls unten die Tür zu sein
-sollte und nach mehrmaligem {!} Klingeln keiner öffnet, kannst du uns eine Mail
-senden, in Matrix schreiben oder das Spacetelefon anrufen.
+Wenn du vorher mit uns Kontakt aufnehmen willst, melde dich einfach per Mail
+oder in in unserem [Matrix-Chatraum][matrix].
 
 ## Details
 
@@ -32,7 +29,7 @@ senden, in Matrix schreiben oder das Spacetelefon anrufen.
 
 ## Anfahrt
 
-Adresse:
+![Anfahrt](/media/kontakt_map.png)
 
 ```
 Franz-Ulrich-Straße 18
@@ -40,10 +37,6 @@ Franz-Ulrich-Straße 18
 ```
 
 Koordinaten: `51.318205, 9.484854` oder direkt zu [Open Street Map][osm] bzw. [Google Maps][gmaps].
-
-![Anfahrt](/media/kontakt_map.png)
-
-Ja, du musst wirklich so weit nach hinten durch gehen. Schau dir am Besten den Ort auf einem Map-Dienst an.
 
 [osm]: https://www.openstreetmap.org/node/1716494567/
 [gmaps]: https://www.google.de/maps/place/Flipdot+Hackerspace+Kassel/@51.318212,9.4826443,17z/data=!3m1!4b1!4m5!3m4!1s0x47bb3f3569c83b53:0x6bb77c6ef1794ed2!8m2!3d51.318212!4d9.484833
@@ -80,7 +73,7 @@ Du kannst auch mit einer <b class="public-transport tram">7</b> zum
 ### Zu Fuß
 
 * Links vom Hauptbahnhof auf den Parkplatz
-* Der Eingang zum Space liegt im Hof der "Nachrichtenmeisterei"
+* Der Eingang zum Space liegt im Hinterhof der "Nachrichtenmeisterei"
 
 In Kassel gibt es auch den [Nextbike-Fahrradverleih](https://www.nextbike.de/de/kassel/),
 welcher auch am Hauptbahnhof eine Abstellstation hat.
