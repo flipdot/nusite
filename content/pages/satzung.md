@@ -139,8 +139,8 @@ Die Mitgliederversammlung
 2. Dem Kassenwart obliegt die Führung von Aufzeichnungen über Ausgaben und
    Einnahmen des Vereins.
 3. Jedes Vorstandsmitglied ist ermächtigt, für den Verein im Außenverhältnis
-   Rechtsgeschäfte bis zu einem Wert von 500 € abzuschließen.
-   Der Vorstand ist ermächtigt, Rechtsgeschäfte bis zu einem Wert von 2000 €
+   Rechtsgeschäfte bis zu einem Wert von 500 € abzuschließen.
+   Der Vorstand ist ermächtigt, Rechtsgeschäfte bis zu einem Wert von 2000 €
    abzuschließen.
    Über diesen Wert hinaus ist ein Beschluss der Mitgliederversammlung gemäß
    § 9 Abs. 4 und Abs. 5 erforderlich.

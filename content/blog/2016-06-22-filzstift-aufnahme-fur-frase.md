@@ -8,4 +8,4 @@ path = "/blog/2016/06/22/filzstift-aufnahme-fur-frase"
 
 [![](/media/plotter2.serendipityThumb.jpg)](/media/plotter2.jpg)
 
-Linearführung aus CDROM-Laufwerk, Multiplex-Platte (8mm) und Spax.
+Linearführung aus CDROM-Laufwerk, Multiplex-Platte (8 mm) und Spax.

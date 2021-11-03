@@ -8,5 +8,5 @@ Radio = synchrones Medium = irgendwie letztes Jahrtausend,
 nichtsdesdotrotz unterhalten sich **heute um 18:00 Uhr** in der
 "Freisprechanlage" im Freien Radio Kassel emzy, Ruben und Hel\* vom
 flipdot hackerspace kassel mit Martin Reuter und Gertrud Salm vom Radio.
-Empfang auf **UKW 105,8 MHz**, Kabel 97,8 MHz, und etwas später
+Empfang auf **UKW 105,8 MHz**, Kabel 97,8 MHz, und etwas später
 natürlich hier zum Download.

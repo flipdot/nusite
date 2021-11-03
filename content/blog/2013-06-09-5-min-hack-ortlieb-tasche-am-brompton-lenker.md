@@ -12,7 +12,7 @@ eine Ortlieb - Packtasche am Lenker.
 
 ![](/media/ortl01.jpg)
 
-Material: 8 mm - Rundmaterial (Hier Messing weil vorhanden) passend für
+Material: 8 mm - Rundmaterial (Hier Messing weil vorhanden) passend für
 die Ortlieb - Aufnahmen, Kabelbinder, zwei Schnappschellen für
 Installationsrohr (was der Elektrolurch halt so im Keller hat)
 

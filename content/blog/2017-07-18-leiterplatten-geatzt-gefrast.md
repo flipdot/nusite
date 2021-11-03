@@ -9,7 +9,7 @@ mit Tonerverdichter. Bungard Basismaterial belichtet in umgebautem
 Scanner, entwickelt mit Natriumhydroxid, geätzt mit Natriumpersulfat.
 
 Zwei diagonal gegenüberliegende Passbohrungen in der geätzten Platine
-mit 3 mm, Passfräsungen in der MDF-Opferplatte mit 2,5 mm.
+mit 3 mm, Passfräsungen in der MDF-Opferplatte mit 2,5 mm.
 Platinenbefestigung mit M3 Schrauben.
 
 [![](/media/20170716_193339.serendipityThumb.jpg)](/media/20170716_193339.jpg)

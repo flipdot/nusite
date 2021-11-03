@@ -34,7 +34,7 @@ damit man auch was Nettes anzuschauen hat, mit einer Lib. von Adafruit
 Weil das Dimmen mit dem ESP bei mehr als zwei Kanälen [Flackern mit sich
 bringt](https://github.com/esp8266/Arduino/issues/836), habe ich als
 Workaround [WS2801 serielle
-LED](https://shop.led-studien.de/de/pixel-digital-dmx/pixel-ketten/rgb-pixel-50x50mm-inkl.-wannen-kabel)
+LED](https://shop.led-studien.de/de/pixel-digital-dmx/pixel-ketten/rgb-pixel-50x50 mm-inkl.-wannen-kabel)
 eingesetzt, die ich von einem [alten
 Projekt](https://www.youtube.com/watch?v=7NMdgT00_4U) noch übrig hatte.
 

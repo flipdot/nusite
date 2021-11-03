@@ -21,7 +21,7 @@ Von einem namenhaften Hersteller, gibt es ein System das irgendwas mit
 Urlaub und sorgenfrei heisst. Ok... das ganze kann für maximal 36
 Pflanzen eingesetzt werden und ist pro Tag einmal schaltbar und zwar
 genau zu dem Zeitpunkt, zu dem man den Stecker des Controllers
-einsteckt. Es ist weder veränder-, noch erweiterbar und soll rund 120€
+einsteckt. Es ist weder veränder-, noch erweiterbar und soll rund 120 €
 kosten. Das war nicht so ganz meine Welt.
 Da ich noch nie groß gebastelt hatte und Elektronik schon immer für
 etwas geheimnisvolles hielt. Besser gesagt, Eingeweihte mir wie

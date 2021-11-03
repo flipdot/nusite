@@ -7,6 +7,6 @@ path = "/blog/2013/04/21/dauerinstallation"
 ![](/media/raspi-dauer.jpg)
 
 Der Raspberry aktualisiert den Space-Status im Blog und auf Twitter
-(demnächst auch per mail) und schaltet per 433 MHz - ISM - Funk
+(demnächst auch per mail) und schaltet per 433 MHz - ISM - Funk
 Steckdosen im Space ein, sobald aufgeschlossen wurde (und beim Verlassen
 automatisch wieder ab)

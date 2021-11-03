@@ -9,7 +9,7 @@ path = "/blog/2018/01/19/wegnehmen-kann-jeder-hinzufugen-konnen-wir-additive-fer
 [![](/media/IMG_20180117_12263901.serendipityThumb.jpg)](/media/IMG_20180117_12263901.jpg)
 
 Der flipdot hat auch einen 3-D Drucker zu bieten.  
-Er kann größere Teile bis ca 210x210x210mm drucken.
+Er kann größere Teile bis ca 210x210x210 mm drucken.
 
 Im Bild ein Teil eines Selbstbau-Wärmetauschers.  
 https://ytec3d.com/3dp-heat-exchanger/

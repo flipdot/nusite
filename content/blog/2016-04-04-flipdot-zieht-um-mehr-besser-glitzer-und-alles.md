@@ -4,7 +4,7 @@ date = 2016-04-04T16:06:00Z
 author = "typ_o"
 path = "/blog/2016/04/04/flipdot-zieht-um-mehr-besser-glitzer-und-alles"
 +++
-Wir verlassen die 25 m² in der Chassalla Fabrik in der Sickingenstraße,
+Wir verlassen die 25 m² in der Chassalla Fabrik in der Sickingenstraße,
 und haben jetzt neue Räume im "Kulturbahnhof", Franz-Ulrich-Straße 18.
 
 [![](/media/anfahrt.serendipityThumb.png)](/media/anfahrt.png)

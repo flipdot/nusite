@@ -37,7 +37,7 @@ Dann noch etwas Controller-FooBar, und fertig ist der Druckkopf.
 
 ![](/media/alles.jpg)
 
-Buchstabenhöhe soll ca. 90 cm sein, gedruckt wird auf
+Buchstabenhöhe soll ca. 90 cm sein, gedruckt wird auf
 Zeitungs-Auslaufrollen oder auf die Straße.
 
 \[Helmut\]

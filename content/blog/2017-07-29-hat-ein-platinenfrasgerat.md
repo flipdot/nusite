@@ -12,8 +12,8 @@ Doppelseitige Platine für SMD-Bauteile und Buchsen/Stecker.
 
 Hier:
 
-- kleinste Bohrung 0,8 mm  
-- kleinste Leiterbahnbreite 0,6 mm, bei genauer Einstellung geht es
+- kleinste Bohrung 0,8 mm  
+- kleinste Leiterbahnbreite 0,6 mm, bei genauer Einstellung geht es
 
 noch feiner.
 

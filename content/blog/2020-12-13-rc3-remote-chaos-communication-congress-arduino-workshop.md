@@ -17,7 +17,7 @@ Mikrocontrollern des
 
 - Keine Elektronik- oder Programmierkenntnisse nötig
 - Du brauchst einen Rechner mit USB Schnittstelle
-- Workshop-Material wird leihweise gegen 100 € Pfand bereit gestellt
+- Workshop-Material wird leihweise gegen 100 € Pfand bereit gestellt
 (Eigene Arduinos natürlich auch möglich), der Workshop selbst ist
 kostenfrei.
 - max. 15 Teilnehmer:innen mit unserem Material, dazu TN mit eigenen

@@ -38,17 +38,15 @@ Innenansicht der Solarlampe
 Der PIR Sensor läuft wie ursprünglich auch im Hellen immer mit.
 Das Signal wird nur nicht weitergeleitet solange es hell ist.
 
-Der Strahler bleibt entsprechend länger an, wenn sich während der 30s
+Der Strahler bleibt entsprechend länger an, wenn sich während der 30 s
 etwas bewegt.
 Der Sensor retriggert den Timer.
 
 Man kann diesen Strahler auch wunderbar als Microcontrollerzuhause
 mißbrauchen.
-Z.B. Atmegas (Arduino) laufen oft von 3 bis 5V ohne weitere Probleme.
+Z.B. Atmegas (Arduino) laufen oft von 3 bis 5 V ohne weitere Probleme.
 
-Modell 2, Solarpanel 5V 80mA, 6 SMD-LEDs Li-Ionen-Akku, 3,7 V, 800 mAh,
-Dauerlicht (10--20 lm) bei Dunkelheit (80 lm) für 30 Sek. bei
+Modell 2, Solarpanel 5 V 80 mA, 6 SMD-LEDs Li-Ionen-Akku, 3,7 V, 800 mAh,
+Dauerlicht (10--20 lm) bei Dunkelheit (80 lm) für 30 Sek. bei
 Bewegungsmelder. z.B
 https://weltderangebote.de/aldi-nord-solar-treppenstrahler/ ,
-
-

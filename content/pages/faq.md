@@ -139,7 +139,7 @@ flipdot weiter und sicherer zu finanzieren.
 
 ## Und was kostet das für mich als Mitglied?
 
-Bei der Gründung war unser Beitrag 36 € monatlich, womit wir genug Geld für den Aufbau gesammelt
+Bei der Gründung war unser Beitrag 36 € monatlich, womit wir genug Geld für den Aufbau gesammelt
 haben. Inzwischen haben wir den Beitrag auf 23 € im Monat gesenkt. Wenn du dir das nicht leisten
 kannst, zahlst du auf Antrag nur 10 €.
 

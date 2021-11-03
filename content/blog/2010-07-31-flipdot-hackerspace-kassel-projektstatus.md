@@ -38,7 +38,7 @@ Fritz macht Licht haben bereits Hilfen zugesagt. Wir freuen uns über die
 vielen guten Materialien, jetzt fehlt noch eine dauerhafte Finanzierung
 der Räumlichkeiten.
 
-Mit der Anmietung der 150 m² für den space haben wir uns mutig aus dem
+Mit der Anmietung der 150 m² für den space haben wir uns mutig aus dem
 Fenster gelehnt, in der Hoffnung, innerhalb eines halben Jahres genug
 Menschen beisammen zu haben, die Lust auf einen unabhängigen und freien
 Ort zum Coden, Reden, Löten, Schrauben und Planen haben - und denen das

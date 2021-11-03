@@ -12,7 +12,7 @@ Werkstückhälfte ganz durch das Werkstück und fast ganz durch die
 Opferplatte bohren.
 
 Nach dem Wenden lässt sich das Werkstück dann z.B. mit zwei Bohrern als
-Bolzen vor dem Spannen ausrichten. Wenn man 6 mm Bohrungen brauchen
+Bolzen vor dem Spannen ausrichten. Wenn man 6 mm Bohrungen brauchen
 kann, dann eignen sich die Bolzen von Ikea-Ivar-Regalen ganz
 hervorragend. Doch, da sind noch welche bei dir im Keller, in diesem
 Marmeladenglas hinten in dem Regal da\!

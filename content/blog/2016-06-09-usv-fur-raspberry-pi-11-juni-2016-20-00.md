@@ -28,6 +28,6 @@ sich selbst und den Pi.
 [![](/media/usv-supply2.serendipityThumb.jpg)](/media/usv-supply2.jpg)
 
 [Reichelt-Warenkorb](https://www.reichelt.de/my/1222447) für Bauteile
-und Akku (18,60 €). Den
+und Akku (18,60 €). Den
 [Schaltregler](https://www.dx.com/p/lm2596-digital-display-adjustable-step-down-voltage-regulator-module-dark-blue-360654)
-gibts bei DX (2,63 €).
+gibts bei DX (2,63 €).

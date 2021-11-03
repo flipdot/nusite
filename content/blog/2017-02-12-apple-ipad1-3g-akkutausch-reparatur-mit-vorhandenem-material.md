@@ -8,7 +8,7 @@ Problem war folgendes: Freund von mir hat sein iPad1-3G vor einigen
 Wochen beim Aufräumen wiedergefunden, Akku komplett leer (lag halt
 einige Jahre unbenutzt umher). Hat nicht mehr gebootet (boot-loop, also
 kurz an, dann wieder aus, dann wieder an, dann wieder aus usw). Ursache:
-Beide LiPo Zellen waren bloaty...und hatten 0V Zellspannung.
+Beide LiPo Zellen waren bloaty...und hatten 0 V Zellspannung.
 
 Reparaturziel: iPad soll (zumindest bei Netzbetrieb) wieder benutzbar
 sein \[mal davon ab, dass heute eigentlich jedes Billo Android-Tablet

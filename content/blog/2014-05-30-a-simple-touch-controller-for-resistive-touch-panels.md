@@ -58,7 +58,7 @@ habe ich auch noch keinen Treiber gefunden - was soll man da als
 Text-Interface-Fan machen? Selber.
 
 Der Controller legt zuerst die Anschlüsse der X-Widerstandsfläche an
-+3,3V und Masse, und guckt dann, ob auf einer der Y-Leitungen was kommt.
++3,3 V und Masse, und guckt dann, ob auf einer der Y-Leitungen was kommt.
 Das ist immer dann der Fall, wenn durch einen Findgerdruck sich die
 beiden Folien berühren. Ohne Druck ist die Y-Folie offen. Damit ich
 diesen Fall sauber erkennen kann, wird der A/D - Eingang vom Controller

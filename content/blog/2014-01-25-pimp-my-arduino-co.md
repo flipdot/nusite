@@ -15,7 +15,7 @@ Die Zutaten
 
 Arduino Pro Mini oder auch anderes Board, das die Anschlüsse am Rand der
 Platine hat. In meinem Fall z.B. ein Arduino-kompatibles Wattuino Pro
-Mini, 5V @ 16MHz.
+Mini, 5 V @ 16 MHz.
 
 - 28 dreipolige Stiftleisten
 - 1 sechspolige Stiftleiste
@@ -58,7 +58,7 @@ angeschlossenen Sensoren etc. die Vin Spannung auch vertragen.
 ![](/media/Wattuino-Con-Mod8.jpg)
 
 Eine weitere Konfiguration, die noch möglich ist, dass man das Board
-extern versorgen möchte, allerdings auf der Vcc Schiene die 5V anliegen
+extern versorgen möchte, allerdings auf der Vcc Schiene die 5 V anliegen
 sollen. Hier hat es ganz gut gepasst, dass der GND Pin direkt neben dem
 Vin Pin liegt. Also hier die externe Versorgung anschließen und den
 Jumper bei Vcc setzen.

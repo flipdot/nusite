@@ -16,7 +16,7 @@ gab.
 
 Infrastructure Review
 
-\- Pizzaproduktions - Evaluation 147 Stück, 28 kg Mehl =\> 43,5 kg
+\- Pizzaproduktions - Evaluation 147 Stück, 28 kg Mehl =\> 43,5 kg
 Teig  
-\- Dickstrom-Verbrauch (annähernd) 23 kWh  
+\- Dickstrom-Verbrauch (annähernd) 23 kWh  
 \- Besucherzahlen vemutlich zwischen 40 bis 50

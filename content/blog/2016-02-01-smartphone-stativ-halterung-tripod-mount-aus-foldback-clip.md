@@ -7,8 +7,8 @@ path = "/blog/2016/02/01/smartphone-stativ-halterung-tripod-mount-aus-foldback-c
 ![](/media/cam-stativ.jpg)
 
 Material:  
-\- Foldback Clip 32 mm x 15 mm  
-\- Multiplex 9,5 mm (Siebdruckplatte o.ä.)  
+\- Foldback Clip 32 mm x 15 mm  
+\- Multiplex 9,5 mm (Siebdruckplatte o.ä.)  
 \- 1/4 Zoll Mutter  
 \- Schrumpfschlauch
 
@@ -19,7 +19,7 @@ Federstahls schwierig).
 
 Das Holzklötzchen fräsen.
 [smartphone-halter00.dxf](/media/smartphone-halter00.dxf "smartphone-halter00.dxf").
-Der G-Code ist für einen 3 mm Fräser:
+Der G-Code ist für einen 3 mm Fräser:
 [smartphone-halter00.nc](/media/smartphone-halter00.nc "smartphone-halter00.nc").
 Und hier noch das [Estlcam](https://www.estlcam.com/) - File dazu:
 [smartphone-halter00.e25](/media/smartphone-halter00.e25 "smartphone-halter00.e25").

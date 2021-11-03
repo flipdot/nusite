@@ -13,7 +13,7 @@ Die Luftfahrzeuge bestimmen selbständig ihre Position, z.B. via GPS. Die
 Position und andere Flugdaten, wie Flugnummer, Flugzeugtyp, Zeitsignal,
 Geschwindigkeit, Flughöhe und geplante Flugrichtung werden
 kontinuierlich – typischerweise einmal pro Sekunde – ungerichtet auf
-1090 MHz abgestrahlt.
+1090 MHz abgestrahlt.
 
 Diese Anleitung beschreibt den Bau eines Rundstrahlers (Der hier als
 Empfangsantenne eingesetzt wird) mit Antennengewinn - also besseren
@@ -29,9 +29,9 @@ empfangen und via SDR (Software-Defined-Radio) anzuzeigen. Software:
 **Materialien**
 
 - Koaxialkabel (SAT-Empfang überbleibsel) bspw. Typ:
-  \"[Koaxkabel](https://satco-europe.eu/de/Koaxkabel/Koaxkabel-KTH-94-100m-EasyBox2)
-  KTH 94\" Länge: \~2m 
-- Installationrohr (80ct aus dem Baumarkt) Länge: 2m
+  \"[Koaxkabel](https://satco-europe.eu/de/Koaxkabel/Koaxkabel-KTH-94-100 m-EasyBox2)
+  KTH 94\" Länge: \~2 m 
+- Installationrohr (80ct aus dem Baumarkt) Länge: 2 m
 - Heißklebepistole plus Schmelzkleber
 - Geeignete Anschlussbuchse, hier Koaxial-Stecker plus evtl. Adapter
 - DVB-T-Dongle mit RTL2838U-Chip entsprechendem Tuner wie E4000,
@@ -61,26 +61,26 @@ abgeschnitten und bleibt offen.
 [![](/media/antennen_schema.serendipityThumb.png)](/media/antennen_schema.png).
 
 2) Ein wenig Mathematik zum Einstieg. Die Wellenlänge \[lambda\] ist
-gleich Lichtgeschwindigkeit c durch Frequenz f (hier 1090MHz). Die reale
+gleich Lichtgeschwindigkeit c durch Frequenz f (hier 1090 MHz). Die reale
 Länge L unserer Koax-Stücke ist noch um einen Verkürzungsfaktor kleiner
 (Der Faktor steht in der Kabelspezifikation des Koax-Kabels, bei mir
-0.8). So erhielt ich eine Länge von etwa L=110mm pro Koax-Stück.
+0.8). So erhielt ich eine Länge von etwa L=110 mm pro Koax-Stück.
 
 3) Herstellen der Koax-Stücke: Vom Koaxkabel Stücke von der Länge L aus
-Schritt zwei abschneiden, mit einer Zugabe von etwa 4 cm, denn die Seele
-soll unter dem Mantel auf jeder seite etwa 2cm herausschauen, wobei der
+Schritt zwei abschneiden, mit einer Zugabe von etwa 4 cm, denn die Seele
+soll unter dem Mantel auf jeder seite etwa 2 cm herausschauen, wobei der
 unbeschädigte Mantel eine Länge von L haben sollte. Also acht Stücke zu
-15cm abschneiden.
+15 cm abschneiden.
 
 4) Abisolieren der Seele: Auf jeder Seite der zugeschnittenen Stücke
-etwa 2cm lang alles bis auf den Leiter der Seele entfernen, also äußere
-Schutzhülle, dann Mantel und Dielektrikum abschneiden, so dass \~2cm der
+etwa 2 cm lang alles bis auf den Leiter der Seele entfernen, also äußere
+Schutzhülle, dann Mantel und Dielektrikum abschneiden, so dass \~2 cm der
 Seele auf beiden Seiten steht.
 
 [![](/media/antennen_vermessung.serendipityThumb.png)](/media/antennen_vermessung.png)
 
 Entscheidend ist die Länge des Mantel-Drahtgeflechtes, also bei uns die
-11cm.
+11 cm.
 
 5) Herstellung der Verbindung zwischen Seelen und Mantel der
 benachbarten Glieder: Zuerst ein Stück Isolierband auf die erste Seele
@@ -150,7 +150,7 @@ entsprechenden Mäntel mit den zugehörigen Seelen verlötet werden
 
 [![](/media/3782.serendipityThumb.jpg)](/media/3782.jpg)
 
-- Mit einem Verstärker, der entsprechend für 1090MHz ausgelegt ist, kann
+- Mit einem Verstärker, der entsprechend für 1090 MHz ausgelegt ist, kann
 noch mehr aus dem Signal geholt werden.
 - variation der Anzahl der verbauten Glieder (Anmerkung: es muss jedoch
 eine gerade Anzahl an Gliedern sein)
