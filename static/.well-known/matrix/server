@@ -1,3 +1,3 @@
 {
-    "m.server": "matrix.flipdot.org:443"
+    "m.server": "matrix.flipdot.org:8448"
 }
