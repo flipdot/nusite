@@ -25,4 +25,4 @@ amtliche hackerspace - location unter der Erde ;)
 
 > **Edit:** wir haben uns gegen den Raum entschieden, weil das letzte
 > Angebot dann doch gut 400 EUR monatliche Kosten bedeutet hätte - und
-> das war uns schlicht zu viel\!
+> das war uns schlicht zu viel!

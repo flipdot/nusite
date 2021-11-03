@@ -8,4 +8,4 @@ path = "/blog/2015/07/30/wacken-woodstock-pah-cccamp-2015"
 
 flipdot fährt mit ca. 12 Leuten zum Camp und ist mit einem gemeinsamen
 Zelt in der eigenen Village vertreten. Wir haben schon gemeinsam
-Eurokisten bestellt zum Packen\!
+Eurokisten bestellt zum Packen!

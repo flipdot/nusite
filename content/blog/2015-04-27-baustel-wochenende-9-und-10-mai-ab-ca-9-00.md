@@ -14,7 +14,7 @@ gehts rein.
 Was ist ein Baustelwochenende?
 
 Jeder der Lust hat, bringt was mit und arbeitet daran - und dann:
-Fragen, über die Schulter gucken und mitmachen\! **Eintritt frei.**
+Fragen, über die Schulter gucken und mitmachen! **Eintritt frei.**
 
 Bis jetzt gibt es:
 

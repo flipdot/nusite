@@ -10,7 +10,7 @@ das Netz
 
 [![](/media/schild.serendipityThumb.jpg)](/media/schild.jpg)Gestern
 haben wir den geborgten Router an das vorhandene Netz der Werkstätten
-nebenan angeschlossen (Wlan geht sogar im Arkadas\!), dreckige Möbel
+nebenan angeschlossen (Wlan geht sogar im Arkadas!), dreckige Möbel
 geputzt, die Spülmaschine ist angeschlossen und spült, unser flipdot
 Logo ist auf den orangenen Würfel am Eingang geklebt (Klebefolie von
 Pfannkuch & Laserdrucker). Die Deckenlampen sind jetzt per Lan zu

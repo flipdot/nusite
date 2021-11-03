@@ -19,7 +19,7 @@ trägt sich als Workshoptrainer oder als Redner eines Vortrags ein - also
 alles sehr locker und hämdsärmelig.
 
 Inhaltlich geht es vom Aufbau einfacher Bausätze (Du hast einen
-Lötkolben? Bring ihn mit\!) über die Grundlagen der
+Lötkolben? Bring ihn mit!) über die Grundlagen der
 Mikrocontrollertechnik (Wie schließe ich eine Leuchtdiode und einen
 Taster an) bis zu einer Übersicht über die gängigen Programmiergeräte
 und Entwicklungssysteme (naturlich wird der beliebte Arduino nicht
@@ -38,4 +38,4 @@ Im kunsTTempel vom Freitag, 19.2.2010 18:00 (Aufbau) bis Sonntag Abend
 ;) Allervorläufigstes Programm
 [hier](https://flipdot.org/wiki/index.php?title=Ideen/WorkshopAngebote).
 
-Ach so: Kostet nichts, Spende willkommen\!
+Ach so: Kostet nichts, Spende willkommen!

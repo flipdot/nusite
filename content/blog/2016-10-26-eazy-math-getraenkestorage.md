@@ -5,7 +5,7 @@ author = "typ_o"
 path = "/blog/2016/10/26/eazy-math-getraenkestorage"
 +++
 Ein Haufen Kisten in der Ecke, halb voll, halb leer? Das geht besser,
-wir haben eine CNC Fräse\!
+wir haben eine CNC Fräse!
 
 [![](/media/DSC_6639.serendipityThumb.JPG)](/media/DSC_6639.JPG)
 

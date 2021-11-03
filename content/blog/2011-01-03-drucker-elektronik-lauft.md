@@ -9,7 +9,7 @@ und Servotreiber sind fertig, kleinere Probleme mit der Stromversorgung
 (Störungen und Verlustleistung) werden heute noch gelöst, die
 Controllersoftware steht als frühe Betaversion. Morgen beim
 flipdot-Treffen erster Test der Mechanik für X-, Y- und Z-Achse: Wir
-malen einzelne Pixel\! Wer als Softwerker was beitragen möchte und sich
+malen einzelne Pixel! Wer als Softwerker was beitragen möchte und sich
 der Fragestellung widmen möchte "Bitmap öffnen und Farbwerte über die
 serielle Schnittstelle einzeln rausschicken" - herzlich willkommen im
-Team\!
+Team!

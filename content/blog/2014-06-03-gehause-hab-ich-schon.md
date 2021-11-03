@@ -5,7 +5,7 @@ author = "typ_o"
 path = "/blog/2014/06/03/gehause-hab-ich-schon"
 +++
 Flipdot member \[dino\]s schicke Lösung für ein Gehäuse für das AVR EVA
-Board: Bauteilkistchen\!
+Board: Bauteilkistchen!
 
 [![](/media/avr1.serendipityThumb.jpg)](/media/avr1.jpg)
 

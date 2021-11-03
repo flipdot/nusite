@@ -6,4 +6,4 @@ path = "/blog/2015/02/17/mitgliederversammlung-heute-2015-02-17-19-00-offen-fur-
 +++
 19:00 Uhr im Restaurant Arkadas direkt bei den flipdot - Räumen in der
 Sickingenstrasse 10 (Innenhof), 34117 Kassel. Wir freuen uns über
-Gäste\!
+Gäste!

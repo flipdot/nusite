@@ -6,7 +6,7 @@ path = "/blog/2017/04/09/workshop-messer-schleifen"
 +++
 [![](/media/messerschleifen.serendipityThumb.jpg)](/media/messerschleifen.jpg)
 
-Vielen Dank an **Mikola** für den Workshop\!
+Vielen Dank an **Mikola** für den Workshop!
 
 Quelle von allerlei Werkzeug, Messern und Schleifsteinen:
 [Dictum](https://www.dictum.com/de/)

@@ -7,7 +7,7 @@ path = "/blog/2016/05/18/neue-raume-fast-schon-wieder-zu-klein"
 Praktisch jeden Tag sind jetzt Mitglieder in den neuen Räumen zugange.
 Praktisch jeden Tag werden neue Ideen bebrütet und neue Installationen
 fertig. Gestern, am offenen Dienstag, waren mehr neue Besucher da denn
-je. Der Umzug hat sich gelohnt, und alle (alle? alle\!) sind von den
+je. Der Umzug hat sich gelohnt, und alle (alle? alle!) sind von den
 neuen Räumen begeistert.
 
 [![](/media/000_0.serendipityThumb.jpg)](/media/000_0.jpg)

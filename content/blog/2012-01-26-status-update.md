@@ -8,7 +8,7 @@ Aleksej und Burkhard (und Heribert?) haben die Decke gestrichen und
 Fußleisten angeschliffen. Beim Bodenbelag fiel die Entscheidung für
 Entfernung weil buckelig und echt fertig, dabei kam diese Interessante
 Abdeckung zum Vorschein. "Sollen wir das mal aufschrauben?" - Na klar
-sollen wir das mal aufschrauben\!
+sollen wir das mal aufschrauben!
 
 ![](/media/beide.jpg)
 

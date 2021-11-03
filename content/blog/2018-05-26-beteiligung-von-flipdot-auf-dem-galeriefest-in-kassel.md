@@ -9,7 +9,7 @@ Kassel 2018](https://galerien-kassel.de/) gearbeitet.
 
 Der Realitätstranslator läßt dich in ein Paralleluniversum reisen, wo du
 den Platz mit deinem Doppelgänger tauscht und du dich über all die
-merkwürdigen Menschen dort wundern kannst - allesamt Doppelgänger\!
+merkwürdigen Menschen dort wundern kannst - allesamt Doppelgänger!
 
 ![](/media/translator1.serendipityThumb.jpg)
 

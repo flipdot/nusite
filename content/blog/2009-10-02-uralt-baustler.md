@@ -6,7 +6,7 @@ path = "/blog/2009/10/02/uralt-baustler"
 +++
 Die Herkünfte von [Hackerspaces](https://wiki.hackerspaces.org/) und
 [Baustlern](https://bausteln.de/) liegen nicht nur im Do It Yourself und
-Eisenbahn-Modellbau, ein Würzelchen ist auch Graswurzel(\!)-und
+Eisenbahn-Modellbau, ein Würzelchen ist auch Graswurzel(!)-und
 Selbstversorger-Bewegung. Ein [Artikel der
 taz](https://www.taz.de/1/archiv/print-archiv/printressorts/digi-artikel/?ressort=ku&dig=2009%2F09%2F28%2Fa0013&cHash=0f14ba5673)
 portraitiert Christian Kuhtz, den Autor der Heftserie [Einfälle statt

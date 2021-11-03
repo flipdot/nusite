@@ -20,6 +20,6 @@ das ganze so interessant machen.
 
 Edit: Der letzte Schritt, das zusetzen der Hefe, konnte leider nicht bei
 uns im Space gemacht werden, sondern musste aus rechtlichen Gründen bei
-unserem Fachmann zu Hause vorgenommen werden. Schade\!
+unserem Fachmann zu Hause vorgenommen werden. Schade!
 
 ![](/media/br2.serendipityThumb.jpg)

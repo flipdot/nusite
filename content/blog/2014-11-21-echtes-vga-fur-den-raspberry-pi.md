@@ -17,7 +17,7 @@ deswegen fehlen leider sowohl I2C als auch die serielle Schnittstelle.
 Obwohl Gert van Loo [in seiner Doku](https://github.com/fenlogic/vga666)
 zu dieser Erweiterung schreibt "If you look  
 very closely there is a slight pixel crawl", sehe ich da nichts -
-einwandfreies Bild\!
+einwandfreies Bild!
 
 ![](/media/vgapi00.serendipityThumb.jpg)
 

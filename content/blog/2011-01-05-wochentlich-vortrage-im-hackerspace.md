@@ -5,7 +5,7 @@ author = "Sebastian Löser"
 path = "/blog/2011/01/05/wochentlich-vortrage-im-hackerspace"
 +++
 Hi,  
-wir fangen endlich an\! Ab dem 25.01.2011 wollen wir jeden Di um
+wir fangen endlich an! Ab dem 25.01.2011 wollen wir jeden Di um
 ungefähr 20:00 einen Vortrag anbieten.  
 Den Anfang macht Dominic(Ric0) am 25.01.2011 mit "Einführung in die
 Programmiersprache C".  

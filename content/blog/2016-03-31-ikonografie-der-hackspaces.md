@@ -11,4 +11,4 @@ Salzburg: "[Ikonografie der Hackspaces - Über Zahnräder und andere
 Dinge](https://media.ccc.de/v/eh16-50-ikonografie_der_hackspaces)".
 ([Fahrplan](https://fahrplan.eh16.easterhegg.eu/events/50.html))  
 Edit: [Hackorama](https://hackorama.ck.si/) ist natürlich das zu dem
-Talk gehörende Webprojekt\!
+Talk gehörende Webprojekt!

@@ -9,7 +9,7 @@ Hauptbahnhof Kassel](/kontakt/)
 (Nachrichtenmeisterei neben Interim).
 
 Kommt vorbei und scannt euch einen Tschunk auf der geilsten Party der
-Stadt\! Tanzt zur Austellung der schönsten futurologischen
+Stadt! Tanzt zur Austellung der schönsten futurologischen
 Errungenschaften aus dem Blinkenlights-Experimentalfeld. Bringt eure
 Kinder mit am Nachmittag und lerne haxxen: "Der Computer ist eine
 subversive Maschine: Ein Freund des Volkes und  

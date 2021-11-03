@@ -12,4 +12,4 @@ Unsere Bar-Ecke ist fertig. Ein Stapel Spind-Schließfächer auf die Seite
 gelegt, und als Arbeitsflächen und Umkleidung Multiplex-Sperrholz. Wir
 haben die gleich mal eingeweiht mit jeder Menge Rechnern drauf.
 Spezial-Dank an Jürgen für perfekte 3D-Konstruktion, Fertigung und
-Aufbau\!
+Aufbau!

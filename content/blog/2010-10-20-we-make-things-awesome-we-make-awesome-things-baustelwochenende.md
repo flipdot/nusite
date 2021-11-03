@@ -20,6 +20,6 @@ Nähere Infos zum Projekt findet man im
 [Wiki](https://web.archive.org/web/20120105031721/https://flipdot.org/wiki/index.php?title=Hallo!) und hier im Blog.
 Wir werden u.A: an embedded Webservern arbeiten, das Projekt Blinkenglow
 weitertreiben, die Raumbeleuchtung fernsteuern, Pizza backen, Club Mate
-trinken und uns unterhalten. Worüber? Über Technik\!  
+trinken und uns unterhalten. Worüber? Über Technik!  
 Schon mal gucken? [Slideshow
-hier\!](/media/slideshows/offtuer2010-06/)
+hier!](/media/slideshows/offtuer2010-06/)

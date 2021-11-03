@@ -11,9 +11,9 @@ haben. Laptop mitbringen ist empfohlen, aber nicht notwendig.
 
 Übersicht zum Talk:
 
-\- Recap: Layouts mit float und position: absolute  
-\- display: flex to the rescue\!  
-\- Demo / Übung: Flexbox Froggy  
-\- HowTo: Sticky Footer mit Flexbox
+- Recap: Layouts mit float und position: absolute
+- display: flex to the rescue!
+- Demo / Übung: Flexbox Froggy
+- HowTo: Sticky Footer mit Flexbox
 
 ![](/media/boxes2.serendipityThumb.jpg)

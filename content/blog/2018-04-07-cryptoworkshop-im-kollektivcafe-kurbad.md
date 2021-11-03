@@ -42,9 +42,9 @@ Magazin.](https://www.heise.de/ct/artikel/Einfach-erklaert-E-Mail-Verschluesselu
 Vielen Dank an der Stelle nochmal an die interessierten Teilnehmer sowie
 an das [Kollektivcafé Kurbad](https://www.kurbad-jungborn.de/cafe.htm)
 für die Ausrichtung der Veranstaltungsreihe und Bereitstellung der
-Räumlichkeiten\!
+Räumlichkeiten!
 
 Großes Interesse bestand auch am Thema Festplattenverschlüsselung. Wie
 das geht, werden wir im Rahmen unserer Veranstaltung
 [HackWat](https://flipdot.org/wiki/HackWat) thematisieren. Jeder ist
-herzlich eingeladen\!
+herzlich eingeladen!

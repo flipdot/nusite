@@ -16,4 +16,4 @@ Rampe zum Philosphenweg hinuntergeht. Nach 10 m ist links die Tür.
 Danach haben wir im [San
 Marino](https://www.kassel-essentrinken.de/kunden/gastro/KS/st/sanmarino/vk.html)
 (Beste Pizzeria Kassles) 12 Plätze reserviert. Interessierte
-willkommen\!
+willkommen!

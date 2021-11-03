@@ -16,11 +16,11 @@ lassen, dass man nie auslernt.
 Der Australier [Ian Fieggen](https://www.fieggen.com/ "Ian Fieggen") hat
 sich ausgiebig mit dem Thema befasst und dokumentiert seine Erfindungen
 auf einer speziellen Website. Komplett mit iPhone/iPad-App. Nur über das
-Binden und Knoten von Schnürsenkeln... Thats f\*\*\*\*ng awsome\!  
+Binden und Knoten von Schnürsenkeln... Thats f\*\*\*\*ng awsome!  
 Besonders hervorzuheben ist der [Ian Knot (Ian's Fast Shoelace
 Knot)](https://www.fieggen.com/shoelace/ianknot.htm "Ian Knot")  
 ![](https://www.fieggen.com/shoelace/IanKnot16.gif)  
 Diese grandiose Erfindung spart mir jeden Tag mit Sicherheit 2-3
 Sekunden meiner Lebenszeit. Das sind ca. 18 Minuten im Jahr und bei ein
 geschätzen Restlebenszeit von 60 Jahren ca. 18 Stunden zusätzliche
-Lebenszeit. Danke Ian\!
+Lebenszeit. Danke Ian!

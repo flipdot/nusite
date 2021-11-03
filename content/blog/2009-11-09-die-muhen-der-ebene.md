@@ -16,4 +16,4 @@ raus sein.
 Alle Gespräche mit Firmen, Stadt und anderen möglichen Unterstützern
 sind bisher sehr positiv verlaufen. Weiter gehts Dienstag abend
 [hier](https://flipdot.org/blog/archives/47-Ab-jetzt-immer-Dienstags.html).
-Mach mit\! Bau auf\! ;)
+Mach mit! Bau auf! ;)

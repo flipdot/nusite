@@ -13,6 +13,6 @@ für die Überarbeitung), einen vorläufigen Flyer, und gerade schreiben
 einem vorläufigen Konzeptpapier, das Menschen von der Stadt und dem
 womöglichen Vermieter vorgelegt werden soll für vorläufige Gedanken
 hinsichtlich Fördermöglichkeiten. Und was ist denn schon fest? Kassel
-wird in Kürze einen Hackerspace haben\! (Vorgehensweise frei nach "[The
+wird in Kürze einen Hackerspace haben! (Vorgehensweise frei nach "[The
 Cult of Done
 Manifesto](https://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html)")

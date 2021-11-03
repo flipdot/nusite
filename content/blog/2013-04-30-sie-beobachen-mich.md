@@ -17,4 +17,4 @@ wolltest du nicht schon längst deine Platte mit
 
 Ganz in unserer Nähe war übrigens grade die
 [cryptocon](https://sublab.org/cryptocon13), im sublab in Leipzig.
-(Extrem nette Leute da\!).
+(Extrem nette Leute da!).

@@ -19,7 +19,7 @@ Documents", The Supreme Council, Washington.
 [![](/media/nrol-39-mission-patch.serendipityThumb.jpg)](/media/nrol-39-mission-patch.jpg)[![](/media/tumblr_lu0gq2iYy21qaxtrf1.serendipityThumb.jpg)](/media/tumblr_lu0gq2iYy21qaxtrf1.jpg)
 
 Die anderen Mission patches sind auch nicht ohne, please be sure to wear
-your tinfoil hat\!
+your tinfoil hat!
 
 [![](/media/Lacrosse4_L_patch.serendipityThumb.jpg)](/media/Lacrosse4_L_patch.jpg)[![](/media/NRO_L11_missionpatch.serendipityThumb.jpg)](/media/NRO_L11_missionpatch.jpg)
 

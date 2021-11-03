@@ -9,4 +9,4 @@ Software-Entwickler, bevor er anfing, seine Techno-Thriller zu
 schreiben. Seinen Debütroman "DAEMON" gibt es gerade als
 [Hörspiel](https://www.einslive.de/sendungen/plan_b/krimi/2013/daemon/130408_inhalt.jsp)
 bei den öffentlich rechtlichen. Schnell runterladen, bevor
-depubliziert\!
+depubliziert!

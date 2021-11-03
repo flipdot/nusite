@@ -6,7 +6,7 @@ path = "/blog/2014/03/18/touchcontrol4space"
 +++
 Unser RaspberryPi mit Touchscreen ist fast fertig, Touch-Treiber läuft,
 Auflösung wurde angepasst und Touchscreen kalibriert. Bald wird also
-alles im Space von unserem Touch-Cockpit aus gesteuert\! Cool\!
+alles im Space von unserem Touch-Cockpit aus gesteuert! Cool!
 
 [![](/media/WP_20140318_004.jpg)](/media/WP_20140318_004.jpg "Zum Bild")
 

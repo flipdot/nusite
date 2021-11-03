@@ -9,4 +9,4 @@ path = "/blog/2014/12/19/round-robin-swap-wg-jahresendzeitfest"
 Nächsten Dienstag, 23.12.: Jeder bringt Bebastelbares mit, was er zu
 viel hat / mehrfacht hat / was schon lange rumliegt aber doch kein
 Projekt wird, Bauteile, Gerät(chen), als Gehäuse geeignetes, Dickstrom,
-Dünnstrom. Das tauschen wir dann kreuz und quer\!
+Dünnstrom. Das tauschen wir dann kreuz und quer!

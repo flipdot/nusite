@@ -16,6 +16,6 @@ an, unterhalten uns darüber, bausteln an unseren Projekten weiter und
 kochen was leckeres.
 
 So ca. ab Mittag sind unsere Türen geöffnet. Ihr seht rechts oben auf
-dieser Seite sobald geöffnet ist. Seid willkommen\! Eintritt frei.
+dieser Seite sobald geöffnet ist. Seid willkommen! Eintritt frei.
 
 [![](/media/33c3.serendipityThumb.jpg)](/media/33c3.jpg)

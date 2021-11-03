@@ -11,4 +11,4 @@ geschickt:
 
 Beim nächsten Bausteln gibts jede Menge Experimente - und ich bin
 sicher, dass sich der eine oder andere Experimentierkasten sehr gut für
-Modifikationen eignet\!
+Modifikationen eignet!

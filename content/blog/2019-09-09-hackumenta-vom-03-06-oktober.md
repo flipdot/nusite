@@ -13,7 +13,7 @@ Chaos Computer Club Erfahrungsaustauschkreis.**
 Wir sind knapp 60 Mitglieder zwischen 14 und 64 Jahren. Jeder ist
 willkommen, unabhängig von Interessen und Fähigkeiten. Wenn du Interesse
 an Technik, Bausteln, Hacken oder Coden hast, gerne Fragen stellst und
-beantwortest, sei willkommen\!
+beantwortest, sei willkommen!
 
 Wir laden Dich ein, uns zu unserer Veranstaltung Hackumenta – 10 Years
 in Space zu besuchen. Hier kannst du unseren Space besichtigen,
@@ -24,4 +24,4 @@ Projekte](/projekte/) besichtigen.
 Mehr Informationen unter [0xa.flipdot.org](https://2019.hackumenta.de/)
 
 Übrigens: Wenn dir der Flyer nicht gefällt, [generier' dir halt 'nen
-Neuen\!](https://flipdot.github.io/0xA-flyer-generator/)
+Neuen!](https://flipdot.github.io/0xA-flyer-generator/)

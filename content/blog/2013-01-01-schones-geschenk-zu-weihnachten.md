@@ -10,4 +10,4 @@ path = "/blog/2013/01/01/schones-geschenk-zu-weihnachten"
 ![](/media/Weihnachtsfrau4.jpeg)
 
 Und noch eine Menge anderes Material, Prüfschnüre, Kabelrechen,
-Bauteile. Ganz herzlichen Dank an die Spenderin\!
+Bauteile. Ganz herzlichen Dank an die Spenderin!

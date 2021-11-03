@@ -4,7 +4,7 @@ date = 2010-01-18T19:54:00Z
 author = "typ_o"
 path = "/blog/2010/01/18/was-braucht-man-als-erstes"
 +++
-Schwarze T - Shirts und Kaputzenshirts\!  
+Schwarze T - Shirts und Kaputzenshirts!
 
 [![](/media/sw_mit_logo.serendipityThumb.jpg)](/media/sw_mit_logo.jpg)
 

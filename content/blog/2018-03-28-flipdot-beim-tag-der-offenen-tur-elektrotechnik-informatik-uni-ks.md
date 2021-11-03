@@ -10,4 +10,4 @@ Fachbereichs Elektrotechnik / Informatik der Uni Kassel vertreten.
 Wann: 12.04.2018 ab 14:30 Uhr  
 Wo: Wilhelmshöher Allee 71-73, 34121 Kassel
 
-kommt uns besuchen, und schaut euch an, was wir so machen\!
+kommt uns besuchen, und schaut euch an, was wir so machen!

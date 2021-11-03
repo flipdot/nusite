@@ -68,7 +68,7 @@ Transportfahrten optimieren / minimieren kann, jedoch fehlen uns hier
 noch gute Ansätze$1
 
 $2ber weitere Ideen zur Auswertung der Daten / Informationsgewinnung /
-Ansätze für maschinelle Lernverfahren freuen wir uns\!
+Ansätze für maschinelle Lernverfahren freuen wir uns!
 
 Alle hier gezeigten Grafiken wurden mit der Datenbasis vom 25.03. -
 14.04.2017 erstellt.

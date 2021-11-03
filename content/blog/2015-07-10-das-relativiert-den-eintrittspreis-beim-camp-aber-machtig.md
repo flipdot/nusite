@@ -9,5 +9,5 @@ auch ein lustiges Badge in Form einer Platine gab, die lustig blinken
 oder piepen konnte ist nicht neu. Was mich aber echt umgehauen hat: Beim
 CCC Camp in diesem Jahr ist das Badge [ein komplettes, funktionsfähiges
 Software Defined Radio](https://rad1o.badge.events.ccc.de/) - und zwar
-nicht nur ein Empfänger, sondern ein (halbduplex) Transceiver\!
-Wooooha\!
+nicht nur ein Empfänger, sondern ein (halbduplex) Transceiver!
+Wooooha!

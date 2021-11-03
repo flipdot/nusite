@@ -4,11 +4,11 @@ date = 2016-11-21T14:49:28Z
 author = "typ_o"
 path = "/blog/2016/11/21/update-pizzaprogrammiernacht-25-27-november"
 +++
-Hallo $Besucher der PPN\!
+Hallo $Besucher der PPN!
 
 Hier noch ein paar Infos zur PizzaProgrammierNacht:
 
-[Fahrplan](https://flipdot.org/wiki/PPN/Fahrplan) ist online\!
+[Fahrplan](https://flipdot.org/wiki/PPN/Fahrplan) ist online!
 
 Wir planen einen kleinen freiwilligen Show & Tell Part. Ohne Bühne und
 Mikro, einfach 30 Sekunden darüber, was dich interessiert, was du gerade

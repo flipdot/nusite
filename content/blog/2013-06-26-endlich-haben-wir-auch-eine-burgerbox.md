@@ -6,4 +6,4 @@ path = "/blog/2013/06/26/endlich-haben-wir-auch-eine-burgerbox"
 +++
 [![](/media/bndkl.jpg)](/media/bndgr.jpg)
 
-Sicherheit durch Kenntnisnahme\!
+Sicherheit durch Kenntnisnahme!

@@ -6,9 +6,9 @@ path = "/blog/2020/01/27/public-debating-des-starlink-3-launch"
 +++
 ![Hispasat 30W-6 Mission by SpaceX on
 flickr](https://live.staticflickr.com/4753/25790223907_9ea3e63180_w.jpg)  
-**Weltraum Nerds (nichtmehr) aufgepasst\!**  
+**Weltraum Nerds (nichtmehr) aufgepasst!**  
 Der Start wurde nochmal verschoben. Über deinen Besuch unseres Offenen
-Abends freuen wir uns trotzdem\!  
+Abends freuen wir uns trotzdem!  
 
 > Standing down today due to strong upper level winds. Next launch
 > opportunity is tomorrow at 9:28 a.m. EST, or 14:28 UTC.
@@ -33,4 +33,4 @@ von etwa 500 km drücken und dabei etwa fünf Minuten über unsere Köpfe
 ziehen.
 
 Ausserdem erwarten dich wie jeden Dienstag interresante und
-interresierte Menschen, sowie kalte Getränke. Wir freuen uns auf dich\!
+interresierte Menschen, sowie kalte Getränke. Wir freuen uns auf dich!

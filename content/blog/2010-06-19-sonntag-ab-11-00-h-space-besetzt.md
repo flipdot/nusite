@@ -5,4 +5,4 @@ author = "typ_o"
 path = "/blog/2010/06/19/sonntag-ab-11-00-h-space-besetzt"
 +++
 flipdot-o-bot montage, Küche holen, Vorbereitung Tag der offenen Tür &
-was jeder will. Guests welcome\!
+was jeder will. Guests welcome!

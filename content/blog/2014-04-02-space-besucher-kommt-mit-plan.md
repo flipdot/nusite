@@ -6,4 +6,4 @@ path = "/blog/2014/04/02/space-besucher-kommt-mit-plan"
 +++
 ![](/media/der_plan.jpg)
 
-Ich liebe solche Zeichnungen\!
+Ich liebe solche Zeichnungen!

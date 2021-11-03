@@ -6,7 +6,7 @@ path = "/blog/2015/02/04/keller-ausraumen-denn-die-frase-kommt"
 +++
 Am Samstag, [2015-02-07](https://xkcd.com/1179/), 10:00, räumen wir
 unseren Keller aus - wer Dinge vor dem Schrott retten will, ist
-willkommen\!
+willkommen!
 
 ![](/media/eschrott.jpg)
 

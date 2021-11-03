@@ -7,7 +7,7 @@ path = "/blog/2013/09/20/sdr-online"
 [Software Defined
 Radio](https://de.wikipedia.org/wiki/Software_Defined_Radio) online
 hören, eine [Installation](https://websdr.ewi.utwente.nl:8901/) der
-[University of Twente](https://www.utwente.nl/). Meist sind ca. 150 (\!)
+[University of Twente](https://www.utwente.nl/). Meist sind ca. 150 (!)
 Hörer auf der Maschine. Im Chatfenster gehts oft um
 [Zahlensender](https://de.wikipedia.org/wiki/Zahlensender).
 

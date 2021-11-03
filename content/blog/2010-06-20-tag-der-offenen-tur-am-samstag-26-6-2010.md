@@ -16,4 +16,4 @@ plant neue Dinge. Wer eine gute Gelegenheit sucht, sich den Hackerspace
 mal eben so anzugucken, findet diese am Samstag. Im Hof gibts auch
 Verpflegung. Die [Einladung als
 pdf](/media/opendoor1.pdf). Bitte in euren
-Kreisen verteilen\!
+Kreisen verteilen!

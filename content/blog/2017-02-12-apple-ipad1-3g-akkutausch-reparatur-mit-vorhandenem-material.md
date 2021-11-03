@@ -14,8 +14,8 @@ Reparaturziel: iPad soll (zumindest bei Netzbetrieb) wieder benutzbar
 sein \[mal davon ab, dass heute eigentlich jedes Billo Android-Tablet
 bessere Hardwarespecs hat als der alte Apfel da\].
 
-Weitere Vorgehensweise (teilweise nicht zur Nachahmung empfohlen\!):  
-iPad aufhebeln (ja, das hier war noch nicht geklebt\!), dabei trotz
+Weitere Vorgehensweise (teilweise nicht zur Nachahmung empfohlen!):  
+iPad aufhebeln (ja, das hier war noch nicht geklebt!), dabei trotz
 ifixit-Bilderbuch gefühlt die Hälfte der Halteclips abbrechen und das
 Gehäuse zerkratzen. Stellt sich raus, dass 'nen großer Metallspachtel
 doch nicht so gut zum iPad-Öffnen gedacht ist.

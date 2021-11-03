@@ -30,6 +30,6 @@ dort laufende Anwendung ist unter
 
 Die Seite kann auch von Zuhause über
 [flipdot.wegenerd.de](https://flipdot.wegenerd.de) aufgerufen werden.
-Viel Spaß damit\!
+Viel Spaß damit!
 
 ![](https://i.imgur.com/vQmSDus.png)

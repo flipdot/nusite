@@ -17,4 +17,4 @@ Gang).
 Wenn du Probleme hast, den Raum zu finden: Mail an com {kringeldings}
 flipdot {punkt} org
 
-Edit: Diese Meldung ist nicht mehr aktuell, da [~~neuer Raum~~](#) gefunden\!
+Edit: Diese Meldung ist nicht mehr aktuell, da [~~neuer Raum~~](#) gefunden!

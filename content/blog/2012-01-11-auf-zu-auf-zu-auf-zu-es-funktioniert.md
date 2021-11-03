@@ -10,4 +10,4 @@ natürlich gleich wieder ein Problem bemerkt: Elektrische Öffnung und mit
 dem Schlüssel betätigter Riegel blockieren sich in einer bestimmten
 Position des Öffnermotors - d.h.: Fällt der Strom aus, kommt man auch
 nicht mehr rein. Was für ein langer Weg zu einem funktionierenden
-Produkt\!
+Produkt!

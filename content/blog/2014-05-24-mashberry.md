@@ -6,7 +6,7 @@ path = "/blog/2014/05/24/mashberry"
 +++
 fd member \[Sebastian\] hat seinen
 [MashBerry](https://sebastian-duell.de/mashberry/index.html) fertig -
-Raspberry Pi gesteuerte Bierfertigung\! Chapeau\!
+Raspberry Pi gesteuerte Bierfertigung! Chapeau!
 
 [![](/media/MashingIn.serendipityThumb.JPG)](/media/MashingIn.JPG)
 

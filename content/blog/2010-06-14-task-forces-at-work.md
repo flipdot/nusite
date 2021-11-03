@@ -15,8 +15,8 @@ von Sponsoren, Inbetriebnahme der geschenkten Rechner, Weiterentwicklung
 der Web-Steuerung für die Beleuchtung, und vieles mehr.
 
 **Wenn du Interesse am Hackerspace hast komm dazu, guck die die Räume an
-und was wir dort machen\!** Wenn ihr Sachen habt, die ihr loswerden
-wollt, Materialwunschliste anbei, Spendenquittung möglich\!
+und was wir dort machen!** Wenn ihr Sachen habt, die ihr loswerden
+wollt, Materialwunschliste anbei, Spendenquittung möglich!
 
 ## Geräte
 

@@ -6,7 +6,7 @@ path = "/blog/2017/11/09/geplanter-staatstrojaner-in-hessen-gefahrdet-it-sicherh
 +++
 Im Bundesland Hessen soll ein Gesetz die geheimdienstliche Ausweitung
 der Nutzung von  
-Staatstrojanern erlauben. Wir fordern: Kein Staatstrojaner für Hessen\!
+Staatstrojanern erlauben. Wir fordern: Kein Staatstrojaner für Hessen!
 
 Der von den Fraktionen der CDU und Bündnis90/Die Grünen im Hessischen
 Landtag vorgelegte „[Gesetzesentwurf zur Neuausrichtung des

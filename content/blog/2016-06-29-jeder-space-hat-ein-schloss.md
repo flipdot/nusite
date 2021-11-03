@@ -4,7 +4,7 @@ date = 2016-06-29T20:47:07Z
 author = "typ_o"
 path = "/blog/2016/06/29/jeder-space-hat-ein-schloss"
 +++
-Irgendein Schloss? Natürlich nicht\! Elektronisch, sicher, Schlüssel
+Irgendein Schloss? Natürlich nicht! Elektronisch, sicher, Schlüssel
 leicht zurückzuziehen, Datensparsam usf.
 
 Unsere

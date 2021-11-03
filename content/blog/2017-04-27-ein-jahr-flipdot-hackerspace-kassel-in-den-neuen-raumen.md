@@ -10,4 +10,4 @@ Hackplätze, Küche, Kino- und Vortragsraum. Spaß am Gerät im
 CCC-ERFA-Kassel flipdot e.V. - gemeinsam löten, fräsen, hacken, coden,
 bausteln, diskutieren, lernen, kochen und essen. Jeden Dienstag offen
 für Gäste und Besucher: [Komm
-vorbei](/kontakt/)\!
+vorbei](/kontakt/)!

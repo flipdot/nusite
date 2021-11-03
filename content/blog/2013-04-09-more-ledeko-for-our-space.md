@@ -14,6 +14,6 @@ Die Idee kam mir auf dem Easterhegg in Paderborn, da gabs hinter einer
 Wandverkleidung mit tausend Löchern ein paar LED, die prima
 rüberkamen...
 
-Die Blende ist aus Pertinax (ahh, der Geruch\!) und auf der CNC-Fräse
+Die Blende ist aus Pertinax (ahh, der Geruch!) und auf der CNC-Fräse
 geschnitten. (Allerdings noch nicht auf der aus dem Space, die wird erst
 kommenden Samstag konstruiert)
