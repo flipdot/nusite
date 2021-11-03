@@ -18,9 +18,9 @@ This text will be replaced
 
 Typische Aktivitäten in einem Hackerspace sind
 
-\- Lernen und Wissen teilen  
-\- Präsentationen und Vorführungen  
-\- Soziale Aktivitäten, Partys, Spiele
+- Lernen und Wissen teilen
+- Präsentationen und Vorführungen
+- Soziale Aktivitäten, Partys, Spiele
 
 Der Hackerspace stellt hier die Infrastruktur bereit. Das ist meist
 Strom, ein Internetzugang, Netzwerkverbindungen, Räume, Werkzeug und

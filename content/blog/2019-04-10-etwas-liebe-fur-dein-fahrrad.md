@@ -8,9 +8,9 @@ path = "/blog/2019/04/10/etwas-liebe-fur-dein-fahrrad"
 
 Wir machen gemeinsam unsere Räder fit für die Saison:
 
-\- Putzen  
-\- Flicken  
-\- Reparieren
+- Putzen
+- Flicken
+- Reparieren
 
 Werkzeug und Material ist vorhanden.
 

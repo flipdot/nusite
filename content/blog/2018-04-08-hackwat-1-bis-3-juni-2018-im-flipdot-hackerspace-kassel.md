@@ -10,17 +10,15 @@ path = "/blog/2018/04/08/hackwat-1-bis-3-juni-2018-im-flipdot-hackerspace-kassel
 
 Drei Tage lang ist der Hackerspace geöffnet.
 
-\- Workshops und Vorträge (Elektronik, Praxis-Schwerpunkt
-Verschlüsselung von Dateien und Mail, und vieles mehr)  
-\- Werkstätten kennen lernen (Elektronik und Mechanik, Infos zur CNC
-Fräse und 3D Druck)  
-\- Projekte ansehen (Automatisches Getränke- Bestellsystem, Internet of
-Dings,  
- \&nbspBlinkenlights, Member-Schließsysteme und viele kleinere
-Projekte)  
-\- Infos zu Software-Projekten und Space Infrastruktur  
-\- Mitglieder treffen und kennen lernen  
-\- Hackerkompatible Verpflegung
+- Workshops und Vorträge (Elektronik, Praxis-Schwerpunkt
+  Verschlüsselung von Dateien und Mail, und vieles mehr)
+- Werkstätten kennen lernen (Elektronik und Mechanik, Infos zur CNC
+  Fräse und 3D Druck)
+- Projekte ansehen (Automatisches Getränke- Bestellsystem, Internet of Dings,
+  Blinkenlights, Member-Schließsysteme und viele kleinere Projekte)
+- Infos zu Software-Projekten und Space Infrastruktur
+- Mitglieder treffen und kennen lernen
+- Hackerkompatible Verpflegung
 
 Die stabile Version des Fahrplans steht frühestens ab 20. Mai an [dieser
 Stelle](https://flipdot.org/wiki/HackWat).

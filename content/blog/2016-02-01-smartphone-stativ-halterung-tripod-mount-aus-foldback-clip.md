@@ -6,11 +6,12 @@ path = "/blog/2016/02/01/smartphone-stativ-halterung-tripod-mount-aus-foldback-c
 +++
 ![](/media/cam-stativ.jpg)
 
-Material:  
-\- Foldback Clip 32 mm x 15 mm  
-\- Multiplex 9,5 mm (Siebdruckplatte o.ä.)  
-\- 1/4 Zoll Mutter  
-\- Schrumpfschlauch
+Material:
+
+- Foldback Clip 32 mm x 15 mm
+- Multiplex 9,5 mm (Siebdruckplatte o.ä.)
+- 1/4 Zoll Mutter
+- Schrumpfschlauch
 
 Den Clip mit zwei Flachzangen soweit überbiegen, dass der Anpressdruck
 für das Fon nicht zu groß ist. Ein Loch für die Stativschraube mit

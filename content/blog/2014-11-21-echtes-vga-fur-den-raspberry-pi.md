@@ -1,5 +1,5 @@
 +++
-title = "Echtes VGA  für den Raspberry Pi"
+title = "Echtes VGA für den Raspberry Pi"
 date = 2014-11-21T13:00:01Z
 author = "typ_o"
 path = "/blog/2014/11/21/echtes-vga-fur-den-raspberry-pi"
@@ -56,5 +56,5 @@ dpi_group=2
 dpi_mode=36
 ```
 
-Die im Video erwähnte Möglichkeit, den Pi mit HDMI /und/ VGA
+Die im Video erwähnte Möglichkeit, den Pi mit HDMI _und_ VGA
 gleichzeitig zu betreiben, habe ich in der Doku nicht gefunden\...
