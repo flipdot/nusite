@@ -6,8 +6,8 @@ path = "/impressum/"
 Angaben gemäß § 5 TMG und Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
 ```
-flipdot e. V.
-Franz-Ulrich-Straße 18,
+flipdot e.V.
+Franz-Ulrich-Straße 18
 34117 Kassel
 ```
 
@@ -19,8 +19,8 @@ Kontakt
 Unsere Vereinsräume sind hier:
 
 ```
-flipdot. e.V.
-Franz-Ulrich-Straße 18,
+flipdot e.V.
+Franz-Ulrich-Straße 18
 34117 Kassel
 ```
 
