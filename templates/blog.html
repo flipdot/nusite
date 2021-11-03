@@ -2,13 +2,13 @@
 {% block html_title %}Blog | flipdot.org{% endblock html_title %}
 {% block content %}
 
-{% for page in paginator.pages %}
+{%- for page in paginator.pages %}
 <article>
     {% include "includes/post_header.html" %}
     {{ page.content | safe }}
 </article>
 {% endfor %}
 
-{% include "includes/pagination.html" %}
+{%- include "includes/pagination.html" -%}
 
 {% endblock content %}
