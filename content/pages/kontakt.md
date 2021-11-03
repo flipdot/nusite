@@ -1,6 +1,9 @@
 +++
 title = "Kontakt"
 path = "/kontakt/"
+
+# Custom template for custom CSS
+template = "pages/kontakt.html"
 +++
 
 Komm am besten an einem Dienstag ab 19 Uhr vorbei. Das ist unser *offener Tag*,
