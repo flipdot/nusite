@@ -69,8 +69,8 @@ Für die Y-Folie wird\'s mit getauschten Rollen genau so gemacht.
 
 Die Messwerte sendet der Controller ohne weitere Verarbeitung über die
 serielle Schnittstelle. Bei einem Fingerdruck kommt dann beispielsweise
-\"503,220\" mit 9600 bit/s. Macht man den Finger wieder weg, sendet der
-Controller ein \"RELEASE\". Das ist schon alles.
+"503,220" mit 9600 bit/s. Macht man den Finger wieder weg, sendet der
+Controller ein "RELEASE". Das ist schon alles.
 [KISS](https://de.wikipedia.org/wiki/KISS-Prinzip).
 
 im [touch.zip](/media/touch.zip "touch.zip") ist die Controller -

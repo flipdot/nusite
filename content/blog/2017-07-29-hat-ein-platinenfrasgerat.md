@@ -19,19 +19,14 @@ noch feiner.
 
 Schritte:
 
-- Schaltplan und Layout mit \"Eagle\", mit Eagles CAM-Processor
-exportiert.
-
-- Mit dem Programm \"FlatCAM\", Werte für die Tiefe, Geschwindigkeit,
-Breite eingestellt, etc.. und in CNC-Dateien sowie G-Code umgewandelt
-
-- Mit Universal \"G-Code Sender\" die Fräse auf den Nullpunkt der
-Platine eingestellt und die G-Code Dateien nach und nach an die Fräse
-geschickt.
-
-- Mit der Fräse die Löcher gebohrt, Isolation gefräst, Platine gewendet
-und Fräse an extra Passmarken neu zentriert, Isolation der Rückseite
-gefräst, ausschneiden lassen.
+- Schaltplan und Layout mit "Eagle", mit Eagles CAM-Processor exportiert.
+- Mit dem Programm "FlatCAM", Werte für die Tiefe, Geschwindigkeit,
+  Breite eingestellt, etc.. und in CNC-Dateien sowie G-Code umgewandelt
+- Mit Universal "G-Code Sender" die Fräse auf den Nullpunkt der Platine
+  eingestellt und die G-Code Dateien nach und nach an die Fräse geschickt.
+- Mit der Fräse die Löcher gebohrt, Isolation gefräst, Platine gewendet und
+  Fräse an extra Passmarken neu zentriert, Isolation der Rückseite gefräst,
+  ausschneiden lassen.
 
 Fertig :)
 
@@ -43,9 +38,8 @@ Std. mit Fräszeit, relativ unerfahren.
 Oben
 
 [![](/media/CoolSMD.serendipityThumb.jpg)](/media/CoolSMD.jpg)
-Mit SMD Bauteilen
-und lecker oxidierenden Fingerabdrücken, da keine Handschuhe und \"nur\"
-Prototyp.
+Mit SMD Bauteilen und lecker oxidierenden Fingerabdrücken, da keine Handschuhe
+und "nur" Prototyp.
 
 Wer sich eine Platine fräst, der hat ein Platinenfräsgerät.
 

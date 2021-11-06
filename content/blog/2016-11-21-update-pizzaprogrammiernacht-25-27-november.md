@@ -37,10 +37,9 @@ morgen ab 10:00 Uhr
 
 Telefonnummer im Space ist: 0561-47395848
 
-Anfahrt: Kassel Hauptbahnhof, auch bekannt als \"Kulturbahnhof Kassel\"
+Anfahrt: Kassel Hauptbahnhof, auch bekannt als "Kulturbahnhof Kassel"
 (NICHT Bahnhof Wilhelmshöhe). Der Space liegt auf der Südseite vom
-Bahnhof - wenn ihr ankommt, fahrt ihr links vom Bahnhof auf einen
-Parkplatz zu.
+Bahnhof - wenn ihr ankommt, fahrt ihr links vom Bahnhof auf einen Parkplatz zu.
 \[[1](https://www.openstreetmap.org/node/1716494567/)\]\[[2](https://www.google.de/maps/place/flipdot+hackerspace+kassel/@51.318212,9.4842858,19z/2)\]
 
 Die Anflugschneise ist durch ein blaues Leuchtfeuer
@@ -58,7 +57,7 @@ Wir freuen uns schon, kommt und habt Spaß!
 PS: Direkt neben flipdot findet gleichzeitig das Randfilm Festival
 statt:
 
-> \"Das [Randfilmfest 2016](https://www.randfilm.de/)
+> "Das [Randfilmfest 2016](https://www.randfilm.de/)
 > 
 > Jenseits von Genres und Schubladen - beim Randfilmfest mischen sich
 > Film- und Musikevents, treffen Stargäste in familiärer Atmosphäre auf
@@ -69,6 +68,6 @@ statt:
 > Kunstfilm stehen bei uns gleichberechtigt nebeneinander. Anspruch,
 > Unterhaltung, Fun und Verstörung gehören zusammen.
 > 
-> Ein Hurra auf die Vielfalt des künstlerischen Ausdruck\"
+> Ein Hurra auf die Vielfalt des künstlerischen Ausdruck"
 
 Also - wer sich das zusätzlich noch geben mag ... ;)

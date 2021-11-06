@@ -29,8 +29,8 @@ empfangen und via SDR (Software-Defined-Radio) anzuzeigen. Software:
 **Materialien**
 
 - Koaxialkabel (SAT-Empfang überbleibsel) bspw. Typ:
-  \"[Koaxkabel](https://satco-europe.eu/de/Koaxkabel/Koaxkabel-KTH-94-100 m-EasyBox2)
-  KTH 94\" Länge: \~2 m 
+  "[Koaxkabel](https://satco-europe.eu/de/Koaxkabel/Koaxkabel-KTH-94-100 m-EasyBox2)
+  KTH 94" Länge: \~2 m
 - Installationrohr (80ct aus dem Baumarkt) Länge: 2 m
 - Heißklebepistole plus Schmelzkleber
 - Geeignete Anschlussbuchse, hier Koaxial-Stecker plus evtl. Adapter

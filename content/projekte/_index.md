@@ -66,7 +66,7 @@ Bereits im Wiki dokumentierte Projekte:
 Da Dokumentation nicht wirklich unsere Stärke ist, hängt diese Liste der
 Realität hinterher. Derzeit fehlen Dokus zu...
 
-- Alle Energiesparprojekte unter dem Label \"SEK: E-Traktiv\"
+- Alle Energiesparprojekte unter dem Label "SEK: E-Traktiv"
   - messtechnische Untersuchung von LED Lampen
   - Gegenstrom-Wärmetauscher
   - Funksteckdosen
