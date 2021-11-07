@@ -114,18 +114,16 @@ bespielt werden.
 
 ## Wann hat der Hackspace offen?
 
-Aktuell ist unser Space aufgrund von Corona nur für Mitglieder geöffnet.
+Unser Space ist jeden Dienstag ab 19:00 Uhr für Gäste geöffnet, aufgrund von COVID-19 aktuell aber
+nur mit Impf- oder Genesenen-Nachweis (2G-Regelung). Stand: 2021-11-07
 
-<!--
-Unser Space ist jeden Dienstag ab 19:00 Uhr für Gäste geöffnet. Mitglieder haben 24/7 Zugang
-und nutzen diesen auch.
+Mitglieder haben 24/7 Zugang und nutzen diesen auch.
 
 ## Muss ich Mitglied sein, um in den Space kommen zu dürfen?
 
 Nein, der Dienstag ist offen für alle. Möchtest du regelmäßig und an allen anderen Tagen kommen
 können, die Infrastruktur wie Server, Werkstätten, Küche nutzen und selbst einen Schlüssel haben,
 dann musst du Mitglied werden.
--->
 
 ## Muss ich Mitglied sein, um Veranstaltungen oder Workshops besuchen zu können?
 

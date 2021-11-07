@@ -7,7 +7,11 @@ template = "pages/kontakt.html"
 +++
 
 Komm am besten an einem Dienstag ab 19 Uhr vorbei. Das ist unser *offener Tag*,
-an dem auch immer viele Member im Space sind. Wir freuen uns über jeden neuen
+an dem auch immer viele Member im Space sind. Wegen COVID-19 ist der Zugang
+aktuell nur mit einem Impf- oder Genesenen-Nachweis möglich (2G-Regelung).
+Stand: 2021-11-07
+
+Wir freuen uns über jeden neuen
 Besuch, also keine falsche Scheu. Wenn du den Raum betrittst, passiert
 normalerweise: nichts. Wundere dich also nicht, sondern
 [sprich jemanden an](https://store-xkcd-com.myshopify.com/products/just-shy)!
