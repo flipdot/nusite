@@ -20,6 +20,4 @@ Im Space sollen Sensoren und Aktoren ausgebracht werden. Überwachen von
 Türen und Fenstern, Kühlschrank, Herd usw., Steuern von Heizung
 (und...).
 
-<!-- <<FullSearch(^Projekte/IoT.*)>> -->
-
 Lightning Talk Hackover 2017: <!-- <attachment:Hackover-IoD.zip> -->

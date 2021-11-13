@@ -30,5 +30,3 @@ Alles um mit dem Mikrocontroller Arduino Projekte zu erstellen
   - 4x Raspi mit Monitor Maus und Tastatur, Arduino Kabel, LAN-Kabel und Hub ???
   - 1x Raspi um von ihm per LAN zu laden, alle das gleiche Image ???
 - Projekte und Projektbeschreibungen / Anleitungen
-
-<!-- <<FullSearch(^Projekte/Arduino/.*)>> -->
