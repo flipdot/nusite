@@ -63,7 +63,7 @@ Führt Waagen-Messungen durch und schickt die Ergebnisse ins Netz.
 ## flipbot
 
 Unser IRC-Bot. Seit einer Weile auch ans IoD-Netz angeschlossen. Lauscht
-auf \`actors/all/flipbot\` und leitet alle Nachrichten von dort in
+auf `actors/all/flipbot` und leitet alle Nachrichten von dort in
 unseren IRC-Channel weiter.
 
 -   Repo: <https://github.com/flipdot/sopel-modules>

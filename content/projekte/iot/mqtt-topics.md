@@ -16,84 +16,84 @@ Funktionsfähikeit melden)\-- Ist in MQTT schon eingebaut
 
 ## Raumnamen
 
-- \`lounge\` (Sofaecke, \...)
-- \`work_el\` (Elektronikwerkstatt, Netzwerkschrank, \...)
-- \`work_mech\` (Mechanikwerkstatt, Fräsraum, \...)
-- \`raum4\` (Beamer, Regalreihe, Workshops, \...)
-- \`kitchen\` (Küche, Besteck, Dusche, \...)
-- \`hall\` (Flur, Ofen, Geschirr, \...)
-- \`restroom\` (Toiletten, Reinigungsmittel, \...)
-- \`cellar\` (Ebenerdiger "Keller", Getränkelager, \...)
-- \`entrance_front\` (Gelbe Eingangstür, Südwestseite, Klingel, Abstellgleis, \...)
-- \`entrance_back\` (Orange Eingangstür, Nordortseite, Hof, Pennertonne, \...)
-- \`all\` (Spezialfall für Sensoren/Aktoren die in allen Räumen gleich
-  sind, z.B. \`sensor/audio/all/mpd\`)
+- `lounge` (Sofaecke, \...)
+- `work_el` (Elektronikwerkstatt, Netzwerkschrank, \...)
+- `work_mech` (Mechanikwerkstatt, Fräsraum, \...)
+- `raum4` (Beamer, Regalreihe, Workshops, \...)
+- `kitchen` (Küche, Besteck, Dusche, \...)
+- `hall` (Flur, Ofen, Geschirr, \...)
+- `restroom` (Toiletten, Reinigungsmittel, \...)
+- `cellar` (Ebenerdiger "Keller", Getränkelager, \...)
+- `entrance_front` (Gelbe Eingangstür, Südwestseite, Klingel, Abstellgleis, \...)
+- `entrance_back` (Orange Eingangstür, Nordortseite, Hof, Pennertonne, \...)
+- `all` (Spezialfall für Sensoren/Aktoren die in allen Räumen gleich
+  sind, z.B. `sensor/audio/all/mpd`)
 
 ## Beispiel Topics
 
-- \`sensors/\`
-  - \`lounge/\`
-    - \`light_state\`
-    - \`window_state\`
-  - \`work_el/\`
-    - \`door_state\`
-    - \`light_state\`
-    - \`soldering_iron_state\`
-  - \`work_mech/\`
-    - \`light_state\`
-    - \`window_state\`
-  - \`kitchen/\`
-    - \`light_state\`
-  - \`hall/\`
-    - \`light_state\`
-  - \`restroom/\`
-    - \`light_state\`
-    - \`smell_state\`
-    - \`toilet_flush\`
-    - \`urinal_flush\`
-  - \`cellar/\`
-    - \`drinks_crate_counts\`
-    - \`drinks_scale_measurements_metric\`
-    - \`drinks_scale_measurements_raw\`
-    - \`light_state\`
-  - \`entrance_front/\`
-    - \`door_state\`
-  - \`entrance_back/\`
-    - \`door_state\`
-  - \`all/\`
-    - \`music_info\`
-- \`actors/\`
-  - \`lounge/\`
-    - \`light_state\`
-    - \`window_state\`
-  - \`work_el/\`
-    - \`light_state\`
-  - \`work_mech/\`
-    - \`light_state\`
-    - \`window_state\`
-  - \`raum4/\`
-    - \`light_state\`
-    - \`window_state\`
-  - \`kitchen/\`
-    - \`light_state\`
-    - \`window_state\`
-  - \`hall/\`
-    - \`light_state\`
-    - \`window_state\`
-  - \`restroom/\`
-    - \`light_state\`
-    - \`toilet_flush\`
-    - \`urinal_flush\`
-  - \`cellar/\`
-    - \`light_state\`
-  - \`entrance_front/\`
-  - \`entrance_back/\`
-  - \`all/\`
-    - \`music_next_track\`
-    - \`music_previous_track\`
-    - \`music_play_pause\`
-    - \`music_volume_up\`
-    - \`music_volume_down\`
+- `sensors/`
+  - `lounge/`
+    - `light_state`
+    - `window_state`
+  - `work_el/`
+    - `door_state`
+    - `light_state`
+    - `soldering_iron_state`
+  - `work_mech/`
+    - `light_state`
+    - `window_state`
+  - `kitchen/`
+    - `light_state`
+  - `hall/`
+    - `light_state`
+  - `restroom/`
+    - `light_state`
+    - `smell_state`
+    - `toilet_flush`
+    - `urinal_flush`
+  - `cellar/`
+    - `drinks_crate_counts`
+    - `drinks_scale_measurements_metric`
+    - `drinks_scale_measurements_raw`
+    - `light_state`
+  - `entrance_front/`
+    - `door_state`
+  - `entrance_back/`
+    - `door_state`
+  - `all/`
+    - `music_info`
+- `actors/`
+  - `lounge/`
+    - `light_state`
+    - `window_state`
+  - `work_el/`
+    - `light_state`
+  - `work_mech/`
+    - `light_state`
+    - `window_state`
+  - `raum4/`
+    - `light_state`
+    - `window_state`
+  - `kitchen/`
+    - `light_state`
+    - `window_state`
+  - `hall/`
+    - `light_state`
+    - `window_state`
+  - `restroom/`
+    - `light_state`
+    - `toilet_flush`
+    - `urinal_flush`
+  - `cellar/`
+    - `light_state`
+  - `entrance_front/`
+  - `entrance_back/`
+  - `all/`
+    - `music_next_track`
+    - `music_previous_track`
+    - `music_play_pause`
+    - `music_volume_up`
+    - `music_volume_down`
 
 ## Sammlung möglicher Sensoren
 

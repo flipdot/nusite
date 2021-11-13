@@ -6,7 +6,7 @@ path = "/blog/2010/10/31/visiting-metalab"
 +++
 Gestern Abend waren wir denn auch im [metalab](https://metalab.at/).
 Allerfeinste Lage mitten im Zentrum, und die 200 m² gut gefüllt mit
-Equipment und meist auch mit Leuten (bei unserem Besuch waren nur \~
+Equipment und meist auch mit Leuten (bei unserem Besuch waren nur ~
 acht da, eher unter Schnitt).
 
 [![](/media/IMAG0588.serendipityThumb.jpg)](/media/IMAG0588.jpg)[![](/media/IMAG0589.serendipityThumb.jpg)](/media/IMAG0589.jpg)[![](/media/IMAG0590.serendipityThumb.jpg)](/media/IMAG0590.jpg)[![](/media/IMAG0577.serendipityThumb.jpg)](/media/IMAG0577.jpg)

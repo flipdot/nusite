@@ -11,7 +11,7 @@ Entwurf - möglichst kein Feature Creep!
     erreichbar sein muß (Für Aktoren wie Heizung)
 -   Hardware und Software für Batterie- und Netzbetrieb identisch,
     Auswahl durch Jumper
--   Batterielebensdauer \~ 1 a
+-   Batterielebensdauer ~ 1 a
 -   Experiment mit Nachladung der Batterien via PV?
 -   Knoten erfassen
     -   Ihren Batteriestatus

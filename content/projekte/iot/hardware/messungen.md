@@ -12,8 +12,8 @@ am ESP.
 <!-- [`{{attachment:Supply_DC_coupling.bmp|attachment:Supply_DC_coupling.bmp|width="600"}}`{=mediawiki}](attachment:Supply_DC_coupling.bmp) -->
 Bei abgeschaltetem ESP und Attiny im Sleep Mode ist die Stromaufnahme so
 gering, dass an der Diode keine nennenswerte Spannung abfällt. Mit
-aktiviertem Attiny und ESP sinkt die Spannung nach der Diode um \~ 0,3
-V, die Schwellspannung der Diode.
+aktiviertem Attiny und ESP sinkt die Spannung nach der Diode um ~ 0,3 V,
+die Schwellspannung der Diode.
 
 ### Betriebsspannung nach der Schottky-Diode (Leitung BATT_LOW) AC Coupling
 
@@ -59,5 +59,5 @@ ca. 3,2 V.
 
 Messung über einen 1 Ohm Shunt, 50 mV entspricht 50 mA. Ähnlich wie
 andernorts im Netz beschrieben ist der Verbrauch des Digitalteils ca. 70
-mA, Stromspitzen durch den Transceiver \~ 270 mA.
+mA, Stromspitzen durch den Transceiver ~ 270 mA.
  

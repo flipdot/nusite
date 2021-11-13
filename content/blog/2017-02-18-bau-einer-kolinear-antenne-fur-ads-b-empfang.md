@@ -30,7 +30,7 @@ empfangen und via SDR (Software-Defined-Radio) anzuzeigen. Software:
 
 - Koaxialkabel (SAT-Empfang überbleibsel) bspw. Typ:
   "[Koaxkabel](https://satco-europe.eu/de/Koaxkabel/Koaxkabel-KTH-94-100 m-EasyBox2)
-  KTH 94" Länge: \~2 m
+  KTH 94" Länge: ~2 m
 - Installationrohr (80ct aus dem Baumarkt) Länge: 2 m
 - Heißklebepistole plus Schmelzkleber
 - Geeignete Anschlussbuchse, hier Koaxial-Stecker plus evtl. Adapter
@@ -74,7 +74,7 @@ unbeschädigte Mantel eine Länge von L haben sollte. Also acht Stücke zu
 
 4) Abisolieren der Seele: Auf jeder Seite der zugeschnittenen Stücke
 etwa 2 cm lang alles bis auf den Leiter der Seele entfernen, also äußere
-Schutzhülle, dann Mantel und Dielektrikum abschneiden, so dass \~2 cm der
+Schutzhülle, dann Mantel und Dielektrikum abschneiden, so dass ~2 cm der
 Seele auf beiden Seiten steht.
 
 [![](/media/antennen_vermessung.serendipityThumb.png)](/media/antennen_vermessung.png)

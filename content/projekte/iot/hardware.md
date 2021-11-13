@@ -16,9 +16,9 @@ Knoten (= Sensoren oder Aktoren)
 -   Batterieversorgung Alkaline / Eneloop (ggf. ergänzt durch PV)
 -   Jumper für Dauerstrom (Platz für Low Drop Regler vorsehen?)
 -   Stromsparen durch
-    -   Deepsleep (\~ 200 µA)
+    -   Deepsleep (~ 200 µA)
     -   *oder* separater Attiny zum Aufwecken (Interrupt on Port change)
-        (\~ 0,2 µA)
+        (~ 0,2 µA)
     -   *oder*Taster in der Vcc Leitung, der von MOSFET durch ESP
         überbrückt wird (vermutlich \<\< 0,1 µA)
 -   ESP Module möglichst ohne Modifikation verwenden (Ausser LED für
