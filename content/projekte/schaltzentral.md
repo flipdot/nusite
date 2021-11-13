@@ -43,9 +43,8 @@ Schaltzentral ist unser Setup von Zigbee und WLAN Lampen, koordiniert
     "zigbee2mqtt/bridge/config/devices" -h mqtt.fd`
   - Lass dir eine device config schicken: `mosquitto_pub -t
     "zigbee2mqtt/bridge/config/devices/get" -m "" -h mqtt.fd`
-    - Tipp: Schreibe dir die config in eine Datei (`\>
-      config.json` am Ende des Befehls). Du kannst dir eine
-      Funktion
+    - Tipp: Schreibe dir die config in eine Datei (`> config.json` am Ende des
+      Befehls).Du kannst dir eine Funktion
       [jless](https://gist.github.com/soerface/8e44ebd495be72aee481d65c1003a015)
       definieren oder
       [jq](https://stedolan.github.io/jq/) verwenden,
