@@ -4,8 +4,9 @@ date = 2010-02-16T07:39:59Z
 author = "typ_o"
 path = "/blog/2010/02/16/bausteln-bis-der-arzt-kommt-19-21-2-2010"
 +++
-[![](/media/00012_quadratisch.serendipityThumb.jpg)](/media/00012_quadratisch.jpg)[flipdot](https://flipdot.org/wiki/)
-hat ja noch immer keine Räume, trotzdem wollen wir unbedingt schon
+[![](/media/00012_quadratisch.serendipityThumb.jpg)](/media/00012_quadratisch.jpg)
+
+flipdot hat ja noch immer keine Räume, trotzdem wollen wir unbedingt schon
 vorher zusammen Bausteln. An diesem Wochenende treffen wir uns dafür im
 kunsTTempel ([kunsttempel.net](https://www.kunsttempel.net), und [Google
 Maps](https://maps.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=Friedrich-Ebert-Str.+177,+kassel&sll=37.0625,-95.677068&sspn=23.761683,55.810547&ie=UTF8&hq=&hnear=Friedrich-Ebert-Stra%C3%9Fe+177,+West+34119+Kassel,+Hessen,+Deutschland&ll=51.316089,9.460862&spn=0.00057,0.002725&t=h&z=19)).
@@ -35,7 +36,6 @@ Elektronik, Software, Netzwerke, Servos und vieles, vieles mehr plaudern
 
 Im kunsTTempel vom Freitag, 19.2.2010 18:00 (Aufbau) bis Sonntag Abend
 21.2.2010. Samstag und Sonntag gehts um ca. 10:00 los, Ende nach Bedarf
-;) Allervorläufigstes Programm
-[hier](https://flipdot.org/wiki/index.php?title=Ideen/WorkshopAngebote).
+;) Allervorläufigstes Programm ~~hier~~.
 
 Ach so: Kostet nichts, Spende willkommen!

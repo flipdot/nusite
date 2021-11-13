@@ -6,7 +6,7 @@ path = "/blog/2017/09/11/krumel-loten"
 +++
 Letzten Sonntag haben wir zu sechst ein gutes dutzend MQTT Devices
 gelötet, die uns Sensordaten von Türen, Fenstern und Klorollenvorrat
-liefern sollen ([Projektdoku](https://flipdot.org/wiki/Projekte/IoT))
+liefern sollen ([Projektdoku](/projekte/iot/))
 
 Hannes, zeig mal drauf - SMD!
 

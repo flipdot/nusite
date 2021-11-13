@@ -15,7 +15,7 @@ path = "/infrastruktur/"
 | Watts-up-Pi Stromzähler | typ.o         | typ.o, Burkard, Sören                   |
 | [3D-Drucker]            |               | DmB, Sägewerk                           |
 
-[Tür-Raspi]: https://flipdot.org/wiki/Projekte/Tür
-[CAN-Raspi]: https://flipdot.org/wiki/CAN-Raspi
-[Getränkezähler]: https://flipdot.org/wiki/Projekte/Getränkezähler
-[3D-Drucker]: https://flipdot.org/wiki/3D-Drucker
+[Tür-Raspi]: /projekte/tür/
+[CAN-Raspi]: /projekte/can-raspi/
+[Getränkezähler]: /projekte/getränkezähler/
+[3D-Drucker]: /projekte/3d-drucker/
