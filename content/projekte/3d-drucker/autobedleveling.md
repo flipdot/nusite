@@ -1,5 +1,5 @@
 +++
-title = "3D-Drucker Autobedleveling"
+title = "3D-Drucker: Autobedleveling"
 +++
 
 Bei 3D-Druckern ist es wichtig, dass die Druckdüse bei der ersten

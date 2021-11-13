@@ -2,6 +2,11 @@
 title = "3D-Drucker"
 +++
 
+Unter-Seiten:
+
+* [Autobedleveling](autobedleveling/)
+* [Slicing](slicing/)
+
 ## Anleitung für Space Printer
 
 Wir haben im Space einen 3D-Drucker stehen. Wenn du mit dem

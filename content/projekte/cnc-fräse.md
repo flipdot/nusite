@@ -4,16 +4,16 @@ title = "CNC-Fräse"
 
 Do it
 
-* <HowTo> Anleitung zur Einrichtung und Benutzung
-* <Schnittwerte> Erfahrungswerte, getestete Einstellungen
+* [HowTo](how-to/) Anleitung zur Einrichtung und Benutzung
+* [Schnittwerte](schnittwerte/) Erfahrungswerte, getestete Einstellungen
 
 Dok it
 
-* <Logbuch> Probleme, Anregungen, Schäden bei der Nutzung
-* <Linkliste>
-* <Scratchpad> Schmierzettel
-* <Beschaffung> Archiv der Entscheidungsfindung und Einrichtung
+* [Logbuch](logbuch/) Probleme, Anregungen, Schäden bei der Nutzung
+* [Linkliste](linkliste/)
+* [Beschaffung](beschaffung/) Archiv der Entscheidungsfindung und Einrichtung
+* [Material](material/)
 
 Want it
 
-* <Platinenfräsen>
+* [Platinen-Fräsen](platinen-fräsen/)

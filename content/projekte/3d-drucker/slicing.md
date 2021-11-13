@@ -1,5 +1,5 @@
 +++
-title = "3D-Drucker Slicing"
+title = "3D-Drucker: Slicing"
 +++
 
 ## PrusaSlicer

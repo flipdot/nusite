@@ -2,6 +2,10 @@
 title = "Getränkezähler"
 +++
 
+Unter-Seiten:
+
+* [Usage](usage/)
+
 ## Benutzer-Guide
 
 ### Anonym Bezahlen

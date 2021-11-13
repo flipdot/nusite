@@ -1,0 +1,12 @@
+{% extends "section.html" %}
+{% block content %}
+<h1 class="page-title">{{ section.title }}</h1>
+<p>Hier findest du eine Liste von Spaceprojekten.</p>
+<p>Bereits im Wiki dokumentierte Projekte:</p>
+<ul>
+{% for page in section.pages %}
+    <li><a href="{{ page.permalink }}">{{ page.title }}</a></li>
+{% endfor %}
+</ul>
+{{ section.content | safe }}
+{% endblock content %}

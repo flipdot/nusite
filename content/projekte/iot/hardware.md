@@ -2,7 +2,13 @@
 title = "IoT: Hardware"
 +++
 
-Entwurf
+Unter-Seiten:
+
+* [Change Requests](change-requests/)
+* [Messungen](messungen/)
+* [Platine Löten](platine-löten/)
+
+*Entwurf*
 
 Knoten (= Sensoren oder Aktoren)
 
