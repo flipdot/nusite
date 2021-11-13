@@ -117,9 +117,13 @@ ein Tutorial wie ich mir eine Statusmail -mit Bild- zuschicken lasse.
 $ apt-get remove msmtp heirloom-mailx
 $ apt-get install mailutils postfix
 $ rm -f .netrc -msmtp .mailrc
+```
+
 dann kommt eine wunderschöne install-"GUI"
+
 Hier wähle ich:
 
+```
 General type of mail configuration
 Satellite system
 System Mail Name:
@@ -127,10 +131,14 @@ pizero.cfs.im (ich empfehle eine domain auszudenken. Sie wird
 lediglich als absender verwendet, muss also nicht existieren)
 SMTP relay host:
 smtp.gmail.com:587
-Dann editiere ich /etc/postfix/main.cf. irgendwo sollte schon
-relayhost = smtp.gmail.com:587 stehen.
+```
+
+Dann editiere ich /etc/postfix/main.cf. Irgendwo sollte schon
+`relayhost = smtp.gmail.com:587` stehen.
+
 Ganz ans ende hinzufügen:
 
+```
 smtp_sasl_auth_enable = yes
 smtp_sasl_password_maps = hash:/etc/postfix/smtp_auth
 smtp_sasl_security_options = noanonymous
@@ -139,14 +147,20 @@ smtp_tls_CAfile = /etc/ssl/certs/ca-certificates.crt
 smtp_tls_security_level = secure
 # Ich hab kein ipv6... und irgendwie denkt der dass es so ist
 inet_protocols = ipv4
+```
+
 Unter https://myaccount.google.com/apppasswords erstelle ich mir ein
 "App-spezifisches passwort"
 Eine neue datei /etc/postfix/smtp_auth mit folgendem inhalt: (hinter
 dem doppelpunkt das neue passwort, davor deinen gmail-account)
+
+```
 smtp.gmail.comich@gmail.com:fj2hg92hfgpsh
+```
 
 Und noch ein paar kommandos:
 
+```
 $ postmap hash:/etc/postfix/smtp_auth
 $ systemctl restart postfix
 $ systemctl enable postfix

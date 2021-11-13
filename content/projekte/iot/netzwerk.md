@@ -2,13 +2,11 @@
 title = "IoT: Netzwerk"
 +++
 
-# IOT-NETZ
-
 - Subnetz: 192.168.42.0/24
 - Gateway: 192.168.42.254
 - DHCP-Range: .100 - 250
 - SSID: security-by-iod
-- Key: `<siehe Forum>`{=html}
+- Key: \<siehe Forum\>
 
 <!--
 ## Statische IP-Adressen

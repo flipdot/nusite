@@ -58,7 +58,7 @@ It's alive!
 [![](/media/DSC_0105.serendipityThumb.JPG)](/media/DSC_0105.JPG)
 
 Aber hm, doch n bisschen viel Stromverbrauch. Mal im Datenblatt von den
-Panasonic Akkuzellen nachschauen was die so können\...da stand erstmal
+Panasonic Akkuzellen nachschauen was die so können...da stand erstmal
 nix zu Lade-&Entladeströmen. Also weiter gesucht und irgendwo eine
 Tabelle gefunden, aus der ich entnommen habe, dass man diese Akkuzellen
 nur mit 0,2C entladen darf, was bei zwei Zellen (je ca 1100mAh) parallel

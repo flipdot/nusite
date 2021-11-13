@@ -60,7 +60,7 @@ die man beim Verlassen des Space vergessen kann.
 
 [![](/media/df964a48adb4002107add3cde170a4724a8d5507.serendipityThumb.jpg)](/media/df964a48adb4002107add3cde170a4724a8d5507.jpg)
 
-**\[Doktor\] Frontblende fuer zwei [DPS5015](https://www.aliexpress.com/item/d/32776423798.html) China DC-DC-Platinen**
+**\[Doktor\] Frontblende für zwei [DPS5015](https://www.aliexpress.com/item/d/32776423798.html) China DC-DC-Platinen**
 (Aluminium, Herstellung auf der CNC Fräse)
 
 [![](/media/82e3fceff8ae7097cbe97922b748ef5a32f121b5_1_690x359.serendipityThumb.png)](/media/82e3fceff8ae7097cbe97922b748ef5a32f121b5_1_690x359.png)

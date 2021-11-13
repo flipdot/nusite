@@ -15,19 +15,17 @@ Bed Leveling" gestartet.
 Falls die Düse bei der ersten Schicht nicht den richtigen Abstand zu dem
 Druckbett hat kann der Abstand im Menü eingestellt werden.
 
-`.`
-
--   Starte den Druck und beobachte den Rand, der um das Druckobjekt
-    gedruckt wird. Falls die Düse zu dicht an dem Druckbett ist drehst
-    du beide Spindeln der Z-Achse um eine raste nach rechts.
--   Dadurch hebt sich die Düse um 0,04mm. Weite einen Moment und prüfe
-    ob es besser ist.
--   Falls die Düse zu weit von dem Rruckbett entfernt ist drehe die
-    beiden Spindeln der Z-Achse um eine Rasate nach links. Mit ein wenig
-    Übung kann man den Abstand einstellen bevor das Bauteil gedruckt
-    wird.
--   Merke dir wie viele Rasten du gedraht hast und stelle den neuen Wert
-    an dem Display des 3D-Druckers ein: Einstellungen>Bewegung>Z Versatz
+- Starte den Druck und beobachte den Rand, der um das Druckobjekt
+  gedruckt wird. Falls die Düse zu dicht an dem Druckbett ist drehst
+  du beide Spindeln der Z-Achse um eine raste nach rechts.
+- Dadurch hebt sich die Düse um 0,04mm. Weite einen Moment und prüfe
+  ob es besser ist.
+- Falls die Düse zu weit von dem Rruckbett entfernt ist drehe die
+  beiden Spindeln der Z-Achse um eine Rasate nach links. Mit ein wenig
+  Übung kann man den Abstand einstellen bevor das Bauteil gedruckt
+  wird.
+- Merke dir wie viele Rasten du gedraht hast und stelle den neuen Wert
+  an dem Display des 3D-Druckers ein: Einstellungen>Bewegung>Z Versatz
 
 Werte zwischen -1.00 und - 1.90 Sind Normal. Anpassungen im Bereich von
 ca. 0,02 bis 0,08mm sind üblich. Eine Raste der Schrittmotoren

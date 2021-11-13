@@ -10,22 +10,21 @@ Knoten (= Sensoren oder Aktoren)
 
 <!-- [`{{attachment:IoD_V0.3.jpg|attachment:IoD_V0.3.jpg|width="600"}}`{=mediawiki}](attachment:IoD_V0.3.jpg) -->
 
--   [ESP8266](ESP8266)-01 (billigster Typ), ggf. [Whitty
-    Cloud](http://www.schatenseite.de/2016/04/22/esp8266-witty-cloud-modul/)
-    Modul (schick)
--   Batterieversorgung Alkaline / Eneloop (ggf. ergänzt durch PV)
--   Jumper für Dauerstrom (Platz für Low Drop Regler vorsehen?)
--   Stromsparen durch
-    -   Deepsleep (~ 200 µA)
-    -   *oder* separater Attiny zum Aufwecken (Interrupt on Port change)
-        (~ 0,2 µA)
-    -   *oder*Taster in der Vcc Leitung, der von MOSFET durch ESP
-        überbrückt wird (vermutlich \<\< 0,1 µA)
--   ESP Module möglichst ohne Modifikation verwenden (Ausser LED für
-    Betriebsspannungsanzeige auslöten)
--   Einfache Gehäusemontage (Tropfenlöcher zum Einhängen o.Ä.)
--   Vorhandene Gehäuse? Diese zweiteiligen Schraubdosen von DMB?
--   Einfacher Batterietausch
+- [ESP8266](ESP8266)-01 (billigster Typ), ggf. [Whitty
+  Cloud](http://www.schatenseite.de/2016/04/22/esp8266-witty-cloud-modul/)
+  Modul (schick)
+- Batterieversorgung Alkaline / Eneloop (ggf. ergänzt durch PV)
+- Jumper für Dauerstrom (Platz für Low Drop Regler vorsehen?)
+- Stromsparen durch
+  - Deepsleep (~ 200 µA)
+  - *oder* separater Attiny zum Aufwecken (Interrupt on Port change) (~ 0,2 µA)
+  - *oder* Taster in der Vcc Leitung, der von MOSFET durch ESP
+    überbrückt wird (vermutlich \<\< 0,1 µA)
+- ESP Module möglichst ohne Modifikation verwenden (Ausser LED für
+  Betriebsspannungsanzeige auslöten)
+- Einfache Gehäusemontage (Tropfenlöcher zum Einhängen o.Ä.)
+- Vorhandene Gehäuse? Diese zweiteiligen Schraubdosen von DMB?
+- Einfacher Batterietausch
 
 ## Schaltung
 
@@ -56,44 +55,44 @@ an der Batterie.
 
 Ruhezustand:
 
--   Der Attiny befindet sich im Sleep-Mode
--   ESP ist abgeschaltet
+- Der Attiny befindet sich im Sleep-Mode
+- ESP ist abgeschaltet
 
 Aufwachen:
 
--   Attiny wird durch Interrupt on Port Change aufgeweckt
--   und schaltet über den Mosfet den ESP ein
+- Attiny wird durch Interrupt on Port Change aufgeweckt
+- und schaltet über den Mosfet den ESP ein
 
 Daten übertragen:
 
--   Der ESP stellt mit einer festen IP-Adresse (Schneller als DNS) eine
-    Verbindung zum Access Point her
--   und überträgt die aktuelle Schalterstellung des Sensors, die er über
-    SWITCH_STATE vom Attiny gemeldet bekommt, zum Server
--   Am Ende der Übertragung prüft der Attiny, ob die Schalterstellung
-    noch mit jener zu Beginn des Aufwachzyklus identisch ist
--   Wenn ja: Schlafen. Wenn nein (d.h., die Tür wurde nur ganz kurz
-    geöffnet und sofort wieder geschlossen) wird 5 sec gewartet und die
-    dann herrschende Schalterstellung erneut übertragen. So wird
-    inkonsistente Information über Türzustand vermieden
+- Der ESP stellt mit einer festen IP-Adresse (Schneller als DNS) eine
+  Verbindung zum Access Point her
+- und überträgt die aktuelle Schalterstellung des Sensors, die er über
+  SWITCH_STATE vom Attiny gemeldet bekommt, zum Server
+- Am Ende der Übertragung prüft der Attiny, ob die Schalterstellung
+  noch mit jener zu Beginn des Aufwachzyklus identisch ist
+- Wenn ja: Schlafen. Wenn nein (d.h., die Tür wurde nur ganz kurz
+  geöffnet und sofort wieder geschlossen) wird 5 sec gewartet und die
+  dann herrschende Schalterstellung erneut übertragen. So wird
+  inkonsistente Information über Türzustand vermieden
 
 Abschalten / schlafen gehen
 
--   Nach erfolgreicher Übertragung bittet der ESP den Attiny über die
-    Leitung SHUTDOWN, ihn abzuschalten
--   Attiny schaltet den Mosfet und damit den ESP ab
--   und legt sich selber wieder schlafen
+- Nach erfolgreicher Übertragung bittet der ESP den Attiny über die
+  Leitung SHUTDOWN, ihn abzuschalten
+- Attiny schaltet den Mosfet und damit den ESP ab
+- und legt sich selber wieder schlafen
 
 ## Bestückungs- und Funktionsvarianten
 
--   ESP in Ruhe abgeschaltet:
-    -   Jumper 1 Pwr_Ctrl: 2-3 gesteckt
-    -   Jumper 2: offen
-    -   Jumper 5: RST via Attiny offen
--   ESP in Ruhe im Sleep Mode
-    -   Jumper 1 Pwr_Ctrl: 1-2 gesteckt
-    -   Jumper 2: gesteckt
-    -   Jumper 5: RST via Attiny gesteckt
+- ESP in Ruhe abgeschaltet:
+  - Jumper 1 Pwr_Ctrl: 2-3 gesteckt
+  - Jumper 2: offen
+  - Jumper 5: RST via Attiny offen
+- ESP in Ruhe im Sleep Mode
+  - Jumper 1 Pwr_Ctrl: 1-2 gesteckt
+  - Jumper 2: gesteckt
+  - Jumper 5: RST via Attiny gesteckt
 
 ESP in Ruhe abgeschaltet: Geringer Ruhestromverbrauch (ca. 0,2 µA),
 jedoch längere Zeit beim Verbindungsaufbau. Geeignet bei selten
@@ -179,9 +178,8 @@ gebogen) \|\|0,14 \|\|[MPE
 
 ## Änderungen für kommende Hardware Revision 0.5
 
--   Elko 330 µF ersetzt durch Kerko 100 µF
--   Zusätzlicher Kerko 100 nF am Reset Pin Attiny (Fix für
-    Startprobleme)
--   Kerko 100 nF an Vcc Attiny ersetzt durch Kerko 10 µF (Fix für
-    Startprobleme)
--   
+- Elko 330 µF ersetzt durch Kerko 100 µF
+- Zusätzlicher Kerko 100 nF am Reset Pin Attiny (Fix für
+  Startprobleme)
+- Kerko 100 nF an Vcc Attiny ersetzt durch Kerko 10 µF (Fix für
+  Startprobleme)

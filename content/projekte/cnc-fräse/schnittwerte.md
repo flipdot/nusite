@@ -2,7 +2,7 @@
 title = "CNC-Fräse: Schnittwerte"
 +++
 
-# Fräsertypen
+## Fräsertypen
 
 Nach Material
 
@@ -18,23 +18,23 @@ Nach Zweck
   (High Performance Cutter) = Schruppen
 - Schlichten
 
-## Alu
+### Alu
 
 Unbeschichteter VHM Fräser Zweischneider
 
 Kühlen mit einer Mischung aus 1/3 Spiritus, 2/3 Wasser, Sprühflasche
 vorhanden (Keine Überschwemmung machen, Opferplatte quillt sonst auf)
 
-## Holz
+### Holz
 
 Holz fräsen -\> VHM Fräser
 
-## Kunststoff
+### Kunststoff
 
 Bisher nur wenig Erfahrung, Drehzahl eher niedrig wählen, da sonst der
 Kunststoff aufschmelzen kann. Einschneider => gute Spanabfufuhr.
 
-## Fräser kaufen
+### Fräser kaufen
 
 Beste Erfahrung bisher mit "[2-Schneider
 UNI](http://www.sorotec.de/shop/Zerspanungswerkzeuge/SCHAFTFRAeSER/Schaftfraeser-UNI-299/)",
@@ -43,7 +43,7 @@ Holz, Alu. Für 3D Konturen müssten diese
 [VHM-Radienfräser](http://www.sorotec.de/shop/Zerspanungswerkzeuge/RADIENFRAeSER/Radienfraeser-UNI/)
 taugen (ungetestet)
 
-# Schnittgeschwindigkeiten (Drehzahl, Zustellung, Vorschub)
+## Schnittgeschwindigkeiten (Drehzahl, Zustellung, Vorschub)
 
 Drehzahlrechner <http://www.cenon.de/cgi-bin/ToolCalc?lng=de>
 <http://www.precifast.de/schnittgeschwindigkeit-beim-fraesen-berechnen/>
@@ -54,7 +54,7 @@ Drehzahlrechner <http://www.cenon.de/cgi-bin/ToolCalc?lng=de>
 
 Erfahrungswerte
 
-## Holz (MDF, Multiplex, Sperrholz, Siebdruckplatte)
+### Holz (MDF, Multiplex, Sperrholz, Siebdruckplatte)
 
 - 6 mm HM-Fräser,
   - Drehzahl ca "7"
@@ -62,7 +62,7 @@ Erfahrungswerte
   - Eintauchgeschwindigkeit 200 mm /min
   - Zustellung max 6 mm (Materialabnahme in einem Durchgang)
 
-## Alu
+### Alu
 
 - 3 mm HM-Fräser (Farbring)
   - Drehzahl ca "4"
@@ -71,7 +71,7 @@ Erfahrungswerte
   - Zustellung max 1,5 mm (Materialabnahme in einem Durchgang)
   - Kühlen mit mäßig Spiritus (Sprühflasche) Obacht: Sprühnebel -\> Fräsmotor -\> alles Bäm!
 
-## Kunststoff
+### Kunststoff
 
 - 3 mm HM-Fräser (Farbring)
 - Drehzahl ca "3-4"

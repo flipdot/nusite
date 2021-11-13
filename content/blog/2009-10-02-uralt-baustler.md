@@ -14,7 +14,7 @@ Abfälle](https://www.einfaelle-statt-abfaelle.de/index.php). Die Texte,
 detailliert wie [Instructables](https://www.instructables.com/), zeigen,
 daß man alles selber machen kann: Käse, Öfen, Windräder und Fahrräder.
 Alles sehr Low Tech und sustainable. Meine Bibel zu der Zeit war
-"Energisch leben ... : Ein Handbuch der Alltagsökologie für
+"Energisch leben ...: Ein Handbuch der Alltagsökologie für
 Selbstversorger".  
 Was ist das Schönste an solchen Werken? Die Unbeirrbarkeit: Geht nicht -
 gibts nicht. Und diese Unbeirrbarkeit liegt auch jedem Hack zugrunde.

@@ -4,64 +4,59 @@ title = "CNC-Fräse: Beschaffung"
 
 ### Tasks beim Aufbau
 
--   \--(Fräse holen)\--
-    -   \--(Dateblatt einfordern)\-- (Eckard angeschrieben),
-    -   Verfahrwege, *Steps / mm!* BZT: 1 Umdrehung / 5 mm Verfahrweg
-        auf allen Achsen
--   \--(Tisch im Keller frei räumen)\--
--   \--(Tisch an die Wand dübeln)\-- nicht nötig, alles ruhig
--   \--(Elektro bis in die Tischecke legen )\--
-    -   \--(Anzahl Steckdosen festlegen )\--
-    -   \--(Verlängerungs-Steckerleisten an die Wand dübeln )\--
--   \--(Licht. Viel Licht)\--
--   Netzwerk aus dem Space in den Keller (nice to have)
-    -   ca 60 m Kabel nötig
--   \--(G-Code Interpreter (GRBL) aufbauen)\--
--   \--(Motortreiber und G-Gode Interpreter verbinden)\--
--   \--(Stromversorgung für die beiden Komponenten )\--
--   \--(Testlauf mit extra Motoren auf dem Tisch ohne Fräsenmechanik
-    )\--
--   \--(alles schön in ein Gehäuse & verkabel)\--
--   \--(Fräse elektrisch anschließen an Treiber)\--
--   \--(Platz für Steuerung unter dem Fräsentisch (Lüftung?)
-    Schubladenauszug?!)\--
--   \--(Notaus-Kette bauen)\-- könnte noch einer dazu, wenn das Pendant
-    fertig ist
--   \--(GRBL auf die Maschinenphysik einstellen)\--
--   \--(nach geeigneter CAM Software suchen)\-- ESTLCAM
--   \--(einen Rechner auswählen / vorbereiten)\--
-    -   Dell NB
-    -   An die Wand? Schublade? Schwenkarm?
--   Datenlogger für Feuchte bauen und im Keller deponieren - wirds da
-    rosten?
+- ~~(Fräse holen)~~
+  - ~~(Dateblatt einfordern)~~ (Eckard angeschrieben),
+  - Verfahrwege, *Steps / mm!* BZT: 1 Umdrehung / 5 mm Verfahrweg auf allen Achsen
+- ~~(Tisch im Keller frei räumen)~~
+- ~~(Tisch an die Wand dübeln)~~ nicht nötig, alles ruhig
+- ~~(Elektro bis in die Tischecke legen )~~
+  - ~~(Anzahl Steckdosen festlegen )~~
+  - ~~(Verlängerungs-Steckerleisten an die Wand dübeln )~~
+- ~~(Licht. Viel Licht)~~
+- Netzwerk aus dem Space in den Keller (nice to have)
+  - ca 60 m Kabel nötig
+- ~~(G-Code Interpreter (GRBL) aufbauen)~~
+- ~~(Motortreiber und G-Gode Interpreter verbinden)~~
+- ~~(Stromversorgung für die beiden Komponenten )~~
+- ~~(Testlauf mit extra Motoren auf dem Tisch ohne Fräsenmechanik)~~
+- ~~(alles schön in ein Gehäuse & verkabel)~~
+- ~~(Fräse elektrisch anschließen an Treiber)~~
+- ~~(Platz für Steuerung unter dem Fräsentisch (Lüftung?)
+  Schubladenauszug?!)~~
+- ~~(Notaus-Kette bauen)~~ könnte noch einer dazu, wenn das Pendant
+  fertig ist
+- ~~(GRBL auf die Maschinenphysik einstellen)~~
+- ~~(nach geeigneter CAM Software suchen)~~ ESTLCAM
+- ~~(einen Rechner auswählen / vorbereiten)~~
+  - Dell NB
+  - An die Wand? Schublade? Schwenkarm?
+- Datenlogger für Feuchte bauen und im Keller deponieren - wirds da rosten?
 
 ### Kaufen / besorgen / erbitten:
 
--   \--(Doppelklebeband )\--
--   \--(Spachtel )\--
--   \--(Opferplatte 3 x MDF und passende, längere Maschinenschrauben)\--
-    -   Nächstes mal kein MDF nehmen, fusselt und quillt, sondern
-        Siebdruckplatten!
--   \--(Fräser (Material? HSS? .. Jan fragen!) )\--
--   \--(Bohrersatz (Holz und Metall) )\--
--   \--(Schieblehre )\--
--   Stahllineal
--   \--(Werkzeug für Nutenstein-Schrauben & Spannzangen )\--
-    -   \--(Inbusschlüsselsatz )\--
-    -   \--(Gabelschlüsselsatz )\--
--   Flachzange
--   Seitenschneider
--   Kreuz- und Flachschraubendreher
--   \--(Akkuschrauber)\--
--   Säge:
-    -   Einstreich- oder Fuchsschwanz
-    -   \--(Metall-Bügelsäge)\--
--   Feilen
-    -   \--(Schlüsselfeilen)\--
-    -   Schlichtfeilen
--   Werkbank-Schraubstock, Beilagen
--   
--   
+- ~~(Doppelklebeband )~~
+- ~~(Spachtel )~~
+- ~~(Opferplatte 3 x MDF und passende, längere Maschinenschrauben)~~
+  - Nächstes mal kein MDF nehmen, fusselt und quillt, sondern
+    Siebdruckplatten!
+- ~~(Fräser (Material? HSS? .. Jan fragen!) )~~
+- ~~(Bohrersatz (Holz und Metall) )~~
+- ~~(Schieblehre )~~
+- Stahllineal
+- ~~(Werkzeug für Nutenstein-Schrauben & Spannzangen )~~
+  - ~~(Inbusschlüsselsatz )~~
+  - ~~(Gabelschlüsselsatz )~~
+- Flachzange
+- Seitenschneider
+- Kreuz- und Flachschraubendreher
+- ~~(Akkuschrauber)~~
+- Säge:
+  - Einstreich- oder Fuchsschwanz
+  - ~~(Metall-Bügelsäge)~~
+- Feilen
+  - ~~(Schlüsselfeilen)~~
+  - Schlichtfeilen
+- Werkbank-Schraubstock, Beilagen
 
 ### Betrieb
 
@@ -70,14 +65,14 @@ Kress Spindel
 
 ### Entscheidung
 
--   [triple Beast incl.
-    NT](http://www.sorotec.de/shop/CNC-Steuerungstechnik/DriveSets/DriveSet-Triple-BEAST.html)
--   [BZT-PFL-3
-    0604](http://www.bzt-cnc.de/de/shop/cnc-fraesmaschinen/82-baureihe-pfl-3/724-pfl-3-0604)
-    incl. Zubehör und [Kress
-    Spindel](http://www.bzt-cnc.de/de/shop/hf-spindeln/85-kress/507-fraes-spindel-kress-1050-w-oder-5000-25000-rpm)
--   Mach3 via parallele Schnittstelle
--   Dell NB
+- [triple Beast incl.
+  NT](http://www.sorotec.de/shop/CNC-Steuerungstechnik/DriveSets/DriveSet-Triple-BEAST.html)
+- [BZT-PFL-3
+  0604](http://www.bzt-cnc.de/de/shop/cnc-fraesmaschinen/82-baureihe-pfl-3/724-pfl-3-0604)
+  incl. Zubehör und [Kress
+  Spindel](http://www.bzt-cnc.de/de/shop/hf-spindeln/85-kress/507-fraes-spindel-kress-1050-w-oder-5000-25000-rpm)
+- Mach3 via parallele Schnittstelle
+- Dell NB
 
 Das Setup mit Mach 3 ist für den Anfang gedacht, später könnte ein GRBL
 Interpreter auf einem AVR und quelloffene Software günstiger sein.
@@ -87,19 +82,19 @@ Interpreter auf einem AVR und quelloffene Software günstiger sein.
 
 ### Feature requests
 
--   Bearbeitbares Material: Bis 2,5mm Al,
--   Arbeitsbereich >= 400 x 600, Z?
--   Saugeranschluß
--   Spindel besser als Proxxon, Kress Fräse oder gleich HF Spindel
--   Steuerung: So simpel wie möglich, weil hier der meiste Lernaufwand
-    und Hürde füe Neulinge liegt (vgl. grbl Steuerung aus c\'t Hacks)
+- Bearbeitbares Material: Bis 2,5mm Al,
+- Arbeitsbereich >= 400 x 600, Z?
+- Saugeranschluß
+- Spindel besser als Proxxon, Kress Fräse oder gleich HF Spindel
+- Steuerung: So simpel wie möglich, weil hier der meiste Lernaufwand
+  und Hürde füe Neulinge liegt (vgl. grbl Steuerung aus c\'t Hacks)
 
 ### Bauen, Bausatz, Fertig?
 
--   soll schnell fertig sein
--   niemand der viel Zeit zum konstruieren hat
--   mechanische Skills begrenzt
--   Werkzeug extrem begrenzt
+- soll schnell fertig sein
+- niemand der viel Zeit zum konstruieren hat
+- mechanische Skills begrenzt
+- Werkzeug extrem begrenzt
 
 ================
 
@@ -107,21 +102,21 @@ Fertig kaufen
 
 ### Etat
 
--   1k Spende
--   1,5k Eigenmittel
+- 1k Spende
+- 1,5k Eigenmittel
 
 ### Links
 
--   [1](https://www.stepcraft-systems.com/)
--   [2](http://www.ebay.de/itm/NEU-3-ACHSEN-6040-CNC-ROUTER-GRAVIERGERAT-BOHREN-FRASEN-GRAVURMASCHINE-b8-/290771237919)
--   [3](http://www.sorotec.de/shop/index.php)
--   [4](http://www.cnc-kompakt.de/index.php)
--   [5](http://www.erz-fraesmaschinen.de/)
--   [6](http://www.team-haase.de/)
--   [7](http://cnc-modellbau.net/html/cnc-maschinen.html)
--   [8](http://www.openbuilds.com/builds/openbuilds-ox-cnc-machine.341/)
--   [9](http://www.openbuilds.com/builds/routy-cnc-router-v-slot-belt-pinion.101/)
--   [10](http://myhobby-cnc.de/?Projekte:WoodPecker_ALU)
+- [1](https://www.stepcraft-systems.com/)
+- [2](http://www.ebay.de/itm/NEU-3-ACHSEN-6040-CNC-ROUTER-GRAVIERGERAT-BOHREN-FRASEN-GRAVURMASCHINE-b8-/290771237919)
+- [3](http://www.sorotec.de/shop/index.php)
+- [4](http://www.cnc-kompakt.de/index.php)
+- [5](http://www.erz-fraesmaschinen.de/)
+- [6](http://www.team-haase.de/)
+- [7](http://cnc-modellbau.net/html/cnc-maschinen.html)
+- [8](http://www.openbuilds.com/builds/openbuilds-ox-cnc-machine.341/)
+- [9](http://www.openbuilds.com/builds/routy-cnc-router-v-slot-belt-pinion.101/)
+- [10](http://myhobby-cnc.de/?Projekte:WoodPecker_ALU)
 
 ### Vergleich
 

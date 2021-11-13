@@ -10,22 +10,22 @@ Topics erlauben z.B. auf einem Bedienpanel lesbare Logs anzuzeigen.
 (vgl.:
 [Bamberg](https://www.hackerspace-bamberg.de/Space_Automation))
 
-\--(Ein besonderer Topic-namensraum ist *Device Presence Control*. Hier
+~~(Ein besonderer Topic-namensraum ist *Device Presence Control*. Hier
 können kritische Nodes wie z.B. Einbruchssensoren etc. zyklisch ihre
-Funktionsfähikeit melden)\-- Ist in MQTT schon eingebaut
+Funktionsfähikeit melden)~~ Ist in MQTT schon eingebaut
 
 ## Raumnamen
 
-- `lounge` (Sofaecke, \...)
-- `work_el` (Elektronikwerkstatt, Netzwerkschrank, \...)
-- `work_mech` (Mechanikwerkstatt, Fräsraum, \...)
-- `raum4` (Beamer, Regalreihe, Workshops, \...)
-- `kitchen` (Küche, Besteck, Dusche, \...)
-- `hall` (Flur, Ofen, Geschirr, \...)
-- `restroom` (Toiletten, Reinigungsmittel, \...)
-- `cellar` (Ebenerdiger "Keller", Getränkelager, \...)
-- `entrance_front` (Gelbe Eingangstür, Südwestseite, Klingel, Abstellgleis, \...)
-- `entrance_back` (Orange Eingangstür, Nordortseite, Hof, Pennertonne, \...)
+- `lounge` (Sofaecke, ...)
+- `work_el` (Elektronikwerkstatt, Netzwerkschrank, ...)
+- `work_mech` (Mechanikwerkstatt, Fräsraum, ...)
+- `raum4` (Beamer, Regalreihe, Workshops, ...)
+- `kitchen` (Küche, Besteck, Dusche, ...)
+- `hall` (Flur, Ofen, Geschirr, ...)
+- `restroom` (Toiletten, Reinigungsmittel, ...)
+- `cellar` (Ebenerdiger "Keller", Getränkelager, ...)
+- `entrance_front` (Gelbe Eingangstür, Südwestseite, Klingel, Abstellgleis, ...)
+- `entrance_back` (Orange Eingangstür, Nordortseite, Hof, Pennertonne, ...)
 - `all` (Spezialfall für Sensoren/Aktoren die in allen Räumen gleich
   sind, z.B. `sensor/audio/all/mpd`)
 
