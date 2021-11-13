@@ -28,7 +28,7 @@ schließlich bei voller Netzspannung betrieben wird
 
 <!--
 \|\|
-`{{https://upload.wikimedia.org/wikipedia/commons/7/7d/Einschaltverzögerung.png|Schaltplan einer Einschaltstrombegrenzung|width="100%"}}`{=mediawiki}
+`{{https://upload.wikimedia.org/wikipedia/commons/7/7d/Einschaltverzögerung.png|Schaltplan einer Einschaltstrombegrenzung|width="100%"}}`
 \|\| \|\|\~-Der im Bild gezeigte Trafo ist nur als Beispiel für eine
 Last zu verstehen und ist nicht zwingend erforderlich.-\~ \|\|
 -->

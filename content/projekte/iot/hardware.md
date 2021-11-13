@@ -14,7 +14,7 @@ Knoten (= Sensoren oder Aktoren)
 
 ## Brainstroming
 
-<!-- [`{{attachment:IoD_V0.3.jpg|attachment:IoD_V0.3.jpg|width="600"}}`{=mediawiki}](attachment:IoD_V0.3.jpg) -->
+<!-- [{{attachment:IoD_V0.3.jpg|attachment:IoD_V0.3.jpg|width="600"}}](attachment:IoD_V0.3.jpg) -->
 
 - [ESP8266](ESP8266)-01 (billigster Typ), ggf. [Whitty
   Cloud](http://www.schatenseite.de/2016/04/22/esp8266-witty-cloud-modul/)
@@ -38,7 +38,7 @@ Knoten (= Sensoren oder Aktoren)
 
 ## Funktion
 
-<!-- [`{{attachment:20170125_164320.jpg|attachment:20170125_164320.jpg|width="400"}}`{=mediawiki}In](attachment:20170125_164320.jpg) -->
+<!-- [{{attachment:20170125_164320.jpg|attachment:20170125_164320.jpg|width="400"}}In](attachment:20170125_164320.jpg) -->
 In einem ersten Muster haben wir den ESP in Ruhe im Sleep Mode betrieben,
 und über seine Reset Leitung geweckt (In [Messungen](messungen/)
 Details zur Akkulaufzeit). An einer Tür ist dazu ein Schleifkontakt

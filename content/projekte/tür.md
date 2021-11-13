@@ -32,7 +32,7 @@ RFID-Karte
 
 (Teils veraltet)
 
-<!-- [`{{attachment:schloss.jpg}}`{=mediawiki}](http://flipdot.org/blog/archives/345-Das-Auge-schliesst-mit!.html) -->
+<!-- [{{attachment:schloss.jpg}}](http://flipdot.org/blog/archives/345-Das-Auge-schliesst-mit!.html) -->
 
 ### Anforderungen
 
@@ -113,7 +113,7 @@ bewegen konnte.
 
 <!--
 \|\|[geschlossen](attachment:fdclosed.png) \|\|
-`{{attachment:fdclosed.png|closed}}`{=mediawiki}\|\|
+`{{attachment:fdclosed.png|closed}}`\|\|
 \|\|[offen](attachment:fdclosed.png) \|\|
-`{{attachment:fdopen.png|open}}`{=mediawiki}\|\|
+`{{attachment:fdopen.png|open}}`\|\|
 -->

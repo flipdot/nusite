@@ -5,7 +5,7 @@ title = "3D-Drucker: Slicing"
 ## PrusaSlicer
 
 <https://www.prusa3d.de/prusaslicer/> ist sehr empfehlenswert.
-`{{https://forum.flipdot.org/uploads/default/original/2X/b/bf69286baff3bed6238a4c45baf08a16f99df278.jpeg}}`{=mediawiki}
+`{{https://forum.flipdot.org/uploads/default/original/2X/b/bf69286baff3bed6238a4c45baf08a16f99df278.jpeg}}`
 
 Die Einstellungen für den Slicer sind in der INI Datei zusammengefasst.
 

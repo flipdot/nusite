@@ -46,16 +46,16 @@ Flipdot Display angezeigt. Außerdem werden folgende Bilder
 hineingemischt:
 
 <!--
-\|\|[`{{attachment:box.gif}}`{=mediawiki}](attachment:box.gif)
-\|\|[`{{attachment:auto.gif}}`{=mediawiki}](attachment:auto.gif)
-\|\|[`{{attachment:dickbutt.gif}}`{=mediawiki}](attachment:dickbutt.gif)
+\|\|[{{attachment:box.gif}}](attachment:box.gif)
+\|\|[{{attachment:auto.gif}}](attachment:auto.gif)
+\|\|[{{attachment:dickbutt.gif}}](attachment:dickbutt.gif)
 \|\|
-\|\|[`{{attachment:monkey.gif}}`{=mediawiki}](attachment:monkey.gif)
-\|\|[`{{attachment:black.png}}`{=mediawiki}](attachment:black.png)
-\|\|[`{{attachment:flipdot.png}}`{=mediawiki}](attachment:flipdot.png)
+\|\|[{{attachment:monkey.gif}}](attachment:monkey.gif)
+\|\|[{{attachment:black.png}}](attachment:black.png)
+\|\|[{{attachment:flipdot.png}}](attachment:flipdot.png)
 \|\|
-\|\|[`{{attachment:monkey2.gif}}`{=mediawiki}](attachment:monkey2.gif)\|\|[`{{attachment:link.png}}`{=mediawiki}](attachment:link.png)
-\|\|[`{{attachment:hase.png}}`{=mediawiki}](attachment:hase.png)
+\|\|[{{attachment:monkey2.gif}}](attachment:monkey2.gif)\|\|[{{attachment:link.png}}](attachment:link.png)
+\|\|[{{attachment:hase.png}}](attachment:hase.png)
 \|\|
 -->
 

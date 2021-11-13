@@ -57,7 +57,7 @@ Der klobot ist ein Teil der [Hackerspace Kybernetik](Neuland/Cyber/).
 - Anströmdüse vor dem Ventilator
 
 <!--
-\|\|`{{attachment:luefter.png|Lüfter|heigth="400px"}}`{=mediawiki}\|\|`{{attachment:papierzähler.png|Papierzähler|height="400px"}}`{=mediawiki}\|\|
+\|\|`{{attachment:luefter.png|Lüfter|heigth="400px"}}`\|\|`{{attachment:papierzähler.png|Papierzähler|height="400px"}}`\|\|
 \|\|Lüfter\|\|Papierzähler\|\|
 -->
 

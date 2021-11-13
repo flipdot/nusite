@@ -25,4 +25,4 @@ title = "Getränkezähler: Usage"
 
 ## Siehe auch
 
-[`https://flipdot.org/wiki/Getr%C3%A4nke`](https://flipdot.org/wiki/Getr%C3%A4nke)
+<https://flipdot.org/wiki/Getr%C3%A4nke>

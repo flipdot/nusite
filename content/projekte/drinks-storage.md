@@ -24,7 +24,7 @@ benannt werden.
 Das folgende Diagramm soll helfen zu erklären, wie die einzelnen Teile
 des Projekts ineinander greifen:
 
-<!-- [`{{attachment:drinks-storage.png||width=100%}}`](Projekte/Drinks%20Storage?action=AttachFile&do=get&target=drinks-storage.png) -->
+<!-- [{{attachment:drinks-storage.png}}](Projekte/Drinks%20Storage?action=AttachFile&do=get&target=drinks-storage.png) -->
 
 *Datei auch als [.dia-Datei](attachment:drinks-storage.dia) vorhanden*
 
@@ -32,14 +32,14 @@ des Projekts ineinander greifen:
 
 #### Video
 
-<!-- [`{{attachment:vimeo-link.png||width=800}}`](https://vimeo.com/234878854) -->
+<!-- [{{attachment:vimeo-link.png}}](https://vimeo.com/234878854) -->
 
 Auf dem Video sollte gut zu erkennen sein, wie die MQTT-Nachrichten bei
 einer Veränderung der Kastenanzahl eintreffen.
 
 #### Frästeil
 
-<!-- {{attachment:kisten-schema.png||width=100%}} -->
+<!-- {{attachment:kisten-schema.png}} -->
 
 Die aktuelle Iteration der Waagen sind beidseitig aus MDF-Platten
 gefräst und mit einigen Millimetern Spiel auf die einzelnen Kistenböden
@@ -49,7 +49,7 @@ Gefräste Kabelkanäle führen die Kabel von den Sensoren in die Mitte und
 von dort aus gebündelt zur Seite. An der Seite ist ein Einschub für ein
 3D-Druck-Gehäuse in dem sich das Sensor-Board befindet.
 
-<!-- {{attachment:magic.gif||width=640}} -->
+<!-- {{attachment:magic.gif}} -->
 
 Erstellt wurde das 3D-Modell mit
 [Rhino](https://www.rhino3d.com/). Die Konturlinien für die
@@ -57,13 +57,13 @@ einzelnen Kistenböden sind aus den jeweiligen abfotografierten Kisten
 entstanden. Oben sieht man die schematische Nachzeichnung. Hier
 3D-Frästeile ohne den seitlichen Einschub
 
-<!-- {{attachment:aschorle_unten.jpg||width=100%}} -->
+<!-- {{attachment:aschorle_unten.jpg}} -->
 
-<!-- {{attachment:aschorle_oben.jpg||width=100%}} -->
+<!-- {{attachment:aschorle_oben.jpg}} -->
 
 Und die fertig gefrästen Teile:
 
-<!-- {{attachment:mio_xxx.jpg||width=100%}} -->
+<!-- {{attachment:mio_xxx.jpg}} -->
 
 #### 3D-Druck-Gehäuse
 
@@ -77,9 +77,9 @@ als `.stl`-Datei exportiert. Die `.stl`-Datei wurde dann in
 [Cura](https://ultimaker.com/en/products/ultimaker-cura-software)
 importiert wovon dann die zu druckende `.gcode`-Datei erstellt wurde.
 
-<!-- {{attachment:3d_druck_1.jpg||width=100%}} -->
+<!-- {{attachment:3d_druck_1.jpg}} -->
 
-<!-- {{attachment:einschub.jpg||width=100%}} -->
+<!-- {{attachment:einschub.jpg}} -->
 
 #### Board
 
@@ -96,9 +96,9 @@ dicke tragende Wand aus Backstein, bzw. durch eine dicke Eisentür. Der
 daraus resultierende Packet Loss stellt allerdings kein Problem dar, da
 die Daten nicht zeitkritisch sind.
 
-<!-- {{attachment:lol_breakout.png||width=100%}} -->
+<!-- {{attachment:lol_breakout.png}} -->
 
-<!-- {{attachment:breakout_haufen.jpg||width=100%}} -->
+<!-- {{attachment:breakout_haufen.jpg}} -->
 
 ### Datenpfad
 
@@ -117,7 +117,7 @@ jeweiligen Getränkesorte angepasst auf den speziellen Sensor. Dieser
 ermittelte Wert für die Anzahl der Kästen wird dann periodisch im
 MQTT-Topic `sensors/cellar/drinks_crate_counts` veröffentlicht.
 
-<!-- {{attachment:waage_mit_eichstein.jpg||width=100%}} -->
+<!-- {{attachment:waage_mit_eichstein.jpg}} -->
 
 #### Web-Server
 
@@ -144,7 +144,7 @@ vorhanden ist. An folgendem Plot kann man dabei erkennen, dass dem nicht
 so ist. Da eine einzelne Kiste etwa einen rohen Sensorwert von 25k hat,
 ist das Rauschen selbst bei `fritz_cola` zu vernachlässigen:
 
-<!-- {{attachment:no_drift.png||width=100%}} -->
+<!-- {{attachment:no_drift.png}} -->
 
 #### Bestellungen
 
@@ -156,7 +156,7 @@ die insgesamte Anzahl der zu bestellenden Kästen einen Schwellwert
 übersteigt, wird eine Bestellung per Mail Versand. Der PDF-Anhang für
 unsre allererste Bestellung sah so aus:
 
-<!-- {{attachment:erste-bestellung.png||width=100%}} -->
+<!-- {{attachment:erste-bestellung.png}} -->
 
 Diese wird von unserem CEOB (Chief Executive Of Boozyness)
 entgegengenommen, auf Richtigkeit geprüft und anschliessend an den

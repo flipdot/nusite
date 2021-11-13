@@ -84,4 +84,4 @@ Kleinbuchstaben. z.B. Soll = 20C. 20\*2 = 40; 40=28h
 ## Busankopplung [RasPi](RasPi) - CAN
 
 Optokoppler: 4N25
-<!-- `{{attachment:CAN-Busankopplung_2.jpg|CAN Busankopplung}}`{=mediawiki} -->
+<!-- `{{attachment:CAN-Busankopplung_2.jpg|CAN Busankopplung}}` -->
