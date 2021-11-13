@@ -8,7 +8,7 @@ path = "/blog/2009/06/13/communication"
 </blog/> (du liest es gerade)
 
 **Wiki**  
-</wiki/>
+~~/wiki/~~
 
 **Mail:**  
 com {kringeldings} flipdot {punkt} org
@@ -21,6 +21,4 @@ Mensch)
 [FlipDot\_KS](https://twitter.com/flipdot_kassel)
 
 **IRC**  
-<irc://irc.freenode.net/flipdot>, auch als
-[Webchat](https://webchat.freenode.net/?channels=flipdot&uio=MTE9NjI30)
-im Browser
+~~irc://irc.freenode.net/flipdot~~, auch als ~~Webchat~~ im Browser
