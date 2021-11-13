@@ -27,7 +27,7 @@ Entwurf - möglichst kein Feature Creep!
 - Knoten übertragen entweder
   - nur eine Transition (Lichtschranke durchschritten, Klingeltaste
     gedrückt) => einfacher Aufbau, ESP im
-    [DeepSleep](DeepSleep), oder
+    DeepSleep, oder
   - Transition und neuen Status (Tür wurde bewegt, ist jetzt offen)
     => Attiny nötig um *Wechsel* zu erkennen, *oder* Lösung mit zwei Schaltern
 - Knoten sind billig

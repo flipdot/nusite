@@ -4,15 +4,13 @@ title = "CANberry"
 
 <!-- {{attachment:Canberry.jpg|CANberry}} -->
 
-Am [CANberry](CANberry) auf der Hutschiene hängt an seiner
-seriellen Schnittstelle via Optokoppler ein CAN-Bus Receiver. Auf dem
-Bus wird auch 12 V mitgeführt, aus dieser Spannung machen sich die CAN
-Bus Clients ihre Betriebsspannung. Vom Pi auf den Bus gesendete Bits
-werden direkt sofort auch wieder vom Pi empfangen, weil der Bus für Hin-
-und Rückweg nur einen Kanal hat.
+Am CANberry auf der Hutschiene hängt an seiner seriellen Schnittstelle via
+Optokoppler ein CAN-Bus Receiver. Auf dem Bus wird auch 12 V mitgeführt, aus
+dieser Spannung machen sich die CAN Bus Clients ihre Betriebsspannung. Vom Pi
+auf den Bus gesendete Bits werden direkt sofort auch wieder vom Pi empfangen,
+weil der Bus für Hin- und Rückweg nur einen Kanal hat.
 
-- [Spacecontrol @
-  github](https://github.com/flipdot/Spacecontrol)
+- [Spacecontrol @ github](https://github.com/flipdot/Spacecontrol)
 
 ## Client Befehle
 
@@ -81,7 +79,7 @@ Kleinbuchstaben. z.B. Soll = 20C. 20\*2 = 40; 40=28h
 
     :theemin setTargetTemp xx
 
-## Busankopplung [RasPi](RasPi) - CAN
+## Busankopplung RasPi - CAN
 
 Optokoppler: 4N25
 <!-- `{{attachment:CAN-Busankopplung_2.jpg|CAN Busankopplung}}` -->

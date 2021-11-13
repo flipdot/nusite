@@ -16,7 +16,7 @@ Knoten (= Sensoren oder Aktoren)
 
 <!-- [{{attachment:IoD_V0.3.jpg|attachment:IoD_V0.3.jpg|width="600"}}](attachment:IoD_V0.3.jpg) -->
 
-- [ESP8266](ESP8266)-01 (billigster Typ), ggf. [Whitty
+- ESP8266-01 (billigster Typ), ggf. [Whitty
   Cloud](http://www.schatenseite.de/2016/04/22/esp8266-witty-cloud-modul/)
   Modul (schick)
 - Batterieversorgung Alkaline / Eneloop (ggf. ergänzt durch PV)
@@ -154,7 +154,7 @@ F](https://www.reichelt.de/BA-BAY-BB-Dioden/B-140-F/3/index.html?ACTION=3&LA=5&A
 100U](https://www.reichelt.de/Vielschicht-SMD-G1210/X5R-1210-DB-100U/3/index.html?ACTION=3&GROUPID=3167&ARTICLE=194475&OFFSET=75&)
 \|\| \|\|3 \|\|Vielschicht-Kerko, 100nF, 50V (Alternativ in
 [0603](https://www.reichelt.de/Vielschicht-SMD-G0603/KEM-Y5V0603-100N/3/index.html?ACTION=3&GROUPID=3166&ARTICLE=207005&OFFSET=75&))
-\|\|0,02 \|\|[KEM [X7R0805](X7R0805)
+\|\|0,02 \|\|[KEM X7R0805
 100N](https://www.reichelt.de/Vielschicht-SMD-G0805/KEM-X7R0805-100N/3/index.html?ACTION=3&GROUPID=8048&ARTICLE=207073&OFFSET=75&)
 \|\| \|\|0,5 \|\|2x10pol. Buchsenleiste, gerade, RM 2,54 (Halbiert für
 ESP Anschluß) \|\|0,56 \|\|[BL 2X10G

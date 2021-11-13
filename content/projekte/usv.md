@@ -8,7 +8,7 @@ title = "USV"
 
 Eine große
 [USV](https://de.wikipedia.org/wiki/Unterbrechungsfreie_Stromversorgung)
-(aka. "DIE USV"℠) soll dazu dienen, den [Server](Server)
+(aka. "DIE USV"℠) soll dazu dienen, den Server
 mit Notstrom zu versorgen, damit dieser ~~(sanft herunterfahren kann)~~
 im Notbetrieb ~~(mind. 12h)~~ ca 20-40min weiterläuft und Services
 unterbrechungsfrei zur Verfügung stellt (z.B. [Internet](Neuland/Internet)
@@ -30,13 +30,11 @@ Folgende Systeme müssen möglichst lang am Leben gehalten werden:
 ### APC
 
 [typ_o](typ_o) hat noch eine alte USV bei sich zu Hause, die
-er dafür spenden wollte. Es handelt sich wohl um eine
-[SmartUPS1000](SmartUPS1000) von APC.
+er dafür spenden wollte. Es handelt sich wohl um eine SmartUPS1000 von APC.
 
 Die USV hier ist wohl nicht die, die [typ_o](typ_o) hat? Oder
 wurde das von [typ_o](typ_o) bestätigt?
 <https://img.conrad.de/medias/global/ce/9000_9999/9700/9730/9738/973893_LB_00_FB.EPS_1000.jpg>
-\| [SmartUPS1000](SmartUPS1000) von APC\|height="200px"
 
 - TODO: USV vor Bestellung von den Akkus nochmal testen!
 

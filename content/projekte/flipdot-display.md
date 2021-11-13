@@ -15,17 +15,15 @@ zum Laufen bringen, und den Pfad zu einem animierten GIF, oder normalem
 Bild angeben.
 
 Das Skript befindet sich neben einigen anderen nützlichen Skripten auch
-in [unseren [GitHub](GitHub)
-Repository](https://github.com/flipdot/flipdots-wall). Dort
+in [unserem GitHub Repository](https://github.com/flipdot/flipdots-wall). Dort
 findet sich beispielsweise ein flipdot Simulator, um auch zuhause mit
 dem flipdot Display experimentieren zu können.
 
 ### GIMP
 
 Für das oben genannte Python-Skript kannst du auch Bilder in GIMP
-erstellen. Entweder statisch, oder animierte [GIFs](GIFs).
-Das beste Ergebnis gibts bei purem Schwarz-Weiss in der Auflösung des
-Displays.
+erstellen. Entweder statisch, oder animierte GIFs.
+Das beste Ergebnis gibts bei purem Schwarz-Weiss in der Auflösung des Displays.
 
 ### Blender
 

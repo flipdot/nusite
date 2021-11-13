@@ -27,7 +27,7 @@ Nette modes:
 
 ## Panel
 
-(Neben der Lounge - Tür, 5 [LEDs](LEDs) als Demo für ein
+(Neben der Lounge - Tür, 5 LEDs als Demo für ein
 späteres Status - Panel
 
 - Node subscribed Topic: actors/lounge/panel

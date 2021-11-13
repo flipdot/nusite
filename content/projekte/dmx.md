@@ -24,7 +24,7 @@ Materialsammlung
 
 Kosten
 
-- [ArtNet](ArtNet) Konverter (Ethernet -\> RS485)
+- ArtNet Konverter (Ethernet -\> RS485)
 - AVR DMX-Empfänger
   - Kaufen
     ([Arduino](http://www.dx.com/de/p/funduino-uno-r3-atmega328-development-board-for-arduino-384207) +
@@ -34,7 +34,7 @@ Kosten
 - [DMX-Kabel](http://www.thomann.de/de/the_sssnake_dmxkabel_3003.htm)
   3 pol. XLR (ca. 18x, 6,50 € = 117 € bei Thomann)
 - Halogen Blinkenlight auf dem Kabelkanal (Geht mit der Arduino Lib
-  und n [MOSFETs](MOSFETs))
+  und n MOSFETs)
 - LED DMX
   [Leuchtleiste](http://www.thomann.de/de/stairville_led_bar_120_4_rgb_dmx_30_05m.htm?ref=search_rslt_dmx+led_355287_1)
   (8x, ca. 60,00 € = 480 € bei Thomann)

@@ -12,7 +12,7 @@ Space-Netzwerk die Wiedergabe steuern.
 Folgendes muss unter Arch Linux installiert und konfiguriert werden, um
 auf den pixelfun-Pi streamen zu können:
 
-- "paprefs" installieren und "Make discoverable [PulseAudio](PulseAudio)
+- "paprefs" installieren und "Make discoverable PulseAudio
   network sound devices available locally" aktivieren
 - "pulseaudio-zeroconf" installieren und "avahi-daemon.service"
   starten / aktivieren (systemctl)

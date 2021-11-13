@@ -13,15 +13,15 @@ bisschen fehlleitend, weil sie nicht ganz binär funktioniert.
 +----+----+----+----+----+----+----+----+
 ```
 
-B = blaue [LEDs](LEDs)
+B = blaue LEDs
 
-G = gelbe [LEDs](LEDs)
+G = gelbe LEDs
 
 ## Uhrzeit ablesen
 
 ### Stunden
 
-Die Stunden werden durch die blauen [LEDs](LEDs) dargestellt.
+Die Stunden werden durch die blauen LEDs dargestellt.
 Wenn eine LED an ist, hat sie den Wert 1, wenn sie aus ist, hat sie den
 Wert 0:
 
@@ -33,7 +33,7 @@ Wert 0:
 
 ### Minuten
 
-Die Minuten werden durch die gelben [LEDs](LEDs) dargestellt.
+Die Minuten werden durch die gelben LEDs dargestellt.
 Je heller eine LED ist, desto näher ist sie dem Faktor 1, je dunkler,
 desto näher dem Faktor 0. Dadurch lässt sich die Zeit nur sehr grob
 definieren:

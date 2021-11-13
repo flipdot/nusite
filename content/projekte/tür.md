@@ -59,7 +59,7 @@ RFID-Karte
 
 - GSM Türschloss installiert
 - Türsummer an der Südtür wird zum schließen über Relais mit 8 V AC versorgt
-- Lösung für Räume oben: [ToDo](ToDo)
+- Lösung für Räume oben: ToDo
 
 ## Alte Schlossimplementationen
 

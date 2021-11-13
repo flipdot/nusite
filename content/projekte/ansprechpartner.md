@@ -61,7 +61,6 @@ ESP Nodes / MQTT abgelöst.**
 - Ansprechpartner: feliks (Server Zugang), typ_o (Blog-Content, wenn
   du was posten willst)
 - Benutzer-Online-Liste: malled
-  - [SpaceStatus](Doku/SpaceStatus)
 
 ## forum.flipdot.org Forum
 

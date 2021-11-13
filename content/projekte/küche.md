@@ -7,7 +7,7 @@ Unsere Küche teilt sich in eine \'Tee\'küche und eine Spülküche.
 ## Hacker
 
 - Dennis (Projektmanagement)
-- [BananaJoe](BananaJoe) (Smutje, Wasser-Anschluss)
+- BananaJoe (Smutje, Wasser-Anschluss)
 - Wolfi (Wasser-Anschluss)
 
 ## Teeküche
@@ -38,7 +38,7 @@ Nachbarn und Gäste.
 
 ### Fehlendes
 
-- Dunstabzugshaube und [Abluftanlage](Abluftanlage)
+- Dunstabzugshaube und [Abluftanlage](/projekte/abluftanlage/)
 - Oberschränke für Gewürze und Essen
 - Schloss für Kühlschrank
 - Spendenbox für Essen

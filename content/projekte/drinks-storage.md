@@ -14,7 +14,7 @@ Bestellung an den Getränkelieferanten gemailt werden. Dieser kann dann
 mit eigenem Gebäudezugang die Getränke nachfüllen.
 
 Historische Daten der Getränkewaagen sind im
-[Grafana](Grafana) zu finden, wobei man auch dem Lieferanten
+[Grafana](/projekte/grafana/) zu finden, wobei man auch dem Lieferanten
 live aus der Ferne zuschauen kann, wie er Mate stapelt. In der Industrie
 würde das Projekt wohl als Supply Chain Management für Spirituosen
 benannt werden.
@@ -123,15 +123,14 @@ MQTT-Topic `sensors/cellar/drinks_crate_counts` veröffentlicht.
 
 Das Projekt
 [`iod-api-bridge`](https://github.com/flipdot/iod-api-bridge)
-sort dafür, dass die Anzahl der Kästen an unsere
-[Space-API](Space-API) übertragen wird, wo sie auch aus dem
-Internet aus abrufbar sind.
+sorgt dafür, dass die Anzahl der Kästen an unsere Space-API übertragen wird,
+wo sie auch aus dem Internet aus abrufbar sind.
 
 #### Statistiken
 
 Die nächste Station ist zum einen unsre
-[Grafana](Grafana)-Instanz, die die Daten von der
-[Space-API](Space-API) minütlich pollt und die historischen
+[Grafana](/projekte/grafana/)-Instanz, die die Daten von der
+Space-API minütlich pollt und die historischen
 Daten der Öffentlichkeit anbietet. Auf dem entsprechenden
 [Dashboard](https://stats.flipdot.org/dashboard/db/drinks-storage)
 findet man aktuelle Daten.

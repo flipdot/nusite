@@ -6,7 +6,7 @@ Mit dem Arduino kann man ein Puls und Sauerstoff Meßgerät bauen, das per
 OLED-Display die Werte ausgibt.
 
 Hier der Versuch: Arduino Puls und Blutsauerstoff Meßgerät OLED-Display,
-[MAX30102](MAX30102) Sensor, Arduino Nano
+MAX30102 Sensor, Arduino Nano
 
 - Anleitung:
   <https://create.arduino.cc/projecthub/jeffreymagee/attiny85-pulse-oximeter-and-photoplethysmograph-e3f907>

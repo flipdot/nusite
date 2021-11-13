@@ -14,7 +14,7 @@ Zentraler MQTT Broker
 
 - Läuft auf power-pi.fd
 
-### [NodeRed](NodeRed)
+### NodeRed
 
 Stell das GUI für die wesentlichen Funktionen des Space bereit.
 Einfaches Web-Frontend, einfache "Programmierung" der Funktionen in
@@ -38,7 +38,7 @@ iod-nodes).
 
 Software für selbst gebaustelte Sensoren. Wartet im Standby, bis
 Schalter An oder Aus geht. Schaltet dann den größeren, stromhungrigeren,
-WLAN-fähigen [ESP8266](ESP8266) ein um die Statusänderung zu
+WLAN-fähigen ESP8266 ein um die Statusänderung zu
 übermitteln. Nimmt schließlich nach der Übertragung den Strom wieder weg
 und legt sich schlafen.
 

@@ -89,7 +89,7 @@ Antwort
 
      ok
 
-## Busankopplung [RasPi](RasPi) - CAN
+## Busankopplung RasPi - CAN
 
 Optokoppler: 4N25
 

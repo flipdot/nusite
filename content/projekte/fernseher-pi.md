@@ -2,10 +2,9 @@
 title = "Fernseher Pi"
 +++
 
-- [Eigenen Desktop an den Fernseher
-  streamen](Doku/BildschirmAnFernseher)
+- [Eigenen Desktop an den Fernseher streamen](/projekte/bildschirm-an-fernseher/)
 
-TODO
+TODO:
 
 - Medien von der datenschleuder wiedergeben
   - Kodi?

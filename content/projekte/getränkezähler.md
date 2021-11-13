@@ -46,8 +46,7 @@ des Getränkezählers.
 
 ### Anleitung
 
-==> Hier gehts zur
-[Getränkezähler_Usage](Getränkezähler_Usage)
+==> Hier gehts zur [Getränkezähler Usage](usage/)
 
 ### Hacker
 
@@ -76,7 +75,7 @@ des Getränkezählers.
     SQL Datenbank modellieren
 4. Termin: 27.04.2016
     Case fertigbauen und im Space installieren
-    [RasPi](RasPi) bestellen
+    RasPi bestellen
 5. Termin: 28.04.2016
     Raspi anschliessen und einrichten
     Barcodes in Datenbank speichern und zählen

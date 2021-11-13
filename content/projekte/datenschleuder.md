@@ -44,7 +44,7 @@ Und so kannst du das Ganze wieder aushängen:
 
 ### (S)FTP Client
 
-Mit Hilfe von [FileZilla](FileZilla) (oder ähnlichen
+Mit Hilfe von FileZilla (oder ähnlichen
 SFTP-fähigen Programmen) kannst du dich zur *Datenschleuder* mit
 folgenden Angaben verbinden:
 

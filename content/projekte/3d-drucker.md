@@ -87,10 +87,8 @@ Unser Drucker hat folgende eigenschaften: Bauraum: 220mm x 220mm x 230mm
 - Maximale Drucktemperatur 230°C (Abschaltung bei 250°C)
 - Mit unsterem Drucker können PLA (200°C) und PETG (220°C) verdruckt werden.
 
-Zum Slicen können Cura oder [PrusaSlicer](PrusaSlicer)
-verwendet werden. Die Einrichtung des Slicers ist auf der folgenden
-Seite beschrieben.
-<https://www.flipdot.org/wiki/Projekte/3D-Drucker/Slicing>
+Zum Slicen können Cura oder PrusaSlicer verwendet werden. Die Einrichtung des
+Slicers ist auf der folgenden Seite beschrieben: [Slicing](slicing/)
 
 Die fertige .gcode Datei wird auf eine Micro SD-Karte gespeichert und
 die SD-Karte in den Drucker gesteckt. Lege einen Ordner mit deinem Namen
