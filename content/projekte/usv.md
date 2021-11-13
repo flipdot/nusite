@@ -68,7 +68,7 @@ werden, sie benötigen ein sanftes Herunterfahren:
     dezentrale USV geredet. Ich halte das für sinnvoll, weil einige
     Pi Projekte kommen und gehen, ohne zentralistische Planung.*
 
-*siehe auch andere [Projekte](Projekte)*
+*siehe auch andere [Projekte](/projekte/)*
 
 ## Hacker
 

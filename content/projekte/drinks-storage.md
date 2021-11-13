@@ -24,16 +24,15 @@ benannt werden.
 Das folgende Diagramm soll helfen zu erklären, wie die einzelnen Teile
 des Projekts ineinander greifen:
 
-<!-- [`{{attachment:drinks-storage.png||width=100%}}`{=mediawiki}](Projekte/Drinks%20Storage?action=AttachFile&do=get&target=drinks-storage.png) -->
+<!-- [`{{attachment:drinks-storage.png||width=100%}}`](Projekte/Drinks%20Storage?action=AttachFile&do=get&target=drinks-storage.png) -->
 
-*Datei auch als [.dia-Datei](attachment:drinks-storage.dia)
-vorhanden*
+*Datei auch als [.dia-Datei](attachment:drinks-storage.dia) vorhanden*
 
 ### Waagen
 
 #### Video
 
-<!-- [`{{attachment:vimeo-link.png||width=800}}`{=mediawiki}](https://vimeo.com/234878854) -->
+<!-- [`{{attachment:vimeo-link.png||width=800}}`](https://vimeo.com/234878854) -->
 
 Auf dem Video sollte gut zu erkennen sein, wie die MQTT-Nachrichten bei
 einer Veränderung der Kastenanzahl eintreffen.

@@ -53,4 +53,4 @@ Last zu verstehen und ist nicht zwingend erforderlich.-\~ \|\|
   (2 €) + vorhandener Pi. Der Pi erkennt wenn Space geschlossen -\>
   offen, sendet im Sekundenabstand Einschaltcodes an die Dosen - done.
 
-*siehe weitere [Projekte](Projekte)*
+*siehe weitere [Projekte](/projekte/)*

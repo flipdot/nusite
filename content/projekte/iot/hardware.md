@@ -40,8 +40,7 @@ Knoten (= Sensoren oder Aktoren)
 
 <!-- [`{{attachment:20170125_164320.jpg|attachment:20170125_164320.jpg|width="400"}}`{=mediawiki}In](attachment:20170125_164320.jpg) -->
 In einem ersten Muster haben wir den ESP in Ruhe im Sleep Mode betrieben,
-und über seine Reset Leitung geweckt (In
-[Projekte/IoT/Hardware/Messungen](Projekte/IoT/Hardware/Messungen)
+und über seine Reset Leitung geweckt (In [Messungen](messungen/)
 Details zur Akkulaufzeit). An einer Tür ist dazu ein Schleifkontakt
 nötig, der sowohl bei geschlossener als auch bei offener Tür nicht
 aktiviert ist, und nur z.B. während der Öffnungsbewegung ein mal

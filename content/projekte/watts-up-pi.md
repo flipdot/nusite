@@ -7,4 +7,4 @@ Stromverbrauch im Space maß und wieder messen wird.*
 
 <!-- [`{{attachment:watts-up-pi.jpeg}}`{=mediawiki}](http://flipdot.org/blog/archives/254-Watts-up.html) -->
 
-[Old Data](http://flipdot.org/blog/archives/265-Watts-up-Pi-misst-Watts.html)
+[Old Data](/blog/2014/12/11/watts-up-pi-misst-watts/)

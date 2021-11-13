@@ -32,7 +32,7 @@ Zählt den gesamten Space.
 
 ## Türschloss
 
-[Projektseite](Projekte/Tür)
+[Projektseite](/projekte/tür/)
 
 - Initiator: typ_o
 - Ansprechpartner: Schloss unten (GSM) typ_o, Schloss oben (SSH): malled
@@ -43,8 +43,8 @@ Zählt den gesamten Space.
 
 ## CAN-Bus
 
-[Projektseite](Projekte/CANberry) ***Deprecated, wird durch
-ESP Nodes / MQTT abgelöst.***
+[Projektseite](/projekte/canberry/) **Deprecated, wird durch
+ESP Nodes / MQTT abgelöst.**
 
 - Initiator: typ_o (Hardware), Daniel Huhn, malled (Software)
 - Code: <https://github.com/flipdot/Spacecontrol/tree/master/CanBusServer>
@@ -84,14 +84,14 @@ ESP Nodes / MQTT abgelöst.***
 
 ## Küche
 
-[Projektseite](Projekte/Küche)
+[Projektseite](/projekte/küche/)
 
 - Initiator: kssoz
 - Ansprechpartner: and, typ_o
 
 ## IoT / IoD / MQTT
 
-[Projektseite](Projekte/IoT)
+[Projektseite](/projekte/iot/)
 
 - Ansprechpartner: feliks, typ_o, jplatte
 
