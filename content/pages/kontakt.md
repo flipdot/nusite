@@ -25,11 +25,12 @@ oder in in unserem [Matrix-Chatraum][matrix].
 * Telefon: +49 561 47395848
 * Matrix: [#general:flipdot.org][matrix], Details und Hilfe [hier][matrix-details]
 * Mumble: `mumble.flipdot.org`, [Details hier][mumble-details]
-* Telegram Gruppe: siehe [hier][matrix-details]
+* Telegram Gruppe: siehe [hier][telegram-details]
 
 [matrix]: https://matrix.to/#/#general:flipdot.org?via=flipdot.org&via=matrix.org
 [matrix-details]: /matrix/
 [mumble-details]: /mumble/
+[telegram-details]: /matrix/#Telegram
 
 ## Anfahrt
 
