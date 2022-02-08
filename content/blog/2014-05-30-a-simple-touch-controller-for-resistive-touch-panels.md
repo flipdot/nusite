@@ -44,10 +44,10 @@ as raw A/D-converter values. Calibration and calculation of touched
 character position is done by the Python script. If you touch the
 surface of the panel, there will be a "503,220" on the serial line for
 example. If you remove your finger, the controller will transmit the
-text "RELEASE". That'sall.
+text "RELEASE". That's all.
 [KISS](https://en.wikipedia.org/wiki/KISS_principle).
 
-## German Version
+## German Version {#german-version}
 
 Inzwischen gibt\'s eine Menge bezahlbarer TFTs für den Pi, zum Beispiel
 [das
