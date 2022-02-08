@@ -4,7 +4,7 @@ date = 2010-10-07T21:01:47Z
 author = "typ_o"
 path = "/blog/2010/10/07/sonntag-zum-digitalen-datum-in-den-hackerspace"
 +++
-Wer sich bisher noch nicht zum [~~öffentlichen Treffen~~](#) vom
+Wer sich bisher noch nicht zum <a href="#"><del>öffentlichen Treffen</del></a> vom
 [flipdot - hackerspace kassel](https://web.archive.org/web/20120105031721/https://flipdot.org/wiki/index.php?title=Hallo!)
 (an jeden Dienstag Abend) getraut hat, weil ihm VPN, IPSEC, ISP und FUBAR zu
 [kryptische

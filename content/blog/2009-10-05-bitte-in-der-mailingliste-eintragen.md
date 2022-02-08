@@ -5,8 +5,7 @@ author = "typ_o"
 path = "/blog/2009/10/05/bitte-in-der-mailingliste-eintragen"
 +++
 Die interne Mailingliste von flipdot (Low traffic) ist eingerichtet,
-bitte trag dich
-[~~hier~~](#) ein.
+bitte trag dich <a href="#"><del>hier</del></a> ein.
 
 (Du kriegst eine Mail, in der eine Zeile der Form **auth 2824a7f7
 subscribe discuss-flipdot-org \[deine_mailadresse\]** zu finden ist.
