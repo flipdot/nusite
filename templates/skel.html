@@ -45,6 +45,8 @@
 
 {% block head_extra %}{% endblock head_extra -%}
 
+<body {% block body_attrs %}{% endblock body_attrs %}>
+
 {% include "includes/site_header.html" -%}
 
 <div class="site-content">
@@ -54,3 +56,5 @@
 </div>
 
 {% include "includes/site_footer.html" %}
+
+</body>
