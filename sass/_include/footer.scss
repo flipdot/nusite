@@ -7,6 +7,10 @@ footer {
     padding: .5rem 1rem 1.5rem;
     max-width: var(--max-content-width);
 
+    body.wide & {
+        max-width: var(--max-content-width-wide);
+    }
+
     display: flex;
     list-style: none;
     font-size: 90%;

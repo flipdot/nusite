@@ -4,6 +4,10 @@
     width: 100%;
     max-width: var(--max-content-width);
 
+    body.wide & {
+        max-width: var(--max-content-width-wide);
+    }
+
     h1 {
         width: 100%;
         border-bottom: 2px solid var(--flipdot-yellow);

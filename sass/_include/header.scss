@@ -1,13 +1,16 @@
 .site-header {
     height: 4rem;
     margin: 0 auto;
+    width: 100%;
+    max-width: var(--max-content-width);
+
+    body.wide & {
+        max-width: var(--max-content-width-wide);
+    }
 
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-
-    width: 100%;
-    max-width: var(--max-content-width);
 
     .title {
         height: 4rem;
@@ -95,10 +98,14 @@
 }
 
 .space-status-tooltip-inner {
-    max-width: var(--max-content-width);
     margin: 0 auto;
     padding: 0 1rem;
     position: relative;
+    max-width: var(--max-content-width);
+
+    body.wide & {
+        max-width: var(--max-content-width-wide);
+    }
 }
 
 #space-status-tooltip .header {
