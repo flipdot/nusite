@@ -1,6 +1,5 @@
 +++
 title = "FAQ"
-path = "/faq/"
 +++
 
 *flipdot hackspace kassel - alles was du über uns wissen musst*

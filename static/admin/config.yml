@@ -34,7 +34,7 @@ collections:
   # Our pages e.g. About
   - name: "pages"
     label: "Seite"
-    folder: "content/pages"
+    folder: "content"
     format: toml-frontmatter
     create: true
     slug: "{{slug}}"

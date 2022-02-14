@@ -1,6 +1,5 @@
 +++
 title = "Matrix"
-path = "/matrix/"
 +++
 
 Wir nutzen zur Echtzeitkommunikation hauptsächlich Matrix. Verbinde dich gerne zu unseren digitalen

@@ -1,6 +1,5 @@
 +++
 title = "Beitragsordnung"
-path = "/beitragsordnung/"
 +++
 
 Die Beitragsordnung wurde am 19.6.2012 von der Mitgliedersversammlung wie folgt

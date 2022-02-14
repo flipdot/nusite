@@ -1,6 +1,5 @@
 +++
 title = "Kontakt"
-path = "/kontakt/"
 
 # Custom template for custom CSS
 template = "pages/kontakt.html"

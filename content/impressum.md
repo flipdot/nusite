@@ -1,6 +1,5 @@
 +++
 title = "Impressum"
-path = "/impressum/"
 +++
 
 Angaben gemäß § 5 TMG und Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV

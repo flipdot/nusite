@@ -1,6 +1,5 @@
 +++
 title = "Mumble"
-path = "/mumble/"
 +++
 
 Mit Mumble kannst du mit Personen im flipdot online reden. Dazu brauchst du nur einen Mumble Client:

@@ -1,6 +1,5 @@
 +++
 title = "Satzung"
-path = "/satzung/"
 
 # Custom template for custom CSS
 template = "pages/satzung.html"
