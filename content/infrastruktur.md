@@ -1,6 +1,5 @@
 +++
 title = "Infrastruktur"
-path = "/infrastruktur/"
 +++
 
 | System                  | Admin         | Beteiligte                              |
