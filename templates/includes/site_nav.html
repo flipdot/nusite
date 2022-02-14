@@ -1,7 +1,7 @@
 <ul class="site-nav" role="menu">
     {% for link in config.extra.site_nav %}
     <li role="menuitem">
-        <a href="{{ link.href }}"
+        <a href="{{ link.href | safe }}"
             {% if current_path %}
                 {%- if link.href == current_path %}class="active"{% endif -%}
             {% endif -%}

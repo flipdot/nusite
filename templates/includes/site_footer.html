@@ -2,7 +2,7 @@
     <ul class="footer-nav" role="menu">
         {% for link in config.extra.footer_nav %}
         <li role="menuitem">
-            <a href="{{ link.href }}">{{ link.title }}</a>
+            <a href="{{ link.href | safe }}">{{ link.title }}</a>
         </li>
         {% endfor %}
     </ul>
