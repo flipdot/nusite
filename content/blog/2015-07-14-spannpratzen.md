@@ -3,6 +3,7 @@ title = "Spannpratzen"
 date = 2015-07-14T17:49:03Z
 author = "flipdot member"
 path = "/blog/2015/07/14/spannpratzen"
+aliases = ["/blog/archives/312-Spannpratzen.html"]
 +++
 [![](/media/20150714_174334.serendipityThumb.jpg)](/media/20150714_174334.jpg)
 

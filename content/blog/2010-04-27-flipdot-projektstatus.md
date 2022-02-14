@@ -3,6 +3,7 @@ title = "flipdot Projektstatus"
 date = 2010-04-27T08:42:25Z
 author = "typ_o"
 path = "/blog/2010/04/27/flipdot-projektstatus"
+aliases = ["/blog/archives/83-flipdot-Projektstatus.html"]
 +++
 Zum 1. April hatten wir Räume am
 [Hauptbahnhof](https://flipdot.org/wiki/index.php?title=Raumsuche/G%C3%BCterabfertigung)

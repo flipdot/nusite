@@ -3,6 +3,7 @@ title = "Die Mühen der Ebene"
 date = 2009-11-09T20:25:44Z
 author = "typ_o"
 path = "/blog/2009/11/09/die-muhen-der-ebene"
+aliases = ["/blog/archives/50-Die-Muehen-der-Ebene.html"]
 +++
 Jetzt entsteht die Satzung für den Verein flipdot e.V. Verein? Muss das
 sein? Möchte man Spenden annehmen können, ist ein (gemeinnütziger)

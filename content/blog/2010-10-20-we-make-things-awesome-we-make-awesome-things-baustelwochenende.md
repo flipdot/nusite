@@ -3,6 +3,7 @@ title = "We make things awesome - we make awesome things. Baustelwochenende!"
 date = 2010-10-20T05:32:01Z
 author = "typ_o"
 path = "/blog/2010/10/20/we-make-things-awesome-we-make-awesome-things-baustelwochenende"
+aliases = ["/blog/archives/113-We-make-things-awesome-we-make-awesome-things.-Baustelwochenende!.html"]
 +++
 [![](/media/0230.serendipityThumb.jpg)](/media/0230.jpg)[![](/media/0255.serendipityThumb.jpg)](/media/0255.jpg)[![](/media/0020.serendipityThumb.jpg)](/media/0020.jpg)flipdot
 - der hackerspace kassel - veranstaltet ein **Baustelwochenende vom

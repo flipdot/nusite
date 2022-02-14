@@ -3,6 +3,7 @@ title = "flipdot lädt zum sicheren Besuch des Spaces ein – virtuell"
 date = 2020-03-15T21:45:27Z
 author = "typ_o"
 path = "/blog/2020/03/15/flipdot-ladt-zum-sicheren-besuch-des-spaces-ein-virtuell"
+aliases = ["/blog/archives/440-flipdot-laedt-zum-sicheren-Besuch-des-Spaces-ein-virtuell.html"]
 +++
 Besucher sind in allen unseren Räumen via Mumble herzlich willkommen -
 aufgrund der aktuellen SARS-CoV-2-Situation entfällt hierfür die

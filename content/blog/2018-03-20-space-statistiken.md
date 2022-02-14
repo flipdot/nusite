@@ -3,6 +3,7 @@ title = "Space Statistiken"
 date = 2018-03-20T08:53:51Z
 author = "typ_o"
 path = "/blog/2018/03/20/space-statistiken"
+aliases = ["/blog/archives/398-Space-Statistiken.html"]
 +++
 Nach und nach wächst die Anzahl der visualisierten Messwerte aus dem
 Space. Die öffentlichen Werte sind

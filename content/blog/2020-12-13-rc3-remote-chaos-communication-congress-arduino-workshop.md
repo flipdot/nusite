@@ -3,6 +3,7 @@ title = "RC3 - Remote Chaos Communication Congress - Arduino Workshop"
 date = 2020-12-13T11:00:29Z
 author = "Baustel"
 path = "/blog/2020/12/13/rc3-remote-chaos-communication-congress-arduino-workshop"
+aliases = ["/blog/archives/449-RC3-Remote-Chaos-Communication-Congress-Arduino-Workshop.html"]
 +++
 Der jährliche
 [Kongress](https://de.wikipedia.org/wiki/Chaos_Communication_Congress)

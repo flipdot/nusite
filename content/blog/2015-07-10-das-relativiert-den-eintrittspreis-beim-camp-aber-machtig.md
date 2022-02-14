@@ -3,6 +3,7 @@ title = "Das relativiert den Eintrittspreis beim Camp aber mächtig!"
 date = 2015-07-10T14:55:45Z
 author = "typ_o"
 path = "/blog/2015/07/10/das-relativiert-den-eintrittspreis-beim-camp-aber-machtig"
+aliases = ["/blog/archives/310-Das-relativiert-den-Eintrittspreis-beim-Camp-aber-maechtig!.html"]
 +++
 Dass es zu Easterheggs oder irgend welchen Camps zu den Eintrittskarten
 auch ein lustiges Badge in Form einer Platine gab, die lustig blinken

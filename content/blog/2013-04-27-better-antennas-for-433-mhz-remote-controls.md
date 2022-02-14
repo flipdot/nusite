@@ -3,6 +3,7 @@ title = "Better antennas for 433 MHz remote controls"
 date = 2013-04-27T09:07:00Z
 author = "typ_o"
 path = "/blog/2013/04/27/better-antennas-for-433-mhz-remote-controls"
+aliases = ["/blog/archives/200-Better-antennas-for-433-MHz-remote-controls.html"]
 +++
 You can control those cheapo hardware store remote controllable power
 plugs via your Raspberry Pi:

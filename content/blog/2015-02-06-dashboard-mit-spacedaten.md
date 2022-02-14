@@ -3,6 +3,7 @@ title = "Dashboard mit Spacedaten"
 date = 2015-02-06T22:21:15Z
 author = "wegenerd"
 path = "/blog/2015/02/06/dashboard-mit-spacedaten"
+aliases = ["/blog/archives/272-Dashboard-mit-Spacedaten.html"]
 +++
 Letztens ging unser neues Flipdot Dashboard an den Start. Auf unserem
 Fernseher im Space können mittels des kleinen Bildschirms an der Tür

@@ -3,6 +3,7 @@ title = "Hackerspace - WTF?"
 date = 2009-09-06T12:52:00Z
 author = "typ_o"
 path = "/blog/2009/09/06/hackerspace-wtf"
+aliases = ["/blog/archives/1-Hackerspace-WTF.html"]
 +++
 Ein Hackerspace (von Hacker und Space, engl. für Raum) ist ein realer,
 oft offener Raum, in dem sich technisch-kreative Menschen treffen und

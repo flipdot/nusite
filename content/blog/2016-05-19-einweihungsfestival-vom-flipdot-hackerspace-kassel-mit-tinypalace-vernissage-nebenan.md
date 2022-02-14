@@ -3,6 +3,7 @@ title = "Einweihungsfestival vom flipdot hackerspace kassel mit tinypalace Verni
 date = 2016-05-19T06:40:03Z
 author = "typ_o"
 path = "/blog/2016/05/19/einweihungsfestival-vom-flipdot-hackerspace-kassel-mit-tinypalace-vernissage-nebenan"
+aliases = ["/blog/archives/344-Einweihungsfestival-vom-flipdot-hackerspace-kassel-mit-tinypalace-Vernissage-nebenan!.html"]
 +++
 Ab heute 19:00 bis zum 22.5. am [neuen Standort im  
 Hauptbahnhof Kassel](/kontakt/)

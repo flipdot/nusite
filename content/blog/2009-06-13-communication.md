@@ -3,6 +3,7 @@ title = "Communication"
 date = 2009-06-13T07:10:00Z
 author = "typ_o"
 path = "/blog/2009/06/13/communication"
+aliases = ["/blog/archives/13-Communication.html"]
 +++
 [**Blog**]  
 </blog/> (du liest es gerade)

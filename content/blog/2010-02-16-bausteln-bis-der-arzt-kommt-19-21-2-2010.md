@@ -3,6 +3,7 @@ title = "Bausteln bis der Arzt kommt: 19.-21.2.2010"
 date = 2010-02-16T07:39:59Z
 author = "typ_o"
 path = "/blog/2010/02/16/bausteln-bis-der-arzt-kommt-19-21-2-2010"
+aliases = ["/blog/archives/72-Bausteln-bis-der-Arzt-kommt-19.-21.2.2010.html"]
 +++
 [![](/media/00012_quadratisch.serendipityThumb.jpg)](/media/00012_quadratisch.jpg)
 

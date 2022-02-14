@@ -3,6 +3,7 @@ title = "More LEDeko for our space"
 date = 2013-04-09T15:43:39Z
 author = "typ_o"
 path = "/blog/2013/04/09/more-ledeko-for-our-space"
+aliases = ["/blog/archives/191-More-LEDeko-for-our-space.html"]
 +++
 An old Roentgen film viewer combied with a handful of [WS2801 IC with
 three RGB LED

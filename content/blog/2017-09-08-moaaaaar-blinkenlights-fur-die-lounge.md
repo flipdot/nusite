@@ -3,6 +3,7 @@ title = "Moaaaaar Blinkenlights für die Lounge!"
 date = 2017-09-08T15:56:54Z
 author = "typ_o"
 path = "/blog/2017/09/08/moaaaaar-blinkenlights-fur-die-lounge"
+aliases = ["/blog/archives/388-Moaaaaar-Blinkenlights-fuer-die-Lounge!.html"]
 +++
 [Waben SciFi Blinkendings](https://vimeo.com/232397395) from [flipdot:
 hackerspace kassel](https://vimeo.com/flipdot) on

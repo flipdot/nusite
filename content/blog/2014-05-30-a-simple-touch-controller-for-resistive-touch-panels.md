@@ -3,6 +3,7 @@ title = "A simple Touch Controller for resistive touch panels"
 date = 2014-05-30T09:30:01Z
 author = "typ_o"
 path = "/blog/2014/05/30/a-simple-touch-controller-for-resistive-touch-panels"
+aliases = ["/blog/archives/244-A-simple-Touch-Controller-for-resistive-touch-panels.html"]
 +++
 *Deutsche Version [weiter unten](#german-version)*
 

@@ -3,6 +3,7 @@ title = "Hard disk flashlight"
 date = 2015-09-01T15:03:56Z
 author = "typ_o"
 path = "/blog/2015/09/01/hard-disk-flashlight"
+aliases = ["/blog/archives/322-Hard-disk-flashlight.html"]
 +++
 Connect two LEDs in parallel (one reversed) to the actuator coil (aka
 [voice coil](https://www.sensorwiki.org/doku.php/actuators/voice_coil))

@@ -3,6 +3,7 @@ title = "\"Dauerinstallation\""
 date = 2013-04-21T13:25:13Z
 author = "typ_o"
 path = "/blog/2013/04/21/dauerinstallation"
+aliases = ["/blog/archives/201-Dauerinstallation.html"]
 +++
 ![](/media/raspi-dauer.jpg)
 

@@ -3,6 +3,7 @@ title = "Smartphone USB-C Hack"
 date = 2020-10-23T21:08:01Z
 author = "Baustel"
 path = "/blog/2020/10/23/smartphone-usb-c-hack"
+aliases = ["/blog/archives/447-Smartphone-USB-C-Hack.html"]
 +++
 ![](/media/usb-c-01.serendipityThumb.jpg)
 

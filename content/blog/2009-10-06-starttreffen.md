@@ -3,6 +3,7 @@ title = "Starttreffen"
 date = 2009-10-06T04:20:11Z
 author = "typ_o"
 path = "/blog/2009/10/06/starttreffen"
+aliases = ["/blog/archives/30-Starttreffen.html"]
 +++
 Sammlung zu den Themen heute Abend
 <a href="#"><del>hier</del></a>, pse contribute.

@@ -3,6 +3,7 @@ title = "Drucker-Elektronik läuft"
 date = 2011-01-03T17:26:08Z
 author = "typ_o"
 path = "/blog/2011/01/03/drucker-elektronik-lauft"
+aliases = ["/blog/archives/123-Drucker-Elektronik-laeuft.html"]
 +++
 [![](/media/IMG_8698.serendipityThumb.jpg)](/media/IMG_8698.jpg)Motor-
 und Servotreiber sind fertig, kleinere Probleme mit der Stromversorgung

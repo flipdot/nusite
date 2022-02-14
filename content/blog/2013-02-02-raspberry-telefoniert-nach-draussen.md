@@ -3,6 +3,7 @@ title = "Raspberry telefoniert nach draussen"
 date = 2013-02-02T00:48:20Z
 author = "typ_o"
 path = "/blog/2013/02/02/raspberry-telefoniert-nach-draussen"
+aliases = ["/blog/archives/182-Raspberry-telefoniert-nach-draussen.html"]
 +++
 ![](/media/raspi-small.jpg)
 

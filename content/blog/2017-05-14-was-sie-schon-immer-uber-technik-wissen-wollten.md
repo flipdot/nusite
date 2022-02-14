@@ -3,6 +3,7 @@ title = "Was Sie schon immer über Technik wissen wollten..."
 date = 2017-05-14T11:10:04Z
 author = "typ_o"
 path = "/blog/2017/05/14/was-sie-schon-immer-uber-technik-wissen-wollten"
+aliases = ["/blog/archives/377-Was-Sie-schon-immer-ueber-Technik-wissen-wollten....html"]
 +++
 …aber nie zu fragen wagten!
 

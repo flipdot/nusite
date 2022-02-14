@@ -3,6 +3,7 @@ title = "Cryptoparty mit Amnesty-Jugend"
 date = 2018-12-02T13:40:50Z
 author = "Baustel"
 path = "/blog/2018/12/02/cryptoparty-mit-amnesty-jugend"
+aliases = ["/blog/archives/422-Cryptoparty-mit-Amnesty-Jugend.html"]
 +++
 ![](/media/Logo_Amnesty.serendipityThumb.png)
 

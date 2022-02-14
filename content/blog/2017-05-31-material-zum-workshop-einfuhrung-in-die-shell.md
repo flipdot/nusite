@@ -3,6 +3,7 @@ title = "Material zum Workshop: Einführung in die Shell"
 date = 2017-05-31T17:36:03Z
 author = "typ_o"
 path = "/blog/2017/05/31/material-zum-workshop-einfuhrung-in-die-shell"
+aliases = ["/blog/archives/381-Material-zum-Workshop-Einfuehrung-in-die-Shell.html"]
 +++
 Hier noch von unserer letzten Veranstaltung "Was Sie schon immer über
 Technik wissen wollten..." die Materialien zu "Workshop: Einführung in

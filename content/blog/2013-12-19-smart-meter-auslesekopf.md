@@ -3,6 +3,7 @@ title = "Smart Meter Auslesekopf"
 date = 2013-12-19T21:41:00Z
 author = "typ_o"
 path = "/blog/2013/12/19/smart-meter-auslesekopf"
+aliases = ["/blog/archives/227-Smart-Meter-Auslesekopf.html"]
 +++
 Kommt auch mit zum 30C3, der
 [SmartMeter](https://wiki.volkszaehler.org/basics)

@@ -3,6 +3,7 @@ title = "flipdot hackerpace kassel scheduled downtime for maintanance"
 date = 2011-06-23T17:43:30Z
 author = "typ_o"
 path = "/blog/2011/06/23/flipdot-hackerpace-kassel-scheduled-downtime-for-maintanance"
+aliases = ["/blog/archives/139-flipdot-hackerpace-kassel-scheduled-downtime-for-maintanance.html"]
 +++
 Today we took all our equipment and furniture out of our rooms which
 will be used by a tango school afterwards. We are looking forward to get

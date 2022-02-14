@@ -3,6 +3,7 @@ title = "Smartphone Stativ-Halterung / Tripod Mount aus Foldback Clip"
 date = 2016-02-01T09:11:42Z
 author = "typ_o"
 path = "/blog/2016/02/01/smartphone-stativ-halterung-tripod-mount-aus-foldback-clip"
+aliases = ["/blog/archives/330-Smartphone-Stativ-Halterung-Tripod-Mount-aus-Foldback-Clip.html"]
 +++
 ![](/media/cam-stativ.jpg)
 

@@ -3,6 +3,7 @@ title = "Status update"
 date = 2012-01-26T05:25:34Z
 author = "typ_o"
 path = "/blog/2012/01/26/status-update"
+aliases = ["/blog/archives/159-Status-update.html"]
 +++
 Aleksej und Burkhard (und Heribert?) haben die Decke gestrichen und
 Fußleisten angeschliffen. Beim Bodenbelag fiel die Entscheidung für

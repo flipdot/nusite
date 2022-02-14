@@ -3,6 +3,7 @@ title = "facebook hat kein \"Datenleck\" - das ist genau so vorgesehen"
 date = 2018-03-23T12:45:00Z
 author = "typ_o"
 path = "/blog/2018/03/23/facebook-hat-kein-datenleck-das-ist-genau-so-vorgesehen"
+aliases = ["/blog/archives/399-facebook-hat-kein-Datenleck-das-ist-genau-so-vorgesehen.html"]
 +++
 Facebook hatte im engeren Sinne kein Datenleck. Stattdessen sind die
 Daten auf einem von der Plattform regulär vorgesehenen Weg an das

@@ -3,6 +3,7 @@ title = "#WirVsVirusHack: Unser Beitrag"
 date = 2020-03-22T19:03:23Z
 author = "Baustel"
 path = "/blog/2020/03/22/wirvsvirushack-unser-beitrag"
+aliases = ["/blog/archives/441-WirVsVirusHack-Unser-Beitrag.html"]
 +++
 Wir haben beim Hackathon der Bundesregierung gegen Corona teilgenommen.
 Schaut doch gerne bei YouTube vorbei und lasst uns einen Daumen da:

@@ -3,6 +3,7 @@ title = "OSM-Stammtisch Nordhessen"
 date = 2019-05-08T01:15:52Z
 author = "Baustel"
 path = "/blog/2019/05/08/osm-stammtisch-nordhessen"
+aliases = ["/blog/archives/429-OSM-Stammtisch-Nordhessen.html"]
 +++
 ![](/media/osm-kassel.jpg)
 

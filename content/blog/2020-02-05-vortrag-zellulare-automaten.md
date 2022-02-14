@@ -3,6 +3,7 @@ title = "Vortrag - Zelluläre Automaten"
 date = 2020-02-05T01:06:01Z
 author = "Baustel"
 path = "/blog/2020/02/05/vortrag-zellulare-automaten"
+aliases = ["/blog/archives/435-Vortrag-Zellulaere-Automaten.html"]
 +++
 2020-02-11 um 20:00 Uhr im Space **Zelluläre Automaten**
 

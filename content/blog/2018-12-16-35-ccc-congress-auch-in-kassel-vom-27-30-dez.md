@@ -3,6 +3,7 @@ title = "35. CCC Congress auch in Kassel, vom 27. - 30. Dez."
 date = 2018-12-16T13:23:53Z
 author = "typ_o"
 path = "/blog/2018/12/16/35-ccc-congress-auch-in-kassel-vom-27-30-dez"
+aliases = ["/blog/archives/423-35.-CCC-Congress-auch-in-Kassel,-vom-27.-30.-Dez..html"]
 +++
 Auch dieses Jahr findet wieder der [Chaos Communication
 Congress](https://de.wikipedia.org/wiki/Chaos_Communication_Congress)

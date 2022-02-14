@@ -3,6 +3,7 @@ title = "Will it bend? [1]"
 date = 2017-05-31T09:38:36Z
 author = "typ_o"
 path = "/blog/2017/05/31/will-it-bend-1"
+aliases = ["/blog/archives/380-Will-it-bend-1.html"]
 +++
 Kleiner Test mit kunststoffbeschichtetem Multiplex-Plattenmaterial
 (Quelle: Ein netter Casebauer ([so

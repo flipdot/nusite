@@ -3,6 +3,7 @@ title = "Folien zum Vortrag: Arduino - aber was dran?"
 date = 2017-05-31T09:29:19Z
 author = "typ_o"
 path = "/blog/2017/05/31/folien-zum-vortrag-arduino-aber-was-dran"
+aliases = ["/blog/archives/379-Folien-zum-Vortrag-Arduino-aber-was-dran.html"]
 +++
 Hier noch von unserer letzten Veranstaltung "Was Sie schon immer über
 Technik wissen wollten..." die Vortragsfolien zu "Arduino - aber was

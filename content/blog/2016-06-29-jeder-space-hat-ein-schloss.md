@@ -3,6 +3,7 @@ title = "Jeder Space hat ein Schloss"
 date = 2016-06-29T20:47:07Z
 author = "typ_o"
 path = "/blog/2016/06/29/jeder-space-hat-ein-schloss"
+aliases = ["/blog/archives/351-Jeder-Space-hat-ein-Schloss.html"]
 +++
 Irgendein Schloss? Natürlich nicht! Elektronisch, sicher, Schlüssel
 leicht zurückzuziehen, Datensparsam usf.

@@ -3,6 +3,7 @@ title = "Controlling mpd/mpc as webradio via two php scripts on Raspberry Pi"
 date = 2013-02-28T13:07:35Z
 author = "typ_o"
 path = "/blog/2013/02/28/controlling-mpd-mpc-as-webradio-via-two-php-scripts-on-raspberry-pi"
+aliases = ["/blog/archives/183-Controlling-mpdmpc-as-webradio-via-two-php-scripts-on-Raspberry-Pi.html"]
 +++
 Simple approach to control your webradio stations on your Raspberry Pi.
 Details see [flipdot

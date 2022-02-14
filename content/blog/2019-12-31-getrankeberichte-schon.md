@@ -3,6 +3,7 @@ title = "Getränkeberichte, schön"
 date = 2019-12-31T17:44:00Z
 author = "typ_o"
 path = "/blog/2019/12/31/getrankeberichte-schon"
+aliases = ["/blog/archives/432-Getraenkeberichte,-schoen.html"]
 +++
 Unser Getränkescanner kann per E-Mail Berichte über die zueletzt
 gebuchten Getränke und Geldbeträge versenden. Seit einiger Zeit tut er

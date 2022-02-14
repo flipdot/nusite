@@ -3,6 +3,7 @@ title = "Amateurfunk in a nutshell"
 date = 2018-10-01T15:44:42Z
 author = "typ_o"
 path = "/blog/2018/10/01/amateurfunk-in-a-nutshell"
+aliases = ["/blog/archives/417-Amateurfunk-in-a-nutshell.html"]
 +++
 **2018-10-02 20:00 Uhr** kleiner Talk zum Thema **Amateurfunk**
 

@@ -3,6 +3,7 @@ title = "Automatische Pflanzenbewässerungsanlage… das kann ich nicht, oder do
 date = 2017-05-31T11:23:00Z
 author = "Baustel"
 path = "/blog/2017/05/31/automatische-pflanzenbewasserungsanlage-das-kann-ich-nicht-oder-doch"
+aliases = ["/blog/archives/378-Automatische-Pflanzenbewaesserungsanlage-das-kann-ich-nicht,-oder-doch!.html"]
 +++
 Ich stand vor dem Problem, dass ich gerne meinen eigenen Kleinstgarten
 auf dem Balkon habe, aber andererseits auch in näherer Zukunft für rund

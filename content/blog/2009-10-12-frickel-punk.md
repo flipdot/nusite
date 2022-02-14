@@ -3,6 +3,7 @@ title = "Frickel - Punk"
 date = 2009-10-12T01:00:00Z
 author = "typ_o"
 path = "/blog/2009/10/12/frickel-punk"
+aliases = ["/blog/archives/40-Frickel-Punk.html"]
 +++
 Diese durchgeknallten Bastler sind einfach nur Punker. Das war kein
 "bisschen Knallen", was die da gemacht haben. Wenn man einen

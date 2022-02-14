@@ -3,6 +3,7 @@ title = "Blackout-proof flavour of Raspbian"
 date = 2013-12-02T14:36:22Z
 author = "typ_o"
 path = "/blog/2013/12/02/blackout-proof-flavour-of-raspbian"
+aliases = ["/blog/archives/221-Blackout-proof-flavour-of-Raspbian.html"]
 +++
 Eine Debian Distribution für den Raspberry, welche die SD Card nur
 lesend benutzt und deswegen gegen Abschalten der Betriebsspannung ohne

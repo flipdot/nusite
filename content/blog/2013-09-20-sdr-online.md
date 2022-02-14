@@ -3,6 +3,7 @@ title = "SDR online"
 date = 2013-09-20T20:28:36Z
 author = "typ_o"
 path = "/blog/2013/09/20/sdr-online"
+aliases = ["/blog/archives/216-SDR-online.html"]
 +++
 [Software Defined
 Radio](https://de.wikipedia.org/wiki/Software_Defined_Radio) online

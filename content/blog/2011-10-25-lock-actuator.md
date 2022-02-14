@@ -3,6 +3,7 @@ title = "Lock actuator"
 date = 2011-10-25T18:36:02Z
 author = "typ_o"
 path = "/blog/2011/10/25/lock-actuator"
+aliases = ["/blog/archives/152-Lock-actuator.html"]
 +++
 [![Lock
 actuator](/media/IMAG1373.serendipityThumb.jpg)](/media/IMAG1373.jpg)  

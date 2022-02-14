@@ -3,6 +3,7 @@ title = "Heute 18:55 Treffen zur Raumbesichtigung"
 date = 2011-02-18T07:33:48Z
 author = "typ_o"
 path = "/blog/2011/02/18/heute-18-55-treffen-zur-raumbesichtigung"
+aliases = ["/blog/archives/131-Heute-1855-Treffen-zur-Raumbesichtigung.html"]
 +++
 Mit dem derzeitigen Mitgliederstand sind uns unsere aktuellen Räume zu
 teuer. Neben der Suche nach neuen Mitgliedern, die helfen können, die

@@ -3,6 +3,7 @@ title = "Aufzeichnungen Hackumenta 2019"
 date = 2020-02-28T12:38:27Z
 author = "Baustel"
 path = "/blog/2020/02/28/aufzeichnungen-hackumenta-2019"
+aliases = ["/blog/archives/436-Aufzeichnungen-Hackumenta-2019.html"]
 +++
 [![hackumenta - 10 years in space](/media/c1c629bd33a4aafe8494575e9224b733468eb08f.svg)](https://media.ccc.de/b/conferences/hackumenta)
 

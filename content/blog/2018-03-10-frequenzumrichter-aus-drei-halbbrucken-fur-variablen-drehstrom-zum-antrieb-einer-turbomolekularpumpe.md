@@ -3,5 +3,6 @@ title = "Frequenzumrichter aus drei Halbbrücken für variablen Drehstrom zum An
 date = 2018-03-10T13:33:21Z
 author = "typ_o"
 path = "/blog/2018/03/10/frequenzumrichter-aus-drei-halbbrucken-fur-variablen-drehstrom-zum-antrieb-einer-turbomolekularpumpe"
+aliases = ["/blog/archives/397-Frequenzumrichter-aus-drei-Halbbruecken-fuer-variablen-Drehstrom-zum-Antrieb-einer-Turbomolekularpumpe.html"]
 +++
 [![](/media/IMG_4954.serendipityThumb.JPG)](/media/IMG_4954.JPG)

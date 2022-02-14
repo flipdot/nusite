@@ -3,6 +3,7 @@ title = "Eine Stunde lockeres Gespräch über unser Projekt"
 date = 2010-08-30T11:13:51Z
 author = "typ_o"
 path = "/blog/2010/08/30/eine-stunde-lockeres-gesprach-uber-unser-projekt"
+aliases = ["/blog/archives/105-Eine-Stunde-lockeres-Gespraech-ueber-unser-Projekt.html"]
 +++
 Hier der Mitschnitt von der Sendung im Freien Radio am gestrigen
 Sonntag. Wir haben uns eine Stunde locker mit Salm und Reuter

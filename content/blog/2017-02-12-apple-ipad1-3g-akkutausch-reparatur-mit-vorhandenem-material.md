@@ -3,6 +3,7 @@ title = "Apple iPad1-3G Akkutausch (Reparatur mit vorhandenem Material)"
 date = 2017-02-12T07:09:48Z
 author = "typ_o"
 path = "/blog/2017/02/12/apple-ipad1-3g-akkutausch-reparatur-mit-vorhandenem-material"
+aliases = ["/blog/archives/367-Apple-iPad1-3G-Akkutausch-Reparatur-mit-vorhandenem-Material.html"]
 +++
 Problem war folgendes: Freund von mir hat sein iPad1-3G vor einigen
 Wochen beim Aufräumen wiedergefunden, Akku komplett leer (lag halt

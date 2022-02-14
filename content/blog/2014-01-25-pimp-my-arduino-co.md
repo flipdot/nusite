@@ -3,6 +3,7 @@ title = "Pimp my Arduino & Co."
 date = 2014-01-25T14:48:22Z
 author = "Aleks"
 path = "/blog/2014/01/25/pimp-my-arduino-co"
+aliases = ["/blog/archives/229-Pimp-my-Arduino-Co..html"]
 +++
 Ich musste in letzter Zeit ziemlich oft unterschiedliche Sensoren und
 Aktoren mit Arduino ansteuern. Die meisten von ihnen haben einen

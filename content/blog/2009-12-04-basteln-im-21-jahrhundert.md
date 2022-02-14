@@ -3,6 +3,7 @@ title = "Basteln im 21. Jahrhundert"
 date = 2009-12-04T17:59:38Z
 author = "typ_o"
 path = "/blog/2009/12/04/basteln-im-21-jahrhundert"
+aliases = ["/blog/archives/58-Basteln-im-21.-Jahrhundert.html"]
 +++
 [Die Demokratisierung des
 Produktionswissens](https://chaosradio.ccc.de/cre138.html), Podcast des

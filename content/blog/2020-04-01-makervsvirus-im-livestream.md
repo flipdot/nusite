@@ -3,6 +3,7 @@ title = "#makervsvirus im Livestream"
 date = 2020-04-01T16:29:42Z
 author = "Baustel"
 path = "/blog/2020/04/01/makervsvirus-im-livestream"
+aliases = ["/blog/archives/442-makervsvirus-im-Livestream.html"]
 +++
 Gesichtsmasken helfen Krankenhauspersonal dabei, sich vor Corona zu
 schützen.

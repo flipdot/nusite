@@ -3,6 +3,7 @@ title = "All Creatures Welcome"
 date = 2019-01-04T15:11:20Z
 author = "typ_o"
 path = "/blog/2019/01/04/all-creatures-welcome"
+aliases = ["/blog/archives/425-All-Creatures-Welcome.html"]
 +++
 [![](/media/acw_poster_ki_regenbogen_digital.serendipityThumb.jpg)](/media/acw_poster_ki_regenbogen_digital.jpg)
 

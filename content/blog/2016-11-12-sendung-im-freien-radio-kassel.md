@@ -3,6 +3,7 @@ title = "Sendung im Freien Radio Kassel"
 date = 2016-11-12T23:12:49Z
 author = "typ_o"
 path = "/blog/2016/11/12/sendung-im-freien-radio-kassel"
+aliases = ["/blog/archives/357-Sendung-im-Freien-Radio-Kassel.html"]
 +++
 Flipdot war heute im
 [FRK](https://www.freies-radio-kassel.de/startseite.html) zu Gast. Hier

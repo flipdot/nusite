@@ -3,6 +3,7 @@ title = "Schneidklemmverbinder, ick liebe dir! (GSM Türschloss)"
 date = 2013-01-11T16:21:07Z
 author = "typ_o"
 path = "/blog/2013/01/11/schneidklemmverbinder-ick-liebe-dir-gsm-turschloss"
+aliases = ["/blog/archives/177-Schneidklemmverbinder,-ick-liebe-dir!-GSM-Tuerschloss.html"]
 +++
 ![](/media/schneidklemm.jpg)
 

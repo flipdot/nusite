@@ -3,6 +3,7 @@ title = "Buffer Overflow"
 date = 2011-02-21T17:40:54Z
 author = "typ_o"
 path = "/blog/2011/02/21/buffer-overflow"
+aliases = ["/blog/archives/132-Buffer-Overflow.html"]
 +++
 Buffer Overflow gehören zu den häufigsten Sicherheitslücken in Software
 und zählen damit zum Hacker Basis Wissen.  

@@ -3,6 +3,7 @@ title = "New meters"
 date = 2012-03-11T13:12:14Z
 author = "typ_o"
 path = "/blog/2012/03/11/new-meters"
+aliases = ["/blog/archives/163-New-meters.html"]
 +++
 [![](/media/flu.jpg)](https://www.tequipment.net/FlukeDigital111Multimeter.html)
 

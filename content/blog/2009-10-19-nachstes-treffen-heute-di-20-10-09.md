@@ -3,6 +3,7 @@ title = "Nächstes Treffen: heute, Di., 20.10.09"
 date = 2009-10-19T16:43:09Z
 author = "typ_o"
 path = "/blog/2009/10/19/nachstes-treffen-heute-di-20-10-09"
+aliases = ["/blog/archives/42-Naechstes-Treffen-heute,-Di.,-20.10.09.html"]
 +++
 Dann treffen wir uns heute also im neuen Raum, in dem wir jeden Dienstag
 unterkommen können, bis wir selber versorgt sind: Im Kunsttempel Kassel.

@@ -3,6 +3,7 @@ title = "Illustration im Triebwerk 9"
 date = 2020-02-28T15:09:34Z
 author = "Baustel"
 path = "/blog/2020/02/28/illustration-im-triebwerk-9"
+aliases = ["/blog/archives/437-Illustration-im-Triebwerk-9.html"]
 +++
 
 Wir haben eine Anzeige im [Triebwerk

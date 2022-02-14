@@ -3,6 +3,7 @@ title = "Krümel löten"
 date = 2017-09-11T22:31:00Z
 author = "typ_o"
 path = "/blog/2017/09/11/krumel-loten"
+aliases = ["/blog/archives/391-Kruemel-loeten.html"]
 +++
 Letzten Sonntag haben wir zu sechst ein gutes dutzend MQTT Devices
 gelötet, die uns Sensordaten von Türen, Fenstern und Klorollenvorrat

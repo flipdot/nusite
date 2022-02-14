@@ -3,6 +3,7 @@ title = "Beteiligung von flipdot auf dem Galeriefest in Kassel"
 date = 2018-05-26T11:28:29Z
 author = "typ_o"
 path = "/blog/2018/05/26/beteiligung-von-flipdot-auf-dem-galeriefest-in-kassel"
+aliases = ["/blog/archives/407-Beteiligung-von-flipdot-auf-dem-Galeriefest-in-Kassel.html"]
 +++
 Mehrere flipdot Member haben an zwei Installationen auf dem [Galeriefest
 Kassel 2018](https://galerien-kassel.de/) gearbeitet.

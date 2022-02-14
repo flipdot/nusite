@@ -3,6 +3,7 @@ title = "flipdot trifft Medientheoretiker und macht Praxis"
 date = 2009-11-17T11:37:05Z
 author = "typ_o"
 path = "/blog/2009/11/17/flipdot-trifft-medientheoretiker-und-macht-praxis"
+aliases = ["/blog/archives/53-flipdot-trifft-Medientheoretiker-und-macht-Praxis.html"]
 +++
 Ein Vorgeschmack, was Hackerspace in Kassel sein kann: flipdot-Members
 zu Gast auf der

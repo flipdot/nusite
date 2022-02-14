@@ -3,6 +3,7 @@ title = "Schönes Geschenk zu Weihnachten!"
 date = 2013-01-01T10:59:50Z
 author = "typ_o"
 path = "/blog/2013/01/01/schones-geschenk-zu-weihnachten"
+aliases = ["/blog/archives/174-Schoenes-Geschenk-zu-Weihnachten!.html"]
 +++
 ![](/media/Weihnachtsfrau1.jpeg)  
 ![](/media/Weihnachtsfrau2.jpeg)  

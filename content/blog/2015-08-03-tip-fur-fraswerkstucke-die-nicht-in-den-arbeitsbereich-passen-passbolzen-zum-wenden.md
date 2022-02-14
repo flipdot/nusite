@@ -3,6 +3,7 @@ title = "Tip für Fräswerkstücke, die nicht in den Arbeitsbereich passen (Pass
 date = 2015-08-03T15:32:00Z
 author = "typ_o"
 path = "/blog/2015/08/03/tip-fur-fraswerkstucke-die-nicht-in-den-arbeitsbereich-passen-passbolzen-zum-wenden"
+aliases = ["/blog/archives/318-Tip-fuer-Fraeswerkstuecke,-die-nicht-in-den-Arbeitsbereich-passen-Passbolzen-zum-Wenden.html"]
 +++
 [![](/media/20150727_145638.serendipityThumb.jpg)](/media/20150727_145638.jpg)
 

@@ -3,6 +3,7 @@ title = "Jetzt gemeinsam!"
 date = 2015-09-05T10:24:03Z
 author = "typ_o"
 path = "/blog/2015/09/05/jetzt-gemeinsam"
+aliases = ["/blog/archives/323-Jetzt-gemeinsam!.html"]
 +++
 Mehrere Artikel in der taz von heute zum Thema Sharing, Open Source,
 Offene Wissensquellen

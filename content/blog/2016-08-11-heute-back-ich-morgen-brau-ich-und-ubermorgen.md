@@ -3,6 +3,7 @@ title = "Heute back' ich, morgen brau' ich, und übermorgen ..."
 date = 2016-08-11T16:33:36Z
 author = "typ_o"
 path = "/blog/2016/08/11/heute-back-ich-morgen-brau-ich-und-ubermorgen"
+aliases = ["/blog/archives/353-Heute-back-ich,-morgen-brau-ich,-und-uebermorgen-....html"]
 +++
 Pizzaworkshop war schon - jetzt gibt's eine Einführung in das Brauen von
 unserem Neu-Member and….

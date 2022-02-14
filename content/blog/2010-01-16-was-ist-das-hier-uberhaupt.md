@@ -3,6 +3,7 @@ title = "Was ist das hier überhaupt?"
 date = 2010-01-16T11:33:44Z
 author = "typ_o"
 path = "/blog/2010/01/16/was-ist-das-hier-uberhaupt"
+aliases = ["/blog/archives/62-Was-ist-das-hier-ueberhaupt.html"]
 +++
 [![](/media/vlcsnap-2010-01-16-08h44m06s122.serendipityThumb.jpg)](/media/vlcsnap-2010-01-16-08h44m06s122.jpg)
 

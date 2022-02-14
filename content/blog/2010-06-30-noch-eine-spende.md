@@ -3,6 +3,7 @@ title = "Noch eine Spende"
 date = 2010-06-30T13:07:21Z
 author = "typ_o"
 path = "/blog/2010/06/30/noch-eine-spende"
+aliases = ["/blog/archives/97-Noch-eine-Spende.html"]
 +++
 [Conrad Elektronik](https://www.conrad.de/ce/) hat ein Päckchen
 geschickt:

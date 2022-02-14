@@ -3,6 +3,7 @@ title = "MashBerry"
 date = 2014-05-24T16:42:58Z
 author = "typ_o"
 path = "/blog/2014/05/24/mashberry"
+aliases = ["/blog/archives/243-MashBerry.html"]
 +++
 fd member \[Sebastian\] hat seinen
 [MashBerry](https://sebastian-duell.de/mashberry/index.html) fertig -

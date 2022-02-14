@@ -3,6 +3,7 @@ title = "Strom! Wir brauchen Strom! Und Netz! Und Licht!"
 date = 2010-06-30T05:56:44Z
 author = "typ_o"
 path = "/blog/2010/06/30/strom-wir-brauchen-strom-und-netz-und-licht"
+aliases = ["/blog/archives/96-Strom!-Wir-brauchen-Strom!-Und-Netz!-Und-Licht!.html"]
 +++
 ![](/media/bergmann.jpg)  
 Spende von der Firma [CL Bergmann](https://www.cl-bergmann.de/) für

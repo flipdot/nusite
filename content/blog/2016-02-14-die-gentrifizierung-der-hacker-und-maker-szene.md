@@ -3,6 +3,7 @@ title = "Die Gentrifizierung der Hacker und Maker Szene"
 date = 2016-02-14T04:47:31Z
 author = "typ_o"
 path = "/blog/2016/02/14/die-gentrifizierung-der-hacker-und-maker-szene"
+aliases = ["/blog/archives/331-Die-Gentrifizierung-der-Hacker-und-Maker-Szene.html"]
 +++
 Der Hessische Rundfunk - eine der millionenschweren
 öffentlich-rechtlichen Landesrundfunkanstalten in Deutschland, macht

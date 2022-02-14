@@ -3,6 +3,7 @@ title = "Das war das Baustelwochenende im Februar"
 date = 2010-02-22T19:16:14Z
 author = "typ_o"
 path = "/blog/2010/02/22/das-war-das-baustelwochenende-im-februar"
+aliases = ["/blog/archives/73-Das-war-das-Baustelwochenende-im-Februar.html"]
 +++
 An zwei Tagen waren wir mit bis zu 18 Menschen im Kunsttempel zu Gast.
 Aus den geplanten Vorträgen wurde nichts - wir brauchten anscheinend

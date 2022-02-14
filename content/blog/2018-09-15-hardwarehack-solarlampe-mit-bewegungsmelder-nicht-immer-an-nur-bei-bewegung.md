@@ -3,6 +3,7 @@ title = "Hardwarehack - Solarlampe mit Bewegungsmelder (Nicht immer an, nur bei 
 date = 2018-09-15T21:47:42Z
 author = "Baustel"
 path = "/blog/2018/09/15/hardwarehack-solarlampe-mit-bewegungsmelder-nicht-immer-an-nur-bei-bewegung"
+aliases = ["/blog/archives/415-Hardwarehack-Solarlampe-mit-Bewegungsmelder-Nicht-immer-an,-nur-bei-Bewegung.html"]
 +++
 Dieser kleine und günstige Wand/Treppen Solarstrahler von Aldi, kann
 durch Durchtrennen einer Leiterbahn und Verbinden zweier Bauteile mit

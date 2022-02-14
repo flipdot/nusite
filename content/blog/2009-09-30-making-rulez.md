@@ -3,6 +3,7 @@ title = "Making rulez!"
 date = 2009-09-30T16:52:57Z
 author = "typ_o"
 path = "/blog/2009/09/30/making-rulez"
+aliases = ["/blog/archives/14-Making-rulez!.html"]
 +++
 Auf der SigInt hielt Philip Steffan von
 [Bausteln.de](https://bausteln.de/) einen flotten Vortrag unter dem

@@ -3,6 +3,7 @@ title = "Docker-Swarm Workshop heute ab 14:00 Uhr"
 date = 2015-07-12T10:05:12Z
 author = "member"
 path = "/blog/2015/07/12/docker-swarm-workshop-heute-ab-14-00-uhr"
+aliases = ["/blog/archives/311-Docker-Swarm-Workshop-heute-ab-1400-Uhr.html"]
 +++
 Im Anschluss an unseren ersten [Docker
 Workshop](https://flipdot.org/blog/archives/279-Heute-spontaner-Docker-Workshop.html)

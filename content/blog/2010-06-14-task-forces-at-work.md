@@ -3,6 +3,7 @@ title = "Task Forces at work"
 date = 2010-06-14T19:00:54Z
 author = "typ_o"
 path = "/blog/2010/06/14/task-forces-at-work"
+aliases = ["/blog/archives/92-Task-Forces-at-work.html"]
 +++
 Morgen um 19:00 [~~treffen~~](#) wir
 uns alle wieder wie immer im Space. Die einzelnen Task Forces für

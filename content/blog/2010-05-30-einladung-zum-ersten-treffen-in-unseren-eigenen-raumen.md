@@ -3,6 +3,7 @@ title = "Einladung zum ersten Treffen in unseren eigenen Räumen!"
 date = 2010-05-30T17:38:30Z
 author = "typ_o"
 path = "/blog/2010/05/30/einladung-zum-ersten-treffen-in-unseren-eigenen-raumen"
+aliases = ["/blog/archives/90-Einladung-zum-ersten-Treffen-in-unseren-eigenen-Raeumen!.html"]
 +++
 Am Dienstag, dem 1. Juni treffen wir uns in unseren eigenen Räumen in
 der

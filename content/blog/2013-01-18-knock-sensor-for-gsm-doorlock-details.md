@@ -3,6 +3,7 @@ title = "Knock-sensor for GSM doorlock, details"
 date = 2013-01-18T06:42:52Z
 author = "typ_o"
 path = "/blog/2013/01/18/knock-sensor-for-gsm-doorlock-details"
+aliases = ["/blog/archives/180-Knock-sensor-for-GSM-doorlock,-details.html"]
 +++
 ![](/media/amp_kl.jpg)
 

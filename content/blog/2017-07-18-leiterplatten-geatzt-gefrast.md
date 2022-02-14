@@ -3,6 +3,7 @@ title = "Leiterplatten geätzt & gefräst"
 date = 2017-07-18T01:44:01Z
 author = "typ_o"
 path = "/blog/2017/07/18/leiterplatten-geatzt-gefrast"
+aliases = ["/blog/archives/384-Leiterplatten-geaetzt-gefraest.html"]
 +++
 Film: Laserdruck auf transparentem Zeichenpapier von Brunnen, besprüht
 mit Tonerverdichter. Bungard Basismaterial belichtet in umgebautem

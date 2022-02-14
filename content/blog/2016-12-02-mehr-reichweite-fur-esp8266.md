@@ -3,6 +3,7 @@ title = "Mehr Reichweite für ESP8266"
 date = 2016-12-02T10:15:40Z
 author = "typ_o"
 path = "/blog/2016/12/02/mehr-reichweite-fur-esp8266"
+aliases = ["/blog/archives/360-Mehr-Reichweite-fuer-ESP8266.html"]
 +++
 Auf dem verwendeten ESP8266-12F sitzt eine
 [Inverted-F](https://www.antenna-theory.com/antennas/aperture/ifa.php)

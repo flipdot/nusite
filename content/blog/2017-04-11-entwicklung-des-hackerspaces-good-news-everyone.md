@@ -3,6 +3,7 @@ title = "Entwicklung des Hackerspaces - Good News Everyone!"
 date = 2017-04-11T07:44:17Z
 author = "typ_o"
 path = "/blog/2017/04/11/entwicklung-des-hackerspaces-good-news-everyone"
+aliases = ["/blog/archives/372-Entwicklung-des-Hackerspaces-Good-News-Everyone!.html"]
 +++
 [![](/media/Bildschirmfotovom2017-04-11083417.serendipityThumb.png)](/media/Bildschirmfotovom2017-04-11083417.png)
 

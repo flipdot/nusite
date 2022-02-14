@@ -3,6 +3,7 @@ title = "Was braucht man als erstes?"
 date = 2010-01-18T19:54:00Z
 author = "typ_o"
 path = "/blog/2010/01/18/was-braucht-man-als-erstes"
+aliases = ["/blog/archives/64-Was-braucht-man-als-erstes.html"]
 +++
 Schwarze T - Shirts und Kaputzenshirts!
 

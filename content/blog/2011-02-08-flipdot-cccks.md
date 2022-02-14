@@ -3,6 +3,7 @@ title = "flipdot @ CCCKS"
 date = 2011-02-08T07:06:00Z
 author = "typ_o"
 path = "/blog/2011/02/08/flipdot-cccks"
+aliases = ["/blog/archives/141-flipdot-CCCKS.html"]
 +++
 Wir treffen uns heute um 19:00 [in den Räumen des CCC
 Kassel](https://maps.google.de/maps?q=kassel,+wilhelmsh%C3%B6her+allee+73&hl=de&ie=UTF8&ll=51.311308,9.47338&spn=0.006284,0.011061&sll=51.312273,9.473723&sspn=0.006284,0.011061&t=h&z=17):

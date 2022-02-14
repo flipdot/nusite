@@ -3,6 +3,7 @@ title = "Neue Räume - fast schon wieder zu klein!"
 date = 2016-05-18T10:15:27Z
 author = "typ_o"
 path = "/blog/2016/05/18/neue-raume-fast-schon-wieder-zu-klein"
+aliases = ["/blog/archives/343-Neue-Raeume-fast-schon-wieder-zu-klein!.html"]
 +++
 Praktisch jeden Tag sind jetzt Mitglieder in den neuen Räumen zugange.
 Praktisch jeden Tag werden neue Ideen bebrütet und neue Installationen

@@ -3,6 +3,7 @@ title = "flipdot in Wien"
 date = 2010-10-31T05:54:05Z
 author = "typ_o"
 path = "/blog/2010/10/31/flipdot-in-wien"
+aliases = ["/blog/archives/117-flipdot-in-Wien.html"]
 +++
 [![](/media/biennale_06.serendipityThumb.jpg)](/media/biennale_06.jpg)Relativ
 kurz geplant hat sich eine kleine Delegation vom hackerspace kassel nach

@@ -3,6 +3,7 @@ title = "Uralt - Baustler"
 date = 2009-10-02T18:15:00Z
 author = "typ_o"
 path = "/blog/2009/10/02/uralt-baustler"
+aliases = ["/blog/archives/15-Uralt-Baustler.html"]
 +++
 Die Herkünfte von [Hackerspaces](https://wiki.hackerspaces.org/) und
 [Baustlern](https://bausteln.de/) liegen nicht nur im Do It Yourself und

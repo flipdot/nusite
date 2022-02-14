@@ -3,6 +3,7 @@ title = "Sicherheit für Fahrradfahrer in Kassel"
 date = 2018-11-21T02:02:59Z
 author = "Baustel"
 path = "/blog/2018/11/21/sicherheit-fur-fahrradfahrer-in-kassel"
+aliases = ["/blog/archives/421-Sicherheit-fuer-Fahrradfahrer-in-Kassel.html"]
 +++
 Treffen am Sonntag, den 25.11.2018, 16 Uhr.
 

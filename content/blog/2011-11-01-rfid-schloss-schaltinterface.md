@@ -3,6 +3,7 @@ title = "RFID-Schloss - Schaltinterface"
 date = 2011-11-01T16:24:02Z
 author = "typ_o"
 path = "/blog/2011/11/01/rfid-schloss-schaltinterface"
+aliases = ["/blog/archives/153-RFID-Schloss-Schaltinterface.html"]
 +++
 Gerade letzte Lackschicht aufgetragen, morgen Optokoppler, MOSFETs und
 Relais drauflöten.  

@@ -3,6 +3,7 @@ title = "OpenWRT Workshop to come"
 date = 2010-04-20T08:46:27Z
 author = "typ_o"
 path = "/blog/2010/04/20/openwrt-workshop-to-come"
+aliases = ["/blog/archives/82-OpenWRT-Workshop-to-come.html"]
 +++
 Ich werd heute mal einige Router mitbringen auf denen OpenWRT läuft.  
 An denen können wir ein bisschen rumspielen. Wir können mal schauen

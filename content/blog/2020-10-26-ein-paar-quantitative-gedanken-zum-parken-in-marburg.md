@@ -3,6 +3,7 @@ title = "Ein paar (quantitative) Gedanken zum Parken in Marburg"
 date = 2020-10-26T12:56:02Z
 author = "Baustel"
 path = "/blog/2020/10/26/ein-paar-quantitative-gedanken-zum-parken-in-marburg"
+aliases = ["/blog/archives/448-Ein-paar-quantitative-Gedanken-zum-Parken-in-Marburg.html"]
 +++
 Was macht euer Auto in seiner Freizeit? Es parkt herum.
 

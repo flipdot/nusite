@@ -3,6 +3,7 @@ title = "Wir bauen uns eine Brille"
 date = 2018-08-21T22:22:55Z
 author = "Baustel"
 path = "/blog/2018/08/21/wir-bauen-uns-eine-brille"
+aliases = ["/blog/archives/413-Wir-bauen-uns-eine-Brille.html"]
 +++
 [![](/media/IMG_20180821_230946.serendipityThumb.jpg)](/media/IMG_20180821_230946.jpg)
 

@@ -3,6 +3,7 @@ title = "Status von flipdot - hackerspace kassel"
 date = 2009-09-28T12:37:00Z
 author = "typ_o"
 path = "/blog/2009/09/28/status-von-flipdot-hackerspace-kassel"
+aliases = ["/blog/archives/9-Status-von-flipdot-hackerspace-kassel.html"]
 +++
 flipdot ist [frühes
 beta](https://de.wikipedia.org/wiki/Entwicklungsstadium_%28Software%29).

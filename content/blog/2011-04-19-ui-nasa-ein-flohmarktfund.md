@@ -3,6 +3,7 @@ title = "Ui! NASA! Ein Flohmarktfund"
 date = 2011-04-19T18:10:22Z
 author = "typ_o"
 path = "/blog/2011/04/19/ui-nasa-ein-flohmarktfund"
+aliases = ["/blog/archives/136-Ui!-NASA!-Ein-Flohmarktfund.html"]
 +++
 ![](/media/demo.jpg)  
 Samstags auf meinem Lieblingsflohmarkt einen Seefunkempfänger ergattert

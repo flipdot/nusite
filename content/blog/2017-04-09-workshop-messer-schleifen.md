@@ -3,6 +3,7 @@ title = "Workshop Messer schleifen"
 date = 2017-04-09T10:49:31Z
 author = "typ_o"
 path = "/blog/2017/04/09/workshop-messer-schleifen"
+aliases = ["/blog/archives/371-Workshop-Messer-schleifen.html"]
 +++
 [![](/media/messerschleifen.serendipityThumb.jpg)](/media/messerschleifen.jpg)
 

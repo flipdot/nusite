@@ -3,6 +3,7 @@ title = "Sonntag: Zum digitalen Datum in den Hackerspace"
 date = 2010-10-07T21:01:47Z
 author = "typ_o"
 path = "/blog/2010/10/07/sonntag-zum-digitalen-datum-in-den-hackerspace"
+aliases = ["/blog/archives/107-Sonntag-Zum-digitalen-Datum-in-den-Hackerspace.html"]
 +++
 Wer sich bisher noch nicht zum <a href="#"><del>öffentlichen Treffen</del></a> vom
 [flipdot - hackerspace kassel](https://web.archive.org/web/20120105031721/https://flipdot.org/wiki/index.php?title=Hallo!)

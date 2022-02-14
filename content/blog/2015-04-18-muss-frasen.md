@@ -3,6 +3,7 @@ title = "Muss.Fräsen!"
 date = 2015-04-18T11:52:35Z
 author = "typ_o"
 path = "/blog/2015/04/18/muss-frasen"
+aliases = ["/blog/archives/275-Muss.Fraesen!.html"]
 +++
 [![](/media/20150417_132626.serendipityThumb.jpg)](/media/20150417_132626.jpg)
 

@@ -3,6 +3,7 @@ title = "Zeitgesteuerte Rufumleitung für Fritzbox"
 date = 2017-06-05T20:33:36Z
 author = "typ_o"
 path = "/blog/2017/06/05/zeitgesteuerte-rufumleitung-fur-fritzbox"
+aliases = ["/blog/archives/382-Zeitgesteuerte-Rufumleitung-fuer-Fritzbox.html"]
 +++
 Rufumleitung muss manuell gesetzt und gelöscht werden. Kleine schnelle
 und schmutzige Lösung: Raspberry Pi + USB nach RS232 Wandler + altes

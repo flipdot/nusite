@@ -3,6 +3,7 @@ title = "flipdot bei Kulturnapf"
 date = 2020-03-03T22:01:22Z
 author = "Baustel"
 path = "/blog/2020/03/03/flipdot-bei-kulturnapf"
+aliases = ["/blog/archives/438-flipdot-bei-Kulturnapf.html"]
 +++
 Wir haben beim Kulturnapf Kassel ein Interview über uns gegeben. Erfahrt
 mehr über uns im Podcast-Format!

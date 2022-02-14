@@ -3,6 +3,7 @@ title = "Heute spontaner Docker-Workshop"
 date = 2015-06-06T16:51:54Z
 author = "member"
 path = "/blog/2015/06/06/heute-spontaner-docker-workshop"
+aliases = ["/blog/archives/279-Heute-spontaner-Docker-Workshop.html"]
 +++
 ![](/media/dockerworkshop.png)
 

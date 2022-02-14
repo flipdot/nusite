@@ -3,6 +3,7 @@ title = ".. hat ein Platinenfräsgerät."
 date = 2017-07-29T06:34:39Z
 author = "Baustel"
 path = "/blog/2017/07/29/hat-ein-platinenfrasgerat"
+aliases = ["/blog/archives/386-..-hat-ein-Platinenfraesgeraet..html"]
 +++
 [![](/media/cool.serendipityThumb.jpg)](/media/cool.jpg)
 

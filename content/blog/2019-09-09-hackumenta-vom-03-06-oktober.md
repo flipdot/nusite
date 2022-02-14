@@ -3,6 +3,7 @@ title = "Hackumenta vom 03. - 06. Oktober"
 date = 2019-09-09T21:41:41Z
 author = "Baustel"
 path = "/blog/2019/09/09/hackumenta-vom-03-06-oktober"
+aliases = ["/blog/archives/430-Hackumenta-vom-03.-06.-Oktober.html"]
 +++
 ![Hackumenta
 Flyer](/media/hackumenta_2019_flyer_small.png)

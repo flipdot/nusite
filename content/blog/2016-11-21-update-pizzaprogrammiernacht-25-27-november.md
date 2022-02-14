@@ -3,6 +3,7 @@ title = "Update - Pizzaprogrammiernacht 25. - 27. November"
 date = 2016-11-21T14:49:28Z
 author = "typ_o"
 path = "/blog/2016/11/21/update-pizzaprogrammiernacht-25-27-november"
+aliases = ["/blog/archives/358-Update-Pizzaprogrammiernacht-25.-27.-November.html"]
 +++
 Hallo $Besucher der PPN!
 

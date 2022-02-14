@@ -3,6 +3,7 @@ title = "Round-Robin-Swap wg. Jahresendzeitfest"
 date = 2014-12-19T04:25:13Z
 author = "typ_o"
 path = "/blog/2014/12/19/round-robin-swap-wg-jahresendzeitfest"
+aliases = ["/blog/archives/267-Round-Robin-Swap-wg.-Jahresendzeitfest.html"]
 +++
 ![](/media/reuse.gif)
 

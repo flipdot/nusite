@@ -3,6 +3,7 @@ title = "Coronavirus: Space bleibt für alle geschlossen"
 date = 2020-03-14T14:23:31Z
 author = "Baustel"
 path = "/blog/2020/03/14/coronavirus-space-bleibt-fur-alle-geschlossen"
+aliases = ["/blog/archives/439-Coronavirus-Space-bleibt-fuer-alle-geschlossen.html"]
 +++
 Aufgrund der aktuellen Situation ist der flipdot bis zum **30. April
 *nicht*** wie üblich am Dienstag für Besucher geöffnet. Wir empfehlen

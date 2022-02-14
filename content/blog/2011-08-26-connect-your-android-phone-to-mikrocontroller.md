@@ -3,6 +3,7 @@ title = "Connect your Android phone to mikrocontroller"
 date = 2011-08-26T17:38:35Z
 author = "typ_o"
 path = "/blog/2011/08/26/connect-your-android-phone-to-mikrocontroller"
+aliases = ["/blog/archives/144-Connect-your-Android-phone-to-mikrocontroller.html"]
 +++
 Just purchased QkCtrl Serial BT ([Android
 market](https://market.android.com/details?id=com.kvndev.android.two),

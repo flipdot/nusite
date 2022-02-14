@@ -3,6 +3,7 @@ title = "Chaosdorf - Lichtsteuerung mit RasPi"
 date = 2013-04-25T09:32:00Z
 author = "typ_o"
 path = "/blog/2013/04/25/chaosdorf-lichtsteuerung-mit-raspi"
+aliases = ["/blog/archives/204-Chaosdorf-Lichtsteuerung-mit-RasPi.html"]
 +++
 Noch ein RasPi mit Lichtsteuerungs-Aufgaben - Beim CCC Düsseldorf!
 [1](https://chaosdorf.de/2013/03/lichtsteuerung/),

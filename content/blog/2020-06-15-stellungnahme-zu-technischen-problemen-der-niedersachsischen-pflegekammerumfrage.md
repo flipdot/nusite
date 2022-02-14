@@ -3,6 +3,7 @@ title = "Stellungnahme zu technischen Problemen der Niedersächsischen Pflegekam
 date = 2020-06-15T19:56:24Z
 author = "Baustel"
 path = "/blog/2020/06/15/stellungnahme-zu-technischen-problemen-der-niedersachsischen-pflegekammerumfrage"
+aliases = ["/blog/archives/443-Stellungnahme-zu-technischen-Problemen-der-Niedersaechsischen-Pflegekammerumfrage.html"]
 +++
 Vor kurzem erhielten wir Hinweise auf mögliche technische Mängel in der
 *Pflegekammerumfrage Niedersachsen*. Ca. 80.000 Pflegekräfte sollten in
