@@ -1,5 +1,5 @@
 <ul class="site-nav" role="menu">
-    {% for link in config.extra.site_nav %}
+    {% for link in navigation.header_left %}
     <li role="menuitem">
         <a href="{{ link.href | safe }}"
             {% if current_path %}

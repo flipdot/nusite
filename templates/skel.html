@@ -47,6 +47,8 @@
 
 <body {% block body_attrs %}{% endblock body_attrs %}>
 
+{% set navigation = load_data(path="navigation.toml") %}
+
 {% include "includes/site_header.html" -%}
 
 <div class="site-content">

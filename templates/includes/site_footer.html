@@ -1,6 +1,6 @@
 <footer>
     <ul class="footer-nav" role="menu">
-        {% for link in config.extra.footer_nav %}
+        {% for link in navigation.footer %}
         <li role="menuitem">
             <a href="{{ link.href | safe }}">{{ link.title }}</a>
         </li>
