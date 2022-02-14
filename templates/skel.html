@@ -6,6 +6,10 @@
 
 <title>{% block html_title %}{% endblock html_title %}</title>
 
+{% if current_url %}
+<link rel="canonical" href="{{ current_url | safe }}">
+{% endif %}
+
 {% if config.mode == "Serve" -%}
     {%- set livereload = "ws://127.0.0.1:1024/livereload ws://localhost:1024/livereload" -%}
 {%- else -%}
