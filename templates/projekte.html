@@ -1,6 +1,5 @@
 {% extends "section.html" %}
-{% block content %}
-<h1 class="page-title">{{ section.title }}</h1>
+{% block section_content %}
 <p>Hier findest du eine Liste von Spaceprojekten.</p>
 <p>Bereits im Wiki dokumentierte Projekte:</p>
 <ul>
@@ -9,4 +8,4 @@
 {% endfor %}
 </ul>
 {{ section.content | safe }}
-{% endblock content %}
+{% endblock section_content %}

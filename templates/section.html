@@ -2,5 +2,7 @@
 {% block html_title %}{{ section.title }} | flipdot.org{% endblock html_title %}
 {% block content %}
 <h1 class="page-title">{{ section.title }}</h1>
+{% block section_content %}
 {{ section.content | safe }}
+{% endblock section_content %}
 {% endblock content %}

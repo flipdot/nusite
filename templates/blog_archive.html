@@ -1,11 +1,8 @@
-{% extends "skel.html" %}
-{% block html_title %}Blog-Archiv | flipdot.org{% endblock html_title %}
+{% extends "section.html" %}
 {% block head_extra %}
 <link rel="stylesheet" href="/css/blog-archive.css">
 {% endblock head_extra %}
-{% block content %}
-<div>
-<h1 class="page-title">Blog-Archiv</h1>
+{% block section_content %}
 {% set section = get_section(path="blog/_index.md") %}
 
 {% for year, posts in section.pages | group_by(attribute="year") %}
@@ -22,5 +19,4 @@
 {% endfor %}
 </ul>
 {% endfor %}
-</div>
-{% endblock content %}
+{% endblock section_content %}
