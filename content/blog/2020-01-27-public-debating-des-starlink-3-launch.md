@@ -17,6 +17,8 @@ Abends freuen wir uns trotzdem!
 > — SpaceX (@SpaceX)
 > [January 27, 2020](https://twitter.com/SpaceX/status/1221799899848531969?ref_src=twsrc%5Etfw)
 
+<!-- more -->
+
 Nachdem der Start zum zweiten Mal verschoben werden musste, wird am
 Dienstag den 28. Januar um 15:49 Uhr unserer Zeit die nächste Batch
 Starlink Satelliten ab Cape Caneveral gestartet werden. Da sich das

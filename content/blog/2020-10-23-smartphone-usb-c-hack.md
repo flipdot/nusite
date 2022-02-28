@@ -12,6 +12,8 @@ mal wieder eine Reparatur her. Aber warum nicht gleich ein Upgrade? Also
 ran an den Dremel, den Lötkolben geschwungen und in schlappen fünf
 Stunden das Smartphone auf USB-C upgraden! Nachhaltigkeit pur :)
 
+<!-- more -->
+
 ![](/media/usb-c-03.serendipityThumb.jpg)
 ![](/media/usb-c-04.serendipityThumb.jpg)
 ![](/media/usb-c-05.serendipityThumb.jpg)

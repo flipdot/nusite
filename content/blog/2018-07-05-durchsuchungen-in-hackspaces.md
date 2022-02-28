@@ -13,6 +13,8 @@ offen gegen Positionen der AfD stellte, nutzte die E-Mail-Services eines
 alternativen Mail-Providers [RiseUp](https://riseup.net/), für den die
 Zwiebelfreunde aktiv geworben und spenden gesammelt haben.
 
+<!-- more -->
+
 Möglich machte [diese
 Durchsuchung](https://netzpolitik.org/2018/zwiebelfreunde-durchsuchungen-wenn-zeugen-wie-straftaeter-behandelt-werden/)
 offenbar das [Polizeiaufgabengesetz in

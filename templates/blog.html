@@ -4,7 +4,12 @@
 {%- for page in paginator.pages %}
 <article>
     {% include "includes/post_header.html" %}
-    {{ page.content | safe }}
+    {% if page.summary %}
+        {{ page.summary | safe }}
+        <p><a href="{{ page.permalink | safe }}#continue-reading">Weiterlesen…</a></p>
+    {% else %}
+        {{ page.content | safe }}
+    {% endif %}
 </article>
 {% endfor %}
 

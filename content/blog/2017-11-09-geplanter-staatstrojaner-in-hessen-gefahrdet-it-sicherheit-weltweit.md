@@ -21,6 +21,8 @@ Online-Durchsuchung. Mit der Informationsseite
 hessischen Chaos Computer Clubs über die Funktionsweise und Gefahren von
 Staatstrojanern informieren.
 
+<!-- more -->
+
 „Eine solche Regelung gefährdet die Sicherheit Millionen vernetzter
 Geräte weltweit. Der Einsatz von Staatstrojaner setzt verwundbare
 Software in Smartphones oder Laptops voraus“, erklärt Markus Drenger vom

@@ -16,6 +16,8 @@ Mikrocontrollern des
 
 [![](/media/arduino-rc3-2.serendipityThumb.JPG)](/media/arduino-rc3-2.JPG)
 
+<!-- more -->
+
 - Keine Elektronik- oder Programmierkenntnisse nötig
 - Du brauchst einen Rechner mit USB Schnittstelle
 - Workshop-Material wird leihweise gegen 100 € Pfand bereit gestellt

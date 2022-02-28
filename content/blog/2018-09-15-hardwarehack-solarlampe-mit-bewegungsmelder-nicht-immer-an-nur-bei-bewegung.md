@@ -16,6 +16,8 @@ Ansonsten würde er Nachts immer gedimmt leuchten bis der Akku leer ist
 oder die Sonne am anderen Tag genug scheint um die Entladung wieder
 auszugleichen.
 
+<!-- more -->
+
 Dazu muß (siehe nachfolgendes Bild),
 
 [![](/media/10460d4f87f3b6e370fbb8b5ee6399a33acdc377_1_690x200.serendipityThumb.jpg)](/media/10460d4f87f3b6e370fbb8b5ee6399a33acdc377_1_690x200.jpg)

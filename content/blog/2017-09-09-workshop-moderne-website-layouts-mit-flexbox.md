@@ -10,6 +10,8 @@ Offener Workshop am 2017-09-16 um 17:00 im
 Leute gedacht, die schon ein gewisses Grundverständnis von HTML + CSS
 haben. Laptop mitbringen ist empfohlen, aber nicht notwendig.
 
+<!-- more -->
+
 Übersicht zum Talk:
 
 - Recap: Layouts mit float und position: absolute

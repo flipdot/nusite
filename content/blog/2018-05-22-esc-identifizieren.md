@@ -14,8 +14,11 @@ Geschenk, wurde irgendwo ausgebaut usw. usf. In solchen Fällen muss man
 dann etwas Aufwand investieren, um etwas mehr Informationen
 herauszufinden. In diesem Artikel geht es um einen ESC (Electronic Speed
 Controller), bzw. etwas, was 8 Leitungen hat, in Schrumpfschlauch
-eingeschweißt ist und mit einem „20A“ Aufkleber. Hintergrund des Ganzen
-ist, dass mir empfohlen wurde, die [SimonK
+eingeschweißt ist und mit einem „20A“ Aufkleber.
+
+<!-- more -->
+
+Hintergrund des Ganzen ist, dass mir empfohlen wurde, die [SimonK
 Firmware](https://github.com/sim-/tgy) auf die ESCs zu flashen. In dem
 eingeschweißten Zustand, kommt man aber noch nicht mal an die
 Programmierschnittstelle dran. Also muss der Schrumpfschlauch ab.
