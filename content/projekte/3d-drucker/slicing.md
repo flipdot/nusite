@@ -19,7 +19,7 @@ kann. Du kannst die bereits dafür angelegt
 [.curaprofile-Datei](attachment:flipdot.curaprofile) oder das
 neue curaprofile <!-- <attachment:flipdot2019-10-02.curaprofile> --> verwenden,
 die die richtigen Einstellungen für den Space-Drucker hat. Zusätzlich sind noch
-die Maschineneinstellungen des Druckers zu ergenzen. Das geht unter
+die Maschineneinstellungen des Druckers zu ergänzen. Das geht unter
 Settings-\>Printer-\>Manage Printers-\>Printers-\>Machine Settings
 
 Unser Filament hat einen Durchmesser von 1,75mm und die Düse hat einen

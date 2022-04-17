@@ -21,7 +21,7 @@ zum fertigen Druckteil.
 - Filament in einer Länge von ca 50 cm über dem Druckkopf abschneiden
   und das Ende des Filaments durch das Befestigungsloch in der Rolle
   schieben und die Rolle wieder in den Eimer legen.
-- Wenn man das Filament aus dem Drukkopf enfernen will heizt man den
+- Wenn man das Filament aus dem Druckkopf enfernen will, heizt man den
   Kopf auf, schiebt das Filament erst ein kleines Stück nach unten in
   den Druckkopf hinein und zieht es dann schnell heraus.
 - Wenn man versucht das Filament nach dem Aufheizen direkt heraus zu ziehen,
@@ -56,15 +56,15 @@ Der Erste Schritt ist die Erstellung eines 3D-Modells
     3D-Modellen)
   - ...
 
-Bei funktionalen Teilen sind die Tolleranzen entscheidend. Bei kleinen
-Abmessungen ist mit einre Tolleranz von 0,1mm (PrusaSlicer) bus 0,2mm
+Bei funktionalen Teilen sind die Toleranzen entscheidend. Bei kleinen
+Abmessungen ist mit einer Toleranz von 0,1mm (PrusaSlicer) bis 0,2mm
 (Cura) pro Oberfläche zu rechnen. Bei großen Teilen können die
-Tolleranzen entsprechend größer ausfallen. Es lohnt sich vor allem bei
-Modellen, die man von einer Tauschplatvorm heruntergeladen hat, die
-Tolleranzen zu prüfen. Für den nächsten Schritt wird eine
+Toleranzen entsprechend größer ausfallen. Es lohnt sich vor allem bei
+Modellen, die man von einer Tauschplatform heruntergeladen hat, die
+Toleranzen zu prüfen. Für den nächsten Schritt wird eine
 [Stereolithographie-Datei
 (.stl)](https://en.wikipedia.org/wiki/STL_(file_format))
-benötigt. Dieses Dateiformat ist am gebräuchlichsten. Alternativ kan
+benötigt. Dieses Dateiformat ist am gebräuchlichsten. Alternativ kann
 auch [Wavefront OBJ
 (.obj)](https://de.wikipedia.org/wiki/Wavefront_OBJ)
 verwendet werden.
@@ -72,10 +72,10 @@ verwendet werden.
 ## Slicing
 
 Beim Slicing wird eine .stl Datei in eine .gcode Datei umgewandelt.
-Dabei wird ein 3-Dimensionales Objekt in Anweisungen für den 3D-Drucker
-umgerechnet. Dabei Berücksichtigt der Slicer die Mechanischen
+Dabei wird ein 3-dimensionales Objekt in Anweisungen für den 3D-Drucker
+umgerechnet. Dabei berücksichtigt der Slicer die mechanischen
 Eigenschaften des Druckers und die Materialeigenschaften des Filaments.
-Unser Drucker hat folgende eigenschaften: Bauraum: 220mm x 220mm x 230mm
+Unser Drucker hat folgende Eigenschaften: Bauraum: 220mm x 220mm x 230mm
 (Länge, Breite, Höhe)
 
 - Beheizbares Druckbett mit einer maximalen Temperatur von 75°C (Abschaltung bei 79°C)
@@ -106,7 +106,7 @@ Das Lesegerät für SD-Karten liegt neben dem Drucker.
 - G-Code Datei auswählen
 - SD-Karte erkennen  
   SD-Karte>Ordner>Druckteil.gcode Der Slicer ist so eingestellt, das als erstes
-  das Druckbett vermessen wird. Danach würd die Düse entlüftet indem links vorne
+  das Druckbett vermessen wird. Danach würd die Düse entlüftet, indem links vorne
   etwas Filament extrudiert wird. Danach streift der Drucker den Faden ab und
   beginnt einen Rand um das Druckteil zu drucken. Während der Rand gedruckt wird
   solltest du den Drucker genau beobachten. Wenn der Rand gut gedruckt wird ist
@@ -127,20 +127,20 @@ Das Lesegerät für SD-Karten liegt neben dem Drucker.
 - Wenn man das Filament aus dem Drukkopf enfernen will heizt man den
   Kopf auf, schiebt das Filament erst ein kleines Stück nach unten in
   den Druckkopf hinein und zieht es dann schnell heraus.
-- Wenn man versucht  das Filament nach dem Aufheizen direkt heraus zu ziehen, verklebt es und man muss den Drukkopf auseinander bauen um es zu entfernen.
+- Wenn man versucht  das Filament nach dem Aufheizen direkt heraus zu ziehen, verklebt es und man muss den Druckkopf auseinander bauen um es zu entfernen.
 - Das Filament in den Eimern kann benutzt werden. Neben dem Drucker
   steht die Filamentspendendose.
 
 ## Filament
 
 - PLA  
-  PLA ist der gebräuchlichsten Kunststoffe für 3D Druck. PLA ist etwas steifer als PETG und hat eine ähnliche Festigkeit. Es lässt sich mit Alleskleber und mit Sekundenkleber kleben.
+  PLA ist der gebräuchlichste Kunststoff für 3D Druck. PLA ist etwas steifer als PETG und hat eine ähnliche Festigkeit. Es lässt sich mit Alleskleber und mit Sekundenkleber kleben.
 - PETG  
-  PETG lässt sich ähnlich leit drucken wie PLA, ist aber etwas Temperaturbeständiger als PLA und etwas elastischer. Es lässt sich mit Acetonhaltigem Alleskleber und Mit Sekundenkleber kleben. Bei der Verwendung von Sekundenkleber muss das Material mit Aceton vorbehandelt werden.
+  PETG lässt sich ähnlich leicht drucken wie PLA, ist aber etwas temperaturbeständiger als PLA und etwas elastischer. Es lässt sich mit acetonhaltigem Alleskleber und mit Sekundenkleber kleben. Bei der Verwendung von Sekundenkleber muss das Material mit Aceton vorbehandelt werden.
 
 Klebstoffe
 
 - Alleskleber  
-  Mit Alleskleber lässt sich PLA und PETG kleben. Hierbei weden Festigkeiten von 5 bis 7N/mm² erreicht. Bei der Verklebung von PETG ist alleskleber mit Aceton zu bevorzugen. Die Trockenzeit beträgt bei Holz ca. einen Tag und bei PETG auf PETG eine Woche.`
+  Mit Alleskleber lässt sich PLA und PETG kleben. Hierbei weden Festigkeiten von 5 bis 7N/mm² erreicht. Bei der Verklebung von PETG ist Alleskleber mit Aceton zu bevorzugen. Die Trockenzeit beträgt bei Holz ca. einen Tag und bei PETG auf PETG eine Woche.
 - Sekundenkleber
 - ungesunder Sekundenkleber

@@ -3,7 +3,7 @@ title = "3D-Drucker: Autobedleveling"
 +++
 
 Bei 3D-Druckern ist es wichtig, dass die Druckdüse bei der ersten
-Schicht den Richtigen Abstand zum Druckbett hat. Man kann das Druckbett
+Schicht den richtigen Abstand zum Druckbett hat. Man kann das Druckbett
 manuell justieren, aber genauer geht es mit einem Sensor.
 
 Vor dem Druck tastet der 3D Drucker das Druckbett an 9 Puntken ab und
@@ -27,9 +27,9 @@ Druckbett hat kann der Abstand im Menü eingestellt werden.
 - Merke dir wie viele Rasten du gedreht hast und stelle den neuen Wert
   an dem Display des 3D-Druckers ein: Einstellungen>Bewegung>Z Versatz
 
-Werte zwischen -1.00 und - 1.90 Sind Normal. Anpassungen im Bereich von
+Werte zwischen -1.00 und - 1.90 Sind normal. Anpassungen im Bereich von
 ca. 0,02 bis 0,08mm sind üblich. Eine Raste der Schrittmotoren
-entspricht 0,04mm. Dabei wird der Abstand kleiner wenn die Zahl
+entspricht 0,04mm. Dabei wird der Abstand kleiner, wenn die Zahl
 negativer wird.
 
 Wenn du eine gute Einstellung gefunden hast, speichere die Einstellungen
