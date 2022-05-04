@@ -26,10 +26,6 @@ h1.frontpage-section-header {
     border-bottom-width: 0;
     font-size: 1.4rem;
 
-    .left & {
-        margin-bottom: -1rem;
-    }
-
     a:hover {
         text-decoration: underline;
         text-decoration-color: var(--text-grey);
@@ -60,6 +56,10 @@ h1.frontpage-section-header {
 }
 
 @media screen and (min-width: 768px) {
+    .left h1.frontpage-section-header {
+        margin-bottom: -1rem;
+    }
+
     .basic-info {
         margin-top: 1rem;
     }
