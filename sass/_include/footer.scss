@@ -11,6 +11,12 @@ footer {
         max-width: var(--max-content-width-wide);
     }
 
+    @supports (grid-template-rows: masonry) {
+        body.masonry-wide & {
+            max-width: var(--max-content-width-wide);
+        }
+    }
+
     display: flex;
     list-style: none;
     font-size: 90%;

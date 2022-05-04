@@ -1,0 +1,9 @@
+.impressions {
+    display: grid;
+    gap: 1rem;
+
+    @supports (grid-template-rows: masonry) {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: masonry;
+    }
+}

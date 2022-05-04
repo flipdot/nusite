@@ -1,0 +1,13 @@
+{% extends "page.html" %}
+{% block head_extra %}
+<link rel="stylesheet" href="/css/eindrücke.css">
+{% endblock head_extra %}
+{% block body_attrs %}class="masonry-wide"{% endblock body_attrs %}
+{% block page_content %}
+{% set data = load_data(path="eindrücke.toml") %}
+<div class="impressions">
+    {% for img in data.impressions | slice(end=16) %}
+    <img src="/media/eindrücke/{{ img }}">
+    {% endfor %}
+</div>
+{% endblock page_content %}
