@@ -3,12 +3,12 @@ image: alpine:latest
 before_script:
   - apk add --update-cache --repository http://dl-cdn.alpinelinux.org/alpine/edge/community/ zola
 
-check:
-  stage: test
-  script:
-    - zola check
-  only:
-    - merge_request
+#check:
+#  stage: test
+#  script:
+#    - zola check
+#  only:
+#    - merge_request
 
 pages:
   stage: deploy
