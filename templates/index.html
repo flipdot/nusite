@@ -1,3 +1,49 @@
 {% extends "skel.html" %}
-{% block html_title %}flipdot.org{% endblock html_title %}
-{% block content %}{{ section.content | safe }}{% endblock content %}
+{% block html_title %}{{ section.title }}{% endblock html_title %}
+{% block head_extra %}
+<link rel="stylesheet" href="/css/frontpage.css">
+{% endblock head_extra %}
+{% block body_attrs %}class="wide"{% endblock body_attrs %}
+{% block content %}
+<table class="frontpage-header">
+    <tr>
+        <td><i class="fas fa-fw fa-laptop-code"></i></td>
+        <td>{{ section.extra.tagline }}</td>
+    </tr>
+    <tr>
+        <td><i class="fas fa-fw fa-map-marker-alt"></i></td>
+        <td>{{ section.extra.location | markdown(inline=true) | safe }}</td>
+    </tr>
+</table>
+<div>{{ section.content | safe }}</div>
+<div class="frontpage-split">
+    <div class="blog">
+        <h1 class="frontpage-section-header"><a href="/blog/">Blog</a></h1>
+        {% set blog = get_section(path="blog/_index.md") %}
+        {%- for page in blog.pages | slice(end=10) %}
+        <article>
+            {% include "includes/post_header.html" %}
+            {% if page.summary %}
+                {{ page.summary | safe }}
+                <p><a href="{{ page.permalink | safe }}#continue-reading">Weiterlesen…</a></p>
+            {% else %}
+                {{ page.content | safe }}
+            {% endif %}
+        </article>
+        {% endfor %}
+        <a class="more" href="/blog/page/2/">Ältere Einträge…</a>
+    </div>
+    <div class="impressions">
+        <h1 class="frontpage-section-header"><a href="/eindrücke/">Space-Eindrücke</a></h1>
+
+        {% set data = load_data(path="eindrücke.toml") %}
+        {% for img in data.impressions | slice(end=12) %}
+        <img src="/media/eindrücke/{{ img }}">
+        {% endfor %}
+
+        {% if data.impressions | length > 12 %}
+        <a href="/eindrücke/#more">Mehr davon!</a>
+        {% endif %}
+    </div>
+</div>
+{% endblock content %}

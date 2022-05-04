@@ -16,6 +16,15 @@ media_folder: "static/media" # Media files will be stored in the repo under imag
 public_folder: "/media"
 
 collections:
+  # The frontpage
+  - name: "frontpage"
+    label: "Startseite"
+    files:
+      - name: "content"
+        label: "Inhalt"
+        file: "content/_index.md"
+        fields:
+          - { label: "Inhalt", name: "body", widget: "markdown" }
   # Our blog posts
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blogpost" # Used in the UI
