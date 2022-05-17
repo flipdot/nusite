@@ -7,7 +7,9 @@
 {% set data = load_data(path="eindrücke.toml") %}
 <div class="impressions">
     {% for img in data.impressions | slice(end=16) %}
-    <img src="/media/eindrücke/{{ img }}">
+    <a href="/media/eindrücke/{{ img }}>
+        <img src="/media/eindrücke/{{ img }}">
+    </a>
     {% endfor %}
 </div>
 {% endblock page_content %}
