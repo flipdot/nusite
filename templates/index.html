@@ -38,7 +38,20 @@
 
         {% set data = load_data(path="eindrücke.toml") %}
         {% for img in data.impressions | slice(end=12) %}
-        <img src="/media/eindrücke/{{ img }}">
+        {% set img_path = "../static/media/eindrücke/" ~ img %}
+        {% set small_img = resize_image(path=img_path, width=384, op="fit_width") %}
+        {% set large_img = resize_image(path=img_path, width=768, op="fit_width") %}
+        <a href="/media/eindrücke/{{ img }}">
+            <img
+                src="{{ small_img.static_path | trim_start_matches(pat="static") | safe }}"
+                srcset="
+                    {{ small_img.static_path | trim_start_matches(pat="static") | safe }} 384w,
+                    {{ large_img.static_path | trim_start_matches(pat="static") | safe }} 768w,
+                    /media/eindrücke/{{ img }} {{ small_img.orig_width }}w
+                "
+                sizes="(min-width: 1024px) 384px, calc(100vw - 2rem)"
+            >
+        </a>
         {% endfor %}
 
         {% if data.impressions | length > 12 %}
