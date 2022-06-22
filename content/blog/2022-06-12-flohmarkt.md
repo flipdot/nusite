@@ -16,5 +16,5 @@ komischen Stecker? Hier bist du richtig!
 
 Technik Flohmarkt Kassel, 2. Juli 2022 ab
 <time datetime="2022-07-02T10:00:00">10:00 Uhr</time>  
-[Franz Ulrich Straße 18, 34117 Kassel](/kontakt/#Anfahrt).
+[Franz-Ulrich-Straße 18, 34117 Kassel](/kontakt/#Anfahrt).
 Keine Standgebühr, Eintritt kostenlos.
