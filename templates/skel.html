@@ -10,7 +10,7 @@
 <link rel="canonical" href="{{ current_url | safe }}">
 {% endif %}
 
-{% if config.mode == "Serve" -%}
+{% if config.mode == "serve" -%}
     {%- set livereload = "ws://127.0.0.1:1024/livereload ws://localhost:1024/livereload" -%}
 {%- else -%}
     {%- set livereload = "" -%}
