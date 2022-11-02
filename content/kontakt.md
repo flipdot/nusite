@@ -6,13 +6,15 @@ template = "pages/kontakt.html"
 +++
 
 Komm am besten an einem Dienstag ab 19 Uhr vorbei. Das ist unser *offener Tag*,
-an dem auch immer viele Member im Space sind. Wegen COVID-19 ist der Zugang
-aktuell nur mit einem Impf- oder Genesenen-Nachweis möglich (2G-Regelung).
-Stand: 2021-11-07
+an dem auch immer viele Member im Space sind. Wegen COVID-19 haben wir folgende
+Zugangs-Beschränkungen festgelegt (Stand 2022-11-02):
 
-Wir freuen uns über jeden neuen
-Besuch, also keine falsche Scheu. Wenn du den Raum betrittst, passiert
-normalerweise: nichts. Wundere dich also nicht, sondern
+* Du musst geimpft oder genesen sein
+* Du musst dich vor Ort testen, Schnelltests sind vorhanden
+* In den Innenräumen muss eine FFP2-Maske getragen werden
+
+Wir freuen uns über jeden neuen Besuch, also keine falsche Scheu. Wenn du den
+Raum betrittst, passiert normalerweise: nichts. Wundere dich also nicht, sondern
 [sprich jemanden an](https://store-xkcd-com.myshopify.com/products/just-shy)!
 
 Wenn du vorher mit uns Kontakt aufnehmen willst, melde dich einfach per Mail
