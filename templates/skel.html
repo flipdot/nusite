@@ -4,7 +4,10 @@
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<title>{% block html_title %}{% endblock html_title %}</title>
+<title>
+    {%- if config.mode == "serve" -%}&#x1F6E0;&#xFE0F; {% endif -%}
+    {%- block html_title %}{% endblock html_title -%}
+</title>
 
 {% if current_url %}
 <link rel="canonical" href="{{ current_url | safe }}">
