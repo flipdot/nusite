@@ -15,7 +15,7 @@ Zugangs-Beschränkungen festgelegt (Stand 2022-11-02):
 
 Wir freuen uns über jeden neuen Besuch, also keine falsche Scheu. Wenn du den
 Raum betrittst, passiert normalerweise: nichts. Wundere dich also nicht, sondern
-[sprich jemanden an](https://store-xkcd-com.myshopify.com/products/just-shy)!
+[sprich jemanden an](https://web.archive.org/web/20180207085018/https://store.xkcd.com/products/just-shy)!
 
 Wenn du vorher mit uns Kontakt aufnehmen willst, melde dich einfach per Mail
 oder in in unserem [Matrix-Chatraum][matrix].
