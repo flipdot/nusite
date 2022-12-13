@@ -8,6 +8,7 @@ header_left = [
 header_right = [
     { title = "RSS feed", href = "/rss.xml", icon_classes = "fas fa-rss" },
     { title = "Unser Chat-Raum", href = "https://matrix.to/#/#general:flipdot.org", icon_classes = "fas fa-hashtag" },
+    { title = "flipdot im Fediverse", href = "https://social.flipdot.org/@flipdot", icon_classes = "fab fa-mastodon" },
     { title = "flipdot bei Twitter", href = "https://twitter.com/flipdot_kassel", icon_classes = "fab fa-twitter" },
     { title = "flipdot bei GitHub", href = "https://github.com/flipdot", icon_classes = "fab fa-github" },
     { title = "flipdot bei GitLab", href = "https://gitlab.com/flipdot", icon_classes = "fab fa-gitlab" },
