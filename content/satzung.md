@@ -7,7 +7,7 @@ template = "pages/satzung.html"
 
 <div class="satzung">
 
-Beschlossen am 19.04.2020
+Beschlossen am 28.02.2021
 
 § 01 Name, Sitz, Rechtsfähigkeit, Geschäftsjahr
 
@@ -118,7 +118,11 @@ Die Mitgliederversammlung
    Personen sein. Ein Vorstandsmitglied wird von der Mitgliederversammlung
    als Kassenwart gewählt. Die Wahl der Vorstandsmitglieder erfolgt einzeln
    und in geheimer Abstimmung. Eine Wiederwahl ist möglich.
-2. Jeweils zwei Vorstandsmitglieder vertreten den Verein.
+2. Jeweils zwei Vorstandsmitglieder vertreten den Verein. Abweichend hiervon
+   * vertritt jedes Vorstandsmitglied den Verein bei Rechtsgeschäften bis zu
+     einem Wert von 500 €;
+   * bedarf der Vorstand für Rechtsgeschäfte, deren Wert 2000 € übersteigt,
+     eines Beschlusses der Mitgliederversammlung gemäß § 9 Abs. 4 und Abs. 5.
 3. Zu Sitzungen des Vorstandes ist eine Woche vorher in Textform einzuladen.
    Mit dem Einverständnis aller Mitglieder des Vorstandes
    kann diese Frist verkürzt werden oder ganz entfallen.
@@ -137,12 +141,6 @@ Die Mitgliederversammlung
    erforderlichen Beschlüsse.
 2. Dem Kassenwart obliegt die Führung von Aufzeichnungen über Ausgaben und
    Einnahmen des Vereins.
-3. Jedes Vorstandsmitglied ist ermächtigt, für den Verein im Außenverhältnis
-   Rechtsgeschäfte bis zu einem Wert von 500 € abzuschließen.
-   Der Vorstand ist ermächtigt, Rechtsgeschäfte bis zu einem Wert von 2000 €
-   abzuschließen.
-   Über diesen Wert hinaus ist ein Beschluss der Mitgliederversammlung gemäß
-   § 9 Abs. 4 und Abs. 5 erforderlich.
 
 § 12 Ausschluß eines Mitgliedes
 
