@@ -2,7 +2,7 @@
 title = "Beitragsordnung"
 +++
 
-Die Beitragsordnung wurde am 19.6.2012 von der Mitgliedersversammlung wie folgt
+Die Beitragsordnung wurde am 19.06.2012 von der Mitgliedersversammlung wie folgt
 beschlossen:
 
 § 01 Höhe der Beiträge
