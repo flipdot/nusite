@@ -6,12 +6,7 @@ template = "pages/kontakt.html"
 +++
 
 Komm am besten an einem Dienstag ab 19 Uhr vorbei. Das ist unser *offener Tag*,
-an dem auch immer viele Member im Space sind. Wegen COVID-19 haben wir folgende
-Zugangs-Beschränkungen festgelegt (Stand 2022-11-02):
-
-* Du musst geimpft oder genesen sein
-* Du musst dich vor Ort testen, Schnelltests sind vorhanden
-* In den Innenräumen muss eine FFP2-Maske getragen werden
+an dem auch immer viele Member im Space sind.
 
 Wir freuen uns über jeden neuen Besuch, also keine falsche Scheu. Wenn du den
 Raum betrittst, passiert normalerweise: nichts. Wundere dich also nicht, sondern
