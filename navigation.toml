@@ -1,7 +1,7 @@
 header_left = [
     { title = "Blog", href = "/blog/" },
     { title = "FAQ", href = "/faq/" },
-    { title = "Projekte", href = "/projekte/" },
+    { title = "Wiki", href = "https://wiki.flipdot.org/" },
     { title = "Kontakt", href = "/kontakt/" },
 ]
 
