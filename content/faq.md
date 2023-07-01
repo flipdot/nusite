@@ -113,8 +113,7 @@ bespielt werden.
 
 ## Wann hat der Hackspace offen?
 
-Unser Space ist jeden Dienstag ab 19:00 Uhr für Gäste geöffnet, aufgrund von COVID-19 aktuell aber
-nur mit Impf- oder Genesenen-Nachweis (2G-Regelung). Stand: 2021-11-07
+Unser Space ist jeden Dienstag ab 19:00 Uhr für Gäste geöffnet.
 
 Mitglieder haben 24/7 Zugang und nutzen diesen auch.
 
