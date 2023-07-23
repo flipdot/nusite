@@ -30,7 +30,7 @@ oder in in unserem [Matrix-Chatraum][matrix].
 
 ## Anfahrt
 
-![Anfahrt](/media/kontakt_map.png)
+[![Umgebungskarte mit ÖPNV-Haltestellen](/media/kontakt_map.png)](/media/kontakt_map.png)
 
 ```
 Franz-Ulrich-Straße 18
