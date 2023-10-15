@@ -12,5 +12,9 @@
     },
     "im.vector.riot.e2ee": {
         "default": true
+    },
+    "org.matrix.msc3575.proxy": {
+        "url": "https://matrix.flipdot.org/sliding-sync"
     }
+
 }
